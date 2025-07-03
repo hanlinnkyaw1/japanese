@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Japanese Grammar - Beginner Level</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+<header class="bg-white shadow-sm">
+  <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+    <div class="flex items-center space-x-2">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+      </svg>
+      <h1 class="text-xl font-bold text-green-700">
+        日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span>
+      </h1>
+    </div>
+
+    <!-- Desktop Nav -->
+    <nav class="hidden md:flex space-x-10">
+      <a href="../index.html" class="text-green-600 font-medium">Home</a>
+      <a href="#" class="text-gray-600 hover:text-green-600">Resources</a>
+      <a href="#" class="text-gray-600 hover:text-green-600">About</a>
+    </nav>
+
+    <!-- Mobile Toggle Button -->
+    <button id="menu-toggle" class="md:hidden">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24"
+        stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </div>
+
+<!-- Mobile -->
+  <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
+    <a href="#" class="text-green-600 font-medium">Home</a>
+    <a href="#" class="text-gray-700 hover:text-green-600">Resources</a>
+    <a href="#" class="text-gray-700 hover:text-green-600">About</a>
+  </nav>
+</header>
+
+  <main>
+    <section class="lessons-container" id="lessons-container">
+      <!-- Lessons inserted here -->
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
