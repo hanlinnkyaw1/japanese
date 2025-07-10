@@ -74,26 +74,6 @@ document.querySelectorAll('button').forEach(btn => {
     }
 });
 
-// Highlight navigation link on scroll (active section)
-window.addEventListener('scroll', () => {
-    const sections = document.querySelectorAll('main section[id]');
-    const navLinks = document.querySelectorAll('nav a[href^="#"]');
-    let current = '';
-    sections.forEach(section => {
-        const sectionTop = section.offsetTop - 80;
-        if (window.scrollY >= sectionTop) {
-            current = section.getAttribute('id');
-        }
-    });
-    navLinks.forEach(link => {
-        link.classList.remove('tab-active');
-        if (link.getAttribute('href') === `#${current}`) {
-            link.classList.add('tab-active');
-        }
-    });
-});
-
-
 // Animate grammar cards on scroll into view
 const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
