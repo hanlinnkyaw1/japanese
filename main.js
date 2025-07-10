@@ -13,6 +13,10 @@ document.getElementById('beginnerLevel').addEventListener("click", () => {
     window.location.href = "beginner/beginner.html";
 });
 
+document.getElementById('intermediateLevel').addEventListener("click", () => {
+    window.location.href = "intermediate/n3.html";
+});
+
 
 // Grammar level filter buttons
 document.querySelectorAll('.flex.flex-wrap button').forEach(btn => {
