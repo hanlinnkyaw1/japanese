@@ -1,0 +1,1157 @@
+[
+  {
+    "title": "Lesson 1",
+    "lessonNumber": "第１課",
+    "content": [
+      {
+        "grammar-title": "〜ようになる",
+        "connection": "Verb dictionary form / negative form + ようになる",
+        "grammar-explain": "1. Indicates a change in state.\n2. Used to express changes in habits or abilities.",
+        "grammar-examples": [
+          "日本語が話せるようになりました。",
+          "毎朝走るようになった。"
+        ]
+      },
+      {
+        "grammar-title": "〜ことになる",
+        "connection": "Verb dictionary form + ことになる",
+        "grammar-explain": "1. Expresses decisions or results.\n2. Not related to the speaker's intention.",
+        "grammar-examples": [
+          "来月から新しい仕事をすることになりました。",
+          "会議は中止になることになった。"
+        ]
+      },
+      {
+        "grammar-title": "〜ことにする",
+        "connection": "Verb dictionary form + ことにする",
+        "grammar-explain": "1. Expresses a decision made by the speaker.\n2. Shows intention or choice.",
+        "grammar-examples": [
+          "毎日勉強することにした。",
+          "今年は旅行に行かないことにします。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 2",
+    "lessonNumber": "第2課",
+    "content": [
+      {
+        "grammar-title": "〜ながら",
+        "connection": "Verb ます form + ながら",
+        "grammar-explain": "1. Indicates two actions happening at the same time.\n2. The main action comes after the ながら clause.",
+        "grammar-examples": [
+          "音楽を聞きながら勉強します。",
+          "テレビを見ながら食事をする。"
+        ]
+      },
+      {
+        "grammar-title": "〜てしまう",
+        "connection": "Verb て form + しまう",
+        "grammar-explain": "1. Expresses completion of an action or regret.\n2. Can indicate a feeling of disappointment or finality.",
+        "grammar-examples": [
+          "宿題を忘れてしまった。",
+          "もう全部食べてしまった。"
+        ]
+      },
+      {
+        "grammar-title": "〜ように言う",
+        "connection": "Verb dictionary form / negative form + ように言う",
+        "grammar-explain": "1. Conveys a request or command to someone else indirectly.\n2. It is not a direct order but a reported instruction.",
+        "grammar-examples": [
+          "先生は学生に遅れないように言いました。",
+          "母は子供に勉強するように言った。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 3",
+    "lessonNumber": "第3課",
+    "content": [
+      {
+        "grammar-title": "〜ようにする",
+        "connection": "Verb dictionary form / negative form + ようにする",
+        "grammar-explain": "1. Expresses an effort or habit to do something.\n2. Often used for lifestyle or behavior changes.",
+        "grammar-examples": [
+          "毎日運動するようにしています。",
+          "寝る前にスマホを見ないようにしています。"
+        ]
+      },
+      {
+        "grammar-title": "〜ようになっている",
+        "connection": "Verb dictionary form + ようになっている",
+        "grammar-explain": "1. Describes something that is designed or set up to work a certain way.",
+        "grammar-examples": [
+          "このドアは自動的に閉まるようになっています。",
+          "メールはすぐに届くようになっています。"
+        ]
+      },
+      {
+        "grammar-title": "〜みたいだ",
+        "connection": "Noun / Verb / い-adjective / な-adjective + みたいだ",
+        "grammar-explain": "1. Expresses similarity or guess.\n2. Can mean 'like', 'seems', or 'appears'.",
+        "grammar-examples": [
+          "彼は先生みたいです。",
+          "雨が降るみたいだね。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 4",
+    "lessonNumber": "第4課",
+    "content": [
+      {
+        "grammar-title": "〜らしい",
+        "connection": "Noun / Verb / い-adjective / な-adjective + らしい",
+        "grammar-explain": "1. Expresses hearsay or strong impression.\n2. Often used to describe typical characteristics.",
+        "grammar-examples": [
+          "彼は男らしい性格です。",
+          "明日は雨らしいよ。"
+        ]
+      },
+      {
+        "grammar-title": "〜つもり",
+        "connection": "Verb dictionary form / ない form + つもり",
+        "grammar-explain": "1. Expresses intention or plan.\n2. Can also express belief about one's action.",
+        "grammar-examples": [
+          "来年日本に行くつもりです。",
+          "早く起きたつもりだったが、遅刻した。"
+        ]
+      },
+      {
+        "grammar-title": "〜てくる",
+        "connection": "Verb て form + くる",
+        "grammar-explain": "1. Indicates movement toward the speaker.\n2. Can show a gradual change starting in the past until now.",
+        "grammar-examples": [
+          "ちょっとパンを買ってきます。",
+          "寒くなってきましたね。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 5",
+    "lessonNumber": "第5課",
+    "content": [
+      {
+        "grammar-title": "〜ていく",
+        "connection": "Verb て form + いく",
+        "grammar-explain": "1. Indicates movement away from the speaker.\n2. Can also show a change that will continue into the future.",
+        "grammar-examples": [
+          "これからも頑張っていきます。",
+          "暖かくなっていきます。"
+        ]
+      },
+      {
+        "grammar-title": "〜ようと思う",
+        "connection": "Verb volitional form + と思う",
+        "grammar-explain": "1. Expresses speaker’s decision or intention at the moment of speaking.",
+        "grammar-examples": [
+          "留学しようと思っています。",
+          "もっと日本語を勉強しようと思う。"
+        ]
+      },
+      {
+        "grammar-title": "〜うちに",
+        "connection": "Verb dictionary / ている / ない form + うちに",
+        "grammar-explain": "1. While a certain condition holds, do something.\n2. Before something changes, take action.",
+        "grammar-examples": [
+          "熱いうちに食べてください。",
+          "若いうちに色々経験したい。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 6",
+    "lessonNumber": "第6課",
+    "content": [
+      {
+        "grammar-title": "〜間に",
+        "connection": "Verb ている form / Noun + の + 間に",
+        "grammar-explain": "1. While something is happening, another thing happens.\n2. Focuses on a short, completed event within a longer period.",
+        "grammar-examples": [
+          "寝ている間に電話がありました。",
+          "旅行の間に財布をなくしました。"
+        ]
+      },
+      {
+        "grammar-title": "〜間",
+        "connection": "Verb ている form / Noun + の + 間",
+        "grammar-explain": "1. Two actions occur simultaneously over the same time span.\n2. Emphasizes continuous overlap.",
+        "grammar-examples": [
+          "父が帰ってくる間、テレビを見ていました。",
+          "試験の間、ずっと緊張していました。"
+        ]
+      },
+      {
+        "grammar-title": "〜たばかり",
+        "connection": "Verb た form + ばかり",
+        "grammar-explain": "1. Indicates something just happened recently.\n2. Suggests recency from the speaker’s perspective.",
+        "grammar-examples": [
+          "今帰ったばかりです。",
+          "日本に来たばかりなので、まだ慣れていません。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 7",
+    "lessonNumber": "第7課",
+    "content": [
+      {
+        "grammar-title": "〜ところだ",
+        "connection": "Verb dictionary / ている / た form + ところだ",
+        "grammar-explain": "1. Indicates the timing of an action (just before, during, or just after).",
+        "grammar-examples": [
+          "これから出かけるところです。",
+          "ちょうどご飯を食べているところだ。"
+        ]
+      },
+      {
+        "grammar-title": "〜ことがある",
+        "connection": "Verb dictionary form + ことがある",
+        "grammar-explain": "1. Describes an occasional event or experience.\n2. Used for things that happen sometimes.",
+        "grammar-examples": [
+          "たまに映画を見ることがあります。",
+          "電車が遅れることがある。"
+        ]
+      },
+      {
+        "grammar-title": "〜ことにしている",
+        "connection": "Verb dictionary form + ことにしている",
+        "grammar-explain": "1. Describes a personal rule or habit.\n2. Ongoing decision made by the speaker.",
+        "grammar-examples": [
+          "毎朝6時に起きることにしています。",
+          "甘いものは食べないことにしている。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 8",
+    "lessonNumber": "第8課",
+    "content": [
+      {
+        "grammar-title": "〜ても",
+        "connection": "Verb て form / い-adj + くて / な-adj・Noun + でも",
+        "grammar-explain": "1. Expresses concession: 'even if...'\n2. Used when the result is unaffected by the condition.",
+        "grammar-examples": [
+          "高くても買います。",
+          "雨でも行きます。"
+        ]
+      },
+      {
+        "grammar-title": "〜たら",
+        "connection": "Verb た form + ら",
+        "grammar-explain": "1. Conditional: 'if/when...'\n2. Used when one action follows another.",
+        "grammar-examples": [
+          "家に帰ったら、宿題をします。",
+          "暇だったら、遊びに来てください。"
+        ]
+      },
+      {
+        "grammar-title": "〜ば",
+        "connection": "Verb ば form / い-adj → ければ / な-adj・Noun + なら",
+        "grammar-explain": "1. Expresses condition or hypothetical situation.\n2. Translates as 'if'.",
+        "grammar-examples": [
+          "お金があれば、旅行に行きたい。",
+          "静かなら、勉強しやすいです。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 9",
+    "lessonNumber": "第9課",
+    "content": [
+      {
+        "grammar-title": "〜のに",
+        "connection": "Verb / い-adj / な-adj / Noun + のに",
+        "grammar-explain": "1. Expresses contradiction or unexpected result: 'even though...'.",
+        "grammar-examples": [
+          "勉強したのに、テストが難しかった。",
+          "雨なのに、出かけました。"
+        ]
+      },
+      {
+        "grammar-title": "〜おかげで",
+        "connection": "Verb / adj / Noun + の + おかげで",
+        "grammar-explain": "1. Indicates a positive result due to someone/something: 'thanks to...'.",
+        "grammar-examples": [
+          "先生のおかげで合格しました。",
+          "薬のおかげで元気になった。"
+        ]
+      },
+      {
+        "grammar-title": "〜せいで",
+        "connection": "Verb / adj / Noun + の + せいで",
+        "grammar-explain": "1. Indicates a negative result: 'because of...'.",
+        "grammar-examples": [
+          "雨のせいで試合が中止になった。",
+          "寝坊したせいで遅刻した。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 10",
+    "lessonNumber": "第10課",
+    "content": [
+      {
+        "grammar-title": "〜のように",
+        "connection": "Verb / Noun + のように",
+        "grammar-explain": "1. Used to give an example or show similarity: 'like...'.",
+        "grammar-examples": [
+          "彼のように話せたらいいな。",
+          "鳥のように自由に飛びたい。"
+        ]
+      },
+      {
+        "grammar-title": "〜ようだ",
+        "connection": "Verb / Noun / adj + ようだ",
+        "grammar-explain": "1. Expresses appearance, guess, or similarity.",
+        "grammar-examples": [
+          "外は寒いようです。",
+          "彼は学生のようだ。"
+        ]
+      },
+      {
+        "grammar-title": "〜ように見える",
+        "connection": "Verb / Noun / adj + ように見える",
+        "grammar-explain": "1. Means 'looks like...'.\n2. Used for visual impressions.",
+        "grammar-examples": [
+          "彼は疲れているように見える。",
+          "この料理はおいしそうに見える。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 11",
+    "lessonNumber": "第11課",
+    "content": [
+      {
+        "grammar-title": "〜られる（可能形）",
+        "connection": "Verb potential form",
+        "grammar-explain": "1. Expresses ability to do something.",
+        "grammar-examples": [
+          "日本語が話せます。",
+          "この本は簡単に読める。"
+        ]
+      },
+      {
+        "grammar-title": "〜られる（受け身形）",
+        "connection": "Verb passive form",
+        "grammar-explain": "1. Expresses passive voice: 'to be done by...'.",
+        "grammar-examples": [
+          "先生に褒められた。",
+          "犬に手をかまれた。"
+        ]
+      },
+      {
+        "grammar-title": "〜させる（使役形）",
+        "connection": "Verb causative form",
+        "grammar-explain": "1. Expresses causation: 'make/let someone do'.",
+        "grammar-examples": [
+          "母は子供に野菜を食べさせた。",
+          "先生は学生を立たせた。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 12",
+    "lessonNumber": "第12課",
+    "content": [
+      {
+        "grammar-title": "〜てもらう",
+        "connection": "Verb て form + もらう",
+        "grammar-explain": "1. To receive a favor from someone.",
+        "grammar-examples": [
+          "友達に手伝ってもらいました。",
+          "先生に教えてもらった。"
+        ]
+      },
+      {
+        "grammar-title": "〜てあげる",
+        "connection": "Verb て form + あげる",
+        "grammar-explain": "1. To do a favor for someone.",
+        "grammar-examples": [
+          "友達にプレゼントをあげた。",
+          "彼に写真を送ってあげました。"
+        ]
+      },
+      {
+        "grammar-title": "〜てくれる",
+        "connection": "Verb て form + くれる",
+        "grammar-explain": "1. Someone does something for me or my group.",
+        "grammar-examples": [
+          "母が弁当を作ってくれた。",
+          "先生が説明してくれました。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 13",
+    "lessonNumber": "第13課",
+    "content": [
+      {
+        "grammar-title": "〜たがる",
+        "connection": "Verb ます stem + たがる",
+        "grammar-explain": "1. Expresses another person’s desire.",
+        "grammar-examples": [
+          "弟はゲームをしたがっている。",
+          "彼女は新しい服を欲しがっている。"
+        ]
+      },
+      {
+        "grammar-title": "〜がる",
+        "connection": "い-adj (remove い) + がる / な-adj + がる",
+        "grammar-explain": "1. Describes how someone seems to feel (often used for others).",
+        "grammar-examples": [
+          "彼は寒がっている。",
+          "子供は怖がっていた。"
+        ]
+      },
+      {
+        "grammar-title": "〜てほしい",
+        "connection": "Verb て form + ほしい",
+        "grammar-explain": "1. Expresses a desire for someone to do something.",
+        "grammar-examples": [
+          "彼に来てほしいです。",
+          "もっと勉強してほしい。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 14",
+    "lessonNumber": "第14課",
+    "content": [
+      {
+        "grammar-title": "〜ことができる",
+        "connection": "Verb dictionary form + ことができる",
+        "grammar-explain": "1. Expresses the ability or possibility to do something.",
+        "grammar-examples": [
+          "私は車を運転することができます。",
+          "この本は誰でも読むことができる。"
+        ]
+      },
+      {
+        "grammar-title": "〜ことになっている",
+        "connection": "Verb dictionary form + ことになっている",
+        "grammar-explain": "1. Indicates a rule, schedule, or custom.\n2. Often used for things already decided.",
+        "grammar-examples": [
+          "毎週月曜日は休むことになっている。",
+          "10時に寝ることになっている。"
+        ]
+      },
+      {
+        "grammar-title": "〜ことにする",
+        "connection": "Verb dictionary form + ことにする",
+        "grammar-explain": "1. Indicates a personal decision made by the speaker.",
+        "grammar-examples": [
+          "明日からダイエットすることにした。",
+          "会社を辞めることにしました。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 15",
+    "lessonNumber": "第15課",
+    "content": [
+      {
+        "grammar-title": "〜ようとする",
+        "connection": "Verb volitional form + とする",
+        "grammar-explain": "1. Indicates trying or attempting to do something.",
+        "grammar-examples": [
+          "起きようとしたけど、眠かった。",
+          "電車に乗ろうとしたとき、ドアが閉まった。"
+        ]
+      },
+      {
+        "grammar-title": "〜うとしない",
+        "connection": "Verb volitional form + としない",
+        "grammar-explain": "1. Indicates someone is not willing to do something.",
+        "grammar-examples": [
+          "彼は謝ろうとしない。",
+          "話を聞こうとしなかった。"
+        ]
+      },
+      {
+        "grammar-title": "〜ところに／〜ところを",
+        "connection": "Verb dictionary / ている / た form + ところに／を",
+        "grammar-explain": "1. Describes the timing of an action happening.\n2. に = at the moment, を = while doing.",
+        "grammar-examples": [
+          "出かけようとしたところに電話が来た。",
+          "勉強しているところを邪魔された。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 16",
+    "lessonNumber": "第16課",
+    "content": [
+      {
+        "grammar-title": "〜わけではない",
+        "connection": "普通形 + わけではない",
+        "grammar-explain": "1. Denies an absolute statement.\n2. Used when something is not always true.",
+        "grammar-examples": [
+          "嫌いなわけではないが、食べたくない。",
+          "全部知っているわけではありません。"
+        ]
+      },
+      {
+        "grammar-title": "〜わけがない",
+        "connection": "普通形 + わけがない",
+        "grammar-explain": "1. Strongly denies possibility: 'there’s no way...'.",
+        "grammar-examples": [
+          "そんなこと、彼が知っているわけがない。",
+          "あんなに簡単な問題、間違えるわけがない。"
+        ]
+      },
+      {
+        "grammar-title": "〜わけにはいかない",
+        "connection": "Verb dictionary form + わけにはいかない",
+        "grammar-explain": "1. Indicates social/moral reason that prevents the speaker from doing something.",
+        "grammar-examples": [
+          "今日は大事な会議があるので、休むわけにはいかない。",
+          "そんなことは言うわけにはいかない。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 17",
+    "lessonNumber": "第17課",
+    "content": [
+      {
+        "grammar-title": "〜たとたん（に）",
+        "connection": "Verb た form + とたん（に）",
+        "grammar-explain": "1. Just as one action ends, another occurs suddenly.\n2. Often used with unexpected outcomes.",
+        "grammar-examples": [
+          "立ち上がったとたん、目まいがした。",
+          "窓を開けたとたん、猫が飛び出した。"
+        ]
+      },
+      {
+        "grammar-title": "〜かと思うと／〜かと思ったら",
+        "connection": "Verb た form + かと思うと / かと思ったら",
+        "grammar-explain": "1. Describes a sudden or surprising change.\n2. Often used for others’ actions.",
+        "grammar-examples": [
+          "赤ちゃんが泣いたかと思うと、すぐに寝た。",
+          "雨が降ったかと思ったら、すぐにやんだ。"
+        ]
+      },
+      {
+        "grammar-title": "〜か〜ないかのうちに",
+        "connection": "Verb dictionary / た form + か + Verb ない form + かのうちに",
+        "grammar-explain": "1. As soon as one thing happens, another starts.\n2. Emphasizes immediacy.",
+        "grammar-examples": [
+          "ベルが鳴るか鳴らないかのうちに、生徒が教室を出た。",
+          "終わるか終わらないかのうちに、次の問題が出た。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 18",
+    "lessonNumber": "第18課",
+    "content": [
+      {
+        "grammar-title": "〜最中に",
+        "connection": "Verb ている form / Noun + の + 最中に",
+        "grammar-explain": "1. Indicates something happens during the middle of another action.\n2. Often used when something interrupts.",
+        "grammar-examples": [
+          "食事の最中に電話が鳴った。",
+          "会議の最中に停電した。"
+        ]
+      },
+      {
+        "grammar-title": "〜うちに",
+        "connection": "Verb dictionary / ている / ない + うちに",
+        "grammar-explain": "1. While a condition holds, do something before it changes.",
+        "grammar-examples": [
+          "若いうちにいろいろ経験したい。",
+          "忘れないうちにメモしておこう。"
+        ]
+      },
+      {
+        "grammar-title": "〜たびに",
+        "connection": "Verb dictionary form / Noun + の + たびに",
+        "grammar-explain": "1. 'Every time' something happens.\n2. Expresses repeated events.",
+        "grammar-examples": [
+          "写真を見るたびに、旅行を思い出す。",
+          "その曲を聞くたびに泣いてしまう。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 19",
+    "lessonNumber": "第19課",
+    "content": [
+      {
+        "grammar-title": "〜ところだった",
+        "connection": "Verb dictionary / ない / ている / た form + ところだった",
+        "grammar-explain": "1. Indicates something nearly happened but didn’t.\n2. Often used with negative or accidental results.",
+        "grammar-examples": [
+          "遅刻するところだった。",
+          "忘れるところだった。"
+        ]
+      },
+      {
+        "grammar-title": "〜てはじめて",
+        "connection": "Verb て form + はじめて",
+        "grammar-explain": "1. Something happens for the first time after doing something else.",
+        "grammar-examples": [
+          "海外に行ってはじめて、日本の良さがわかった。",
+          "病気になってはじめて、健康の大切さを知った。"
+        ]
+      },
+      {
+        "grammar-title": "〜うえ（で）",
+        "connection": "Verb た form / Noun + の + うえで",
+        "grammar-explain": "1. Indicates that something is done after a process or decision.\n2. Formal expression.",
+        "grammar-examples": [
+          "よく考えたうえで、決めます。",
+          "面接のうえで、採用を決めます。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 20",
+    "lessonNumber": "第20課",
+    "content": [
+      {
+        "grammar-title": "〜ようとする",
+        "connection": "Verb volitional form + とする",
+        "grammar-explain": "1. Indicates an attempt to do something at that moment.\n2. Often used with negative form for failed attempts.",
+        "grammar-examples": [
+          "出かけようとしたとき、電話が鳴った。",
+          "寝ようとしたが、眠れなかった。"
+        ]
+      },
+      {
+        "grammar-title": "〜ついでに",
+        "connection": "Verb dictionary / た form / Noun + の + ついでに",
+        "grammar-explain": "1. While doing one thing, take the opportunity to do another.\n2. Efficient or convenient action.",
+        "grammar-examples": [
+          "買い物のついでに、郵便局に行きました。",
+          "散歩のついでに、花を買いました。"
+        ]
+      },
+      {
+        "grammar-title": "〜くらい / 〜ぐらい",
+        "connection": "Verb / Noun / adj + くらい / ぐらい",
+        "grammar-explain": "1. Indicates degree or approximate amount.\n2. Can mean 'at least' or 'about'.",
+        "grammar-examples": [
+          "一度ぐらい行ってみたい。",
+          "泣きたいくらい疲れた。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 21",
+    "lessonNumber": "第21課",
+    "content": [
+      {
+        "grammar-title": "〜にしては",
+        "connection": "Noun / Verb / adj + にしては",
+        "grammar-explain": "1. Indicates unexpected result for the given condition.\n2. 'Considering that...'.",
+        "grammar-examples": [
+          "初心者にしては上手ですね。",
+          "雨にしては涼しい。"
+        ]
+      },
+      {
+        "grammar-title": "〜にしても",
+        "connection": "Verb / adj / Noun + にしても",
+        "grammar-explain": "1. Even given that... / Even if...\n2. Shows speaker’s judgment or contrast.",
+        "grammar-examples": [
+          "行くにしても、今日は無理だ。",
+          "学生にしても、知らないことがある。"
+        ]
+      },
+      {
+        "grammar-title": "〜として",
+        "connection": "Noun + として",
+        "grammar-explain": "1. Used to indicate role, qualification, or purpose.",
+        "grammar-examples": [
+          "先生としての意見を言います。",
+          "日本代表として試合に出る。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 22",
+    "lessonNumber": "第22課",
+    "content": [
+      {
+        "grammar-title": "〜にとって",
+        "connection": "Noun + にとって",
+        "grammar-explain": "1. Expresses viewpoint or perspective: 'for...'.",
+        "grammar-examples": [
+          "子供にとって、遊びは大切だ。",
+          "私にとって、この仕事は天職です。"
+        ]
+      },
+      {
+        "grammar-title": "〜によると",
+        "connection": "Noun + によると",
+        "grammar-explain": "1. Indicates a source of information: 'according to...'.",
+        "grammar-examples": [
+          "天気予報によると、明日は晴れるそうです。",
+          "新聞によると、事故があったそうだ。"
+        ]
+      },
+      {
+        "grammar-title": "〜によって",
+        "connection": "Noun + によって",
+        "grammar-explain": "1. Expresses cause, means, or passive agent.\n2. Can also mean 'depending on...'.",
+        "grammar-examples": [
+          "努力によって成功した。",
+          "人によって考え方が違う。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 23",
+    "lessonNumber": "第23課",
+    "content": [
+      {
+        "grammar-title": "〜反面（はんめん）",
+        "connection": "Verb / い-adj / な-adj + な / Noun + の + 反面",
+        "grammar-explain": "1. Expresses two opposing sides of a situation.\n2. Translates as 'on the other hand'.",
+        "grammar-examples": [
+          "この仕事は楽な反面、責任も重い。",
+          "彼は優しい反面、怒ると怖い。"
+        ]
+      },
+      {
+        "grammar-title": "〜一方（で）",
+        "connection": "Verb / い-adj / な-adj + な / Noun + の + 一方で",
+        "grammar-explain": "1. Indicates contrast between two facts.\n2. Also used to show two simultaneous states.",
+        "grammar-examples": [
+          "田舎は不便な一方で、自然が多い。",
+          "仕事をする一方で、勉強も続けている。"
+        ]
+      },
+      {
+        "grammar-title": "〜かわりに",
+        "connection": "Verb / adj + かわりに / Noun + の + かわりに",
+        "grammar-explain": "1. Expresses replacement or trade-off.\n2. Means 'instead of' or 'in exchange for'.",
+        "grammar-examples": [
+          "母のかわりに私が行きます。",
+          "自由のかわりに責任がある。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 24",
+    "lessonNumber": "第24課",
+    "content": [
+      {
+        "grammar-title": "〜ために",
+        "connection": "Verb / Noun + の + ために",
+        "grammar-explain": "1. Indicates purpose or benefit.\n2. Means 'for the sake of' or 'in order to'.",
+        "grammar-examples": [
+          "家族のために働いている。",
+          "健康のために運動しています。"
+        ]
+      },
+      {
+        "grammar-title": "〜によっては",
+        "connection": "Noun + によっては",
+        "grammar-explain": "1. Highlights one possibility among several.\n2. Means 'in some cases'.",
+        "grammar-examples": [
+          "人によってはお酒を飲めない人もいる。",
+          "考え方によっては、それも正しい。"
+        ]
+      },
+      {
+        "grammar-title": "〜に対して",
+        "connection": "Noun + に対して",
+        "grammar-explain": "1. Indicates direction, target, or opposition.\n2. Means 'towards' or 'against'.",
+        "grammar-examples": [
+          "先生に対して失礼なことを言った。",
+          "この問題に対して意見があります。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 25",
+    "lessonNumber": "第25課",
+    "content": [
+      {
+        "grammar-title": "〜にかけては",
+        "connection": "Noun + にかけては",
+        "grammar-explain": "1. Means 'when it comes to...'\n2. Highlights someone's strength or specialty.",
+        "grammar-examples": [
+          "走ることにかけては誰にも負けない。",
+          "記憶力にかけては彼が一番だ。"
+        ]
+      },
+      {
+        "grammar-title": "〜において",
+        "connection": "Noun + において",
+        "grammar-explain": "1. Formal way to say 'in' or 'at' a place/time/field.\n2. Often used in writing.",
+        "grammar-examples": [
+          "会議において重要な発表があった。",
+          "歴史において大事な時代です。"
+        ]
+      },
+      {
+        "grammar-title": "〜にわたって",
+        "connection": "Noun + にわたって",
+        "grammar-explain": "1. Indicates scope over time/space/range.\n2. Means 'throughout' or 'over a span of'.",
+        "grammar-examples": [
+          "3日間にわたって会議が行われた。",
+          "広い分野にわたって研究している。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 26",
+    "lessonNumber": "第26課",
+    "content": [
+      {
+        "grammar-title": "〜にすぎない",
+        "connection": "Verb / Noun + にすぎない",
+        "grammar-explain": "1. Means 'no more than' or 'just'.\n2. Minimizes or downplays the subject.",
+        "grammar-examples": [
+          "彼は学生にすぎない。",
+          "噂にすぎないので、信じないで。"
+        ]
+      },
+      {
+        "grammar-title": "〜おそれがある",
+        "connection": "Verb dictionary form / Noun + の + おそれがある",
+        "grammar-explain": "1. Indicates fear or risk that something bad might happen.",
+        "grammar-examples": [
+          "台風が来るおそれがある。",
+          "病気が広がるおそれがある。"
+        ]
+      },
+      {
+        "grammar-title": "〜とともに",
+        "connection": "Verb dictionary / Noun + とともに",
+        "grammar-explain": "1. Means 'together with' or 'as... happens'.\n2. Indicates simultaneous actions or progression.",
+        "grammar-examples": [
+          "年をとるとともに、体力が落ちる。",
+          "彼とともにプロジェクトを始めた。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 27",
+    "lessonNumber": "第27課",
+    "content": [
+      {
+        "grammar-title": "〜に違いない",
+        "connection": "Verb / adj / Noun + に違いない",
+        "grammar-explain": "1. Strong certainty: 'must be'.\n2. Based on speaker's judgment.",
+        "grammar-examples": [
+          "彼は合格したに違いない。",
+          "これは高かったに違いない。"
+        ]
+      },
+      {
+        "grammar-title": "〜とは限らない",
+        "connection": "普通形 + とは限らない",
+        "grammar-explain": "1. Not always the case; 'not necessarily so'.",
+        "grammar-examples": [
+          "お金持ちが幸せとは限らない。",
+          "有名だからといって、上手とは限らない。"
+        ]
+      },
+      {
+        "grammar-title": "〜ないことはない",
+        "connection": "Verb ない form + ことはない",
+        "grammar-explain": "1. Double negative that implies possibility.\n2. Means 'it's not impossible'.",
+        "grammar-examples": [
+          "食べないことはないけど、あまり好きじゃない。",
+          "行けないことはないが、忙しい。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 28",
+    "lessonNumber": "第28課",
+    "content": [
+      {
+        "grammar-title": "〜ないこともない",
+        "connection": "Verb ない form + こともない",
+        "grammar-explain": "1. Similar to 〜ないことはない.\n2. Suggests a weak possibility or hesitance.",
+        "grammar-examples": [
+          "映画を見に行かないこともないけど、面倒だな。",
+          "食べられないこともない。"
+        ]
+      },
+      {
+        "grammar-title": "〜ということだ",
+        "connection": "普通形 + ということだ",
+        "grammar-explain": "1. Indicates hearsay or explanation.\n2. Means 'it is said that...' or 'it means...'.",
+        "grammar-examples": [
+          "明日は休みということです。",
+          "試験に合格したということだ。"
+        ]
+      },
+      {
+        "grammar-title": "〜ことになる",
+        "connection": "Verb dictionary / ない form + ことになる",
+        "grammar-explain": "1. Expresses a decision or arrangement made by others.\n2. Also used to describe outcomes.",
+        "grammar-examples": [
+          "来週から東京に転勤することになった。",
+          "会議は中止ということになった。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 29",
+    "lessonNumber": "第29課",
+    "content": [
+      {
+        "grammar-title": "〜ことは〜が",
+        "connection": "Verb / adj + ことは + same word + が",
+        "grammar-explain": "1. Acknowledge something is true, but add contrast.\n2. Means 'It is true that..., but...'.",
+        "grammar-examples": [
+          "行くことは行くが、あまり乗り気じゃない。",
+          "安いことは安いけど、質が悪い。"
+        ]
+      },
+      {
+        "grammar-title": "〜といっても",
+        "connection": "普通形 + といっても",
+        "grammar-explain": "1. Used when reality differs from expectations.\n2. Means 'although I say...' or 'even though...'.",
+        "grammar-examples": [
+          "料理ができるといっても、簡単なものだけです。",
+          "忙しいといっても、それほどではない。"
+        ]
+      },
+      {
+        "grammar-title": "〜てからでないと〜ない",
+        "connection": "Verb て form + からでないと + negative form",
+        "grammar-explain": "1. Indicates that something must be done first.\n2. Means 'unless/until..., can't...'.",
+        "grammar-examples": [
+          "許可をもらってからでないと入れません。",
+          "勉強してからでないと合格できない。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 30",
+    "lessonNumber": "第30課",
+    "content": [
+      {
+        "grammar-title": "〜末（すえ）に",
+        "connection": "Verb / Noun + の + 末に",
+        "grammar-explain": "1. Indicates the end result after a long process.\n2. Means 'after much effort/time'.",
+        "grammar-examples": [
+          "長い議論の末に、結論に達した。",
+          "試験の末に合格した。"
+        ]
+      },
+      {
+        "grammar-title": "〜きり（～きりだ）",
+        "connection": "Verb た form + きり（だ）",
+        "grammar-explain": "1. Indicates something has happened only once and never since.\n2. Means 'since then'.",
+        "grammar-examples": [
+          "メールを送ったきり、返事がない。",
+          "彼とは会ったきりだ。"
+        ]
+      },
+      {
+        "grammar-title": "〜きりではない",
+        "connection": "Verb / Noun + の + きりではない",
+        "grammar-explain": "1. Means 'as far as (something/someone)...'.\n2. Based on known information.",
+        "grammar-examples": [
+          "私の知るきりでは、それは本当だ。",
+          "今のところのきりでは、問題ない。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 31",
+    "lessonNumber": "第31課",
+    "content": [
+      {
+        "grammar-title": "〜にしては",
+        "connection": "Noun / Verb / adj + にしては",
+        "grammar-explain": "1. Indicates that something is surprising given the condition.\n2. Means 'for...'.",
+        "grammar-examples": [
+          "初心者にしてはうまくできた。",
+          "外食にしては安かった。"
+        ]
+      },
+      {
+        "grammar-title": "〜にもかかわらず",
+        "connection": "Verb / adj / Noun + にもかかわらず",
+        "grammar-explain": "1. Means 'despite...'.\n2. Indicates unexpected result given the situation.",
+        "grammar-examples": [
+          "雨にもかかわらず、試合が行われた。",
+          "高いにもかかわらず、よく売れている。"
+        ]
+      },
+      {
+        "grammar-title": "〜ものの",
+        "connection": "Verb / adj + ものの",
+        "grammar-explain": "1. Means 'although...'.\n2. Indicates result differs from expectation.",
+        "grammar-examples": [
+          "予約したものの、行けなくなった。",
+          "わかっているものの、できない。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 32",
+    "lessonNumber": "第32課",
+    "content": [
+      {
+        "grammar-title": "〜ながらも",
+        "connection": "Verb ます stem + ながらも",
+        "grammar-explain": "1. Means 'although...'.\n2. Use with contrast between two clauses.",
+        "grammar-examples": [
+          "初心者ながらも、頑張った。",
+          "高いながらも、価値がある。"
+        ]
+      },
+      {
+        "grammar-title": "〜ざるを得ない",
+        "connection": "Verb ない form + ざるを得ない",
+        "grammar-explain": "1. Means 'cannot help but...'.\n2. Implies inevitability.",
+        "grammar-examples": [
+          "仕事が忙しくて、行かざるを得ない。",
+          "その説明を信じざるを得ない。"
+        ]
+      },
+      {
+        "grammar-title": "〜といったらない",
+        "connection": "普通形 + といったらない",
+        "grammar-explain": "1. Expresses an extreme degree of emotion.\n2. Means 'inexpressibly...'.",
+        "grammar-examples": [
+          "嬉しいといったらない。",
+          "忙しいといったらない。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 33",
+    "lessonNumber": "第33課",
+    "content": [
+      {
+        "grammar-title": "〜にあたって／にあたり",
+        "connection": "Verb dictionary / Noun + にあたって／にあたり",
+        "grammar-explain": "1. Means 'on the occasion of...'.\n2. Formal use for significant events.",
+        "grammar-examples": [
+          "会議にあたって注意事項を説明します。",
+          "旅行にあたり、保険に入った。"
+        ]
+      },
+      {
+        "grammar-title": "〜を契機に（けいきに）",
+        "connection": "Noun + を契機に",
+        "grammar-explain": "1. Means 'taking this opportunity...'.\n2. Indicates a turning point.",
+        "grammar-examples": [
+          "留学を契機に視野が広がった。",
+          "事故を契機に改善された。"
+        ]
+      },
+      {
+        "grammar-title": "〜を通じて／通して",
+        "connection": "Noun + を通じて／通して",
+        "grammar-explain": "1. Means 'through...' (over time or medium).\n2. Used for duration or method.",
+        "grammar-examples": [
+          "この十年を通じて研究を続けた。",
+          "友人を通じて知り合った。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 34",
+    "lessonNumber": "第34課",
+    "content": [
+      {
+        "grammar-title": "〜に先立って",
+        "connection": "Noun + に先立って",
+        "grammar-explain": "1. Means 'before...'.\n2. Formal, used for events/announcements.",
+        "grammar-examples": [
+          "開催に先立って、準備会を行った。",
+          "発売に先立って発表された。"
+        ]
+      },
+      {
+        "grammar-title": "〜に先立ち",
+        "connection": "Noun + に先立ち",
+        "grammar-explain": "1. Same as に先立って, slightly more formal.",
+        "grammar-examples": [
+          "式典に先立ち練習を行った。",
+          "開会に先立ち挨拶があった。"
+        ]
+      },
+      {
+        "grammar-title": "〜次第（しだい）",
+        "connection": "Verb dictionary form + 次第",
+        "grammar-explain": "1. 'As soon as...'.\n2. Formal sequence of actions.",
+        "grammar-examples": [
+          "準備ができ次第、始めます。",
+          "届き次第ご連絡します。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson 35",
+    "lessonNumber": "第35課",
+    "content": [
+      {
+        "grammar-title": "〜次第で",
+        "connection": "Noun + 次第で",
+        "grammar-explain": "1. Means 'depending on...'.",
+        "grammar-examples": [
+          "天気次第で行きます。",
+          "相手次第で結果が変わる。"
+        ]
+      },
+      {
+        "grammar-title": "〜抜く",
+        "connection": "Verb stem + 抜く",
+        "grammar-explain": "1. Means 'to do something thoroughly'.\n2. Emphasizes completing with determination.",
+        "grammar-examples": [
+          "最後までやり抜いた。",
+          "研究をやり抜く。"
+        ]
+      },
+      {
+        "grammar-title": "〜きる",
+        "connection": "Verb stem + きる",
+        "grammar-explain": "1. Means 'to do completely'.\n2. Similar to 抜く, but more common.",
+        "grammar-examples": [
+          "食べきるまで待とう。",
+          "説明しきった。"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+body {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #d0e6ff, #e6f0ff);
+  color: #1a1a1a;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.lessons-container {
+  max-width: 760px;
+  margin: 32px auto;
+  padding: 0 16px;
+}
+
+.lesson {
+  background: #fff;
+  border: 2px solid #1976d2;
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(25, 118, 210, 0.2);
+  transition: background 0.2s ease, transform 0.2s;
+}
+
+.lesson:hover {
+  background-color: #ebefff;
+  transform: scale(1.01);
+}
+
+.lesson h2 {
+  font-size: 1.35rem;
+  color: #003c8f;
+  font-weight: bold;
+}
+
+.lesson-number {
+  font-size: 1rem;
+  color: #0d47a1;
+  font-weight: 600;
+  margin-top: 4px;
+}
+
+.toggle-icon {
+  font-size: 1.3rem;
+  color: #004ba0;
+  font-weight: bold;
+  user-select: none;
+}
+
+.lesson-content {
+display: none;
+padding: 20px 28px;
+background-color: #f1f5f9;
+border-left: 4px solid #0b5ed7;
+border-radius: 0 0 12px 12px;
+margin-bottom: 24px;
+color: #333;
+font-size: 1rem;
+line-height: 1.6;
+}
+
+.lesson-content h3 {
+font-size: 1.15rem;
+margin-bottom: 8px;
+font-weight: 600;
+color: #1c3d5a;
+}
+
+
+.connection-line {
+font-weight: 600;
+color: #0b5ed7;
+margin-bottom: 12px;
+font-style: italic;
+}
+
+.grammar-explain {
+margin-bottom: 14px;
+white-space: pre-wrap;
+}
+
+.grammar-examples {
+background: #fff;
+padding: 12px 16px;
+border: 1px solid #ddd;
+border-radius: 8px;
+list-style-type: disc;
+margin-left: 20px;
+color: #444;
+font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grammar-examples li {
+margin-bottom: 8px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .lessons-container {
+    padding: 12px;
+  }
+
+  .lesson {
+    padding: 1rem 1rem;
+  }
+
+  .lesson h2 {
+    font-size: 1rem;
+  }
+
+  .lesson-number {
+    font-size: 0.9rem;
+  }
+
+  .lesson-content {
+    padding: 18px 22px;
+    font-size: 1rem;
+  }
+
+  .lesson-content h3 {
+    font-size: 1.05rem;
+  }
+}
