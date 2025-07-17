@@ -9,6 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
 </head>
 <body>
+  
 <header class="bg-white shadow-sm">
   <div class="container mx-auto px-4 py-4 flex justify-between items-center">
     <div class="flex items-center space-x-2">
@@ -20,12 +21,18 @@
         日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span>
       </h1>
     </div>
-
+    
+    
+    <!-- Back Button -->
+    <a href="../index.html"
+       class="inline-flex items-center px-3 py-2 mr-2 bg-green-100 text-green -700 rounded-md hover:bg-green-200 active:bg-green-300 transition font-medium"> Home
+    </a>
+    
     <!-- Desktop Nav -->
     <nav class="hidden md:flex space-x-10">
-      <a href="../index.html" class="text-green-600 font-medium">Home</a>
-      <a href="#" class="text-gray-600 hover:text-green-600">Resources</a>
-      <a href="#" class="text-gray-600 hover:text-green-600">About</a>
+      <a href="../index.html" class="text-blue-600 font-medium">Home</a>
+      <a href="#" class="text-gray-600 hover:text-blue-600">Resources</a>
+      <a href="#" class="text-gray-600 hover:text-blue-600">About</a>
     </nav>
 
     <!-- Mobile Toggle Button -->
@@ -38,12 +45,21 @@
     </button>
   </div>
 
-<!-- Mobile -->
-  <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
-    <a href="../index.html" class="text-green-600 font-medium">Home</a>
-    <a href="#" class="text-gray-700 hover:text-green-600">Resources</a>
-    <a href="#" class="text-gray-700 hover:text-green-600">About</a>
-  </nav>
+<!-- Mobile Menu -->
+  <nav id="mobile-menu" class="hidden md:hidden flex flex-col px-4 pb-4 bg-white shadow space-y-2">
+    <a href="../index.html"
+       class="block w-full px-4 py-3 text-blue-600 font-medium rounded-lg hover:bg-blue-50 active:bg-blue-100 transition">
+      Home
+    </a>
+    <a href="#"
+       class="block w-full px-4 py-3 text-gray-700 hover:text-blue-600 rounded-lg hover:bg-blue-50 active:bg-blue-100 transition">
+      Resources
+    </a>
+    <a href="#"
+       class="block w-full px-4 py-3 text-gray-700 hover:text-blue-600 rounded-lg hover:bg-blue-50 active:bg-blue-100 transition">
+        About
+      </a>
+    </nav>
 </header>
 
   <main>
