@@ -8,8 +8,9 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-  
- <header class="bg-white shadow-sm">
+
+    
+  <header class="bg-white shadow-sm">
   <div class="container mx-auto px-4 py-4 flex justify-between items-center">
     <div class="flex items-center space-x-2">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -20,7 +21,14 @@
         日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span>
       </h1>
     </div>
-
+    
+    
+<!-- Back Button -->
+<a href="../index.html"
+   class="inline-flex items-center px-3 py-2 mr-2 bg-blue-100 text-blue -700 rounded-md hover:bg-blue-200 active:bg-blue-300 transition font-medium"> Home
+</a>
+    
+    
     <!-- Desktop Nav -->
     <nav class="hidden md:flex space-x-10">
       <a href="../index.html" class="text-blue-600 font-medium">Home</a>
@@ -38,14 +46,22 @@
     </button>
   </div>
 
-  <!-- Mobile Menu -->
-  <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
-    <a href="../index.html" class="text-blue-600 font-medium">Home</a>
-    <a href="#" class="text-gray-700 hover:text-blue-600">Resources</a>
-    <a href="#" class="text-gray-700 hover:text-blue-600">About</a>
-  </nav>
-</header>
-
+<!-- Mobile Menu -->
+<nav id="mobile-menu" class="hidden md:hidden flex flex-col px-4 pb-4 bg-white shadow space-y-2">
+  <a href="../index.html"
+     class="block w-full px-4 py-3 text-blue-600 font-medium rounded-lg hover:bg-blue-50 active:bg-blue-100 transition">
+    Home
+  </a>
+  <a href="#"
+     class="block w-full px-4 py-3 text-gray-700 hover:text-blue-600 rounded-lg hover:bg-blue-50 active:bg-blue-100 transition">
+    Resources
+  </a>
+  <a href="#"
+     class="block w-full px-4 py-3 text-gray-700 hover:text-blue-600 rounded-lg hover:bg-blue-50 active:bg-blue-100 transition">
+    About
+  </a>
+</nav>
+  </header>
 
     <main>
         <section class="lessons-container" id="lessons-container">
