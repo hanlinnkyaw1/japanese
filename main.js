@@ -21,6 +21,10 @@ document.getElementById('advancedLevel').addEventListener("click", () => {
     window.location.href = "advanced/advancedLevel.html";
 });
 
+document.getElementById('kanjiFlashCard').addEventListener("click", () => {
+    window.location.href = "/kanjiFlashCrad/flashCardIndex.html";
+});
+
 // Grammar level filter buttons
 document.querySelectorAll('.flex.flex-wrap button').forEach(btn => {
     btn.addEventListener('click', function() {
