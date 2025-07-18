@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日本語の文法 | Japanese Grammar Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="bg-white shadow-sm">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                </svg>
+                <h1 class="text-xl font-bold">日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span></h1>
+            </div>
+   <nav class="hidden md:flex space-x-10">
+      <a href="index.html" class="text-green-600 font-medium">Home</a>
+      <a href="#learnExplore" class="text-gray-600 hover:text-green-600">Study Tools</a>
+      <a href="#levels" class="text-gray-600 hover:text-green-600">Learn Grammar</a>
+    </nav>
+
+    <!-- Mobile Toggle Button -->
+    <button id="menu-toggle" class="md:hidden">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24"
+        stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </div>
+
+<!-- Mobile -->
+  <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
+    <a href="#" class="text-green-600 font-medium">Home</a>
+    <a href="#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
+    <a href="#levels" class="text-gray-700 hover:text-green-600">Learn Grammar</a>
+  </nav>
+ </div>
+</header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="bg-gradient-to-r from-red-50 to-orange-50 py-16">
+            <div class="container mx-auto px-4 flex flex-col md:flex-row items-center">
+                <div class="md:w-1/2 mb-8 md:mb-0">
+                    <h2 class="text-4xl font-bold text-gray-800 mb-4">Master Japanese Grammar <span class="jp-text">日本語の文法</span></h2>
+                    <p class="text-lg text-gray-600 mb-6">Learn Japanese grammar systematically with clear explanations, examples, and practice exercises.</p>
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        
+            <a href="#levels" class="flex items-center justify-center bg-red-500 hover:bg-red-600 text-white font-medium py-3 px-6 rounded-lg shadow-md transition">
+              Start Learning
+            </a>
+            <a href="#learnExplore" class="
+                 flex items-center justify-center
+                 bg-white hover:bg-gray-100 text-gray-800 font-medium py-3 px-6 rounded-lg shadow-md border border-gray-200 transition">Study Tools</a>
+           </div>
+                </div>
+                <div class="md:w-1/2 flex justify-center">
+                    <svg class="w-full max-w-md" viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg">
+                        <rect x="100" y="50" width="300" height="200" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+                        <text x="250" y="100" font-family="'Noto Sans JP'" font-size="24" fill="#374151" text-anchor="middle">日本語を勉強しましょう！</text>
+                        <text x="250" y="140" font-family="'Poppins'" font-size="16" fill="#6b7280" text-anchor="middle">Let's study Japanese!</text>
+                        <rect x="150" y="170" width="200" height="50" rx="8" fill="#f3f4f6"/>
+                        <text x="250" y="200" font-family="'Noto Sans JP'" font-size="18" fill="#374151" text-anchor="middle">文法が大切です</text>
+                        <text x="250" y="225" font-family="'Poppins'" font-size="12" fill="#6b7280" text-anchor="middle">Grammar is important</text>
+                        <circle cx="130" cy="300" r="50" fill="#fed7d7" opacity="0.6"/>
+                        <circle cx="370" cy="270" r="30" fill="#fecaca" opacity="0.6"/>
+                        <circle cx="320" cy="330" r="40" fill="#fecaca" opacity="0.4"/>
+                    </svg>
+                </div>
+            </div>
+        </section>
+
+        <!-- Level Selection -->
+        <section id="levels" class="py-12 bg-white">
+            <div class="container mx-auto px-4">
+                <h3 class="text-2xl font-bold text-center mb-8">Choose Your Level</h3>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+                    <div class="card bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-xl shadow-sm border border-green-200">
+                        <div class="flex items-center mb-4">
+                            <span class="bg-green-500 text-white text-xs font-bold px-2 py-1 rounded-full mr-2">N5-N4</span>
+                            <h4 class="text-xl font-semibold text-green-800">Beginner</h4>
+                        </div>
+                        <p class="text-green-700 mb-4">Basic grammar patterns for everyday conversations.</p>
+                        <ul class="mb-6 text-sm text-green-700">
+                            <li class="mb-1 flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Particles (は, が, を, に, etc.)
+                            </li>
+                            <li class="mb-1 flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Basic verb forms
+                            </li>
+                            <li class="flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Simple sentence structures
+                            </li>
+                        </ul>
+                        <button class="w-full bg-green-500 hover:bg-green-600 text-white font-medium py-2 px-4 rounded-lg transition" id="beginnerLevel">Start Beginner</button>
+                    </div>
+
+                    <div class="card bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl shadow-sm border border-blue-200" id="intermediateLevel">
+                        <div class="flex items-center mb-4">
+                            <span class="bg-blue-500 text-white text-xs font-bold px-2 py-1 rounded-full mr-2">N3</span>
+                            <h4 class="text-xl font-semibold text-blue-800">Intermediate</h4>
+                        </div>
+                        <p class="text-blue-700 mb-4">More complex grammar for natural conversations.</p>
+                        <ul class="mb-6 text-sm text-blue-700">
+                            <li class="mb-1 flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-blue-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Conditional forms
+                            </li>
+                            <li class="mb-1 flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-blue-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Transitive & intransitive verbs
+                            </li>
+                            <li class="flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-blue-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Giving and receiving expressions
+                            </li>
+                        </ul>
+                        <button class="w-full bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg transition" >Start Intermediate</button>
+                    </div>
+
+                    <div class="card bg-gradient-to-br from-purple-50 to-purple-100 p-6 rounded-xl shadow-sm border border-purple-200">
+                        <div class="flex items-center mb-4">
+                            <span class="bg-purple-500 text-white text-xs font-bold px-2 py-1 rounded-full mr-2">N2-N1</span>
+                            <h4 class="text-xl font-semibold text-purple-800">Advanced</h4>
+                        </div>
+                        <p class="text-purple-700 mb-4">Complex grammar for fluent Japanese expression.</p>
+                        <ul class="mb-6 text-sm text-purple-700">
+                            <li class="mb-1 flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-purple-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Keigo (honorific language)
+                            </li>
+                            <li class="mb-1 flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-purple-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Advanced conjunctions
+                            </li>
+                            <li class="flex items-center">
+                                <svg class="w-4 h-4 mr-2 text-purple-500" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                Literary expressions
+                            </li>
+                        </ul>
+                        <button class="w-full bg-purple-500 hover:bg-purple-600 text-white font-medium py-2 px-4 rounded-lg transition" id="advancedLevel">Start Advanced</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+      <!-- Study Tools -->
+        <section class="py-20 bg-gradient-to-br from-red-50 via-white to-pink-100" id="learnExplore">
+          <div class="max-w-6xl mx-auto px-6">
+            <h2 class="text-3xl font-extrabold text-center text-red-600 mb-8">Explore Learning Features</h2>
+        
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+              <!-- Feature Card -->
+              <div class="relative group bg-white min-h-[480px] p-10 rounded-3xl shadow-xl border border-gray-200 hover:border-red-400 transition-all duration-300 overflow-hidden hover:shadow-2xl hover:scale-[1.03]">
+                <!-- Glow Effect -->
+                <div class="absolute -inset-1 bg-gradient-to-r from-red-100 via-white to-red-100 rounded-3xl blur-2xl opacity-0 group-hover:opacity-60 transition duration-500 pointer-events-none"></div>
+        
+                <!-- Icon -->
+                <div class="relative z-10 w-20 h-20 bg-red-100 rounded-full flex items-center justify-center mb-6 shadow-md">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 text-red-500" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+                  </svg>
+                </div>
+        
+                <!-- Title -->
+                <h4 class="relative z-10 text-2xl font-bold text-gray-900 mb-4">Kanji Flashcards</h4>
+        
+                <!-- Description -->
+                <p class="relative z-10 text-gray-600 mb-6 leading-relaxed text-base">
+                  Practice and memorize Kanji through beautiful, interactive flashcards. Boost your retention and track progress by JLPT level.
+                </p>
+        
+                <!-- CTA Button -->
+                <button id="kanjiFlashCard"
+                  class="relative z-10 inline-flex items-center text-red-600 font-semibold hover:text-red-700 transition-all group-hover:underline text-base">
+                  Start Practicing
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              </div>
+        
+              <!-- Duplicate and modify this block for other features like Level Test, Grammar Bank, etc. -->
+            </div>
+          </div>
+        </section>      
+
+        <!-- Grammar Search -->
+        <section class="py-12 bg-white">
+            <div class="container mx-auto px-4">
+                <h3 class="text-2xl font-bold text-center mb-8">Find Grammar Points</h3>
+                
+                <div class="max-w-2xl mx-auto mb-8">
+                    <div class="relative">
+                        <input type="text" placeholder="Search grammar points..." class="w-full py-3 px-4 pl-12 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-400 absolute left-3 top-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                        </svg>
+                    </div>
+                </div>
+                
+                <div class="flex flex-wrap justify-center gap-2 mb-8">
+                    <button class="bg-red-500 text-white px-4 py-2 rounded-full text-sm font-medium">All Levels</button>
+                    <button class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N5</button>
+                    <button class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N4</button>
+                    <button class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N3</button>
+                    <button class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N2</button>
+                    <button class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N1</button>
+                </div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
+                    <div class="grammar-card bg-white p-5 rounded-xl shadow-sm border border-gray-100 hover:border-red-200">
+                        <span class="bg-green-100 text-green-600 text-xs font-medium px-2.5 py-0.5 rounded-full">N5</span>
+                        <h4 class="text-lg font-bold mt-2 jp-text">〜は〜です</h4>
+                        <p class="text-gray-600 text-sm mb-3">Basic sentence structure (A is B)</p>
+                        <p class="text-gray-700 mb-4 text-sm">The most fundamental Japanese sentence pattern for describing things.</p>
+                        <div class="flex justify-between items-center">
+                            <button class="text-red-500 hover:text-red-600 text-sm font-medium">Learn more</button>
+                            <span class="text-gray-400 text-xs">5 examples</span>
+                        </div>
+                    </div>
+                    
+                    <div class="grammar-card bg-white p-5 rounded-xl shadow-sm border border-gray-100 hover:border-red-200">
+                        <span class="bg-green-100 text-green-600 text-xs font-medium px-2.5 py-0.5 rounded-full">N5</span>
+                        <h4 class="text-lg font-bold mt-2 jp-text">〜を〜ます</h4>
+                        <p class="text-gray-600 text-sm mb-3">Object marker with verbs</p>
+                        <p class="text-gray-700 mb-4 text-sm">Used to indicate the direct object of an action verb.</p>
+                        <div class="flex justify-between items-center">
+                            <button class="text-red-500 hover:text-red-600 text-sm font-medium">Learn more</button>
+                            <span class="text-gray-400 text-xs">8 examples</span>
+                        </div>
+                    </div>
+                    
+                    <div class="grammar-card bg-white p-5 rounded-xl shadow-sm border border-gray-100 hover:border-red-200">
+                        <span class="bg-green-100 text-green-600 text-xs font-medium px-2.5 py-0.5 rounded-full">N5</span>
+                        <h4 class="text-lg font-bold mt-2 jp-text">〜に行きます</h4>
+                        <p class="text-gray-600 text-sm mb-3">Destination particle with movement verbs</p>
+                        <p class="text-gray-700 mb-4 text-sm">Used to indicate the destination of movement.</p>
+                        <div class="flex justify-between items-center">
+                            <button class="text-red-500 hover:text-red-600 text-sm font-medium">Learn more</button>
+                            <span class="text-gray-400 text-xs">6 examples</span>
+                        </div>
+                    </div>
+                    
+                    <div class="grammar-card bg-white p-5 rounded-xl shadow-sm border border-gray-100 hover:border-red-200">
+                        <span class="bg-blue-100 text-blue-600 text-xs font-medium px-2.5 py-0.5 rounded-full">N4</span>
+                        <h4 class="text-lg font-bold mt-2 jp-text">〜たり〜たり</h4>
+                        <p class="text-gray-600 text-sm mb-3">Doing this and that (non-exhaustive list)</p>
+                        <p class="text-gray-700 mb-4 text-sm">Used to give examples of various actions someone does.</p>
+                        <div class="flex justify-between items-center">
+                            <button class="text-red-500 hover:text-red-600 text-sm font-medium">Learn more</button>
+                            <span class="text-gray-400 text-xs">4 examples</span>
+                        </div>
+                    </div>
+                    
+                    <div class="grammar-card bg-white p-5 rounded-xl shadow-sm border border-gray-100 hover:border-red-200">
+                        <span class="bg-blue-100 text-blue-600 text-xs font-medium px-2.5 py-0.5 rounded-full">N4</span>
+                        <h4 class="text-lg font-bold mt-2 jp-text">〜なければなりません</h4>
+                        <p class="text-gray-600 text-sm mb-3">Must do / Have to do</p>
+                        <p class="text-gray-700 mb-4 text-sm">Expresses obligation or necessity to do something.</p>
+                        <div class="flex justify-between items-center">
+                            <button class="text-red-500 hover:text-red-600 text-sm font-medium">Learn more</button>
+                            <span class="text-gray-400 text-xs">7 examples</span>
+                        </div>
+                    </div>
+                    
+                    <div class="grammar-card bg-white p-5 rounded-xl shadow-sm border border-gray-100 hover:border-red-200">
+                        <span class="bg-purple-100 text-purple-600 text-xs font-medium px-2.5 py-0.5 rounded-full">N3</span>
+                        <h4 class="text-lg font-bold mt-2 jp-text">〜ようになる</h4>
+                        <p class="text-gray-600 text-sm mb-3">To come to be able to / To reach the point where</p>
+                        <p class="text-gray-700 mb-4 text-sm">Expresses a change in ability or a new habit.</p>
+                        <div class="flex justify-between items-center">
+                            <button class="text-red-500 hover:text-red-600 text-sm font-medium">Learn more</button>
+                            <span class="text-gray-400 text-xs">5 examples</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="flex justify-center mt-8">
+                    <button class="bg-red-50 hover:bg-red-100 text-red-600 font-medium py-2 px-6 rounded-lg transition flex items-center">
+                        View All Grammar Points
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-gray-800 text-gray-300 py-10">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div>
+                    <h4 class="text-white text-lg font-bold mb-4">日本語の文法</h4>
+                    <p class="text-sm">Your comprehensive resource for learning Japanese grammar systematically and effectively.</p>
+                </div>
+                
+                <div>
+                    <h5 class="text-white font-medium mb-4">Quick Links</h5>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="#" class="hover:text-white">Home</a></li>
+                        <li><a href="#learnExplore" class="hover:text-white">Study Tools</a></li>
+                        <li><a href="#levels" class="hover:text-white">Learn Grammar</a></li>
+                        <li><a href="#" class="hover:text-white">Resources</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h5 class="text-white font-medium mb-4">JLPT Levels</h5>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="#beginnerLevel" class="hover:text-white">N5 Grammar</a></li>
+                        <li><a href="#beginnerLevel" class="hover:text-white">N4 Grammar</a></li>
+                        <li><a href="#intermediateLevel" class="hover:text-white">N3 Grammar</a></li>
+                        <li><a href="#" class="hover:text-white">N2 Grammar</a></li>
+                        <li><a href="#" class="hover:text-white">N1 Grammar</a></li>
+                    </ul>
+                </div>
+                
+              <div>
+                <h5 class="text-white font-medium mb-4">Connect</h5>
+                 <div class="flex space-x-3 mb-4">
+              <a href="https://t.me/japanese_grammar_bot" class="text-gray-400 hover:text-white">
+                <svg  class="h-10 w-10" fill="currentColor"  viewBox="0 0 20 20">
+                <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09" />
+            </svg>
+              </a>
+               <a href="https://t.me/japanese_books_storage" class="text-gray-400 hover:text-white">
+                <svg class="h-10 w-10 " fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09" />
+                </svg>
+               </a>
+
+                </div>
+              </div>
+            </div>
+            
+            <div class="border-t border-gray-700 mt-8 pt-6 text-sm text-center">
+                <p>&copy; 2025 Japanese Grammar Guide. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
