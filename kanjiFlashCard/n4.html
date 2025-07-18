@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kanji Flashcards</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="header.js"></script>
+
+  <style>
+    .card-container {
+      perspective: 1000px;
+    }
+    .flashcard {
+      width: 100%;
+      height: 22rem;
+      position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.6s;
+    }
+    .flipped {
+      transform: rotateY(180deg);
+    }
+    .card-face {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 1.5rem;
+      border-radius: 1rem;
+      background: white;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    }
+    .back {
+      transform: rotateY(180deg);
+    }
+    .furigana-group {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0 0.25rem;
+    }
+    .furigana-group span {
+      font-size: 0.75rem;
+      color: #555;
+    }
+    .furigana-group strong {
+      font-size: 1.25rem;
+      color: #111;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-br from-gray-100 to-gray-200 min-h-screen flex flex-col items-center justify-center py-8 px-4">
+
+  <h1 class="text-3xl font-bold text-gray-800 mb-6">🀄 N4 Kanji Flashcards</h1>
+
+  <div id="flashcard-container" class="card-container w-full max-w-md cursor-pointer"></div>
+
+  <div class="flex justify-between gap-4 mt-6 w-full max-w-md">
+    <button id="prev-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">← Prev</button>
+    <button id="next-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">Next →</button>
+  </div>
+
+  <script>
+    const container = document.getElementById('flashcard-container');
+    const prevBtn = document.getElementById('prev-card-btn');
+    const nextBtn = document.getElementById('next-card-btn');
+
+    let kanjiData = [];
+    let currentIndex = 0;
+
+    function parseExample(example) {
+      const parts = [];
+      const regex = /(.*?)\s*\((.*?)\)/g;
+      let match, lastIndex = 0;
+
+      while ((match = regex.exec(example)) !== null) {
+        if (match.index > lastIndex) {
+          parts.push({ type: 'text', value: example.substring(lastIndex, match.index) });
+        }
+        parts.push({ type: 'furigana', kanji: match[1], furigana: match[2] });
+        lastIndex = regex.lastIndex;
+      }
+
+      if (lastIndex < example.length) {
+        parts.push({ type: 'text', value: example.substring(lastIndex) });
+      }
+
+      return parts;
+    }
+
+    function renderCard(data) {
+      const parsedExamples = data.examples.map(parseExample);
+
+      container.innerHTML = `
+        <div id="card" class="flashcard">
+          <div class="card-face front">
+            <div class="text-8xl font-extrabold mb-4">${data.kanji}</div>
+          </div>
+          
+          <div class="card-face back">
+            <div class="text-xl font-semibold text-gray-700 mb-2">音読み: ${data.onyomi}</div>
+            <div class="text-xl font-semibold text-gray-700 mb-4">訓読み: ${data.kunyomi}</div>
+            
+            <div class="w-full px-4 text-center">
+            <p class="text-lg font-semibold text-gray-700 mb-1">Meaning</p>
+            <div class="font-serif text-xl text-blue-700 mb-1">${data.meaning}</div>
+            <div class="text-sm text-green-700 mb-6">${data.meaningMM}</div>
+          </div>
+            
+            <div class="text-sm text-gray-700 w-full px-2">
+              ${parsedExamples.map(parts => `
+                <div class="flex justify-center flex-wrap mb-2">
+                  ${parts.map(part => {
+                    if (part.type === 'furigana') {
+                      return `
+                        <div class="furigana-group">
+                          <span>${part.furigana}</span>
+                          <strong>${part.kanji}</strong>
+                        </div>
+                      `;
+                    } else {
+                      return `<strong class="mx-1 text-gray-800">${part.value}</strong>`;
+                    }
+                  }).join('')}
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+      `;
+
+      const card = document.getElementById('card');
+      card.addEventListener('click', () => {
+        card.classList.toggle('flipped');
+      });
+    }
+
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+    }
+    
+    async function loadKanji() {
+      const res = await fetch('n4kanji.json');
+      kanjiData = await res.json();
+      
+      shuffleArray(kanjiData); // Shuffle the entire list
+      renderCard(kanjiData[0]); // Display the first card from shuffled list
+    }
+
+    prevBtn.addEventListener('click', () => {
+      if (currentIndex > 0) currentIndex--;
+      else currentIndex = kanjiData.length - 1;
+      renderCard(kanjiData[currentIndex]);
+    });
+
+    nextBtn.addEventListener('click', () => {
+      currentIndex = (currentIndex + 1) % kanjiData.length;
+      renderCard(kanjiData[currentIndex]);
+    });
+
+    loadKanji();
+  </script>
+</body>
+</html>

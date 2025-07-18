@@ -1,0 +1,1619 @@
+[
+  {
+    "kanji": "募",
+    "onyomi": "ボ",
+    "kunyomi": "つのる, つのる",
+    "meaning": "recruit, gather, collect, raise (funds)",
+    "meaningMM": "စုဆောင်းသည်၊ စုဝေးသည်၊ ငွေကြေးရှာဖွေသည်",
+    "examples": [
+      "募集 (ぼしゅう) - စုဆောင်းခြင်း",
+      "応募 (おうぼ) - လျှောက်ထားခြင်း"
+    ]
+  },
+  {
+    "kanji": "偏",
+    "onyomi": "ヘン",
+    "kunyomi": "かたよる",
+    "meaning": "partial,偏る",
+    "meaningMM": "တစ်စိတ်တစ်ပိုင်း၊ ဘက်လိုက်သည်",
+    "examples": [
+      "偏見 (へんけん) - ဘက်လိုက်မှု",
+      "偏食 (へんしょく) - အစားတစ်မျိုးတည်းစားခြင်း"
+    ]
+  },
+  {
+    "kanji": "覧",
+    "onyomi": "ラン",
+    "kunyomi": "みる",
+    "meaning": "perusal, see",
+    "meaningMM": "စစ်ဆေးခြင်း၊ ကြည့်ရှုခြင်း",
+    "examples": [
+      "一覧 (いちらん) - စာရင်း",
+      "観覧 (かんらん) - ကြည့်ရှုခြင်း"
+    ]
+  },
+  {
+    "kanji": "拡",
+    "onyomi": "カク",
+    "kunyomi": "ひろがる, ひろげる",
+    "meaning": "broaden, extend, expand, enlarge",
+    "meaningMM": "ကျယ်ပြန့်သည်၊ ချဲ့ထွင်သည်၊ ကြီးမားသည်",
+    "examples": [
+      "拡大 (かくだい) - ချဲ့ထွင်ခြင်း",
+      "拡張 (かくちょう) - တိုးချဲ့ခြင်း"
+    ]
+  },
+  {
+    "kanji": "緩",
+    "onyomi": "カン",
+    "kunyomi": "ゆるむ, ゆるめる, ゆるい, ゆるやか",
+    "meaning": "slack, loosen, relax, lessen, be moderate",
+    "meaningMM": "လျော့သည်၊ ဖြေလျှော့သည်၊ ပေါ့ပါးသည်၊ အလယ်အလတ်ရှိသည်",
+    "examples": [
+      "緩和 (かんわ) - ဖြေလျှော့ခြင်း",
+      "緩急 (かんきゅう) - အနှေးအမြန်"
+    ]
+  },
+  {
+    "kanji": "織",
+    "onyomi": "ショク, シキ",
+    "kunyomi": "おる, おり",
+    "meaning": "weave, fabric",
+    "meaningMM": "ရက်လုပ်သည်၊ အထည်",
+    "examples": [
+      "組織 (そしき) - အဖွဲ့အစည်း",
+      "織物 (おりもの) - ရက်ထည်"
+    ]
+  },
+  {
+    "kanji": "携",
+    "onyomi": "ケイ",
+    "kunyomi": "たずさえる, たずさわる",
+    "meaning": "portable, carry, be armed with, bring along",
+    "meaningMM": "သယ်ဆောင်ရလွယ်ကူသည်၊ သယ်ဆောင်သည်၊ လက်နက်ကိုင်ဆောင်သည်",
+    "examples": [
+      "携帯 (けいたい) - လက်ကိုင်",
+      "連携 (れんけい) - ပူးပေါင်းဆောင်ရွက်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "壊",
+    "onyomi": "カイ",
+    "kunyomi": "こわす, こわれる",
+    "meaning": "break, destroy, demolish",
+    "meaningMM": "ဖြိုဖျက်သည်၊ ဖျက်ဆီးသည်",
+    "examples": [
+      "破壊 (はかい) - ဖျက်ဆီးခြင်း",
+      "崩壊 (ほうかい) - ပြိုလဲခြင်း"
+    ]
+  },
+  {
+    "kanji": "盛",
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "もる, さかる, さかり",
+    "meaning": "prosperous, flourishing, vigorous",
+    "meaningMM": "သာယာဝပြောသည်၊ ပွင့်လန်းသည်၊ ခွန်အားကြီးသည်",
+    "examples": [
+      "盛大 (せいだい) - ကြီးကျယ်ခမ်းနားစွာ",
+      "盛り (もり) - အပြည့်အလျှံ"
+    ]
+  },
+  {
+    "kanji": "滞",
+    "onyomi": "タイ",
+    "kunyomi": "とどこおる",
+    "meaning": "stagnate, be delayed, be overdue",
+    "meaningMM": "ရပ်တန့်သည်၊ နောက်ကျသည်၊ သက်တမ်းလွန်သည်",
+    "examples": [
+      "滞在 (たいざい) - တည်းခိုခြင်း",
+      "渋滞 (じゅうたい) - ယာဉ်ကြောပိတ်ဆို့မှု"
+    ]
+  },
+  {
+    "kanji": "催",
+    "onyomi": "サイ",
+    "kunyomi": "もよおす",
+    "meaning": "sponsor, hold (a meeting), give (a show)",
+    "meaningMM": "ပံ့ပိုးသည်၊ ကျင်းပသည် (အစည်းအဝေး)၊ ပြသသည် (ပြပွဲ)",
+    "examples": [
+      "開催 (かいさい) - ကျင်းပခြင်း",
+      "催促 (さいそく) - တောင်းဆိုခြင်း"
+    ]
+  },
+  {
+    "kanji": "戒",
+    "onyomi": "カイ",
+    "kunyomi": "いましめる",
+    "meaning": "admonish, warn, commandment",
+    "meaningMM": "သတိပေးသည်၊ သတိပေးချက်၊ ပညတ်တော်",
+    "examples": [
+      "警戒 (けいかい) - သတိထားခြင်း",
+      "戒厳令 (かいげんれい) - စစ်အုပ်ချုပ်ရေး"
+    ]
+  },
+  {
+    "kanji": "掘",
+    "onyomi": "クツ",
+    "kunyomi": "ほる",
+    "meaning": "dig, delve, excavate",
+    "meaningMM": "တူးသည်၊ နက်ရှိုင်းစွာတူးသည်",
+    "examples": [
+      "発掘 (はっくつ) - တူးဖော်ခြင်း",
+      "掘る (ほる) - တူးသည်"
+    ]
+  },
+  {
+    "kanji": "探",
+    "onyomi": "タン",
+    "kunyomi": "さがす, さぐる",
+    "meaning": "search, look for, investigate",
+    "meaningMM": "ရှာဖွေသည်၊ စုံစမ်းသည်",
+    "examples": [
+      "探偵 (たんてい) - သူလျှို",
+      "探索 (たんさく) - ရှာဖွေမှု"
+    ]
+  },
+  {
+    "kanji": "貯",
+    "onyomi": "チョ",
+    "kunyomi": "たくわえる",
+    "meaning": "savings, store, lay by",
+    "meaningMM": "စုဆောင်းငွေ၊ သိုလှောင်သည်၊ စုဆောင်းသည်",
+    "examples": [
+      "貯金 (ちょきん) - ငွေစုခြင်း",
+      "貯蔵 (ちょぞう) - သိုလှောင်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "忠",
+    "onyomi": "チュウ",
+    "kunyomi": "なし",
+    "meaning": "loyalty, fidelity, devotion",
+    "meaningMM": "သစ္စာရှိခြင်း၊ သစ္စာစောင့်သိခြင်း၊ ဆည်းကပ်ခြင်း",
+    "examples": [
+      "忠告 (ちゅうこく) - အကြံဉာဏ်ပေးခြင်း",
+      "忠実 (ちゅうじつ) - သစ္စာရှိသည်"
+    ]
+  },
+  {
+    "kanji": "惑",
+    "onyomi": "ワク",
+    "kunyomi": "まどう, まどわす",
+    "meaning": "bewilder, perplex, delusion, temptation",
+    "meaningMM": "တွေဝေသည်၊ ရှုပ်ထွေးစေသည်၊ လှည့်ဖြားမှု၊ သွေးဆောင်မှု",
+    "examples": [
+      "迷惑 (めいわく) - အနှောင့်အယှက်",
+      "困惑 (こんわく) - ရှုပ်ထွေးမှု"
+    ]
+  },
+  {
+    "kanji": "拝",
+    "onyomi": "ハイ",
+    "kunyomi": "おがむ, おろがむ",
+    "meaning": "worship, adore, honor",
+    "meaningMM": "ကိုးကွယ်သည်၊ ကြည်ညိုသည်၊ ဂုဏ်ပြုသည်",
+    "examples": [
+      "拝見 (はいけん) - (နှိမ့်ချသောစကား) ကြည့်ရှုခြင်း",
+      "参拝 (さんぱい) - ဘုရားဖူးခြင်း"
+    ]
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる, みさお",
+    "meaning": "manipulate, operate, steer",
+    "meaningMM": "ကိုင်တွယ်သည်၊ လုပ်ဆောင်သည်၊ ဦးဆောင်သည်",
+    "examples": [
+      "操作 (そうさ) - လည်ပတ်ခြင်း",
+      "体操 (たいそう) - ကိုယ်လက်လှုပ်ရှားမှု"
+    ]
+  },
+  {
+    "kanji": "捕",
+    "onyomi": "ホ",
+    "kunyomi": "とらえる, とらわれる, とる, とりこ",
+    "meaning": "catch, capture, arrest",
+    "meaningMM": "ဖမ်းသည်၊ ဖမ်းဆီးသည်",
+    "examples": [
+      "逮捕 (たいほ) - ဖမ်းဆီးခြင်း",
+      "捕獲 (ほかく) - ဖမ်းဆီးရမိခြင်း"
+    ]
+  },
+  {
+    "kanji": "担",
+    "onyomi": "タン",
+    "kunyomi": "かつぐ, になう",
+    "meaning": "shouldering, carry, bear, take responsibility",
+    "meaningMM": "ပခုံးထမ်းသည်၊ သယ်ဆောင်သည်၊ တာဝန်ယူသည်",
+    "examples": [
+      "担当 (たんとう) - တာဝန်ယူခြင်း",
+      "負担 (ふたん) - ဝန်ထုပ်ဝန်ပိုး"
+    ]
+  },
+  {
+    "kanji": "握",
+    "onyomi": "アク",
+    "kunyomi": "にぎる",
+    "meaning": "grip, grasp, hold",
+    "meaningMM": "ဆုပ်ကိုင်သည်၊ ဖမ်းဆုပ်သည်",
+    "examples": [
+      "握手 (あくしゅ) - လက်ဆွဲနှုတ်ဆက်ခြင်း",
+      "把握 (はあく) - နားလည်သဘောပေါက်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "抱",
+    "onyomi": "ホウ",
+    "kunyomi": "だく, いだく, かかえる",
+    "meaning": "embrace, hug, hold, harbor",
+    "meaningMM": "ပွေ့ဖက်သည်၊ ဖက်သည်၊ ထွေးပွေ့သည်",
+    "examples": [
+      "抱負 (ほうふ) - ရည်မှန်းချက်",
+      "抱える (かかえる) - သယ်ပိုးသည်"
+    ]
+  },
+  {
+    "kanji": "抵",
+    "onyomi": "テイ",
+    "kunyomi": "なし",
+    "meaning": "resist, reach, touch",
+    "meaningMM": "ခုခံသည်၊ ရောက်ရှိသည်၊ ထိတွေ့သည်",
+    "examples": [
+      "抵抗 (ていこう) - ခုခံခြင်း",
+      "大抵 (たいてい) - အများအားဖြင့်"
+    ]
+  },
+  {
+    "kanji": "抜",
+    "onyomi": "バツ",
+    "kunyomi": "ぬく, ぬける, ぬかす, ぬかる",
+    "meaning": "slip out, pull out, extract",
+    "meaningMM": "လျှောထွက်သည်၊ ဆွဲထုတ်သည်၊ ထုတ်ယူသည်",
+    "examples": [
+      "抜群 (ばつぐん) - ထူးချွန်သည်",
+      "抜き打ち (ぬきうち) - ရုတ်တရက်စစ်ဆေးခြင်း"
+    ]
+  },
+  {
+    "kanji": "描",
+    "onyomi": "ビョウ",
+    "kunyomi": "えがく, かく",
+    "meaning": "sketch, draw, paint, describe",
+    "meaningMM": "ပုံကြမ်းရေးသည်၊ ဆွဲသည်၊ ဆေးခြယ်သည်၊ ဖော်ပြသည်",
+    "examples": [
+      "描写 (びょうしゃ) - ဖော်ပြခြင်း",
+      "描く (えがく) - ရေးဆွဲသည်"
+    ]
+  },
+  {
+    "kanji": "捨",
+    "onyomi": "シャ",
+    "kunyomi": "すてる",
+    "meaning": "discard, abandon, throw away",
+    "meaningMM": "စွန့်ပစ်သည်၊ စွန့်ခွာသည်၊ ပစ်ချသည်",
+    "examples": [
+      "取捨 (しゅしゃ) - ရွေးချယ်ခြင်း",
+      "捨てる (すてる) - ပစ်ချသည်"
+    ]
+  },
+  {
+    "kanji": "挑",
+    "onyomi": "チョウ",
+    "kunyomi": "いどむ",
+    "meaning": "challenge, contend, make a stand",
+    "meaningMM": "စိန်ခေါ်သည်၊ ယှဉ်ပြိုင်သည်၊ ရပ်တည်သည်",
+    "examples": [
+      "挑戦 (ちょうせん) - စိန်ခေါ်မှု",
+      "挑む (いどむ) - စိန်ခေါ်သည်"
+    ]
+  },
+  {
+    "kanji": "挟",
+    "onyomi": "キョウ",
+    "kunyomi": "はさむ, はさまる",
+    "meaning": "pinch, hold between, insert",
+    "meaningMM": "ညှပ်သည်၊ ကြားညှပ်သည်၊ ထည့်သွင်းသည်",
+    "examples": [
+      "挟む (はさむ) - ညှပ်သည်",
+      "板挟み (いたばさみ) - အကျပ်အတည်း"
+    ]
+  },
+  {
+    "kanji": "殴",
+    "onyomi": "オウ",
+    "kunyomi": "なぐる",
+    "meaning": "assault, hit, strike",
+    "meaningMM": "တိုက်ခိုက်သည်၊ ထိသည်၊ ရိုက်နှက်သည်",
+    "examples": [
+      "殴打 (おうだ) - ရိုက်နှက်ခြင်း",
+      "殴る (なぐる) - ရိုက်သည်"
+    ]
+  },
+  {
+    "kanji": "隔",
+    "onyomi": "カク",
+    "kunyomi": "へだてる, へだたる",
+    "meaning": "isolate, alternate, separate, distance",
+    "meaningMM": "ခွဲခြားသည်၊ တစ်လှည့်စီလုပ်သည်၊ ခြားနားသည်၊ အကွာအဝေး",
+    "examples": [
+      "間隔 (かんかく) - ခြားနားချက်",
+      "隔週 (かくしゅう) - တစ်ပတ်ခြား"
+    ]
+  },
+  {
+    "kanji": "揮",
+    "onyomi": "キ",
+    "kunyomi": "ふるう",
+    "meaning": "brandish, command, wave, flourish",
+    "meaningMM": "ဝှေ့ယမ်းသည်၊ ကွပ်ကဲသည်၊ လှိုင်းထသည်၊ ပွင့်လန်းသည်",
+    "examples": [
+      "指揮 (しき) - ကွပ်ကဲမှု",
+      "発揮 (はっき) - ပြသသည်"
+    ]
+  },
+  {
+    "kanji": "募",
+    "onyomi": "ボ",
+    "kunyomi": "つのる, つのる",
+    "meaning": "recruit, gather, collect, raise (funds)",
+    "meaningMM": "စုဆောင်းသည်၊ စုဝေးသည်၊ ငွေကြေးရှာဖွေသည်",
+    "examples": [
+      "募集 (ぼしゅう) - စုဆောင်းခြင်း",
+      "応募 (おうぼ) - လျှောက်ထားခြင်း"
+    ]
+  },
+  {
+    "kanji": "偏",
+    "onyomi": "ヘン",
+    "kunyomi": "かたよる",
+    "meaning": "partial,偏る",
+    "meaningMM": "တစ်စိတ်တစ်ပိုင်း၊ ဘက်လိုက်သည်",
+    "examples": [
+      "偏見 (へんけん) - ဘက်လိုက်မှု",
+      "偏食 (へんしょく) - အစားတစ်မျိုးတည်းစားခြင်း"
+    ]
+  },
+  {
+    "kanji": "覧",
+    "onyomi": "ラン",
+    "kunyomi": "みる",
+    "meaning": "perusal, see",
+    "meaningMM": "စစ်ဆေးခြင်း၊ ကြည့်ရှုခြင်း",
+    "examples": [
+      "一覧 (いちらん) - စာရင်း",
+      "観覧 (かんらん) - ကြည့်ရှုခြင်း"
+    ]
+  },
+  {
+    "kanji": "拡",
+    "onyomi": "カク",
+    "kunyomi": "ひろがる, ひろげる",
+    "meaning": "broaden, extend, expand, enlarge",
+    "meaningMM": "ကျယ်ပြန့်သည်၊ ချဲ့ထွင်သည်၊ ကြီးမားသည်",
+    "examples": [
+      "拡大 (かくだい) - ချဲ့ထွင်ခြင်း",
+      "拡張 (かくちょう) - တိုးချဲ့ခြင်း"
+    ]
+  },
+  {
+    "kanji": "縮",
+    "onyomi": "シュク",
+    "kunyomi": "ちぢむ, ちぢまる, ちぢめる, ちぢれる, ちぢらす",
+    "meaning": "shrink, contract, shrivel, crumple",
+    "meaningMM": "ကျုံ့သည်၊ ကျစ်သည်၊ တွန့်သည်",
+    "examples": [
+      "縮小 (しゅくしょう) - ကျုံ့ခြင်း",
+      "短縮 (たんしゅく) - တိုတောင်းစေခြင်း"
+    ]
+  },
+  {
+    "kanji": "緩",
+    "onyomi": "カン",
+    "kunyomi": "ゆるむ, ゆるめる, ゆるい, ゆるやか",
+    "meaning": "slack, loosen, relax, lessen, be moderate",
+    "meaningMM": "လျော့သည်၊ ဖြေလျှော့သည်၊ ပေါ့ပါးသည်၊ အလယ်အလတ်ရှိသည်",
+    "examples": [
+      "緩和 (かんわ) - ဖြေလျှော့ခြင်း",
+      "緩急 (かんきゅう) - အနှေးအမြန်"
+    ]
+  },
+  {
+    "kanji": "織",
+    "onyomi": "ショク, シキ",
+    "kunyomi": "おる, おり",
+    "meaning": "weave, fabric",
+    "meaningMM": "ရက်လုပ်သည်၊ အထည်",
+    "examples": [
+      "組織 (そしき) - အဖွဲ့အစည်း",
+      "織物 (おりもの) - ရက်ထည်"
+    ]
+  },
+  {
+    "kanji": "紛",
+    "onyomi": "フン",
+    "kunyomi": "まぎれる, まぎらす, まぎらわしい, まぎらわす",
+    "meaning": "distract, be confused, mix up, be mistaken for",
+    "meaningMM": "အာရုံပျက်သည်၊ ရှုပ်ထွေးသည်၊ ရောထွေးသည်၊ မှားယွင်းသည်",
+    "examples": [
+      "紛争 (ふんそう) - ပဋိပက္ခ",
+      "紛失 (ふんしつ) - ပျောက်ဆုံးခြင်း"
+    ]
+  },
+  {
+    "kanji": "携",
+    "onyomi": "ケイ",
+    "kunyomi": "たずさえる, たずさわる",
+    "meaning": "portable, carry, be armed with, bring along",
+    "meaningMM": "သယ်ဆောင်ရလွယ်ကူသည်၊ သယ်ဆောင်သည်၊ လက်နက်ကိုင်ဆောင်သည်",
+    "examples": [
+      "携帯 (けいたい) - လက်ကိုင်",
+      "連携 (れんけい) - ပူးပေါင်းဆောင်ရွက်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "壊",
+    "onyomi": "カイ",
+    "kunyomi": "こわす, こわれる",
+    "meaning": "break, destroy, demolish",
+    "meaningMM": "ဖြိုဖျက်သည်၊ ဖျက်ဆီးသည်",
+    "examples": [
+      "破壊 (はかい) - ဖျက်ဆီးခြင်း",
+      "崩壊 (ほうかい) - ပြိုလဲခြင်း"
+    ]
+  },
+  {
+    "kanji": "盛",
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "もる, さかる, さかり",
+    "meaning": "prosperous, flourishing, vigorous",
+    "meaningMM": "သာယာဝပြောသည်၊ ပွင့်လန်းသည်၊ ခွန်အားကြီးသည်",
+    "examples": [
+      "盛大 (せいだい) - ကြီးကျယ်ခမ်းနားစွာ",
+      "盛り (もり) - အပြည့်အလျှံ"
+    ]
+  },
+  {
+    "kanji": "滞",
+    "onyomi": "タイ",
+    "kunyomi": "とどこおる",
+    "meaning": "stagnate, be delayed, be overdue",
+    "meaningMM": "ရပ်တန့်သည်၊ နောက်ကျသည်၊ သက်တမ်းလွန်သည်",
+    "examples": [
+      "滞在 (たいざい) - တည်းခိုခြင်း",
+      "渋滞 (じゅうたい) - ယာဉ်ကြောပိတ်ဆို့မှု"
+    ]
+  },
+  {
+    "kanji": "催",
+    "onyomi": "サイ",
+    "kunyomi": "もよおす",
+    "meaning": "sponsor, hold (a meeting), give (a show)",
+    "meaningMM": "ပံ့ပိုးသည်၊ ကျင်းပသည် (အစည်းအဝေး)၊ ပြသသည် (ပြပွဲ)",
+    "examples": [
+      "開催 (かいさい) - ကျင်းပခြင်း",
+      "催促 (さいそく) - တောင်းဆိုခြင်း"
+    ]
+  },
+  {
+    "kanji": "戒",
+    "onyomi": "カイ",
+    "kunyomi": "いましめる",
+    "meaning": "admonish, warn, commandment",
+    "meaningMM": "သတိပေးသည်၊ သတိပေးချက်၊ ပညတ်တော်",
+    "examples": [
+      "警戒 (けいかい) - သတိထားခြင်း",
+      "戒厳令 (かいげんれい) - စစ်အုပ်ချုပ်ရေး"
+    ]
+  },
+  {
+    "kanji": "掘",
+    "onyomi": "クツ",
+    "kunyomi": "ほる",
+    "meaning": "dig, delve, excavate",
+    "meaningMM": "တူးသည်၊ နက်ရှိုင်းစွာတူးသည်",
+    "examples": [
+      "発掘 (はっくつ) - တူးဖော်ခြင်း",
+      "掘る (ほる) - တူးသည်"
+    ]
+  },
+  {
+    "kanji": "探",
+    "onyomi": "タン",
+    "kunyomi": "さがす, さぐる",
+    "meaning": "search, look for, investigate",
+    "meaningMM": "ရှာဖွေသည်၊ စုံစမ်းသည်",
+    "examples": [
+      "探偵 (たんてい) - သူလျှို",
+      "探索 (たんさく) - ရှာဖွေမှု"
+    ]
+  },
+  {
+    "kanji": "貯",
+    "onyomi": "チョ",
+    "kunyomi": "たくわえる",
+    "meaning": "savings, store, lay by",
+    "meaningMM": "စုဆောင်းငွေ၊ သိုလှောင်သည်၊ စုဆောင်းသည်",
+    "examples": [
+      "貯金 (ちょきん) - ငွေစုခြင်း",
+      "貯蔵 (ちょぞう) - သိုလှောင်ခြင်း"
+   ]
+  },
+  {
+    "kanji": "忠",
+    "onyomi": "チュウ",
+    "kunyomi": "なし",
+    "meaning": "loyalty, fidelity, devotion",
+    "meaningMM": "သစ္စာရှိခြင်း၊ သစ္စာစောင့်သိခြင်း၊ ဆည်းကပ်ခြင်း",
+    "examples": [
+      "忠告 (ちゅうこく) - အကြံဉာဏ်ပေးခြင်း",
+      "忠実 (ちゅうじつ) - သစ္စာရှိသည်"
+    ]
+  },
+  {
+    "kanji": "惑",
+    "onyomi": "ワク",
+    "kunyomi": "まどう, まどわす",
+    "meaning": "bewilder, perplex, delusion, temptation",
+    "meaningMM": "တွေဝေသည်၊ ရှုပ်ထွေးစေသည်၊ လှည့်ဖြားမှု၊ သွေးဆောင်မှု",
+    "examples": [
+      "迷惑 (めいわく) - အနှောင့်အယှက်",
+      "困惑 (こんわく) - ရှုပ်ထွေးမှု"
+    ]
+  },
+  {
+    "kanji": "拝",
+    "onyomi": "ハイ",
+    "kunyomi": "おがむ, おろがむ",
+    "meaning": "worship, adore, honor",
+    "meaningMM": "ကိုးကွယ်သည်၊ ကြည်ညိုသည်၊ ဂုဏ်ပြုသည်",
+    "examples": [
+      "拝見 (はいけん) - (နှိမ့်ချသောစကား) ကြည့်ရှုခြင်း",
+      "参拝 (さんぱい) - ဘုရားဖူးခြင်း"
+    ]
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる, みさお",
+    "meaning": "manipulate, operate, steer",
+    "meaningMM": "ကိုင်တွယ်သည်၊ လုပ်ဆောင်သည်၊ ဦးဆောင်သည်",
+    "examples": [
+      "操作 (そうさ) - လည်ပတ်ခြင်း",
+      "体操 (たいそう) - ကိုယ်လက်လှုပ်ရှားမှု"
+    ]
+  },
+  {
+    "kanji": "捕",
+    "onyomi": "ホ",
+    "kunyomi": "とらえる, とらわれる, とる, とりこ",
+    "meaning": "catch, capture, arrest",
+    "meaningMM": "ဖမ်းသည်၊ ဖမ်းဆီးသည်",
+    "examples": [
+      "逮捕 (たいほ) - ဖမ်းဆီးခြင်း",
+      "捕獲 (ほかく) - ဖမ်းဆီးရမိခြင်း"
+    ]
+  },
+  {
+    "kanji": "担",
+    "onyomi": "タン",
+    "kunyomi": "かつぐ, になう",
+    "meaning": "shouldering, carry, bear, take responsibility",
+    "meaningMM": "ပခုံးထမ်းသည်၊ သယ်ဆောင်သည်၊ တာဝန်ယူသည်",
+    "examples": [
+      "担当 (たんとう) - တာဝန်ယူခြင်း",
+      "負担 (ふたん) - ဝန်ထုပ်ဝန်ပိုး"
+    ]
+  },
+  {
+    "kanji": "握",
+    "onyomi": "アク",
+    "kunyomi": "にぎる",
+    "meaning": "grip, grasp, hold",
+    "meaningMM": "ဆုပ်ကိုင်သည်၊ ဖမ်းဆုပ်သည်",
+    "examples": [
+      "握手 (あくしゅ) - လက်ဆွဲနှုတ်ဆက်ခြင်း",
+      "把握 (はあく) - နားလည်သဘောပေါက်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "抱",
+    "onyomi": "ホウ",
+    "kunyomi": "だく, いだく, かかえる",
+    "meaning": "embrace, hug, hold, harbor",
+    "meaningMM": "ပွေ့ဖက်သည်၊ ဖက်သည်၊ ထွေးပွေ့သည်",
+    "examples": [
+      "抱負 (ほうふ) - ရည်မှန်းချက်",
+      "抱える (かかえる) - သယ်ပိုးသည်"
+    ]
+  },
+  {
+    "kanji": "抵",
+    "onyomi": "テイ",
+    "kunyomi": "なし",
+    "meaning": "resist, reach, touch",
+    "meaningMM": "ခုခံသည်၊ ရောက်ရှိသည်၊ ထိတွေ့သည်",
+    "examples": [
+      "抵抗 (ていこう) - ခုခံခြင်း",
+      "大抵 (たいてい) - အများအားဖြင့်"
+    ]
+  },
+  {
+    "kanji": "抜",
+    "onyomi": "バツ",
+    "kunyomi": "ぬく, ぬける, ぬかす, ぬかる",
+    "meaning": "slip out, pull out, extract",
+    "meaningMM": "လျှောထွက်သည်၊ ဆွဲထုတ်သည်၊ ထုတ်ယူသည်",
+    "examples": [
+      "抜群 (ばつぐん) - ထူးချွန်သည်",
+      "抜き打ち (ぬきうち) - ရုတ်တရက်စစ်ဆေးခြင်း"
+    ]
+  },
+  {
+    "kanji": "描",
+    "onyomi": "ビョウ",
+    "kunyomi": "えがく, かく",
+    "meaning": "sketch, draw, paint, describe",
+    "meaningMM": "ပုံကြမ်းရေးသည်၊ ဆွဲသည်၊ ဆေးခြယ်သည်၊ ဖော်ပြသည်",
+    "examples": [
+      "描写 (びょうしゃ) - ဖော်ပြခြင်း",
+      "描く (えがく) - ရေးဆွဲသည်"
+    ]
+  },
+  {
+    "kanji": "捨",
+    "onyomi": "シャ",
+    "kunyomi": "すてる",
+    "meaning": "discard, abandon, throw away",
+    "meaningMM": "စွန့်ပစ်သည်၊ စွန့်ခွာသည်၊ ပစ်ချသည်",
+    "examples": [
+      "取捨 (しゅしゃ) - ရွေးချယ်ခြင်း",
+      "捨てる (すてる) - ပစ်ချသည်"
+    ]
+  },
+  {
+    "kanji": "挑",
+    "onyomi": "チョウ",
+    "kunyomi": "いどむ",
+    "meaning": "challenge, contend, make a stand",
+    "meaningMM": "စိန်ခေါ်သည်၊ ယှဉ်ပြိုင်သည်၊ ရပ်တည်သည်",
+    "examples": [
+      "挑戦 (ちょうせん) - စိန်ခေါ်မှု",
+      "挑む (いどむ) - စိန်ခေါ်သည်"
+    ]
+  },
+  {
+    "kanji": "挟",
+    "onyomi": "キョウ",
+    "kunyomi": "はさむ, はさまる",
+    "meaning": "pinch, hold between, insert",
+    "meaningMM": "ညှပ်သည်၊ ကြားညှပ်သည်၊ ထည့်သွင်းသည်",
+    "examples": [
+      "挟む (はさむ) - ညှပ်သည်",
+      "板挟み (いたばさみ) - အကျပ်အတည်း"
+    ]
+  },
+  {
+    "kanji": "殴",
+    "onyomi": "オウ",
+    "kunyomi": "なぐる",
+    "meaning": "assault, hit, strike",
+    "meaningMM": "တိုက်ခိုက်သည်၊ ထိသည်၊ ရိုက်နှက်သည်",
+    "examples": [
+      "殴打 (おうだ) - ရိုက်နှက်ခြင်း",
+      "殴る (なぐる) - ရိုက်သည်"
+    ]
+  },
+  {
+    "kanji": "崩",
+    "onyomi": "ホウ",
+    "kunyomi": "くずれる, くずす",
+    "meaning": "crumble, collapse, fall apart",
+    "meaningMM": "ပြိုလဲသည်၊ ပြိုကွဲသည်",
+    "examples": [
+      "崩壊 (ほうかい) - ပြိုလဲခြင်း",
+      "雪崩 (なだれ) - နှင်းပြိုခြင်း"
+    ]
+  },
+  {
+    "kanji": "磨",
+    "onyomi": "マ",
+    "kunyomi": "みがく",
+    "meaning": "grind, polish, scour, brush",
+    "meaningMM": "ကြိတ်သည်၊ ပွတ်သည်၊ တိုက်ချွတ်သည်၊ တိုက်သည်",
+    "examples": [
+      "研磨 (けんま) - ကြိတ်ခြင်း",
+      "磨く (みがく) - ပွတ်တိုက်သည်"
+    ]
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる, みさお",
+    "meaning": "manipulate, operate, steer",
+    "meaningMM": "ကိုင်တွယ်သည်၊ လုပ်ဆောင်သည်၊ ဦးဆောင်သည်",
+    "examples": [
+      "操作 (そうさ) - လည်ပတ်ခြင်း",
+      "体操 (たいそう) - ကိုယ်လက်လှုပ်ရှားမှု"
+    ]
+  },
+  {
+    "kanji": "砕",
+    "onyomi": "サイ",
+    "kunyomi": "くだく, くだける",
+    "meaning": "smash, break, crush",
+    "meaningMM": "ချေမွသည်၊ ကွဲသည်၊ ကြိတ်သည်",
+    "examples": [
+      "粉砕 (ふんさい) - အမှုန့်ကြိတ်ခြင်း",
+      "砕ける (くだける) - ကွဲသည်"
+    ]
+  },
+  {
+    "kanji": "飾",
+    "onyomi": "ショク",
+    "kunyomi": "かざる",
+    "meaning": "decorate, ornament, adorn",
+    "meaningMM": "အလှဆင်သည်၊ တန်ဆာဆင်သည်",
+    "examples": [
+      "装飾 (そうしょく) - အလှဆင်ခြင်း",
+      "飾り (かざり) - အလှဆင်ပစ္စည်း"
+    ]
+  },
+  {
+    "kanji": "撃",
+    "onyomi": "ゲキ",
+    "kunyomi": "うつ",
+    "meaning": "beat, attack, defeat",
+    "meaningMM": "ရိုက်နှက်သည်၊ တိုက်ခိုက်သည်၊ အနိုင်ယူသည်",
+    "examples": [
+      "攻撃 (こうげき) - တိုက်ခိုက်ခြင်း",
+      "爆撃 (ばくげき) - ဗုံးကြဲခြင်း"
+    ]
+  },
+  {
+    "kanji": "震",
+    "onyomi": "シン",
+    "kunyomi": "ふるう, ふるえる",
+    "meaning": "quake, shake, tremble",
+    "meaningMM": "ငလျင်လှုပ်သည်၊ တုန်လှုပ်သည်",
+    "examples": [
+      "地震 (じしん) - ငလျင်",
+      "振動 (しんどう) - တုန်ခါမှု"
+    ]
+  },
+  {
+    "kanji": "冒",
+    "onyomi": "ボウ",
+    "kunyomi": "おか",
+    "meaning": "brave, risk, face, dare",
+    "meaningMM": "ရဲရင့်သည်၊ အန္တရာယ်ပြုသည်၊ ရင်ဆိုင်သည်၊ ရဲရင့်စွာလုပ်သည်",
+    "examples": [
+      "冒険 (ぼうけん) - စွန့်စားခန်း",
+      "冒涜 (ぼうとく) - စော်ကားမှု"
+    ]
+  },
+  {
+    "kanji": "踏",
+    "onyomi": "トウ",
+    "kunyomi": "ふむ, ふまえる",
+    "meaning": "step, tread, trample",
+    "meaningMM": "ခြေလှမ်းသည်၊ နင်းသည်",
+    "examples": [
+      "踏切 (ふみきり) - မီးရထားလမ်းဖြတ်ကူးခြင်း",
+      "踏む (ふむ) - နင်းသည်"
+    ]
+  },
+  {
+    "kanji": "叫",
+    "onyomi": "キョウ",
+    "kunyomi": "さけぶ",
+    "meaning": "shout, yell, exclaim",
+    "meaningMM": "အော်ဟစ်သည်၊ ကြွေးကြော်သည်",
+    "examples": [
+      "叫び (さけび) - အော်သံ",
+      "絶叫 (ぜっきょう) - အော်ဟစ်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "縮",
+    "onyomi": "シュク",
+    "kunyomi": "ちぢむ, ちぢまる, ちぢめる, ちぢれる, ちぢらす",
+    "meaning": "shrink, contract, shrivel, crumple",
+    "meaningMM": "ကျုံ့သည်၊ ကျစ်သည်၊ တွန့်သည်",
+    "examples": [
+      "縮小 (しゅくしょう) - ကျုံ့ခြင်း",
+      "短縮 (たんしゅく) - တိုတောင်းစေခြင်း"
+    ]
+  },
+  {
+    "kanji": "傾",
+    "onyomi": "ケイ",
+    "kunyomi": "かたむく, かたむける",
+    "meaning": "lean, incline, tilt, trend",
+    "meaningMM": "ယိမ်းသည်၊ စောင်းသည်၊ လှည့်သည်၊ ခေတ်စားသည်",
+    "examples": [
+      "傾向 (けいこう) - ခေတ်ရေစီးကြောင်း",
+      "傾ける (かたむける) - စောင်းသည်"
+    ]
+  },
+  {
+    "kanji": "傾",
+    "onyomi": "ケイ",
+    "kunyomi": "かたむく, かたむける",
+    "meaning": "lean, incline, tilt, trend",
+    "meaningMM": "ယိမ်းသည်၊ စောင်းသည်၊ လှည့်သည်၊ ခေတ်စားသည်",
+    "examples": [
+      "傾向 (けいこう) - ခေတ်ရေစီးကြောင်း",
+      "傾ける (かたむける) - စောင်းသည်"
+    ]
+  },
+  {
+    "kanji": "飾",
+    "onyomi": "ショク",
+    "kunyomi": "かざる",
+    "meaning": "decorate, ornament, adorn",
+    "meaningMM": "အလှဆင်သည်၊ တန်ဆာဆင်သည်",
+    "examples": [
+      "装飾 (そうしょく) - အလှဆင်ခြင်း",
+      "飾り (かざり) - အလှဆင်ပစ္စည်း"
+    ]
+  },
+  {
+    "kanji": "黙",
+    "onyomi": "モク",
+    "kunyomi": "だまる, だまっている",
+    "meaning": "silence, tacit, unspoken",
+    "meaningMM": "တိတ်ဆိတ်သည်၊ တိတ်ဆိတ်စွာ၊ မပြောသော",
+    "examples": [
+      "黙認 (もくにん) - တိတ်ဆိတ်စွာသဘောတူခြင်း",
+      "黙る (だまる) - တိတ်ဆိတ်စွာနေသည်"
+    ]
+  },
+  {
+    "kanji": "巡",
+    "onyomi": "ジュン",
+    "kunyomi": "めぐる, めぐる",
+    "meaning": "patrol, go around, circulate",
+    "meaningMM": "ကင်းလှည့်သည်၊ လှည့်ပတ်သည်၊ လည်ပတ်သည်",
+    "examples": [
+      "巡回 (じゅんかい) - လှည့်လည်ခြင်း",
+      "巡査 (じゅんさ) - ရဲသား"
+    ]
+  },
+  {
+    "kanji": "縮",
+    "onyomi": "シュク",
+    "kunyomi": "ちぢむ, ちぢまる, ちぢめる, ちぢれる, ちぢらす",
+    "meaning": "shrink, contract, shrivel, crumple",
+    "meaningMM": "ကျုံ့သည်၊ ကျစ်သည်၊ တွန့်သည်",
+    "examples": [
+      "縮小 (しゅくしょう) - ကျုံ့ခြင်း",
+      "短縮 (たんしゅく) - တိုတောင်းစေခြင်း"
+    ]
+  },
+  {
+    "kanji": "掘",
+    "onyomi": "クツ",
+    "kunyomi": "ほる",
+    "meaning": "dig, delve, excavate",
+    "meaningMM": "တူးသည်၊ နက်ရှိုင်းစွာတူးသည်",
+    "examples": [
+      "発掘 (はっくつ) - တူးဖော်ခြင်း",
+      "掘る (ほる) - တူးသည်"
+    ]
+  },
+  {
+    "kanji": "探",
+    "onyomi": "タン",
+    "kunyomi": "さがす, さぐる",
+    "meaning": "search, look for, investigate",
+    "meaningMM": "ရှာဖွေသည်၊ စုံစမ်းသည်",
+    "examples": [
+      "探偵 (たんてい) - သူလျှို",
+      "探索 (たんさく) - ရှာဖွေမှု"
+    ]
+  },
+  {
+    "kanji": "貯",
+    "onyomi": "チョ",
+    "kunyomi": "たくわえる",
+    "meaning": "savings, store, lay by",
+    "meaningMM": "စုဆောင်းငွေ၊ သိုလှောင်သည်၊ စုဆောင်းသည်",
+    "examples": [
+      "貯金 (ちょきん) - ငွေစုခြင်း",
+      "貯蔵 (ちょぞう) - သိုလှောင်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "忠",
+    "onyomi": "チュウ",
+    "kunyomi": "なし",
+    "meaning": "loyalty, fidelity, devotion",
+    "meaningMM": "သစ္စာရှိခြင်း၊ သစ္စာစောင့်သိခြင်း၊ ဆည်းကပ်ခြင်း",
+    "examples": [
+      "忠告 (ちゅうこく) - အကြံဉာဏ်ပေးခြင်း",
+      "忠実 (ちゅうじつ) - သစ္စာရှိသည်"
+    ]
+  },
+  {
+    "kanji": "惑",
+    "onyomi": "ワク",
+    "kunyomi": "まどう, まどわす",
+    "meaning": "bewilder, perplex, delusion, temptation",
+    "meaningMM": "တွေဝေသည်၊ ရှုပ်ထွေးစေသည်၊ လှည့်ဖြားမှု၊ သွေးဆောင်မှု",
+    "examples": [
+      "迷惑 (めいわく) - အနှောင့်အယှက်",
+      "困惑 (こんわく) - ရှုပ်ထွေးမှု"
+    ]
+  },
+  {
+    "kanji": "拝",
+    "onyomi": "ハイ",
+    "kunyomi": "おがむ, おろがむ",
+    "meaning": "worship, adore, honor",
+    "meaningMM": "ကိုးကွယ်သည်၊ ကြည်ညိုသည်၊ ဂုဏ်ပြုသည်",
+    "examples": [
+      "拝見 (はいけん) - (နှိမ့်ချသောစကား) ကြည့်ရှုခြင်း",
+      "参拝 (さんぱい) - ဘုရားဖူးခြင်း"
+    ]
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる, みさお",
+    "meaning": "manipulate, operate, steer",
+    "meaningMM": "ကိုင်တွယ်သည်၊ လုပ်ဆောင်သည်၊ ဦးဆောင်သည်",
+    "examples": [
+      "操作 (そうさ) - လည်ပတ်ခြင်း",
+      "体操 (たいそう) - ကိုယ်လက်လှုပ်ရှားမှု"
+    ]
+  },
+  {
+    "kanji": "捕",
+    "onyomi": "ホ",
+    "kunyomi": "とらえる, とらわれる, とる, とりこ",
+    "meaning": "catch, capture, arrest",
+    "meaningMM": "ဖမ်းသည်၊ ဖမ်းဆီးသည်",
+    "examples": [
+      "逮捕 (たいほ) - ဖမ်းဆီးခြင်း",
+      "捕獲 (ほかく) - ဖမ်းဆီးရမိခြင်း"
+    ]
+  },
+  {
+    "kanji": "担",
+    "onyomi": "タン",
+    "kunyomi": "かつぐ, になう",
+    "meaning": "shouldering, carry, bear, take responsibility",
+    "meaningMM": "ပခုံးထမ်းသည်၊ သယ်ဆောင်သည်၊ တာဝန်ယူသည်",
+    "examples": [
+      "担当 (たんとう) - တာဝန်ယူခြင်း",
+      "負担 (ふたん) - ဝန်ထုပ်ဝန်ပိုး"
+    ]
+  },
+  {
+    "kanji": "握",
+    "onyomi": "アク",
+    "kunyomi": "にぎる",
+    "meaning": "grip, grasp, hold",
+    "meaningMM": "ဆုပ်ကိုင်သည်၊ ဖမ်းဆုပ်သည်",
+    "examples": [
+      "握手 (あくしゅ) - လက်ဆွဲနှုတ်ဆက်ခြင်း",
+      "把握 (はあく) - နားလည်သဘောပေါက်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "抱",
+    "onyomi": "ホウ",
+    "kunyomi": "だく, いだく, かかえる",
+    "meaning": "embrace, hug, hold, harbor",
+    "meaningMM": "ပွေ့ဖက်သည်၊ ဖက်သည်၊ ထွေးပွေ့သည်",
+    "examples": [
+      "抱負 (ほうふ) - ရည်မှန်းချက်",
+      "抱える (かかえる) - သယ်ပိုးသည်"
+    ]
+  },
+  {
+    "kanji": "抵",
+    "onyomi": "テイ",
+    "kunyomi": "なし",
+    "meaning": "resist, reach, touch",
+    "meaningMM": "ခုခံသည်၊ ရောက်ရှိသည်၊ ထိတွေ့သည်",
+    "examples": [
+      "抵抗 (ていこう) - ခုခံခြင်း",
+      "大抵 (たいてい) - အများအားဖြင့်"
+    ]
+  },
+  {
+    "kanji": "抜",
+    "onyomi": "バツ",
+    "kunyomi": "ぬく, ぬける, ぬかす, ぬかる",
+    "meaning": "slip out, pull out, extract",
+    "meaningMM": "လျှောထွက်သည်၊ ဆွဲထုတ်သည်၊ ထုတ်ယူသည်",
+    "examples": [
+      "抜群 (ばつぐん) - ထူးချွန်သည်",
+      "抜き打ち (ぬきうち) - ရုတ်တရက်စစ်ဆေးခြင်း"
+    ]
+  },
+  {
+    "kanji": "描",
+    "onyomi": "ビョウ",
+    "kunyomi": "えがく, かく",
+    "meaning": "sketch, draw, paint, describe",
+    "meaningMM": "ပုံကြမ်းရေးသည်၊ ဆွဲသည်၊ ဆေးခြယ်သည်၊ ဖော်ပြသည်",
+    "examples": [
+      "描写 (びょうしゃ) - ဖော်ပြခြင်း",
+      "描く (えがく) - ရေးဆွဲသည်"
+    ]
+  },
+  {
+    "kanji": "捨",
+    "onyomi": "シャ",
+    "kunyomi": "すてる",
+    "meaning": "discard, abandon, throw away",
+    "meaningMM": "စွန့်ပစ်သည်၊ စွန့်ခွာသည်၊ ပစ်ချသည်",
+    "examples": [
+      "取捨 (しゅしゃ) - ရွေးချယ်ခြင်း",
+      "捨てる (すてる) - ပစ်ချသည်"
+    ]
+  },
+  {
+    "kanji": "挑",
+    "onyomi": "チョウ",
+    "kunyomi": "いどむ",
+    "meaning": "challenge, contend, make a stand",
+    "meaningMM": "စိန်ခေါ်သည်၊ ယှဉ်ပြိုင်သည်၊ ရပ်တည်သည်",
+    "examples": [
+      "挑戦 (ちょうせん) - စိန်ခေါ်မှု",
+      "挑む (いどむ) - စိန်ခေါ်သည်"
+    ]
+  },
+  {
+    "kanji": "挟",
+    "onyomi": "キョウ",
+    "kunyomi": "はさむ, はさまる",
+    "meaning": "pinch, hold between, insert",
+    "meaningMM": "ညှပ်သည်၊ ကြားညှပ်သည်၊ ထည့်သွင်းသည်",
+    "examples": [
+      "挟む (はさむ) - ညှပ်သည်",
+      "板挟み (いたばさみ) - အကျပ်အတည်း"
+    ]
+  },
+  {
+    "kanji": "殴",
+    "onyomi": "オウ",
+    "kunyomi": "なぐる",
+    "meaning": "assault, hit, strike",
+    "meaningMM": "တိုက်ခိုက်သည်၊ ထိသည်၊ ရိုက်နှက်သည်",
+    "examples": [
+      "殴打 (おうだ) - ရိုက်နှက်ခြင်း",
+      "殴る (なぐる) - ရိုက်သည်"
+    ]
+  },
+  {
+    "kanji": "崩",
+    "onyomi": "ホウ",
+    "kunyomi": "くずれる, くずす",
+    "meaning": "crumble, collapse, fall apart",
+    "meaningMM": "ပြိုလဲသည်၊ ပြိုကွဲသည်",
+    "examples": [
+      "崩壊 (ほうかい) - ပြိုလဲခြင်း",
+      "雪崩 (なだれ) - နှင်းပြိုခြင်း"
+    ]
+  },
+  {
+    "kanji": "磨",
+    "onyomi": "マ",
+    "kunyomi": "みがく",
+    "meaning": "grind, polish, scour, brush",
+    "meaningMM": "ကြိတ်သည်၊ ပွတ်သည်၊ တိုက်ချွတ်သည်၊ တိုက်သည်",
+    "examples": [
+      "研磨 (けんま) - ကြိတ်ခြင်း",
+      "磨く (みがく) - ပွတ်တိုက်သည်"
+    ]
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる, みさお",
+    "meaning": "manipulate, operate, steer",
+    "meaningMM": "ကိုင်တွယ်သည်၊ လုပ်ဆောင်သည်၊ ဦးဆောင်သည်",
+    "examples": [
+      "操作 (そうさ) - လည်ပတ်ခြင်း",
+      "体操 (たいそう) - ကိုယ်လက်လှုပ်ရှားမှု"
+    ]
+  },
+  {
+    "kanji": "砕",
+    "onyomi": "サイ",
+    "kunyomi": "くだく, くだける",
+    "meaning": "smash, break, crush",
+    "meaningMM": "ချေမွသည်၊ ကွဲသည်၊ ကြိတ်သည်",
+    "examples": [
+      "粉砕 (ふんさい) - အမှုန့်ကြိတ်ခြင်း",
+      "砕ける (くだける) - ကွဲသည်"
+    ]
+  },
+  {
+    "kanji": "飾",
+    "onyomi": "ショク",
+    "kunyomi": "かざる",
+    "meaning": "decorate, ornament, adorn",
+    "meaningMM": "အလှဆင်သည်၊ တန်ဆာဆင်သည်",
+    "examples": [
+      "装飾 (そうしょく) - အလှဆင်ခြင်း",
+      "飾り (かざり) - အလှဆင်ပစ္စည်း"
+    ]
+  },
+  {
+    "kanji": "撃",
+    "onyomi": "ゲキ",
+    "kunyomi": "うつ",
+    "meaning": "beat, attack, defeat",
+    "meaningMM": "ရိုက်နှက်သည်၊ တိုက်ခိုက်သည်၊ အနိုင်ယူသည်",
+    "examples": [
+      "攻撃 (こうげき) - တိုက်ခိုက်ခြင်း",
+      "爆撃 (ばくげき) - ဗုံးကြဲခြင်း"
+    ]
+  },
+  {
+    "kanji": "震",
+    "onyomi": "シン",
+    "kunyomi": "ふるう, ふるえる",
+    "meaning": "quake, shake, tremble",
+    "meaningMM": "ငလျင်လှုပ်သည်၊ တုန်လှုပ်သည်",
+    "examples": [
+      "地震 (じしん) - ငလျင်",
+      "振動 (しんどう) - တုန်ခါမှု"
+    ]
+  },
+  {
+    "kanji": "冒",
+    "onyomi": "ボウ",
+    "kunyomi": "おか",
+    "meaning": "brave, risk, face, dare",
+    "meaningMM": "ရဲရင့်သည်၊ အန္တရာယ်ပြုသည်၊ ရင်ဆိုင်သည်၊ ရဲရင့်စွာလုပ်သည်",
+    "examples": [
+      "冒険 (ぼうけん) - စွန့်စားခန်း",
+      "冒涜 (ぼうとく) - စော်ကားမှု"
+    ]
+  },
+  {
+    "kanji": "踏",
+    "onyomi": "トウ",
+    "kunyomi": "ふむ, ふまえる",
+    "meaning": "step, tread, trample",
+    "meaningMM": "ခြေလှမ်းသည်၊ နင်းသည်",
+    "examples": [
+      "踏切 (ふみきり) - မီးရထားလမ်းဖြတ်ကူးခြင်း",
+      "踏む (ふむ) - နင်းသည်"
+    ]
+  },
+  {
+    "kanji": "叫",
+    "onyomi": "キョウ",
+    "kunyomi": "さけぶ",
+    "meaning": "shout, yell, exclaim",
+    "meaningMM": "အော်ဟစ်သည်၊ ကြွေးကြော်သည်",
+    "examples": [
+      "叫び (さけび) - အော်သံ",
+      "絶叫 (ぜっきょう) - အော်ဟစ်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "縮",
+    "onyomi": "シュク",
+    "kunyomi": "ちぢむ, ちぢまる, ちぢめる, ちぢれる, ちぢらす",
+    "meaning": "shrink, contract, shrivel, crumple",
+    "meaningMM": "ကျုံ့သည်၊ ကျစ်သည်၊ တွန့်သည်",
+    "examples": [
+      "縮小 (しゅくしょう) - ကျုံ့ခြင်း",
+      "短縮 (たんしゅく) - တိုတောင်းစေခြင်း"
+    ]
+  },
+  {
+    "kanji": "傾",
+    "onyomi": "ケイ",
+    "kunyomi": "かたむく, かたむける",
+    "meaning": "lean, incline, tilt, trend",
+    "meaningMM": "ယိမ်းသည်၊ စောင်းသည်၊ လှည့်သည်၊ ခေတ်စားသည်",
+    "examples": [
+      "傾向 (けいこう) - ခေတ်ရေစီးကြောင်း",
+      "傾ける (かたむける) - စောင်းသည်"
+    ]
+  },
+  {
+    "kanji": "飾",
+    "onyomi": "ショク",
+    "kunyomi": "かざる",
+    "meaning": "decorate, ornament, adorn",
+    "meaningMM": "အလှဆင်သည်၊ တန်ဆာဆင်သည်",
+    "examples": [
+      "装飾 (そうしょく) - အလှဆင်ခြင်း",
+      "飾り (かざり) - အလှဆင်ပစ္စည်း"
+    ]
+  },
+  {
+    "kanji": "黙",
+    "onyomi": "モク",
+    "kunyomi": "だまる, だまっている",
+    "meaning": "silence, tacit, unspoken",
+    "meaningMM": "တိတ်ဆိတ်သည်၊ တိတ်ဆိတ်စွာ၊ မပြောသော",
+    "examples": [
+      "黙認 (もくにん) - တိတ်ဆိတ်စွာသဘောတူခြင်း",
+      "黙る (だまる) - တိတ်ဆိတ်စွာနေသည်"
+    ]
+  },
+  {
+    "kanji": "巡",
+    "onyomi": "ジュン",
+    "kunyomi": "めぐる, めぐる",
+    "meaning": "patrol, go around, circulate",
+    "meaningMM": "ကင်းလှည့်သည်၊ လှည့်ပတ်သည်၊ လည်ပတ်သည်",
+    "examples": [
+      "巡回 (じゅんかい) - လှည့်လည်ခြင်း",
+      "巡査 (じゅんさ) - ရဲသား"
+    ]
+  },
+  {
+    "kanji": "埋",
+    "onyomi": "マイ",
+    "kunyomi": "うめる, うまる, うもれる, うずめる",
+    "meaning": "bury, fill up, cover",
+    "meaningMM": "မြှုပ်သည်၊ ဖြည့်သည်၊ ဖုံးအုပ်သည်",
+    "examples": [
+      "埋蔵 (まいぞう) - မြှုပ်နှံခြင်း",
+      "埋める (うめる) - မြှုပ်သည်"
+    ]
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる, みさお",
+    "meaning": "manipulate, operate, steer",
+    "meaningMM": "ကိုင်တွယ်သည်၊ လုပ်ဆောင်သည်၊ ဦးဆောင်သည်",
+    "examples": [
+      "操作 (そうさ) - လည်ပတ်ခြင်း",
+      "体操 (たいそう) - ကိုယ်လက်လှုပ်ရှားမှု"
+    ]
+  },
+  {
+    "kanji": "迫",
+    "onyomi": "ハク",
+    "kunyomi": "せまる",
+    "meaning": "urge, impel, compel, press",
+    "meaningMM": "တိုက်တွန်းသည်၊ တွန်းအားပေးသည်၊ ဖိအားပေးသည်",
+    "examples": [
+      "圧迫 (あっぱく) - ဖိအားပေးခြင်း",
+      "迫る (せまる) - နီးကပ်လာသည်"
+    ]
+  },
+  {
+    "kanji": "裂",
+    "onyomi": "レツ",
+    "kunyomi": "さく, さける",
+    "meaning": "split, tear, rip, cleave",
+    "meaningMM": "ခွဲသည်၊ ဆုတ်ဖြဲသည်",
+    "examples": [
+      "分裂 (ぶんれつ) - ကွဲပြားခြင်း",
+      "裂ける (さける) - ဆုတ်ပြဲသည်"
+    ]
+  },
+  {
+    "kanji": "紛",
+    "onyomi": "フン",
+    "kunyomi": "まぎれる, まぎらす, まぎらわしい, まぎらわす",
+    "meaning": "distract, be confused, mix up, be mistaken for",
+    "meaningMM": "အာရုံပျက်သည်၊ ရှုပ်ထွေးသည်၊ ရောထွေးသည်၊ မှားယွင်းသည်",
+    "examples": [
+      "紛争 (ふんそう) - ပဋိပက္ခ",
+      "紛失 (ふんしつ) - ပျောက်ဆုံးခြင်း"
+    ]
+  },
+  {
+    "kanji": "縮",
+    "onyomi": "シュク",
+    "kunyomi": "ちぢむ, ちぢまる, ちぢめる, ちぢれる, ちぢらす",
+    "meaning": "shrink, contract, shrivel, crumple",
+    "meaningMM": "ကျုံ့သည်၊ ကျစ်သည်၊ တွန့်သည်",
+    "examples": [
+      "縮小 (しゅくしょう) - ကျုံ့ခြင်း",
+      "短縮 (たんしゅく) - တိုတောင်းစေခြင်း"
+    ]
+  },
+  {
+    "kanji": "傾",
+    "onyomi": "ケイ",
+    "kunyomi": "かたむく, かたむける",
+    "meaning": "lean, incline, tilt, trend",
+    "meaningMM": "ယိမ်းသည်၊ စောင်းသည်၊ လှည့်သည်၊ ခေတ်စားသည်",
+    "examples": [
+      "傾向 (けいこう) - ခေတ်ရေစီးကြောင်း",
+      "傾ける (かたむける) - စောင်းသည်"
+    ]
+  },
+  {
+    "kanji": "飾",
+    "onyomi": "ショク",
+    "kunyomi": "かざる",
+    "meaning": "decorate, ornament, adorn",
+    "meaningMM": "အလှဆင်သည်၊ တန်ဆာဆင်သည်",
+    "examples": [
+      "装飾 (そうしょく) - အလှဆင်ခြင်း",
+      "飾り (かざり) - အလှဆင်ပစ္စည်း"
+    ]
+  },
+  {
+    "kanji": "黙",
+    "onyomi": "モク",
+    "kunyomi": "だまる, だまっている",
+    "meaning": "silence, tacit, unspoken",
+    "meaningMM": "တိတ်ဆိတ်သည်၊ တိတ်ဆိတ်စွာ၊ မပြောသော",
+    "examples": [
+      "黙認 (もくにん) - တိတ်ဆိတ်စွာသဘောတူခြင်း",
+      "黙る (だまる) - တိတ်ဆိတ်စွာနေသည်"
+    ]
+  },
+  {
+    "kanji": "巡",
+    "onyomi": "ジュン",
+    "kunyomi": "めぐる, めぐる",
+    "meaning": "patrol, go around, circulate",
+    "meaningMM": "ကင်းလှည့်သည်၊ လှည့်ပတ်သည်၊ လည်ပတ်သည်",
+    "examples": [
+      "巡回 (じゅんかい) - လှည့်လည်ခြင်း",
+      "巡査 (じゅんさ) - ရဲသား"
+    ]
+  },
+  {
+    "kanji": "埋",
+    "onyomi": "マイ",
+    "kunyomi": "うめる, うまる, うもれる, うずめる",
+    "meaning": "bury, fill up, cover",
+    "meaningMM": "မြှုပ်သည်၊ ဖြည့်သည်၊ ဖုံးအုပ်သည်",
+    "examples": [
+      "埋蔵 (まいぞう) - မြှုပ်နှံခြင်း",
+      "埋める (うめる) - မြှုပ်သည်"
+    ]
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる, みさお",
+    "meaning": "manipulate, operate, steer",
+    "meaningMM": "ကိုင်တွယ်သည်၊ လုပ်ဆောင်သည်၊ ဦးဆောင်သည်",
+    "examples": [
+      "操作 (そうさ) - လည်ပတ်ခြင်း",
+      "体操 (たいそう) - ကိုယ်လက်လှုပ်ရှားမှု"
+    ]
+  },
+  {
+    "kanji": "迫",
+    "onyomi": "ハク",
+    "kunyomi": "せまる",
+    "meaning": "urge, impel, compel, press",
+    "meaningMM": "တိုက်တွန်းသည်၊ တွန်းအားပေးသည်၊ ဖိအားပေးသည်",
+    "examples": [
+      "圧迫 (あっぱく) - ဖိအားပေးခြင်း",
+      "迫る (せまる) - နီးကပ်လာသည်"
+    ]
+  },
+  {
+    "kanji": "裂",
+    "onyomi": "レツ",
+    "kunyomi": "さく, さける",
+    "meaning": "split, tear, rip, cleave",
+    "meaningMM": "ခွဲသည်၊ ဆုတ်ဖြဲသည်",
+    "examples": [
+      "分裂 (ぶんれつ) - ကွဲပြားခြင်း",
+      "裂ける (さける) - ဆုတ်ပြဲသည်"
+    ]
+  },
+  {
+    "kanji": "紛",
+    "onyomi": "フン",
+    "kunyomi": "まぎれる, まぎらす, まぎらわしい, まぎらわす",
+    "meaning": "distract, be confused, mix up, be mistaken for",
+    "meaningMM": "အာရုံပျက်သည်၊ ရှုပ်ထွေးသည်၊ ရောထွေးသည်၊ မှားယွင်းသည်",
+    "examples": [
+      "紛争 (ふんそう) - ပဋိပက္ခ",
+      "紛失 (ふんしつ) - ပျောက်ဆုံးခြင်း"
+    ]
+  },
+  {
+    "kanji": "仰",
+    "onyomi": "ギョウ, コウ",
+    "kunyomi": "あおぐ, おおせ",
+    "meaning": "face-up, look up, depend on",
+    "meaningMM": "မျက်နှာမူသည်၊ မော့ကြည့်သည်၊ မှီခိုသည်",
+    "examples": [
+      "信仰 (しんこう) - ယုံကြည်ကိုးကွယ်မှု",
+      "仰ぐ (あおぐ) - မော့ကြည့်သည်"
+    ]
+  },
+  {
+    "kanji": "駆",
+    "onyomi": "ク",
+    "kunyomi": "かける, かる",
+    "meaning": "drive, run, gallop, advance",
+    "meaningMM": "မောင်းနှင်သည်၊ ပြေးသည်၊ စိုင်းသည်၊ ရှေ့တိုးသည်",
+    "examples": [
+      "駆除 (くじょ) - ဖယ်ရှားခြင်း",
+      "駆け足 (かけあし) - ပြေးနှုန်းမြှင့်သည်"
+    ]
+  },
+  {
+    "kanji": "継",
+    "onyomi": "ケイ",
+    "kunyomi": "つぐ",
+    "meaning": "inherit, succeed, follow",
+    "meaningMM": "အမွေဆက်ခံသည်၊ ဆက်ခံသည်၊ လိုက်နာသည်",
+    "examples": [
+      "継続 (けいぞく) - ဆက်လက်လုပ်ဆောင်ခြင်း",
+      "後継 (こうけい) - အမွေဆက်ခံသူ"
+    ]
+  },
+  {
+    "kanji": "凝",
+    "onyomi": "ギョウ",
+    "kunyomi": "こる, こらす, こごる, こごらす, こごえる",
+    "meaning": "congeal, freeze, stiffen",
+    "meaningMM": "ခဲသည်၊ အေးခဲသည်၊ တောင့်တင်းသည်",
+    "examples": [
+      "凝縮 (ぎょうしゅく) - စုစည်းခြင်း",
+      "凝る (こる) - စွဲလမ်းသည်"
+    ]
+  },
+  {
+    "kanji": "貫",
+    "onyomi": "カン",
+    "kunyomi": "つらぬく",
+    "meaning": "pierce, penetrate, stick to",
+    "meaningMM": "ထိုးဖောက်သည်၊ ဝင်ရောက်သည်၊ စွဲမြဲသည်",
+    "examples": [
+      "貫通 (かんつう) - ထိုးဖောက်ခြင်း",
+      "貫く (つらぬく) - ထိုးဖောက်သည်"
+    ]
+  },
+  {
+    "kanji": "繕",
+    "onyomi": "ゼン",
+    "kunyomi": "つくろう",
+    "meaning": "mend, repair, patch, darn",
+    "meaningMM": "ပြုပြင်သည်၊ ဖာထေးသည်",
+    "examples": [
+      "修繕 (しゅうぜん) - ပြုပြင်ခြင်း",
+      "繕う (つくろう) - ပြုပြင်သည်"
+    ]
+  },
+  {
+    "kanji": "伴",
+    "onyomi": "ハン, バン",
+    "kunyomi": "ともなう",
+    "meaning": "accompany, go with, attend",
+    "meaningMM": "လိုက်ပါသည်၊ အတူသွားသည်၊ တက်ရောက်သည်",
+    "examples": [
+      "伴侶 (はんりょ) - အဖော်",
+      "伴う (ともなう) - လိုက်ပါသည်"
+    ]
+  },
+  {
+    "kanji": "迫",
+    "onyomi": "ハク",
+    "kunyomi": "せまる",
+    "meaning": "urge, impel, compel, press",
+    "meaningMM": "တိုက်တွန်းသည်၊ တွန်းအားပေးသည်၊ ဖိအားပေးသည်",
+    "examples": [
+      "圧迫 (あっぱく) - ဖိအားပေးခြင်း",
+      "迫る (せまる) - နီးကပ်လာသည်"
+    ]
+  },
+  {
+    "kanji": "裂",
+    "onyomi": "レツ",
+    "kunyomi": "さく, さける",
+    "meaning": "split, tear, rip, cleave",
+    "meaningMM": "ခွဲသည်၊ ဆုတ်ဖြဲသည်",
+    "examples": [
+      "分裂 (ぶんれつ) - ကွဲပြားခြင်း",
+      "裂ける (さける) - ဆုတ်ပြဲသည်"
+    ]
+  },
+  {
+    "kanji": "紛",
+    "onyomi": "フン",
+    "kunyomi": "まぎれる, まぎらす, まぎらわしい, まぎらわす",
+    "meaning": "distract, be confused, mix up, be mistaken for",
+    "meaningMM": "အာရုံပျက်သည်၊ ရှုပ်ထွေးသည်၊ ရောထွေးသည်၊ မှားယွင်းသည်",
+    "examples": [
+      "紛争 (ふんそう) - ပဋိပက္ခ",
+      "紛失 (ふんしつ) - ပျောက်ဆုံးခြင်း"
+    ]
+  },
+  {
+    "kanji": "仰",
+    "onyomi": "ギョウ, コウ",
+    "kunyomi": "あおぐ, おおせ",
+    "meaning": "face-up, look up, depend on",
+    "meaningMM": "မျက်နှာမူသည်၊ မော့ကြည့်သည်၊ မှီခိုသည်",
+    "examples": [
+      "信仰 (しんこう) - ယုံကြည်ကိုးကွယ်မှု",
+      "仰ぐ (あおぐ) - မော့ကြည့်သည်"
+    ]
+  },
+  {
+    "kanji": "駆",
+    "onyomi": "ク",
+    "kunyomi": "かける, かる",
+    "meaning": "drive, run, gallop, advance",
+    "meaningMM": "မောင်းနှင်သည်၊ ပြေးသည်၊ စိုင်းသည်၊ ရှေ့တိုးသည်",
+    "examples": [
+      "駆除 (くじょ) - ဖယ်ရှားခြင်း",
+      "駆け足 (かけあし) - ပြေးနှုန်းမြှင့်သည်"
+    ]
+  },
+  {
+    "kanji": "継",
+    "onyomi": "ケイ",
+    "kunyomi": "つぐ",
+    "meaning": "inherit, succeed, follow",
+    "meaningMM": "အမွေဆက်ခံသည်၊ ဆက်ခံသည်၊ လိုက်နာသည်",
+    "examples": [
+      "継続 (けいぞく) - ဆက်လက်လုပ်ဆောင်ခြင်း",
+      "後継 (こうけい) - အမွေဆက်ခံသူ"
+    ]
+  },
+  {
+    "kanji": "凝",
+    "onyomi": "ギョウ",
+    "kunyomi": "こる, こらす, こごる, こごらす, こごえる",
+    "meaning": "congeal, freeze, stiffen",
+    "meaningMM": "ခဲသည်၊ အေးခဲသည်၊ တောင့်တင်းသည်",
+    "examples": [
+      "凝縮 (ぎょうしゅく) - စုစည်းခြင်း",
+      "凝る (こる) - စွဲလမ်းသည်"
+    ]
+  },
+  {
+    "kanji": "貫",
+    "onyomi": "カン",
+    "kunyomi": "つらぬく",
+    "meaning": "pierce, penetrate, stick to",
+    "meaningMM": "ထိုးဖောက်သည်၊ ဝင်ရောက်သည်၊ စွဲမြဲသည်",
+    "examples": [
+      "貫通 (かんつう) - ထိုးဖောက်ခြင်း",
+      "貫く (つらぬく) - ထိုးဖောက်သည်"
+    ]
+  },
+  {
+    "kanji": "繕",
+    "onyomi": "ゼン",
+    "kunyomi": "つくろう",
+    "meaning": "mend, repair, patch, darn",
+    "meaningMM": "ပြုပြင်သည်၊ ဖာထေးသည်",
+    "examples": [
+      "修繕 (しゅうぜん) - ပြုပြင်ခြင်း",
+      "繕う (つくろう) - ပြုပြင်သည်"
+    ]
+  },
+  {
+    "kanji": "伴",
+    "onyomi": "ハン, バン",
+    "kunyomi": "ともなう",
+    "meaning": "accompany, go with, attend",
+    "meaningMM": "လိုက်ပါသည်၊ အတူသွားသည်၊ တက်ရောက်သည်",
+    "examples": [
+      "伴侶 (はんりょ) - အဖော်",
+      "伴う (ともなう) - လိုက်ပါသည်"
+    ]
+  },
+  {
+    "kanji": "迫",
+    "onyomi": "ハク",
+    "kunyomi": "せまる",
+    "meaning": "urge, impel, compel, press",
+    "meaningMM": "တိုက်တွန်းသည်၊ တွန်းအားပေးသည်၊ ဖိအားပေးသည်",
+    "examples": [
+      "圧迫 (あっぱく) - ဖိအားပေးခြင်း",
+      "迫る (せまる) - နီးကပ်လာသည်"
+    ]
+  }
+]

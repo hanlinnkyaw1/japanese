@@ -1,0 +1,1748 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ・ジツ",
+    "kunyomi": "ひ・び・か",
+    "meaning": "day, sun, Japan",
+    "meaningMM": "နေ့၊ နေရောင်၊ ဂျပန်",
+    "examples": [
+      "日本 (にほん) - ဂျပန်နိုင်ငံ",
+      "日曜日 (にちようび) - တနင်္ဂနွေနေ့"
+    ]
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "study, learning",
+    "meaningMM": "သင်ယူခြင်း၊ ပညာ",
+    "examples": [
+      "学生 (がくせい) - ကျောင်းသား",
+      "学ぶ (まなぶ) - သင်ယူသည်"
+    ]
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ・ショウ",
+    "kunyomi": "い(きる)・う(まれる)・なま",
+    "meaning": "life, birth, raw",
+    "meaningMM": "အသက်၊ မွေးဖွားခြင်း၊ အစိမ်း",
+    "examples": [
+      "先生 (せんせい) - ဆရာ",
+      "生まれる (うまれる) - မွေးဖွားသည်"
+    ]
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "year",
+    "meaningMM": "နှစ်",
+    "examples": [
+      "来年 (らいねん) - လာမည့်နှစ်",
+      "今年 (ことし) - ယခုနှစ်"
+    ]
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ・タイ",
+    "kunyomi": "おお(きい)",
+    "meaning": "big, large",
+    "meaningMM": "ကြီးမားသော",
+    "examples": [
+      "大きい (おおきい) - ကြီးသည်",
+      "大学 (だいがく) - တက္ကသိုလ်"
+    ]
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "high, expensive",
+    "meaningMM": "မြင့်သော၊ စျေးကြီးသော",
+    "examples": [
+      "高い (たかい) - မြင့်သည်/စျေးကြီးသည်",
+      "高校 (こうこう) - အထက်တန်းကျောင်း"
+    ]
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい)・こ・お",
+    "meaning": "small",
+    "meaningMM": "သေးငယ်သော",
+    "examples": [
+      "小さい (ちいさい) - သေးငယ်သည်",
+      "小学校 (しょうがっこう) - မူလတန်းကျောင်း"
+    ]
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか",
+    "meaning": "middle, inside",
+    "meaningMM": "အလယ်၊ အတွင်း",
+    "examples": [
+      "中 (なか) - အထဲမှာ",
+      "中国 (ちゅうごく) - တရုတ်နိုင်ငံ"
+    ]
+  },
+  {
+    "kanji": "出",
+    "onyomi": "シュツ・スイ",
+    "kunyomi": "で(る)・だ(す)",
+    "meaning": "exit, go out",
+    "meaningMM": "ထွက်ပေါက်၊ ထွက်ခွာသည်",
+    "examples": [
+      "出る (でる) - ထွက်သည်",
+      "外出 (がいしゅつ) - အပြင်ထွက်သည်"
+    ]
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "はい(る)・い(れる)",
+    "meaning": "enter, put in",
+    "meaningMM": "ဝင်ရောက်သည်၊ ထည့်သည်",
+    "examples": [
+      "入る (はいる) - ဝင်သည်",
+      "入口 (いりぐち) - ဝင်ပေါက်"
+    ]
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ・ショウ",
+    "kunyomi": "うえ・あ(がる)・のぼ(る)",
+    "meaning": "up, above",
+    "meaningMM": "အပေါ်၊ အထက်",
+    "examples": [
+      "上 (うえ) - အပေါ်",
+      "上がる (あがる) - တက်သည်"
+    ]
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ・ゲ",
+    "kunyomi": "した・さ(がる)・くだ(る)",
+    "meaning": "down, below",
+    "meaningMM": "အောက်၊ အောက်ဘက်",
+    "examples": [
+      "下 (した) - အောက်",
+      "下がる (さがる) - ကျဆင်းသည်"
+    ]
+  },
+  {
+    "kanji": "手",
+    "onyomi": "シュ",
+    "kunyomi": "て",
+    "meaning": "hand",
+    "meaningMM": "လက်",
+    "examples": [
+      "手 (て) - လက်",
+      "上手 (じょうず) - ကျွမ်းကျင်သည်"
+    ]
+  },
+  {
+    "kanji": "目",
+    "onyomi": "モク・ボク",
+    "kunyomi": "め",
+    "meaning": "eye, item",
+    "meaningMM": "မျက်လုံး၊ ပစ္စည်း",
+    "examples": [
+      "目 (め) - မျက်လုံး",
+      "一つ目 (ひとつめ) - ပထမဆုံး"
+    ]
+  },
+  {
+    "kanji": "口",
+    "onyomi": "コウ・ク",
+    "kunyomi": "くち",
+    "meaning": "mouth",
+    "meaningMM": "ပါးစပ်",
+    "examples": [
+      "口 (くち) - ပါးစပ်",
+      "入口 (いりぐち) - ဝင်ပေါက်"
+    ]
+  },
+  {
+    "kanji": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "meaning": "ear",
+    "meaningMM": "နား",
+    "examples": [
+      "耳 (みみ) - နား",
+      "耳鼻科 (じびか) - နား၊ နှာခေါင်း၊ လည်ချောင်း ဆေးခန်း"
+    ]
+  },
+  {
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし・た(りる)",
+    "meaning": "foot, leg, sufficient",
+    "meaningMM": "ခြေထောက်၊ လုံလောက်သည်",
+    "examples": [
+      "足 (あし) - ခြေထောက်",
+      "足りる (たりる) - လုံလောက်သည်"
+    ]
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "circle, yen",
+    "meaningMM": "စက်ဝိုင်း၊ ယန်း (ဂျပန်ငွေ)",
+    "examples": [
+      "円 (えん) - ယန်း",
+      "円い (まるい) - လုံးဝိုင်းသော"
+    ]
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "book, origin",
+    "meaningMM": "စာအုပ်၊ မူလ",
+    "examples": [
+      "本 (ほん) - စာအုပ်",
+      "日本 (にほん) - ဂျပန်နိုင်ငံ"
+    ]
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン・ニン",
+    "kunyomi": "ひと",
+    "meaning": "person",
+    "meaningMM": "လူ",
+    "examples": [
+      "人 (ひと) - လူ",
+      "日本人 (にほんじん) - ဂျပန်လူမျိုး"
+    ]
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ・ニョ",
+    "kunyomi": "おんな",
+    "meaning": "woman, female",
+    "meaningMM": "အမျိုးသမီး",
+    "examples": [
+      "女 (おんな) - အမျိုးသမီး",
+      "女の子 (おんなのこ) - မိန်းကလေး"
+    ]
+  },
+  {
+    "kanji": "男",
+    "onyomi": "ダン・ナン",
+    "kunyomi": "おとこ",
+    "meaning": "man, male",
+    "meaningMM": "အမျိုးသား",
+    "examples": [
+      "男 (おとこ) - အမျိုးသား",
+      "男の子 (おとこのこ) - ယောက်ျားလေး"
+    ]
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ・ス",
+    "kunyomi": "こ",
+    "meaning": "child",
+    "meaningMM": "ကလေး",
+    "examples": [
+      "子供 (こども) - ကလေး",
+      "女子 (じょし) - အမျိုးသမီးလေး"
+    ]
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "meaning": "father",
+    "meaningMM": "အဖေ",
+    "examples": [
+      "父 (ちち) - အဖေ (ကိုယ်ပိုင်)",
+      "お父さん (おとうさん) - အဖေ (သူတစ်ပါး)"
+    ]
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは",
+    "meaning": "mother",
+    "meaningMM": "အမေ",
+    "examples": [
+      "母 (はは) - အမေ (ကိုယ်ပိုင်)",
+      "お母さん (おかあさん) - အမေ (သူတစ်ပါး)"
+    ]
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "friend",
+    "meaningMM": "သူငယ်ချင်း",
+    "examples": [
+      "友達 (ともだち) - သူငယ်ချင်း"
+    ]
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "meaning": "ahead, previous",
+    "meaningMM": "ရှေ့၊ ယခင်",
+    "examples": [
+      "先生 (せんせい) - ဆရာ",
+      "先週 (せんしゅう) - ပြီးခဲ့သောရက်သတ္တပတ်"
+    ]
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ・ミョウ",
+    "kunyomi": "な",
+    "meaning": "name",
+    "meaningMM": "အမည်",
+    "examples": [
+      "名前 (なまえ) - နာမည်",
+      "有名 (ゆうめい) - နာမည်ကြီး"
+    ]
+  },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す)・はなし",
+    "meaning": "talk, story",
+    "meaningMM": "ပြောဆိုခြင်း၊ ဇာတ်လမ်း",
+    "examples": [
+      "話す (はなす) - ပြောသည်",
+      "電話 (でんわ) - ဖုန်း"
+    ]
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン・モン",
+    "kunyomi": "き(く)・き(こえる)",
+    "meaning": "hear, listen, ask",
+    "meaningMM": "ကြားသည်၊ နားထောင်သည်၊ မေးသည်",
+    "examples": [
+      "聞く (きく) - နားထောင်သည်/မေးသည်",
+      "新聞 (しんぶん) - သတင်းစာ"
+    ]
+  },
+  {
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning": "write",
+    "meaningMM": "ရေးသည်",
+    "examples": [
+      "書く (かく) - ရေးသည်",
+      "図書館 (としょかん) - စာကြည့်တိုက်"
+    ]
+  },
+  {
+    "kanji": "読",
+    "onyomi": "ドク・トク",
+    "kunyomi": "よ(む)",
+    "meaning": "read",
+    "meaningMM": "ဖတ်သည်",
+    "examples": [
+      "読む (よむ) - ဖတ်သည်",
+      "読書 (どくしょ) - စာဖတ်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み(る)・み(える)",
+    "meaning": "see, look, show",
+    "meaningMM": "မြင်သည်၊ ကြည့်သည်၊ ပြသည်",
+    "examples": [
+      "見る (みる) - ကြည့်သည်",
+      "見せる (みせる) - ပြသည်"
+    ]
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク・ジキ",
+    "kunyomi": "た(べる)",
+    "meaning": "eat, food",
+    "meaningMM": "စားသည်၊ အစားအစာ",
+    "examples": [
+      "食べる (たべる) - စားသည်",
+      "食事 (しょくじ) - အစားအစာ"
+    ]
+  },
+  {
+    "kanji": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の(む)",
+    "meaning": "drink",
+    "meaningMM": "သောက်သည်",
+    "examples": [
+      "飲む (のむ) - သောက်သည်",
+      "飲料水 (いんりょうすい) - သောက်ရေ"
+    ]
+  },
+  {
+    "kanji": "行",
+    "onyomi": "コウ・ギョウ",
+    "kunyomi": "い(く)・おこな(う)",
+    "meaning": "go, conduct",
+    "meaningMM": "သွားသည်၊ ပြုလုပ်သည်",
+    "examples": [
+      "行く (いく) - သွားသည်",
+      "旅行 (りょこう) - ခရီးသွားခြင်း"
+    ]
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ",
+    "kunyomi": "く(る)・き(たる)",
+    "meaning": "come, next",
+    "meaningMM": "လာသည်၊ နောက်လာမည့်",
+    "examples": [
+      "来る (くる) - လာသည်",
+      "来週 (らいしゅう) - လာမည့်ရက်သတ္တပတ်"
+    ]
+  },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning": "rest, holiday",
+    "meaningMM": "အနားယူသည်၊ အားလပ်ရက်",
+    "examples": [
+      "休む (やすむ) - အနားယူသည်",
+      "休日 (きゅうじつ) - အားလပ်ရက်"
+    ]
+  },
+  {
+    "kanji": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か(う)",
+    "meaning": "buy",
+    "meaningMM": "ဝယ်သည်",
+    "examples": [
+      "買う (かう) - ဝယ်သည်",
+      "買い物 (かいもの) - ဈေးဝယ်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "会",
+    "onyomi": "カイ・エ",
+    "kunyomi": "あ(う)",
+    "meaning": "meet, society",
+    "meaningMM": "တွေ့ဆုံသည်၊ အဖွဲ့အစည်း",
+    "examples": [
+      "会う (あう) - တွေ့သည်",
+      "会社 (かいしゃ) - ကုမ္ပဏီ"
+    ]
+  },
+  {
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "ー",
+    "meaning": "electricity",
+    "meaningMM": "လျှပ်စစ်",
+    "examples": [
+      "電気 (でんき) - လျှပ်စစ်",
+      "電話 (でんわ) - ဖုန်း"
+    ]
+  },
+  {
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "car, vehicle",
+    "meaningMM": "ကား၊ ယာဉ်",
+    "examples": [
+      "車 (くるま) - ကား",
+      "電車 (でんしゃ) - ရထား"
+    ]
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ・ケ",
+    "kunyomi": "ー",
+    "meaning": "spirit, air, mood",
+    "meaningMM": "စိတ်ဓာတ်၊ လေ၊ စိတ်ခံစားမှု",
+    "examples": [
+      "天気 (てんき) - ရာသီဥတု",
+      "元気 (げんき) - ကျန်းမာသော"
+    ]
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ",
+    "meaning": "rain",
+    "meaningMM": "မိုး",
+    "examples": [
+      "雨 (あめ) - မိုး"
+    ]
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "country",
+    "meaningMM": "နိုင်ငံ",
+    "examples": [
+      "国 (くに) - နိုင်ငံ",
+      "外国 (がいこく) - နိုင်ငံခြား"
+    ]
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン・コン",
+    "kunyomi": "かね",
+    "meaning": "gold, money",
+    "meaningMM": "ရွှေ၊ ပိုက်ဆံ",
+    "examples": [
+      "お金 (おかね) - ပိုက်ဆံ",
+      "金曜日 (きんようび) - သောကြာနေ့"
+    ]
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド・ト",
+    "kunyomi": "つち",
+    "meaning": "earth, soil, ground",
+    "meaningMM": "မြေကြီး၊ မြေဆီလွှာ",
+    "examples": [
+      "土曜日 (どようび) - စနေနေ့",
+      "土地 (とち) - မြေ"
+    ]
+  },
+  {
+    "kanji": "月",
+    "onyomi": "ゲツ・ガツ",
+    "kunyomi": "つき",
+    "meaning": "moon, month",
+    "meaningMM": "လ၊ တစ်လ",
+    "examples": [
+      "月曜日 (げつようび) - တနင်္လာနေ့",
+      "一月 (いちがつ) - ဇန်နဝါရီလ"
+    ]
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ",
+    "meaning": "fire",
+    "meaningMM": "မီး",
+    "examples": [
+      "火 (ひ) - မီး",
+      "火曜日 (かようび) - အင်္ဂါနေ့"
+    ]
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "water",
+    "meaningMM": "ရေ",
+    "examples": [
+      "水 (みず) - ရေ",
+      "水曜日 (すいようび) - ဗုဒ္ဓဟူးနေ့"
+    ]
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク・モク",
+    "kunyomi": "き",
+    "meaning": "tree, wood",
+    "meaningMM": "သစ်ပင်၊ သစ်သား",
+    "examples": [
+      "木 (き) - သစ်ပင်",
+      "木曜日 (もくようび) - ကြာသပတေးနေ့"
+    ]
+  },
+  {
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み(る)",
+    "meaning": "see, look, show",
+    "meaningMM": "မြင်သည်၊ ကြည့်သည်၊ ပြသည်",
+    "examples": [
+      "見る (みる) - ကြည့်သည်",
+      "見学 (けんがく) - လေ့လာရေးခရီး"
+    ]
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ・ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "right",
+    "meaningMM": "ညာဘက်",
+    "examples": [
+      "右 (みぎ) - ညာဘက်"
+    ]
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ",
+    "kunyomi": "ひだり",
+    "meaning": "left",
+    "meaningMM": "ဘယ်ဘက်",
+    "examples": [
+      "左 (ひだり) - ဘယ်ဘက်"
+    ]
+  },
+  {
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "meaning": "before, front",
+    "meaningMM": "ရှေ့၊ ရှေ့တွင်",
+    "examples": [
+      "前 (まえ) - ရှေ့",
+      "午前 (ごぜん) - နံနက်"
+    ]
+  },
+  {
+    "kanji": "後",
+    "onyomi": "コウ・ゴ",
+    "kunyomi": "あと・うし(ろ)",
+    "meaning": "after, behind",
+    "meaningMM": "နောက်၊ နောက်ဘက်",
+    "examples": [
+      "後 (あと) - နောက်",
+      "午後 (ごご) - ညနေ"
+    ]
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ・ゲ",
+    "kunyomi": "そと・ほか",
+    "meaning": "outside",
+    "meaningMM": "အပြင်ဘက်",
+    "examples": [
+      "外 (そと) - အပြင်",
+      "外国 (がいこく) - နိုင်ငံခြား"
+    ]
+  },
+  {
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき",
+    "meaning": "time, hour",
+    "meaningMM": "အချိန်၊ နာရီ",
+    "examples": [
+      "時間 (じかん) - အချိန်",
+      "時計 (とけい) - နာရီ"
+    ]
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン・ケン",
+    "kunyomi": "あいだ・ま",
+    "meaning": "between, interval",
+    "meaningMM": "ကြား၊ ကြားကာလ",
+    "examples": [
+      "間 (あいだ) - ကြား",
+      "時間 (じかん) - အချိန်"
+    ]
+  },
+  {
+    "kanji": "分",
+    "onyomi": "ブン・フン・プン",
+    "kunyomi": "わ(かる)・わ(ける)",
+    "meaning": "minute, divide, understand",
+    "meaningMM": "မိနစ်၊ ပိုင်းခြားသည်၊ နားလည်သည်",
+    "examples": [
+      "五分 (ごふん) - ငါးမိနစ်",
+      "分かる (わかる) - နားလည်သည်"
+    ]
+  },
+  {
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning": "half",
+    "meaningMM": "တစ်ဝက်",
+    "examples": [
+      "半分 (はんぶん) - တစ်ဝက်",
+      "一時半 (いちじはん) - တစ်နာရီခွဲ"
+    ]
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと",
+    "meaning": "every",
+    "meaningMM": "တိုင်း",
+    "examples": [
+      "毎日 (まいにち) - နေ့တိုင်း",
+      "毎年 (まいとし) - နှစ်တိုင်း"
+    ]
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning": "language, word",
+    "meaningMM": "ဘာသာစကား၊ စကားလုံး",
+    "examples": [
+      "日本語 (にほんご) - ဂျပန်ဘာသာစကား",
+      "英語 (えいご) - အင်္ဂလိပ်ဘာသာစကား"
+    ]
+  },
+  {
+    "kanji": "家",
+    "onyomi": "カ・ケ",
+    "kunyomi": "いえ・うち",
+    "meaning": "house, home",
+    "meaningMM": "အိမ်",
+    "examples": [
+      "家 (いえ) - အိမ်",
+      "家族 (かぞく) - မိသားစု"
+    ]
+  },
+  {
+    "kanji": "会",
+    "onyomi": "カイ・エ",
+    "kunyomi": "あ(う)",
+    "meaning": "meet, society",
+    "meaningMM": "တွေ့ဆုံသည်၊ အဖွဲ့အစည်း",
+    "examples": [
+      "会う (あう) - တွေ့သည်",
+      "会社 (かいしゃ) - ကုမ္ပဏီ"
+    ]
+  },
+  {
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが(い)",
+    "meaning": "long, chief",
+    "meaningMM": "ရှည်လျားသော၊ အကြီးအကဲ",
+    "examples": [
+      "長い (ながい) - ရှည်သည်",
+      "社長 (しゃちょう) - ကုမ္ပဏီဥက္ကဋ္ဌ"
+    ]
+  },
+  {
+    "kanji": "道",
+    "onyomi": "ドウ",
+    "kunyomi": "みち",
+    "meaning": "road, path",
+    "meaningMM": "လမ်း",
+    "examples": [
+      "道 (みち) - လမ်း",
+      "北海道 (ほっかいどう) - ဟော့ကိုင်းဒိုး"
+    ]
+  },
+  {
+    "kanji": "駅",
+    "onyomi": "エキ",
+    "kunyomi": "ー",
+    "meaning": "station",
+    "meaningMM": "ဘူတာ",
+    "examples": [
+      "駅 (えき) - ဘူတာ",
+      "東京駅 (とうきょうえき) - တိုကျိုဘူတာ"
+    ]
+  },
+  {
+    "kanji": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
+    "meaning": "shop, store",
+    "meaningMM": "ဆိုင်",
+    "examples": [
+      "店 (みせ) - ဆိုင်",
+      "店員 (てんいん) - ဆိုင်ဝန်ထမ်း"
+    ]
+  },
+  {
+    "kanji": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら・から",
+    "meaning": "sky, empty",
+    "meaningMM": "ကောင်းကင်၊ ဗလာ",
+    "examples": [
+      "空 (そら) - ကောင်းကင်",
+      "空港 (くうこう) - လေဆိပ်"
+    ]
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン",
+    "kunyomi": "やま",
+    "meaning": "mountain",
+    "meaningMM": "တောင်",
+    "examples": [
+      "山 (やま) - တောင်",
+      "富士山 (ふじさん) - ဖူဂျီတောင်"
+    ]
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "river",
+    "meaningMM": "မြစ်",
+    "examples": [
+      "川 (かわ) - မြစ်",
+      "小川 (おがわ) - ချောင်း"
+    ]
+  },
+  {
+    "kanji": "田",
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "meaning": "rice field",
+    "meaningMM": "စပါးခင်း",
+    "examples": [
+      "田んぼ (たんぼ) - စပါးခင်း",
+      "山田 (やまだ) - ယာမာဒါ (နာမည်)"
+    ]
+  },
+  {
+    "kanji": "花",
+    "onyomi": "カ・ケ",
+    "kunyomi": "はな",
+    "meaning": "flower",
+    "meaningMM": "ပန်း",
+    "examples": [
+      "花 (はな) - ပန်း",
+      "花見 (はなみ) - ပန်းကြည့်ပွဲ"
+    ]
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ・ミョウ",
+    "kunyomi": "な",
+    "meaning": "name, reputation",
+    "meaningMM": "အမည်၊ ဂုဏ်သတင်း",
+    "examples": [
+      "名前 (なまえ) - နာမည်",
+      "有名 (ゆうめい) - နာမည်ကြီး"
+    ]
+  },
+  {
+    "kanji": "町",
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "meaning": "town, village",
+    "meaningMM": "မြို့၊ ရွာ",
+    "examples": [
+      "町 (まち) - မြို့/ရွာ"
+    ]
+  },
+  {
+    "kanji": "村",
+    "onyomi": "ソン",
+    "kunyomi": "むら",
+    "meaning": "village",
+    "meaningMM": "ကျေးရွာ",
+    "examples": [
+      "村 (むら) - ကျေးရွာ"
+    ]
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク・ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning": "white",
+    "meaningMM": "အဖြူရောင်",
+    "examples": [
+      "白い (しろい) - ဖြူသော"
+    ]
+  },
+  {
+    "kanji": "黒",
+    "onyomi": "コク",
+    "kunyomi": "くろ(い)",
+    "meaning": "black",
+    "meaningMM": "အနက်ရောင်",
+    "examples": [
+      "黒い (くろい) - မဲသော"
+    ]
+  },
+  {
+    "kanji": "赤",
+    "onyomi": "セキ・シャク",
+    "kunyomi": "あか(い)",
+    "meaning": "red",
+    "meaningMM": "အနီရောင်",
+    "examples": [
+      "赤い (あかい) - နီသော"
+    ]
+  },
+  {
+    "kanji": "青",
+    "onyomi": "セイ・ショウ",
+    "kunyomi": "あお(い)",
+    "meaning": "blue",
+    "meaningMM": "အပြာရောင်",
+    "examples": [
+      "青い (あおい) - ပြာသော"
+    ]
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "meaning": "father",
+    "meaningMM": "အဖေ",
+    "examples": [
+      "父 (ちち) - အဖေ (ကိုယ်ပိုင်)",
+      "お父さん (おとうさん) - အဖေ (သူတစ်ပါး)"
+    ]
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは",
+    "meaning": "mother",
+    "meaningMM": "အမေ",
+    "examples": [
+      "母 (はは) - အမေ (ကိုယ်ပိုင်)",
+      "お母さん (おかあさん) - အမေ (သူတစ်ပါး)"
+    ]
+  },
+  {
+    "kanji": "兄",
+    "onyomi": "ケイ・キョウ",
+    "kunyomi": "あに",
+    "meaning": "older brother",
+    "meaningMM": "အစ်ကို",
+    "examples": [
+      "兄 (あに) - အစ်ကို (ကိုယ်ပိုင်)",
+      "お兄さん (おにいさん) - အစ်ကို (သူတစ်ပါး)"
+    ]
+  },
+  {
+    "kanji": "弟",
+    "onyomi": "テイ・ダイ",
+    "kunyomi": "おとうと",
+    "meaning": "younger brother",
+    "meaningMM": "မောင်လေး",
+    "examples": [
+      "弟 (おとうと) - မောင်လေး (ကိုယ်ပိုင်)",
+      "ご兄弟 (ごきょうだい) - မောင်နှမများ"
+    ]
+  },
+  {
+    "kanji": "姉",
+    "onyomi": "シ",
+    "kunyomi": "あね",
+    "meaning": "older sister",
+    "meaningMM": "အစ်မ",
+    "examples": [
+      "姉 (あね) - အစ်မ (ကိုယ်ပိုင်)",
+      "お姉さん (おねえさん) - အစ်မ (သူတစ်ပါး)"
+    ]
+  },
+  {
+    "kanji": "妹",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
+    "meaning": "younger sister",
+    "meaningMM": "ညီမလေး",
+    "examples": [
+      "妹 (いもうと) - ညီမလေး (ကိုယ်ပိုင်)",
+      "姉妹 (しまい) - အစ်မနှင့်ညီမ"
+    ]
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "friend",
+    "meaningMM": "သူငယ်ချင်း",
+    "examples": [
+      "友達 (ともだち) - သူငယ်ချင်း"
+    ]
+  },
+  {
+    "kanji": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたし・わたくし",
+    "meaning": "I, private",
+    "meaningMM": "ကျွန်ုပ်၊ ပုဂ္ဂလိက",
+    "examples": [
+      "私 (わたし) - ကျွန်ုပ်"
+    ]
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ・ショウ",
+    "kunyomi": "うえ・あ(がる)",
+    "meaning": "up, above, superior",
+    "meaningMM": "အပေါ်၊ အထက်၊ သာလွန်သော",
+    "examples": [
+      "上 (うえ) - အပေါ်",
+      "上手 (じょうず) - ကျွမ်းကျင်သော"
+    ]
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ・ゲ",
+    "kunyomi": "した・さ(がる)",
+    "meaning": "down, below, inferior",
+    "meaningMM": "အောက်၊ အောက်ဘက်၊ နိမ့်ကျသော",
+    "examples": [
+      "下 (した) - အောက်",
+      "下手 (へた) - မကျွမ်းကျင်သော"
+    ]
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ・ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "right",
+    "meaningMM": "ညာဘက်",
+    "examples": [
+      "右 (みぎ) - ညာဘက်"
+    ]
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ",
+    "kunyomi": "ひだり",
+    "meaning": "left",
+    "meaningMM": "ဘယ်ဘက်",
+    "examples": [
+      "左 (ひだり) - ဘယ်ဘက်"
+    ]
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "east",
+    "meaningMM": "အရှေ့",
+    "examples": [
+      "東 (ひがし) - အရှေ့",
+      "東京 (とうきょう) - တိုကျို"
+    ]
+  },
+  {
+    "kanji": "西",
+    "onyomi": "セイ・サイ",
+    "kunyomi": "にし",
+    "meaning": "west",
+    "meaningMM": "အနောက်",
+    "examples": [
+      "西 (にし) - အနောက်"
+    ]
+  },
+  {
+    "kanji": "南",
+    "onyomi": "ナン",
+    "kunyomi": "みなみ",
+    "meaning": "south",
+    "meaningMM": "တောင်",
+    "examples": [
+      "南 (みなみ) - တောင်"
+    ]
+  },
+  {
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "north",
+    "meaningMM": "မြောက်",
+    "examples": [
+      "北 (きた) - မြောက်",
+      "北海道 (ほっかいどう) - ဟော့ကိုင်းဒိုး"
+    ]
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ・ミョウ",
+    "kunyomi": "な",
+    "meaning": "name",
+    "meaningMM": "အမည်",
+    "examples": [
+      "名前 (なまえ) - နာမည်",
+      "有名 (ゆうめい) - နာမည်ကြီး"
+    ]
+  },
+  {
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお(い)",
+    "meaning": "many, much",
+    "meaningMM": "များစွာ",
+    "examples": [
+      "多い (おおい) - များသော",
+      "多数 (たすう) - အများအပြား"
+    ]
+  },
+  {
+    "kanji": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すこ(し)・すく(ない)",
+    "meaning": "few, little",
+    "meaningMM": "အနည်းငယ်",
+    "examples": [
+      "少し (すこし) - အနည်းငယ်",
+      "少ない (すくない) - နည်းသော"
+    ]
+  },
+  {
+    "kanji": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる(い)",
+    "meaning": "old",
+    "meaningMM": "ဟောင်းသော",
+    "examples": [
+      "古い (ふるい) - ဟောင်းသော"
+    ]
+  },
+  {
+    "kanji": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら(しい)",
+    "meaning": "new",
+    "meaningMM": "အသစ်",
+    "examples": [
+      "新しい (あたらしい) - အသစ်",
+      "新聞 (しんぶん) - သတင်းစာ"
+    ]
+  },
+  {
+    "kanji": "広",
+    "onyomi": "コウ",
+    "kunyomi": "ひろ(い)",
+    "meaning": "wide, broad",
+    "meaningMM": "ကျယ်ဝန်းသော",
+    "examples": [
+      "広い (ひろい) - ကျယ်သော"
+    ]
+  },
+  {
+    "kanji": "早",
+    "onyomi": "ソウ",
+    "kunyomi": "はや(い)",
+    "meaning": "early, fast",
+    "meaningMM": "စောသော၊ မြန်သော",
+    "examples": [
+      "早い (はやい) - စောသည်/မြန်သည်"
+    ]
+  },
+  {
+    "kanji": "元",
+    "onyomi": "ゲン・ガン",
+    "kunyomi": "もと",
+    "meaning": "origin, beginning",
+    "meaningMM": "မူလ၊ အစ",
+    "examples": [
+      "元気 (げんき) - ကျန်းမာသော",
+      "元年 (がんねん) - ပထမနှစ်"
+    ]
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ",
+    "meaning": "heaven, sky",
+    "meaningMM": "ကောင်းကင်",
+    "examples": [
+      "天気 (てんき) - ရာသီဥတု",
+      "天皇 (てんのう) - ဧကရာဇ်"
+    ]
+  },
+  {
+    "kanji": "室",
+    "onyomi": "シツ",
+    "kunyomi": "むろ",
+    "meaning": "room",
+    "meaningMM": "အခန်း",
+    "examples": [
+      "部屋 (へや) - အခန်း",
+      "教室 (きょうしつ) - စာသင်ခန်း"
+    ]
+  },
+  {
+    "kanji": "住",
+    "onyomi": "ジュウ",
+    "kunyomi": "す(む)",
+    "meaning": "live, reside",
+    "meaningMM": "နေထိုင်သည်",
+    "examples": [
+      "住む (すむ) - နေထိုင်သည်",
+      "住所 (じゅうしょ) - လိပ်စာ"
+    ]
+  },
+  {
+    "kanji": "所",
+    "onyomi": "ショ",
+    "kunyomi": "ところ",
+    "meaning": "place",
+    "meaningMM": "နေရာ",
+    "examples": [
+      "所 (ところ) - နေရာ",
+      "台所 (だいどころ) - မီးဖိုချောင်"
+    ]
+  },
+  {
+    "kanji": "都",
+    "onyomi": "ト・ツ",
+    "kunyomi": "みやこ",
+    "meaning": "capital, metropolis",
+    "meaningMM": "မြို့တော်",
+    "examples": [
+      "京都 (きょうと) - ကျိုတို",
+      "都会 (とかい) - မြို့ကြီး"
+    ]
+  },
+  {
+    "kanji": "京",
+    "onyomi": "キョウ・ケイ",
+    "kunyomi": "みやこ",
+    "meaning": "capital",
+    "meaningMM": "မြို့တော်",
+    "examples": [
+      "東京 (とうきょう) - တိုကျို",
+      "京都 (きょうと) - ကျိုတို"
+    ]
+  },
+  {
+    "kanji": "府",
+    "onyomi": "フ",
+    "kunyomi": "ー",
+    "meaning": "prefecture, office",
+    "meaningMM": "စီရင်စု၊ ရုံး",
+    "examples": [
+      "大阪府 (おおさかふ) - အိုဆာကာစီရင်စု",
+      "政府 (せいふ) - အစိုးရ"
+    ]
+  },
+  {
+    "kanji": "県",
+    "onyomi": "ケン",
+    "kunyomi": "ー",
+    "meaning": "prefecture",
+    "meaningMM": "စီရင်စု",
+    "examples": [
+      "県庁 (けんちょう) - စီရင်စုရုံး",
+      "神奈川県 (かながわけん) - ကာနာဂါဝါစီရင်စု"
+    ]
+  },
+  {
+    "kanji": "市",
+    "onyomi": "シ",
+    "kunyomi": "いち",
+    "meaning": "city, market",
+    "meaningMM": "မြို့၊ ဈေး",
+    "examples": [
+      "市 (し) - မြို့",
+      "市場 (いちば) - ဈေး"
+    ]
+  },
+  {
+    "kanji": "区",
+    "onyomi": "ク",
+    "kunyomi": "ー",
+    "meaning": "district, ward",
+    "meaningMM": "ခရိုင်၊ ရပ်ကွက်",
+    "examples": [
+      "区 (く) - ရပ်ကွက်",
+      "区役所 (くやくしょ) - ရပ်ကွက်ရုံး"
+    ]
+  },
+  {
+    "kanji": "様",
+    "onyomi": "ヨウ",
+    "kunyomi": "さま",
+    "meaning": "manner, Mr./Ms.",
+    "meaningMM": "ပုံစံ၊ မစ္စတာ/မစ္စ",
+    "examples": [
+      "様 (さま) - မစ္စတာ/မစ္စ (ဂုဏ်ပြုစကား)",
+      "皆様 (みなさま) - လူကြီးမင်းများ"
+    ]
+  },
+  {
+    "kanji": "使",
+    "onyomi": "シ",
+    "kunyomi": "つか(う)",
+    "meaning": "use, send",
+    "meaningMM": "သုံးသည်၊ ပို့သည်",
+    "examples": [
+      "使う (つかう) - သုံးသည်",
+      "大使館 (たいしかん) - သံရုံး"
+    ]
+  },
+  {
+    "kanji": "作",
+    "onyomi": "サク・サ",
+    "kunyomi": "つく(る)",
+    "meaning": "make, work",
+    "meaningMM": "ပြုလုပ်သည်၊ အလုပ်",
+    "examples": [
+      "作る (つくる) - ပြုလုပ်သည်",
+      "作文 (さくぶん) - စာစီစာကုံး"
+    ]
+  },
+  {
+    "kanji": "持",
+    "onyomi": "ジ",
+    "kunyomi": "も(つ)",
+    "meaning": "hold, have",
+    "meaningMM": "ကိုင်သည်၊ ရှိသည်",
+    "examples": [
+      "持つ (もつ) - ကိုင်သည်/ရှိသည်",
+      "気持ち (きもち) - ခံစားချက်"
+    ]
+  },
+  {
+    "kanji": "待",
+    "onyomi": "タイ",
+    "kunyomi": "ま(つ)",
+    "meaning": "wait",
+    "meaningMM": "စောင့်သည်",
+    "examples": [
+      "待つ (まつ) - စောင့်သည်",
+      "招待 (しょうたい) - ဖိတ်ကြားခြင်း"
+    ]
+  },
+  {
+    "kanji": "教",
+    "onyomi": "キョウ",
+    "kunyomi": "おし(える)・おそ(わる)",
+    "meaning": "teach, religion",
+    "meaningMM": "သင်ကြားသည်၊ ဘာသာရေး",
+    "examples": [
+      "教える (おしえる) - သင်ကြားသည်",
+      "教室 (きょうしつ) - စာသင်ခန်း"
+    ]
+  },
+  {
+    "kanji": "答",
+    "onyomi": "トウ",
+    "kunyomi": "こた(える)",
+    "meaning": "answer",
+    "meaningMM": "အဖြေ",
+    "examples": [
+      "答える (こたえる) - ဖြေသည်",
+      "解答 (かいとう) - အဖြေ"
+    ]
+  },
+  {
+    "kanji": "紙",
+    "onyomi": "シ",
+    "kunyomi": "かみ",
+    "meaning": "paper",
+    "meaningMM": "စက္ကူ",
+    "examples": [
+      "紙 (かみ) - စက္ကူ",
+      "手紙 (てがみ) - စာ"
+    ]
+  },
+  {
+    "kanji": "画",
+    "onyomi": "ガ・カク",
+    "kunyomi": "えが(く)",
+    "meaning": "picture, stroke",
+    "meaningMM": "ရုပ်ပုံ၊ လိုင်း",
+    "examples": [
+      "絵画 (かいが) - ပန်းချီ",
+      "計画 (けいかく) - အစီအစဉ်"
+    ]
+  },
+  {
+    "kanji": "絵",
+    "onyomi": "カイ・エ",
+    "kunyomi": "え",
+    "meaning": "picture, drawing",
+    "meaningMM": "ရုပ်ပုံ၊ ပုံဆွဲခြင်း",
+    "examples": [
+      "絵 (え) - ပုံ/ပန်းချီ",
+      "絵本 (えほん) - ရုပ်ပုံစာအုပ်"
+    ]
+  },
+  {
+    "kanji": "音",
+    "onyomi": "オン・イン",
+    "kunyomi": "おと・ね",
+    "meaning": "sound",
+    "meaningMM": "အသံ",
+    "examples": [
+      "音 (おと) - အသံ",
+      "音楽 (おんがく) - ဂီတ"
+    ]
+  },
+  {
+    "kanji": "楽",
+    "onyomi": "ガク・ラク",
+    "kunyomi": "たの(しい)・たの(しむ)",
+    "meaning": "music, comfort, ease",
+    "meaningMM": "ဂီတ၊ သက်တောင့်သက်သာ၊ လွယ်ကူခြင်း",
+    "examples": [
+      "楽しい (たのしい) - ပျော်စရာကောင်းသော",
+      "音楽 (おんがく) - ဂီတ"
+    ]
+  },
+  {
+    "kanji": "歌",
+    "onyomi": "カ",
+    "kunyomi": "うた(う)・うた",
+    "meaning": "song, sing",
+    "meaningMM": "သီချင်း၊ သီဆိုသည်",
+    "examples": [
+      "歌う (うたう) - သီဆိုသည်",
+      "歌 (うた) - သီချင်း"
+    ]
+  },
+  {
+    "kanji": "止",
+    "onyomi": "シ",
+    "kunyomi": "と(まる)・と(める)",
+    "meaning": "stop",
+    "meaningMM": "ရပ်သည်",
+    "examples": [
+      "止まる (とまる) - ရပ်သည်",
+      "中止 (ちゅうし) - ရပ်ဆိုင်းခြင်း"
+    ]
+  },
+  {
+    "kanji": "正",
+    "onyomi": "セイ・ショウ",
+    "kunyomi": "ただ(しい)",
+    "meaning": "correct, right",
+    "meaningMM": "မှန်ကန်သော",
+    "examples": [
+      "正しい (ただしい) - မှန်ကန်သည်",
+      "正月 (しょうがつ) - နှစ်သစ်ကူး"
+    ]
+  },
+  {
+    "kanji": "歩",
+    "onyomi": "ホ・ブ",
+    "kunyomi": "ある(く)",
+    "meaning": "walk",
+    "meaningMM": "လမ်းလျှောက်သည်",
+    "examples": [
+      "歩く (あるく) - လမ်းလျှောက်သည်",
+      "散歩 (さんぽ) - လမ်းလျှောက်ထွက်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "送",
+    "onyomi": "ソウ",
+    "kunyomi": "おく(る)",
+    "meaning": "send",
+    "meaningMM": "ပို့သည်",
+    "examples": [
+      "送る (おくる) - ပို့သည်",
+      "放送 (ほうそう) - အသံလွှင့်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "洗",
+    "onyomi": "セン",
+    "kunyomi": "あら(う)",
+    "meaning": "wash",
+    "meaningMM": "ဆေးကြောသည်",
+    "examples": [
+      "洗う (あらう) - ဆေးကြောသည်",
+      "洗濯 (せんたく) - အဝတ်လျှော်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "明",
+    "onyomi": "メイ・ミョウ",
+    "kunyomi": "あか(るい)・あ(ける)",
+    "meaning": "bright, clear, dawn",
+    "meaningMM": "တောက်ပသော၊ ရှင်းလင်းသော၊ မိုးသောက်",
+    "examples": [
+      "明るい (あかるい) - တောက်ပသော",
+      "明日 (あした) - မနက်ဖြန်"
+    ]
+  },
+  {
+    "kanji": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "meaning": "morning",
+    "meaningMM": "နံနက်",
+    "examples": [
+      "朝 (あさ) - နံနက်",
+      "今朝 (けさ) - ယခုနံနက်"
+    ]
+  },
+  {
+    "kanji": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "meaning": "noon, daytime",
+    "meaningMM": "နေ့လယ်၊ နေ့ခင်း",
+    "examples": [
+      "昼 (ひる) - နေ့လယ်",
+      "昼食 (ちゅうしょく) - နေ့လယ်စာ"
+    ]
+  },
+  {
+    "kanji": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よる・よ",
+    "meaning": "night",
+    "meaningMM": "ည",
+    "examples": [
+      "夜 (よる) - ည",
+      "今夜 (こんや) - ယခုည"
+    ]
+  },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "ー",
+    "meaning": "noon",
+    "meaningMM": "နေ့လယ်",
+    "examples": [
+      "午前 (ごぜん) - နံနက်",
+      "午後 (ごご) - ညနေ"
+    ]
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと",
+    "meaning": "every",
+    "meaningMM": "တိုင်း",
+    "examples": [
+      "毎日 (まいにち) - နေ့တိုင်း",
+      "毎週 (まいしゅう) - အပတ်တိုင်း"
+    ]
+  },
+  {
+    "kanji": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "ー",
+    "meaning": "week",
+    "meaningMM": "ရက်သတ္တပတ်",
+    "examples": [
+      "今週 (こんしゅう) - ယခုရက်သတ္တပတ်",
+      "来週 (らいしゅう) - လာမည့်ရက်သတ္တပတ်"
+    ]
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ",
+    "kunyomi": "く(る)・き(たる)",
+    "meaning": "come, next",
+    "meaningMM": "လာသည်၊ နောက်လာမည့်",
+    "examples": [
+      "来る (くる) - လာသည်",
+      "来年 (らいねん) - လာမည့်နှစ်"
+    ]
+  },
+  {
+    "kanji": "去",
+    "onyomi": "キョ・コ",
+    "kunyomi": "さ(る)",
+    "meaning": "past, leave",
+    "meaningMM": "အတိတ်၊ ထွက်ခွာသည်",
+    "examples": [
+      "去年 (きょねん) - ပြီးခဲ့သောနှစ်",
+      "去る (さる) - ထွက်ခွာသည်"
+    ]
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン・キン",
+    "kunyomi": "いま",
+    "meaning": "now",
+    "meaningMM": "ယခု",
+    "examples": [
+      "今 (いま) - ယခု",
+      "今日 (きょう) - ယနေ့"
+    ]
+  },
+  {
+    "kanji": "会",
+    "onyomi": "カイ・エ",
+    "kunyomi": "あ(う)",
+    "meaning": "meet, society",
+    "meaningMM": "တွေ့ဆုံသည်၊ အဖွဲ့အစည်း",
+    "examples": [
+      "会う (あう) - တွေ့သည်",
+      "会社 (かいしゃ) - ကုမ္ပဏီ"
+    ]
+  },
+  {
+    "kanji": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "meaning": "company, shrine",
+    "meaningMM": "ကုမ္ပဏီ၊ ဘုရားကျောင်း",
+    "examples": [
+      "会社 (かいしゃ) - ကုမ္ပဏီ",
+      "神社 (じんじゃ) - ရှင်တိုဘုရားကျောင်း"
+    ]
+  },
+  {
+    "kanji": "員",
+    "onyomi": "イン",
+    "kunyomi": "ー",
+    "meaning": "member",
+    "meaningMM": "အဖွဲ့ဝင်",
+    "examples": [
+      "会社員 (かいしゃいん) - ကုမ္ပဏီဝန်ထမ်း",
+      "駅員 (えきいん) - ဘူတာဝန်ထမ်း"
+    ]
+  },
+  {
+    "kanji": "医",
+    "onyomi": "イ",
+    "kunyomi": "ー",
+    "meaning": "doctor, medicine",
+    "meaningMM": "ဆရာဝန်၊ ဆေး",
+    "examples": [
+      "医者 (いしゃ) - ဆရာဝန်",
+      "医学 (いがく) - ဆေးပညာ"
+    ]
+  },
+  {
+    "kanji": "者",
+    "onyomi": "シャ",
+    "kunyomi": "もの",
+    "meaning": "person",
+    "meaningMM": "လူ",
+    "examples": [
+      "医者 (いしゃ) - ဆရာဝန်",
+      "学者 (がくしゃ) - ပညာရှင်"
+    ]
+  },
+  {
+    "kanji": "病",
+    "onyomi": "ビョウ・ヘイ",
+    "kunyomi": "や(む)",
+    "meaning": "sick, ill",
+    "meaningMM": "ဖျားနာသော",
+    "examples": [
+      "病気 (びょうき) - ဖျားနာခြင်း",
+      "病院 (びょういん) - ဆေးရုံ"
+    ]
+  },
+  {
+    "kanji": "院",
+    "onyomi": "イン",
+    "kunyomi": "ー",
+    "meaning": "institution, hospital",
+    "meaningMM": "အဖွဲ့အစည်း၊ ဆေးရုံ",
+    "examples": [
+      "病院 (びょういん) - ဆေးရုံ",
+      "大学院 (だいがくいん) - ဘွဲ့လွန်ကျောင်း"
+    ]
+  },
+  {
+    "kanji": "病",
+    "onyomi": "ビョウ・ヘイ",
+    "kunyomi": "や(む)",
+    "meaning": "sick, ill",
+    "meaningMM": "ဖျားနာသော",
+    "examples": [
+      "病気 (びょうき) - ဖျားနာခြင်း",
+      "病院 (びょういん) - ဆေးရုံ"
+    ]
+  },
+  {
+    "kanji": "引",
+    "onyomi": "イン",
+    "kunyomi": "ひ(く)",
+    "meaning": "pull, draw",
+    "meaningMM": "ဆွဲသည်၊ ဆွဲထုတ်သည်",
+    "examples": [
+      "引く (ひく) - ဆွဲသည်",
+      "引き出し (ひきだし) - အံဆွဲ"
+    ]
+  },
+  {
+    "kanji": "強",
+    "onyomi": "キョウ・ゴウ",
+    "kunyomi": "つよ(い)",
+    "meaning": "strong, powerful",
+    "meaningMM": "အားကောင်းသော၊ တန်ခိုးကြီးသော",
+    "examples": [
+      "強い (つよい) - သန်မာသော",
+      "勉強 (べんきょう) - စာကျက်ခြင်း"
+    ]
+  },
+  {
+    "kanji": "弱",
+    "onyomi": "ジャク",
+    "kunyomi": "よわ(い)",
+    "meaning": "weak",
+    "meaningMM": "အားနည်းသော",
+    "examples": [
+      "弱い (よわい) - အားနည်းသော"
+    ]
+  },
+  {
+    "kanji": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "meaning": "morning",
+    "meaningMM": "နံနက်",
+    "examples": [
+      "朝ごはん (あさごはん) - မနက်စာ"
+    ]
+  },
+  {
+    "kanji": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "meaning": "noon, daytime",
+    "meaningMM": "နေ့လယ်၊ နေ့ခင်း",
+    "examples": [
+      "昼休み (ひるやすみ) - နေ့လယ်စာစားချိန်နားခြင်း"
+    ]
+  },
+  {
+    "kanji": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よる",
+    "meaning": "night",
+    "meaningMM": "ည",
+    "examples": [
+      "今夜 (こんや) - ယခုည"
+    ]
+  },
+  {
+    "kanji": "晩",
+    "onyomi": "バン",
+    "kunyomi": "ー",
+    "meaning": "evening",
+    "meaningMM": "ညနေ",
+    "examples": [
+      "晩ごはん (ばんごはん) - ညစာ"
+    ]
+  },
+  {
+    "kanji": "言",
+    "onyomi": "ゲン・ゴン",
+    "kunyomi": "い(う)",
+    "meaning": "say, word",
+    "meaningMM": "ပြောသည်၊ စကားလုံး",
+    "examples": [
+      "言う (いう) - ပြောသည်",
+      "言語 (げんご) - ဘာသာစကား"
+    ]
+  },
+  {
+    "kanji": "寺",
+    "onyomi": "ジ",
+    "kunyomi": "てら",
+    "meaning": "temple",
+    "meaningMM": "ဘုရားကျောင်း",
+    "examples": [
+      "寺 (てら) - ဘုရားကျောင်း"
+    ]
+  },
+  {
+    "kanji": "持",
+    "onyomi": "ジ",
+    "kunyomi": "も(つ)",
+    "meaning": "hold, have",
+    "meaningMM": "ကိုင်သည်၊ ရှိသည်",
+    "examples": [
+      "持つ (もつ) - ကိုင်သည်/ရှိသည်",
+      "持ち物 (もちもの) - ပိုင်ဆိုင်မှုများ"
+    ]
+  }
+]
