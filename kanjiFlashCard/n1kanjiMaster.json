@@ -1,0 +1,3837 @@
+[
+  {
+    "kanji": "為",
+    "onyomi": "イ",
+    "kunyomi": "ため",
+    "meaning": "for the sake of, because of",
+    "meaningMM": "အတွက်၊ အကြောင်းကြောင့်",
+    "examples": ["為替 (かわせ) - ငွေလဲငွေပြန်", "行為 (こうい) - လုပ်ဆောင်ချက်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "扱",
+    "onyomi": "キュウ",
+    "kunyomi": "あつかう",
+    "meaning": "handle, deal with",
+    "meaningMM": "ကိုင်တွယ်သည်၊ ကိုင်တွယ်ဆောင်ရွက်သည်",
+    "examples": ["扱う (あつかう) - ကိုင်တွယ်သည်", "取扱説明書 (とりあつかいせつめいしょ) - အသုံးပြုနည်းလမ်းညွှန်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "披",
+    "onyomi": "ヒ",
+    "kunyomi": "",
+    "meaning": "expose, open",
+    "meaningMM": "ဖော်ပြသည်၊ ဖွင့်သည်",
+    "examples": ["披露 (ひろう) - ဖော်ပြခြင်း", "披露宴 (ひろうえん) - မင်္ဂလာဧည့်ခံပွဲ"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "抑",
+    "onyomi": "ヨク",
+    "kunyomi": "おさえる",
+    "meaning": "suppress, control",
+    "meaningMM": "ထိန်းချုပ်သည်၊ ဖိနှိပ်သည်",
+    "examples": ["抑制 (よくせい) - ထိန်းချုပ်မှု", "抑える (おさえる) - ဖိသည်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "抵",
+    "onyomi": "テイ",
+    "kunyomi": "",
+    "meaning": "resist",
+    "meaningMM": "ဆန့်ကျင်သည်၊ တိုက်ဆိုင်သည်",
+    "examples": ["抵抗 (ていこう) - ဆန့်ကျင်မှု", "抵触 (ていしょく) - ပဋိပက္ခဖြစ်မှု"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "抗",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "oppose, resist",
+    "meaningMM": "တုံ့ပြန်သည်၊ ဆန့်ကျင်သည်",
+    "examples": ["反抗 (はんこう) - ဆန့်ကျင်မှု", "抗議 (こうぎ) - တိုင်ကြားမှု"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "掲",
+    "onyomi": "ケイ",
+    "kunyomi": "かかげる",
+    "meaning": "put up, raise, publish",
+    "meaningMM": "တင်သည်၊ ကြေညာသည်",
+    "examples": ["掲示 (けいじ) - ကြေညာချက်", "掲げる (かかげる) - မြှင့်တင်သည်" ],
+    "chapter" : 1
+  },
+  {
+    "kanji": "拭",
+    "onyomi": "ショク",
+    "kunyomi": "ぬぐう、ふく",
+    "meaning": "wipe, mop",
+    "meaningMM": "သုတ်သည်၊ ရေသုတ်သည်",
+    "examples": ["拭く (ふく) - သုတ်သည်", "払拭 (ふっしょく) - ဖယ်ရှားခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "跳",
+    "onyomi": "チョウ",
+    "kunyomi": "はねる、はしる",
+    "meaning": "jump, leap",
+    "meaningMM": "ခုန်သည်၊ ခုန်ဖျော်သည်",
+    "examples": ["跳ねる (はねる) - ခုန်သည်", "跳躍 (ちょうやく) - ခုန်ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "躍",
+    "onyomi": "ヤク",
+    "kunyomi": "",
+    "meaning": "leap, dance",
+    "meaningMM": "ခုန်ခြင်း၊ ကခုန်သည်",
+    "examples": ["活躍 (かつやく) - တက်ကြွမှု", "飛躍 (ひやく) - ခုန်တက်ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "踏",
+    "onyomi": "トウ",
+    "kunyomi": "ふむ、ふまえる",
+    "meaning": "step on",
+    "meaningMM": "ထည့်ခြင်း၊ နင်းသည်",
+    "examples": ["踏む (ふむ) - နင်းသည်", "踏切 (ふみきり) - ရထားလမ်းဖြတ်သောနေရာ"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "駆",
+    "onyomi": "ク",
+    "kunyomi": "かける、かる",
+    "meaning": "drive, run",
+    "meaningMM": "ပြေးသည်၊ မောင်းသည်",
+    "examples": ["駆ける (かける) - ပြေးသည်", "駆使 (くし) - အသုံးပြုခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "伏",
+    "onyomi": "フク",
+    "kunyomi": "ふせる、ふす",
+    "meaning": "bend down, lie down",
+    "meaningMM": "အနိမ့်မှာထားသည်၊ အိပ်သည်",
+    "examples": ["伏せる (ふせる) - နိမ့်စွာထားသည်", "起伏 (きふく) - မြင့်နိမ့်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "弾",
+    "onyomi": "ダン",
+    "kunyomi": "ひく、はずむ、たま",
+    "meaning": "bullet, bounce, play (instrument)",
+    "meaningMM": "ကျည်ဆံ၊ ခုန်တက်သည်၊ တီးသည်",
+    "examples": ["弾く (ひく) - တီးသည်", "弾丸 (だんがん) - ကျည်ဆံ"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "裂",
+    "onyomi": "レツ",
+    "kunyomi": "さく、さける",
+    "meaning": "tear, split",
+    "meaningMM": "စိမ်သည်၊ ပြိုကွဲသည်",
+    "examples": ["裂ける (さける) - ပြိုကွဲသည်", "破裂 (はれつ) - ပေါက်ကွဲခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "塗",
+    "onyomi": "ト",
+    "kunyomi": "ぬる",
+    "meaning": "paint, spread",
+    "meaningMM": "ဆေး칠သည်၊ ပျံ့နှံ့သည်",
+    "examples": ["塗る (ぬる) - ဆေး칠သည်", "塗装 (とそう) - ဆေး칠ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "叱",
+    "onyomi": "",
+    "kunyomi": "しかる",
+    "meaning": "scold",
+    "meaningMM": "ဆူညံသည်၊ ရိုင်းပြသည်",
+    "examples": ["叱る (しかる) - ဆူညံသည်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "黙",
+    "onyomi": "モク",
+    "kunyomi": "だまる",
+    "meaning": "be silent",
+    "meaningMM": "တိတ်ဆိတ်သည်",
+    "examples": ["黙る (だまる) - တိတ်ဆိတ်သည်", "沈黙 (ちんもく) - တိတ်ဆိတ်ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "唱",
+    "onyomi": "ショウ",
+    "kunyomi": "となえる",
+    "meaning": "chant, recite",
+    "meaningMM": "ဖော်ပြသည်၊ ကြွေးကြော်သည်",
+    "examples": ["唱える (となえる) - ကြွေးကြော်သည်", "合唱 (がっしょう) - တေးဆိုစုစည်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "聴",
+    "onyomi": "チョウ",
+    "kunyomi": "きく",
+    "meaning": "listen",
+    "meaningMM": "နားထောင်သည်",
+    "examples": ["聴く (きく) - နားထောင်သည်", "聴講 (ちょうこう) - နားထောင်မှု (lecture)"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "眺",
+    "onyomi": "",
+    "kunyomi": "ながめる",
+    "meaning": "gaze, look at",
+    "meaningMM": "ကြည့်ရှုသည်",
+    "examples": ["眺める (ながめる) - ကြည့်သည်", "眺望 (ちょうぼう) - မြင်ကွင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "隠",
+    "onyomi": "イン",
+    "kunyomi": "かくす、かくれる",
+    "meaning": "hide, conceal",
+    "meaningMM": "ဖုံးဖိသည်၊ ဖျောက်ထားသည်",
+    "examples": ["隠す (かくす) - ဖျောက်သည်", "隠れる (かくれる) - ဖုံးထားသည်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "添",
+    "onyomi": "テン",
+    "kunyomi": "そう",
+    "meaning": "add, attach",
+    "meaningMM": "တွဲထည့်သည်၊ ဆက်တွဲသည်",
+    "examples": ["添える (そえる) - ထပ်ဖြည့်သည်", "添付 (てんぷ) - တွဲလျှောက်မှု"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "排",
+    "onyomi": "ハイ",
+    "kunyomi": "",
+    "meaning": "exclude, discharge",
+    "meaningMM": "ဖယ်ရှားသည်၊ ထုတ်ပေးသည်",
+    "examples": ["排除 (はいじょ) - ဖယ်ရှားခြင်း", "排出 (はいしゅつ) - ထုတ်လွှတ်ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "挑",
+    "onyomi": "チョウ",
+    "kunyomi": "いどむ",
+    "meaning": "challenge",
+    "meaningMM": "စိန်ခေါ်သည်",
+    "examples": ["挑戦 (ちょうせん) - စိန်ခေါ်မှု", "挑む (いどむ) - တိုက်ခိုက်သည်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる、みさお",
+    "meaning": "operate, control",
+    "meaningMM": "ထိန်းချုပ်သည်၊ လုပ်ဆောင်သည်",
+    "examples": ["操作 (そうさ) - အလုပ်လုပ်ငန်း", "操る (あやつる) - ထိန်းသည်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "磨",
+    "onyomi": "マ",
+    "kunyomi": "みがく",
+    "meaning": "polish, brush",
+    "meaningMM": "သုတ်သည်၊ ပြင်ဆင်သည်",
+    "examples": ["磨く (みがく) - သုတ်သည်", "研磨 (けんま) - ပြန်လည်သန့်စင်ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "奪",
+    "onyomi": "ダツ",
+    "kunyomi": "うばう",
+    "meaning": "take away, steal",
+    "meaningMM": "奪ယူသည်၊ ခိုးယူသည်",
+    "examples": ["奪う (うばう) -奪ယူသည်", "強奪 (ごうだつ) - ပြင်းထန်စွာ奪ယူခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "妨",
+    "onyomi": "ボウ",
+    "kunyomi": "さまたげる",
+    "meaning": "disturb, obstruct",
+    "meaningMM": "တားဆီးသည်၊ အနုတ်ဖြစ်သည်",
+    "examples": ["妨げる (さまたげる) - တားဆီးသည်", "妨害 (ぼうがい) - ချို့ယွင်းစေခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "遮",
+    "onyomi": "シャ",
+    "kunyomi": "さえぎる",
+    "meaning": "intercept, block",
+    "meaningMM": "တားဆီးသည်၊ ပိတ်တားသည်",
+    "examples": ["遮る (さえぎる) - ပိတ်တားသည်", "遮断 (しゃだん) - ဖြတ်တောက်ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "伴",
+    "onyomi": "ハン、バン",
+    "kunyomi": "ともなう",
+    "meaning": "accompany, go with",
+    "meaningMM": "လိုက်ဖက်လာသည်",
+    "examples": ["同伴 (どうはん) - လိုက်လာသူ", "伴う (ともなう) - တွဲဖက်လာသည်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "揺",
+    "onyomi": "ヨウ",
+    "kunyomi": "ゆれる、ゆらぐ",
+    "meaning": "shake, swing",
+    "meaningMM": "လှုပ်ရှားသည်၊ ပြတ်ပြတ်သားသားဖြစ်သည်",
+    "examples": ["揺れる (ゆれる) - လှုပ်သည်", "動揺 (どうよう) - စိတ်လှုပ်ရှားမှု"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "尽",
+    "onyomi": "ジン",
+    "kunyomi": "つくす、つきる",
+    "meaning": "exhaust, run out",
+    "meaningMM": "ကုန်ဆုံးသည်၊ ဖျက်ဆီးသည်",
+    "examples": ["尽くす (つくす) - စွမ်းအားကုန်သည်", "尽力 (じんりょく) - ကြိုးပမ်းမှု"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "諦",
+    "onyomi": "テイ",
+    "kunyomi": "あきらめる",
+    "meaning": "give up",
+    "meaningMM": "စွန့်လွှတ်သည်",
+    "examples": ["諦める (あきらめる) - စွန့်လွှတ်သည်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "誓",
+    "onyomi": "セイ",
+    "kunyomi": "ちかう",
+    "meaning": "swear, vow",
+    "meaningMM": "ကတိပြုသည်၊ စော်ကားသည်",
+    "examples": ["誓う (ちかう) - ကတိပြုသည်", "誓約 (せいやく) - ကတိစာချုပ်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "悟",
+    "onyomi": "ゴ",
+    "kunyomi": "さとる",
+    "meaning": "understand, realize",
+    "meaningMM": "သိရှိသည်၊ နားလည်သည်",
+    "examples": ["悟る (さとる) - နားလည်သဘောပေါက်သည်", "覚悟 (かくご) - အသင့်ဖြစ်မှု"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "避",
+    "onyomi": "ヒ",
+    "kunyomi": "さける",
+    "meaning": "avoid",
+    "meaningMM": "ရှောင်သည်၊ တားဆီးသည်",
+    "examples": ["避ける (さける) - ရှောင်သည်", "回避 (かいひ) - ရှောင်ကြဉ်ခြင်း"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "耐",
+    "onyomi": "タイ",
+    "kunyomi": "たえる",
+    "meaning": "endure, resist",
+    "meaningMM": "လှည့်ဖြတ်သည်၊ ခံနိုင်သည်",
+    "examples": ["耐える (たえる) - ခံနိုင်သည်", "耐久 (たいきゅう) - ကြာရှည်ခံမှု"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "焦",
+    "onyomi": "ショウ",
+    "kunyomi": "こげる、こがす、あせる",
+    "meaning": "burn, be impatient",
+    "meaningMM": "အရည်အချင်းဆုံးဖြတ်သည်၊ စိတ်သွေးလျှောသည်",
+    "examples": ["焦げる (こげる) - ကျွဲသည်", "焦点 (しょうてん) - အာရုံစူးစိုက်ချက်"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "慌",
+    "onyomi": "コウ",
+    "kunyomi": "あわてる、あわただしい",
+    "meaning": "flustered, panic",
+    "meaningMM": "စိတ်လှုပ်ရှားသည်၊ တုန်လှုပ်သည်",
+    "examples": ["慌てる (あわてる) - စိတ်လှုပ်ရှားသည်", "慌ただしい (あわただしい) - မသင့်တော်သော"],
+    "chapter" : 1
+  },
+  {
+    "kanji": "尋",
+    "onyomi": "ジン",
+    "kunyomi": "たずねる",
+    "meaning": "inquire, search",
+    "meaningMM": "မေးမြန်းသည်၊ ရှာဖွေသည်",
+    "examples": ["尋ねる (たずねる) - မေးသည်", "尋問 (じんもん) - စုံစမ်းမေးမြန်းခြင်း"],
+    "chapter" : 2
+  },
+  {
+    "kanji": "促",
+    "onyomi": "ソク",
+    "kunyomi": "うながす",
+    "meaning": "urge, prompt",
+    "meaningMM": "အားပေးသည်၊ တင်ပြသည်",
+    "examples": ["促す (うながす) - တိုက်တွန်းသည်", "促進 (そくしん) - တိုးမြှင့်ခြင်း"],
+    "chapter": 2
+  },
+  {
+    "kanji": "感",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "feeling, sense",
+    "meaningMM": "ခံစားချက်၊ သတိခံစားမှု",
+    "examples": ["感謝 (かんしゃ) - ကျေးဇူးတင်ခြင်း", "感覚 (かんかく) - အာရုံခံစားမှု"],
+    "chapter": 2
+  },
+  {
+    "kanji": "譲",
+    "onyomi": "ジョウ",
+    "kunyomi": "ゆずる",
+    "meaning": "yield, hand over",
+    "meaningMM": "ပေးသည်၊ ငြင်းပယ်သည်",
+    "examples": ["譲る (ゆずる) - ပေးသည်", "譲渡 (じょうと) - လွှဲပြောင်းခြင်း"],
+    "chapter": 2
+  },
+  {
+    "kanji": "陥",
+    "onyomi": "カン",
+    "kunyomi": "おちいる、おとしいれる",
+    "meaning": "fall into, trap",
+    "meaningMM": "အခြေအနေတစ်ခုထဲသို့ ကျရောက်သည်",
+    "examples": ["陥る (おちいる) - ကျရောက်သည်", "陥没 (かんぼつ) - ပြိုကျခြင်း"],
+    "chapter": 2
+  },
+  {
+    "kanji": "迫",
+    "onyomi": "ハク",
+    "kunyomi": "せまる",
+    "meaning": "press, urge, approach",
+    "meaningMM": "နီးကပ်လာသည်၊ တိုက်တွန်းသည်",
+    "examples": ["迫る (せまる) - နီးကပ်လာသည်", "切迫 (せっぱく) - တင်းမာခြင်း"],
+    "chapter": 2
+  },
+  {
+    "kanji": "遂",
+    "onyomi": "スイ",
+    "kunyomi": "とげる",
+    "meaning": "accomplish, achieve",
+    "meaningMM": "အောင်မြင်စွာပြီးမြောက်သည်",
+    "examples": ["遂げる (とげる) - ပြီးမြောက်သည်", "遂行 (すいこう) - အကောင်အထည်ဖော်ခြင်း"],
+    "chapter": 2
+  },
+  {
+    "kanji": "抽",
+    "onyomi": "チュウ",
+    "kunyomi": "",
+    "meaning": "extract, pull out",
+    "meaningMM": "ဆွဲထုတ်သည်၊ ရွေးချယ်သည်",
+    "examples": ["抽選 (ちゅうせん) - မဲဆွဲရွေးချယ်ခြင်း", "抽出 (ちゅうしゅつ) - ထုတ်ယူခြင်း"],
+    "chapter": 2
+  },
+  {
+  "kanji": "覆",
+  "onyomi": "フク",
+  "kunyomi": "おおう、くつがえす",
+  "meaning": "cover, overturn",
+  "meaningMM": "ဖုံးလွှမ်းသည်၊ ပြောင်းလဲသည်",
+  "examples": ["覆う (おおう) - ဖုံးသည်", "覆す (くつがえす) - ပြောင်းလဲသည်"],
+  "chapter": 2
+},
+{
+  "kanji": "侮",
+  "onyomi": "ブ",
+  "kunyomi": "あなどる",
+  "meaning": "despise, make light of",
+  "meaningMM": "စှဲသည်၊ ထိန်းချုပ်သည်",
+  "examples": ["侮る (あなどる) - သမ္မာယဉ်ကျေးမှုမရှိဘဲ ချည်းနှောက်သည်", "侮辱 (ぶじょく) - လျှော့ချခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "揮",
+  "onyomi": "キ",
+  "kunyomi": "",
+  "meaning": "brandish, wield",
+  "meaningMM": "လှုပ်ရှားသည်၊ ထိန်းချုပ်သည်",
+  "examples": ["指揮 (しき) - ဦးဆောင်မှု", "発揮 (はっき) - ဖော်ပြခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "控",
+  "onyomi": "コウ",
+  "kunyomi": "ひかえる",
+  "meaning": "restrain, hold back, prepare",
+  "meaningMM": "စောင့်ဆိုင်းသည်၊ ရှောင်သည်",
+  "examples": ["控える (ひかえる) - ထိန်းသိမ်းသည်", "控除 (こうじょ) - လျှော့ချပေးခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "砕",
+  "onyomi": "サイ",
+  "kunyomi": "くだく、くだける",
+  "meaning": "smash, break",
+  "meaningMM": "ကွဲကွင်းသည်၊ ဖျက်သည်",
+  "examples": ["砕く (くだく) - ချေလှယ်သည်", "粉砕 (ふんさい) - ပြိုကွဲခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "削",
+  "onyomi": "サク",
+  "kunyomi": "けずる",
+  "meaning": "shave, reduce",
+  "meaningMM": "လျှော့ချသည်၊ ချွေတာသည်",
+  "examples": ["削る (けずる) - ချွေတာသည်", "削減 (さくげん) - လျှော့ချခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "挟",
+  "onyomi": "キョウ",
+  "kunyomi": "はさむ、はさまる",
+  "meaning": "pinch, insert",
+  "meaningMM": "ကြားထဲထည့်သည်၊ ဖိသည်",
+  "examples": ["挟む (はさむ) - ထည့်သည်", "挟まる (はさまる) - ကြားမှာရှိသည်"],
+  "chapter": 2
+},
+{
+  "kanji": "挿",
+  "onyomi": "ソウ",
+  "kunyomi": "さす",
+  "meaning": "insert, put in",
+  "meaningMM": "ထည့်သွင်းသည်",
+  "examples": ["挿す (さす) - ထည့်သည်", "挿入 (そうにゅう) - ထည့်သွင်းခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "及",
+  "onyomi": "キュウ",
+  "kunyomi": "およぶ、およぼす",
+  "meaning": "reach, extend to",
+  "meaningMM": "ရောက်ရှိသည်၊ ဆက်သွယ်သည်",
+  "examples": ["及ぶ (およぶ) - ရောက်ရှိသည်", "及ぼす (およぼす) - အကျိုးသက်ရောက်စေသည်"],
+  "chapter": 2
+},
+{
+  "kanji": "紛",
+  "onyomi": "フン",
+  "kunyomi": "まぎれる、まぎらす",
+  "meaning": "distract, be mistaken for",
+  "meaningMM": "ရှုပ်ထွေးသည်၊ ရှောင်သည်",
+  "examples": ["紛れる (まぎれる) - ရှောင်ဖွဲ့သည်", "紛失 (ふんしつ) - ပျောက်ဆုံးခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "免",
+  "onyomi": "メン",
+  "kunyomi": "まぬかれる",
+  "meaning": "excuse, exempt",
+  "meaningMM": "လွှဲမြှားသည်၊ ချထားသည်",
+  "examples": ["免れる (まぬかれる) - လွှဲမြှားသည်", "免除 (めんじょ) - ချထားခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "憤",
+  "onyomi": "フン",
+  "kunyomi": "いきどおる",
+  "meaning": "anger, resentment",
+  "meaningMM": "အမျက်ထွက်သည်၊ စိတ်ဝင်စားသည်",
+  "examples": ["憤り (いきどおり) - အမျက်ထွက်မှု", "憤慨 (ふんがい) - စိတ်ဆိုးခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "併",
+  "onyomi": "ヘイ",
+  "kunyomi": "あわせる",
+  "meaning": "combine, merge",
+  "meaningMM": "ပေါင်းစည်းသည်၊ ပူးပေါင်းသည်",
+  "examples": ["併せる (あわせる) - ပေါင်းသည်", "合併 (がっぺい) - ပေါင်းစည်းခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "劣",
+  "onyomi": "レツ",
+  "kunyomi": "おとる",
+  "meaning": "inferior, be worse",
+  "meaningMM": "နိမ့်ကျသည်၊ ဆိုးရွားသည်",
+  "examples": ["劣る (おとる) - နိမ့်သည်", "劣等感 (れっとうかん) - သိမ်ငယ်ခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "隔",
+  "onyomi": "カク",
+  "kunyomi": "へだてる、へだたる",
+  "meaning": "separate, isolate",
+  "meaningMM": "ခွဲထားသည်၊ ချွတ်ကွက်သည်",
+  "examples": ["隔てる (へだてる) - ခွဲသည်", "隔離 (かくり) - သီးခြားထားခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "抹",
+  "onyomi": "マツ",
+  "kunyomi": "",
+  "meaning": "erase, rub off",
+  "meaningMM": "ဖျက်သည်၊ ဖျောက်သည်",
+  "examples": ["抹消 (まっしょう) - ဖျက်သိမ်းခြင်း", "抹茶 (まっちゃ) - မြစ်ခြံပင်နီမှုန့်"],
+  "chapter": 2
+},
+{
+  "kanji": "借",
+  "onyomi": "シャク",
+  "kunyomi": "かりる",
+  "meaning": "borrow",
+  "meaningMM": "ချေးယူသည်",
+  "examples": ["借りる (かりる) - ချေးယူသည်", "借金 (しゃっきん) - ချေးငွေ"],
+  "chapter": 2
+},
+{
+  "kanji": "嘆",
+  "onyomi": "タン",
+  "kunyomi": "なげく、なげかわしい",
+  "meaning": "sigh, grieve",
+  "meaningMM": "တောင်းဆိုသည်၊ ဝမ်းနည်းသည်",
+  "examples": ["嘆く (なげく) - ဝမ်းနည်းသည်", "嘆かわしい (なげかわしい) - ဝမ်းနည်းဖွယ်"],
+  "chapter": 2
+},
+{
+  "kanji": "驚",
+  "onyomi": "キョウ",
+  "kunyomi": "おどろく、おどろかす",
+  "meaning": "surprise, astonish",
+  "meaningMM": "အံ့ဩသည်၊ တိတ်တသက်သည်",
+  "examples": ["驚く (おどろく) - အံ့အားသင့်သည်", "驚異 (きょうい) - အံ့ဖွယ်"],
+  "chapter": 2
+},
+{
+  "kanji": "慈",
+  "onyomi": "ジ",
+  "kunyomi": "いつくしむ",
+  "meaning": "compassion, mercy",
+  "meaningMM": "ကြင်နာသည်၊ သနားသည်",
+  "examples": ["慈しむ (いつくしむ) - ကြင်နာသည်", "慈悲 (じひ) - သနားမှု"],
+  "chapter": 2
+},
+{
+  "kanji": "粘",
+  "onyomi": "ネン",
+  "kunyomi": "ねばる",
+  "meaning": "sticky, persist",
+  "meaningMM": "ကပ်ကပ်လေးဖြစ်သည်၊ ကြိုးစားသည်",
+  "examples": ["粘る (ねばる) - ကပ်ကပ်ဖြစ်သည်", "粘着 (ねんちゃく) - ကပ်ခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "奮",
+  "onyomi": "フン",
+  "kunyomi": "ふるう",
+  "meaning": "stir up, exert",
+  "meaningMM": "အားတက်သည်၊ စိတ်သန်သည်",
+  "examples": ["奮う (ふるう) - စိတ်ကောင်းကောင်းဖြင့်လုပ်သည်", "奮闘 (ふんとう) - ကြိုးစားအားထုတ်ခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "欲",
+  "onyomi": "ヨク",
+  "kunyomi": "ほしい、ほっする",
+  "meaning": "desire, want",
+  "meaningMM": "ဆန္ဒရှိသည်၊ တောင်းဆိုသည်",
+  "examples": ["欲しい (ほしい) - တောင်းသည်", "食欲 (しょくよく) - အစားအစာဆန္ဒ"],
+  "chapter": 2
+},
+{
+  "kanji": "諭",
+  "onyomi": "ユ",
+  "kunyomi": "さとす",
+  "meaning": "explain, instruct",
+  "meaningMM": "ဆွေးနွေးညွှန်ကြားသည်",
+  "examples": ["諭す (さとす) - သဘောပေးညွှန်ကြားသည်", "教諭 (きょうゆ) - ဆရာ၊ ဆရာမ"],
+  "chapter": 2
+},
+{
+  "kanji": "忍",
+  "onyomi": "ニン",
+  "kunyomi": "しのぶ、しのばせる",
+  "meaning": "endure, conceal",
+  "meaningMM": "ခံနိုင်သည်၊ ဖျောက်သည်",
+  "examples": ["忍ぶ (しのぶ) - ခံနိုင်သည်", "忍者 (にんじゃ) - ဝှက်လျှို့ဝှက်သူ"],
+  "chapter": 2
+},
+{
+  "kanji": "狂",
+  "onyomi": "キョウ",
+  "kunyomi": "くるう、くるおしい",
+  "meaning": "crazy, frenzy",
+  "meaningMM": "အရူးအမူးဖြစ်သည်",
+  "examples": ["狂う (くるう) - အရူးအမူးဖြစ်သည်", "狂気 (きょうき) - မိုက်မဲမှု"],
+  "chapter": 2
+},
+{
+  "kanji": "奔",
+  "onyomi": "ホン",
+  "kunyomi": "",
+  "meaning": "run, rush",
+  "meaningMM": "ပြေးခြင်း၊ ပြေးဆွဲသည်",
+  "examples": ["奔走 (ほんそう) - ပြေးနေခြင်း", "奔放 (ほんぽう) - လွတ်လပ်သောအသွင်အပြင်"],
+  "chapter": 2
+},
+{
+  "kanji": "負",
+  "onyomi": "フ",
+  "kunyomi": "まける、おう",
+  "meaning": "lose, bear (burden)",
+  "meaningMM": "ရှုံးသည်၊ ဝတ်ဆင်သည်",
+  "examples": ["負ける (まける) - ရှုံးသည်", "負担 (ふたん) - တာဝန်ဝတ်မှန်"],
+  "chapter": 2
+},
+{
+  "kanji": "侮",
+  "onyomi": "ブ",
+  "kunyomi": "あなどる",
+  "meaning": "despise, scorn",
+  "meaningMM": "အထင်စရာမထင်သည်၊ စှဲသည်",
+  "examples": ["侮る (あなどる) - အထင်မထားဘဲ ချည်းနှောက်သည်", "侮辱 (ぶじょく) - အနိမ့်ထားခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "辱",
+  "onyomi": "ジョク",
+  "kunyomi": "はじる、はずかしめる",
+  "meaning": "shame, insult",
+  "meaningMM": "အနောက်အရှုံးဖြစ်သည်၊ ရှက်သည်",
+  "examples": ["恥辱 (ちじょく) - စိတ်ရွံရှာဖွယ်", "侮辱 (ぶじょく) -insultစော်ကားပြောဆိုခြင်း "],
+  "chapter": 2
+},
+{
+  "kanji": "喪",
+  "onyomi": "ソウ",
+  "kunyomi": "も",
+  "meaning": "mourning, loss",
+  "meaningMM": "အလျှောက်၊ သေဆုံးခြင်း",
+  "examples": ["喪失 (そうしつ) - ပျောက်ဆုံးခြင်း", "喪服 (もふく) - သမားတော်အင်္ကျီ"],
+  "chapter": 2
+},
+{
+  "kanji": "慰",
+  "onyomi": "イ",
+  "kunyomi": "なぐさめる、なぐさむ",
+  "meaning": "comfort, console",
+  "meaningMM": "စိတ်တိုင်းကျအောင်ပြုသည်၊ ငြိမ်းချမ်းစေသည်",
+  "examples": ["慰める (なぐさめる) - သက်သက်သာသာဖြစ်အောင်ပြုသည်", "慰安 (いあん) - စိတ်ပျော်မွေ့စေခြင်း"],
+  "chapter": 2
+},
+{
+  "kanji": "嫁",
+  "onyomi": "カ",
+  "kunyomi": "よめ、とつぐ",
+  "meaning": "bride, marry into",
+  "meaningMM": "လက်ထပ်လာသော မိန်းမ၊ လက်ထပ်သည်",
+  "examples": ["嫁ぐ (とつぐ) - လက်ထပ်သည်", "花嫁 (はなよめ) - မင်္ဂလာမယ်"],
+  "chapter": 3
+},
+{
+  "kanji": "婿",
+  "onyomi": "セイ",
+  "kunyomi": "むこ",
+  "meaning": "groom, son-in-law",
+  "meaningMM": "မင်္ဂလာသား၊ မယားဖခင်",
+  "examples": ["婿 (むこ) - မင်္ဂလာသား", "婿養子 (むこようし) - မယားဖခင်အဖြစ် ဝင်သောသား"],
+  "chapter": 3
+},
+{
+  "kanji": "縁",
+  "onyomi": "エン",
+  "kunyomi": "ふち",
+  "meaning": "fate, relation, edge",
+  "meaningMM": "ကံကြမ္မာ၊ ဆက်ဆံရေး",
+  "examples": ["縁 (えん) - ဆက်စပ်မှု", "縁起 (えんぎ) - မျှော်လင့်ချက်"],
+  "chapter": 3
+},
+{
+  "kanji": "威",
+  "onyomi": "イ",
+  "kunyomi": "",
+  "meaning": "authority, power",
+  "meaningMM": "အာဏာ၊ ကြောက်ရွံ့စရာ",
+  "examples": ["威張る (いばる) - ကြမ်းတမ်းစွာပြောသည်", "威圧 (いあつ) - ဖိအားဖြင့် ထိန်းချုပ်မှု"],
+  "chapter": 3
+},
+{
+  "kanji": "系",
+  "onyomi": "ケイ",
+  "kunyomi": "",
+  "meaning": "lineage, system",
+  "meaningMM": "မျိုးဆက်၊ စနစ်",
+  "examples": ["家系 (かけい) - မျိုးရိုးဇာတိ", "体系 (たいけい) - စနစ်တကျ"],"chapter": 3
+},
+{
+  "kanji": "姻",
+  "onyomi": "イン",
+  "kunyomi": "",
+  "meaning": "marriage, matrimony",
+  "meaningMM": "အိမ်ထောင်ပြုခြင်း",
+  "examples": ["婚姻 (こんいん) - အိမ်ထောင်ရေး", "姻族 (いんぞく) - မိသားစု ဆက်နွယ်မှု"],
+  "chapter": 3
+},
+{
+  "kanji": "叔",
+  "onyomi": "シュク",
+  "kunyomi": "",
+  "meaning": "uncle (younger than father)",
+  "meaningMM": "ဖခင်၏ ညီ",
+  "examples": ["叔父 (おじ) - ညီလေး (ဖခင်မောင်)", "叔母 (おば) - ညီမ (မိခင်မောင်နှမ)"],
+  "chapter": 3
+},
+{
+  "kanji": "伯",
+  "onyomi": "ハク",
+  "kunyomi": "",
+  "meaning": "uncle (older than father), chief",
+  "meaningMM": "ဖခင်အကို၊ ဦးဆောင်သူ",
+  "examples": ["伯父 (おじ) - အကို (ဖခင်)", "伯母 (おば) - အမ (မိခင်)"],
+  "chapter": 3
+},
+{
+  "kanji": "恩",
+  "onyomi": "オン",
+  "kunyomi": "",
+  "meaning": "grace, kindness",
+  "meaningMM": "ကျေးဇူး",
+  "examples": ["恩 (おん) - ကျေးဇူး", "恩人 (おんじん) - ကျေးဇူးရှင်"],
+  "chapter": 3
+},
+{
+  "kanji": "涯",
+  "onyomi": "ガイ",
+  "kunyomi": "",
+  "meaning": "horizon, limit",
+  "meaningMM": "နယ်နိမိတ်၊ အဆုံးအဖြတ်",
+  "examples": ["生涯 (しょうがい) - ဘဝတလျှောက်လုံး", "無限の涯 (むげんのがい) - အဆုံးမဲ့နယ်နိမိတ်"],
+  "chapter": 3
+},
+{
+  "kanji": "継",
+  "onyomi": "ケイ",
+  "kunyomi": "つぐ",
+  "meaning": "inherit, succeed",
+  "meaningMM": "အမွေဆက်ခံသည်",
+  "examples": ["継ぐ (つぐ) - ဆက်ခံသည်", "後継 (こうけい) - ဆက်ခံသူ"],
+  "chapter": 3
+},
+{
+  "kanji": "絆",
+  "onyomi": "ハン",
+  "kunyomi": "きずな",
+  "meaning": "bond, ties",
+  "meaningMM": "ချစ်ခြင်းမေတ္တာဆက်နွယ်မှု",
+  "examples": ["絆 (きずな) - ချစ်ခြင်းမေတ္တာ", "家族の絆 (かぞくのきずな) - မိသားစုဆက်နွယ်မှု"],
+  "chapter": 3
+},
+{
+  "kanji": "淑",
+  "onyomi": "シュク",
+  "kunyomi": "",
+  "meaning": "graceful, gentle",
+  "meaningMM": "သိမ်မွေ့သော၊ သမာဓိရှိသော",
+  "examples": ["淑女 (しゅくじょ) - သမီးတော်", "淑やか (しとやか) - သိမ်မွေ့သော"],
+  "chapter": 3
+},
+{
+  "kanji": "嬢",
+  "onyomi": "ジョウ",
+  "kunyomi": "",
+  "meaning": "young lady",
+  "meaningMM": "ကောင်မလေး",
+  "examples": ["娘嬢 (じょうじょう) - မိန်းကလေး", "お嬢様 (おじょうさま) - တန်ဖိုးကြီးမိန်းကလေး"],
+  "chapter": 3
+},
+{
+  "kanji": "貴",
+  "onyomi": "キ",
+  "kunyomi": "たっと・い、とうと・い、たっと・ぶ、とうと・ぶ",
+  "meaning": "precious, noble",
+  "meaningMM": "တန်ဖိုးရှိသော၊ မြင့်မြတ်သော",
+  "examples": ["貴重 (きちょう) - တန်ဖိုးကြီးသော", "貴族 (きぞく) - မင်းမျိုး"],
+  "chapter": 3
+},
+{
+  "kanji": "仰",
+  "onyomi": "ギョウ、コウ",
+  "kunyomi": "あお・ぐ、おお・せ",
+  "meaning": "look up, respect",
+  "meaningMM": "လေးစားကြည့်သည်၊ အမိန့်ခံသည်",
+  "examples": ["仰ぐ (あおぐ) - လေးစားသည်", "信仰 (しんこう) - သက်ဝင်ယုံကြည်မှု"],
+  "chapter": 3
+},
+{
+  "kanji": "謹",
+  "onyomi": "キン",
+  "kunyomi": "つつし・む",
+  "meaning": "discreet, humble",
+  "meaningMM": "ဂရုစိုက်သည်၊ ဂုဏ်ယူသည်",
+  "examples": ["謹んで (つつしんで) - ဂရုတစိုက်", "謹慎 (きんしん) - မုန်းတီးခြင်းကင်းသော"],
+  "chapter": 3
+},
+{
+  "kanji": "賀",
+  "onyomi": "ガ",
+  "kunyomi": "",
+  "meaning": "congratulations",
+  "meaningMM": "ဂုဏ်ပြုခြင်း",
+  "examples": ["祝賀 (しゅくが) - ဂုဏ်ပြုအခမ်းအနား", "年賀状 (ねんがじょう) - နှစ်သစ်တောင်းစာ"],
+  "chapter": 3
+},
+{
+  "kanji": "奉",
+  "onyomi": "ホウ、ブ",
+  "kunyomi": "たてまつ・る",
+  "meaning": "dedicate, offer",
+  "meaningMM": "ပူဇော်捐献သည်၊ လုပ်ငန်းအပ်နှံသည်",
+  "examples": ["奉仕 (ほうし) - ဝန်ထမ်းမှု", "奉る (たてまつる) - တင်သွင်းသည်"],
+  "chapter": 3
+},
+{
+  "kanji": "忠",
+  "onyomi": "チュウ",
+  "kunyomi": "",
+  "meaning": "loyalty, faithfulness",
+  "meaningMM": "သစ္စာရှိမှု၊ မျှတမှု",
+  "examples": ["忠実 (ちゅうじつ) - သစ္စာရှိသော", "忠告 (ちゅうこく) - သတိပေးချက်"],
+  "chapter": 3
+},
+{
+  "kanji": "孝",
+  "onyomi": "コウ",
+  "kunyomi": "",
+  "meaning": "filial piety",
+  "meaningMM": "မိဘများကိုလေးစားမှု",
+  "examples": ["孝行 (こうこう) - မိဘကိုလေးစားမှု", "親孝行 (おやこうこう) - မိဘကိုဂရုစိုက်ခြင်း"],
+  "chapter": 3
+},
+{
+  "kanji": "貞",
+  "onyomi": "テイ",
+  "kunyomi": "さだ",
+  "meaning": "chastity, fidelity",
+  "meaningMM": "တည့်တည့်ဖြောင့်ဖြောင့်၊ သစ္စာရှိမှု",
+  "examples": ["貞節 (ていせつ) - သမားတော်မှု", "不貞 (ふてい) - သစ္စာဖောက်မှု"],
+  "chapter": 3
+},
+{
+  "kanji": "徳",
+  "onyomi": "トク",
+  "kunyomi": "",
+  "meaning": "virtue, morality",
+  "meaningMM": "ကောင်းမွန်မှု၊ သီလ",
+  "examples": ["道徳 (どうとく) - သီလယဉ်ကျေးမှု", "徳を積む (とくをつむ) - ကောင်းမှုလုပ်သည်"],
+  "chapter": 3
+},
+{
+  "kanji": "称",
+  "onyomi": "ショウ",
+  "kunyomi": "たた・える",
+  "meaning": "call, praise",
+  "meaningMM": "ခေါ်သည်၊ ချီးကျူးသည်",
+  "examples": ["名称 (めいしょう) - အမည်", "称賛 (しょうさん) - ချီးကျူးမှု"],
+  "chapter": 3
+},
+{
+  "kanji": "郎",
+  "onyomi": "ロウ",
+  "kunyomi": "",
+  "meaning": "man, son",
+  "meaningMM": "ယောကျ်ားလေး၊ သား",
+  "examples": ["新郎 (しんろう) - မင်္ဂလာသား", "太郎 (たろう) - တာရိုး (ယောကျ်ားအမည်)"],
+  "chapter": 3
+},
+{
+  "kanji": "俺",
+  "onyomi": "",
+  "kunyomi": "おれ",
+  "meaning": "I (rough male speech)",
+  "meaningMM": "ကျွန်တော် (ယောကျ်ားအကြမ်းစကား)",
+  "examples": ["俺 (おれ) - ကျွန်တော်", "俺様 (おれさま) - ကျွန်တော်ကြီး"],
+  "chapter": 3
+},
+{
+  "kanji": "己",
+  "onyomi": "コ、キ",
+  "kunyomi": "おのれ",
+  "meaning": "self",
+  "meaningMM": "မိမိကိုယ်ကို",
+  "examples": ["自己 (じこ) - မိမိကိုယ်တိုင်", "知己 (ちき) - မိတ်ဆွေ"],
+  "chapter": 3
+},
+{
+  "kanji": "孤",
+  "onyomi": "コ",
+  "kunyomi": "",
+  "meaning": "orphan, alone",
+  "meaningMM": "မိဘမဲ့ကလေး၊ သီးသန့်",
+  "examples": ["孤独 (こどく) - အထီးကျန်မှု", "孤児 (こじ) - မိဘမဲ့ကလေး"],
+  "chapter": 3
+},
+{
+  "kanji": "匿",
+  "onyomi": "トク",
+  "kunyomi": "かく・れる",
+  "meaning": "hide, shelter",
+  "meaningMM": "ဖျောက်ထားသည်၊ ခိုလှုံခွင့်ပေးသည်",
+  "examples": ["隠匿 (いんとく) - ဖုံးကွယ်ထားခြင်း", "匿う (かくまう) - ခိုလှုံခွင့်ပေးသည်"],
+  "chapter": 3
+},
+{
+  "kanji": "遺",
+  "onyomi": "イ、ユイ",
+  "kunyomi": "のこ・す",
+  "meaning": "leave behind, bequeath",
+  "meaningMM": "စွန့်ခွာထားသည်၊ အမွေဆက်မြှင့်သည်",
+  "examples": ["遺産 (いさん) - အမွေ", "遺言 (ゆいごん) - နောက်ဆုံးအမိန့်"],
+  "chapter": 3
+},
+{
+  "kanji": "逝",
+  "onyomi": "セイ",
+  "kunyomi": "ゆ・く、い・く",
+  "meaning": "pass away",
+  "meaningMM": "ကွယ်လွန်သည်",
+  "examples": ["逝去 (せいきょ) - ကွယ်လွန်ခြင်း", "急逝 (きゅうせい) - ထပ်ကွယ်လွန်ခြင်း"],
+  "chapter": 3
+},
+{
+  "kanji": "葬",
+  "onyomi": "ソウ",
+  "kunyomi": "ほうむ・る",
+  "meaning": "bury, funeral",
+  "meaningMM": "သင်္ချိုင်းတင်သည်၊ မသင်္ချိုင်း",
+  "examples": ["葬式 (そうしき) - မသင်္ချိုင်း", "火葬 (かそう) - မီးဖြင့်သင်္ချိုင်းတင်ခြင်း"],
+  "chapter": 3
+},
+{
+  "kanji": "忌",
+  "onyomi": "キ",
+  "kunyomi": "い・む、い・まわしい",
+  "meaning": "mourning, detest",
+  "meaningMM": "အနာဂတ်ကင်းရှင်းမှု၊ မုန်းတီးခြင်း",
+  "examples": ["忌日 (きじつ) - ရုပ်အလောင်းနေ့", "忌む (いむ) - မုန်းတီးသည်"],
+  "chapter": 3
+},
+{
+  "kanji": "棺",
+  "onyomi": "カン",
+  "kunyomi": "",
+  "meaning": "coffin",
+  "meaningMM": "ဈာပနပုံး",
+  "examples": ["棺桶 (かんおけ) - မျက်နှာဖုံးသော ဈာပနပုံး", "棺 (ひつぎ) - ဈာပနပုံး"],
+  "chapter": 3
+},
+{
+  "kanji": "墓",
+  "onyomi": "ボ",
+  "kunyomi": "はか",
+  "meaning": "grave",
+  "meaningMM": "သင်္ချိုင်း",
+  "examples": ["墓地 (ぼち) - သင်္ချိုင်းဧရိယာ", "墓参り (はかまいり) - သင်္ချိုင်းသွားခြင်း"],
+  "chapter": 3
+},
+{
+  "kanji": "故",
+  "onyomi": "コ",
+  "kunyomi": "ゆえ",
+  "meaning": "deceased, reason",
+  "meaningMM": "ကွယ်လွန်သူ၊ အကြောင်းအရင်း",
+  "examples": ["故人 (こじん) - ကွယ်လွန်သူ", "事故 (じこ) - မတော်တဆမှု"],
+  "chapter": 3
+},
+{
+  "kanji": "魂",
+  "onyomi": "コン",
+  "kunyomi": "たましい",
+  "meaning": "soul, spirit",
+  "meaningMM": "ဝိညာဉ်၊ စိတ်ဝိညာဉ်",
+  "examples": ["魂 (たましい) - ဝိညာဉ်", "精魂 (せいこん) - စိတ်ဝိညာဉ်နှင့် ကိုယ်စွမ်းအား"],
+  "chapter": 3
+},
+{
+    "kanji": "桃",
+    "onyomi": "トウ",
+    "kunyomi": "もも",
+    "meaning": "peach",
+    "meaningMM": "သစ်တော်ပင်သီး",
+    "examples": ["桃 (もも) - သစ်တော်ပင်သီး", "桃色 (ももいろ) - ပန်းရောင်"],
+    "chapter": 4
+  },
+  {
+    "kanji": "柿",
+    "onyomi": "シ",
+    "kunyomi": "かき",
+    "meaning": "persimmon",
+    "meaningMM": "သလဲသီး",
+    "examples": ["柿 (かき) - သလဲသီး", "干し柿 (ほしがき) - ချွတ်ထားသောသလဲသီး"],
+    "chapter": 4
+  },
+  {
+    "kanji": "芋",
+    "onyomi": "",
+    "kunyomi": "いも",
+    "meaning": "potato, tuber",
+    "meaningMM": "အာလူး၊ မွှေးဉ",
+    "examples": ["芋 (いも) - အာလူး", "薩摩芋 (さつまいも) - မွှေးဉ"],
+    "chapter": 4
+  },
+  {
+    "kanji": "栗",
+    "onyomi": "リツ",
+    "kunyomi": "くり",
+    "meaning": "chestnut",
+    "meaningMM": "ဖရဲသီး",
+    "examples": ["栗 (くり) - ဖရဲသီး", "栗ご飯 (くりごはん) - ဖရဲသီးထမင်း"],
+    "chapter": 4
+  },
+  {
+    "kanji": "腐",
+    "onyomi": "フ",
+    "kunyomi": "くさる・くさす",
+    "meaning": "rot, decay",
+    "meaningMM": "ပုပ်သွေးသည်၊ မသန်စွမ်းဖြစ်သည်",
+    "examples": ["腐る (くさる) - ပုပ်သည်", "腐敗 (ふはい) - ပုပ်သွေးမှု"],
+    "chapter": 4
+  },
+  {
+    "kanji": "昆",
+    "onyomi": "コン",
+    "kunyomi": "",
+    "meaning": "insects",
+    "meaningMM": "ပိုးမွှား",
+    "examples": ["昆虫 (こんちゅう) - ပိုးမွှား", "昆布 (こんぶ) - ရေမွှားပင်"],
+    "chapter": 4
+  },
+  {
+    "kanji": "漬",
+    "onyomi": "シ",
+    "kunyomi": "つける・つかる",
+    "meaning": "soak, pickle",
+    "meaningMM": "ချဉ်စပ်ချဉ်၊ စိမ်သည်",
+    "examples": ["漬け物 (つけもの) - ချဉ်အချဉ်", "漬ける (つける) - စိမ်သည်"],
+    "chapter": 4
+  },
+  {
+    "kanji": "藻",
+    "onyomi": "ソウ",
+    "kunyomi": "も",
+    "meaning": "seaweed, algae",
+    "meaningMM": "ရေမွှားပင်",
+    "examples": ["藻 (も) - ရေမွှားပင်", "海藻 (かいそう) - ပင်လယ်မွှားပင်"],
+    "chapter": 4
+  },
+  {
+  "kanji": "沸",
+  "onyomi": "フツ",
+  "kunyomi": "わく・わかす",
+  "meaning": "boil",
+  "meaningMM": "ဆူသည်၊ မီးဖုတ်သည်",
+  "examples": ["沸く (わく) - ဆူသည်", "沸騰 (ふっとう) - ဆူပြင်းခြင်း"],
+  "chapter": 4
+},
+{
+  "kanji": "騰",
+  "onyomi": "トウ",
+  "kunyomi": "",
+  "meaning": "rise, jump",
+  "meaningMM": "မြှင့်တက်သည်၊ မြင့်တက်လာသည်",
+  "examples": ["暴騰 (ぼうとう) - စျေးမြင့်တက်ခြင်း", "沸騰 (ふっとう) - ဆူပြင်းခြင်း"],
+  "chapter": 4
+},
+{
+  "kanji": "煮",
+  "onyomi": "シャ",
+  "kunyomi": "にる・にえる・にやす",
+  "meaning": "boil, simmer",
+  "meaningMM": "ပြုတ်သည်",
+  "examples": ["煮る (にる) - ပြုတ်သည်", "煮物 (にもの) - ပြုတ်ထားသောအစားအစာ"],
+  "chapter": 4
+},
+{
+  "kanji": "炊",
+  "onyomi": "スイ",
+  "kunyomi": "たく",
+  "meaning": "cook (rice)",
+  "meaningMM": "ချက်ပြုတ်သည် (ထမင်း)",
+  "examples": ["炊く (たく) - ထမင်းချက်သည်", "炊飯器 (すいはんき) - ထမင်းချက်စက်"],
+  "chapter": 4
+},
+{
+  "kanji": "揚",
+  "onyomi": "ヨウ",
+  "kunyomi": "あげる・あがる",
+  "meaning": "fry, raise",
+  "meaningMM": "ကြော်သည်၊ မြှင့်သည်",
+  "examples": ["揚げる (あげる) - ကြော်သည်", "油揚げ (あぶらあげ) - ကြော်ထားသောတိုဖူး"],
+  "chapter": 4
+},
+{
+  "kanji": "炒",
+  "onyomi": "ソウ",
+  "kunyomi": "いためる・いたまる",
+  "meaning": "stir-fry",
+  "meaningMM": "ဆီအနည်းငယ်ဖြင့်ကြော်သည်",
+  "examples": ["炒める (いためる) - ကြော်သည်", "野菜炒め (やさいいため) - ဟင်းသီးဟင်းရွက်ကြော်"],
+  "chapter": 4
+},
+{
+  "kanji": "蒸",
+  "onyomi": "ジョウ",
+  "kunyomi": "むす",
+  "meaning": "steam",
+  "meaningMM": "အခွံဖုံးပြီးငါးခူသည်",
+  "examples": ["蒸す (むす) - ငါးခူသည်", "蒸気 (じょうき) - ရေနွေးငွေ့"],
+  "chapter": 4
+},
+{
+  "kanji": "鍋",
+  "onyomi": "",
+  "kunyomi": "なべ",
+  "meaning": "pot, pan",
+  "meaningMM": "အူလုံး၊ ချက်တည့်အူ",
+  "examples": ["鍋 (なべ) - အူလုံး", "鍋料理 (なべりょうり) - အူထဲမှာချက်တဲ့ဟင်း"],
+  "chapter": 4
+},
+{
+    "kanji": "斎",
+    "onyomi": "サイ",
+    "kunyomi": "",
+    "meaning": "purification, abstain",
+    "meaningMM": "သန့်စင်ခြင်း၊ ရှောင်ကြဉ်ခြင်း",
+    "examples": ["斎場 (さいじょう) - သ葬အခမ်းအနားနေရာ", "斎藤 (さいとう) - အမည်"],
+    "chapter": 4
+  },
+  {
+    "kanji": "堀",
+    "onyomi": "クツ",
+    "kunyomi": "ほり",
+    "meaning": "moat, ditch",
+    "meaningMM": "ရေနှင်း၊ အနက်ရှိုင်းသောအဝှမ်း",
+    "examples": ["堀 (ほり) - ရေနှင်း", "外堀 (そとぼり) - အပြင်စံပြရေနှင်း"],
+    "chapter": 4
+  },
+  {
+    "kanji": "炉",
+    "onyomi": "ロ",
+    "kunyomi": "",
+    "meaning": "hearth, furnace",
+    "meaningMM": "မီးဖို၊ မီးဖိုချောင်",
+    "examples": ["炉端 (ろばた) - မီးဖိုနား", "暖炉 (だんろ) - မီးဖိုအခန်း"],
+    "chapter": 4
+  },
+  {
+    "kanji": "芳",
+    "onyomi": "ホウ",
+    "kunyomi": "かんばしい",
+    "meaning": "fragrant, virtuous, good",
+    "meaningMM": "မွှေးသော၊ ကောင်းမွန်သော",
+    "examples": ["芳香 (ほうこう) - မွှေးရနံ့", "芳しい (かんばしい) - မွှေးသော"],
+    "chapter": 4
+  },
+  {
+    "kanji": "臭",
+    "onyomi": "シュウ",
+    "kunyomi": "くさい、におう",
+    "meaning": "smell, stink",
+    "meaningMM": "အနံ့၊ အနံ့ဆိုး",
+    "examples": ["臭い (くさい) - အနံ့ဆိုး", "悪臭 (あくしゅう) - မလိုလားသောအနံ့"],
+    "chapter": 4
+  },
+  {
+  "kanji": "穏",
+  "onyomi": "オン",
+  "kunyomi": "おだやか",
+  "meaning": "calm, gentle",
+  "meaningMM": "ငြိမ့်ငြိမ့်၊ ပြေလျော့သော",
+  "examples": ["穏やか (おだやか) - ပူပန်မှုမရှိသော", "穏健 (おんけん) - တည်ငြိမ်မှုရှိသော"],
+  "chapter": 5
+},
+{
+  "kanji": "暇",
+  "onyomi": "カ",
+  "kunyomi": "ひま",
+  "meaning": "free time, leisure",
+  "meaningMM": "အချိန်လွတ်၊ အားလပ်ချိန်",
+  "examples": ["暇つぶし (ひまつぶし) - အချိန်ဖြုန်းခြင်း", "休暇 (きゅうか) - အားလပ်ရက်"],
+  "chapter": 5
+},
+{
+  "kanji": "滑",
+  "onyomi": "カツ",
+  "kunyomi": "すべる、なめらか",
+  "meaning": "slip, slide, smooth",
+  "meaningMM": "လျှောသည်၊ ပြတ်သားသော",
+  "examples": ["滑らか (なめらか) - ဖြောင့်ဖြူးသော", "円滑 (えんかつ) - အဆင်ပြေမှုရှိသော"],
+  "chapter": 5
+},
+{
+  "kanji": "雰",
+  "onyomi": "フン",
+  "kunyomi": "",
+  "meaning": "atmosphere, mood",
+  "meaningMM": "လေထု၊ သဘောထား",
+  "examples": ["雰囲気 (ふんいき) - ပတ်ဝန်းကျင်ပေါ်ကသဘောထား", "気雰 (きふん) - စိတ်ဓာတ်"],
+  "chapter": 5
+},
+{
+  "kanji": "朗",
+  "onyomi": "ロウ",
+  "kunyomi": "ほがらか",
+  "meaning": "bright, cheerful",
+  "meaningMM": "တောက်ပသော၊ ပျော်ရွှင်သော",
+  "examples": ["朗読 (ろうどく) - စာကြည့်ဖတ်ခြင်း", "明朗 (めいろう) - ထင်သာမြင်သာနှင့် ပျော်ရွှင်သော"],
+  "chapter": 5
+},
+{
+  "kanji": "裕",
+  "onyomi": "ユウ",
+  "kunyomi": "",
+  "meaning": "abundant, rich",
+  "meaningMM": "ကြွယ်ဝသော၊ ပြည့်စုံသော",
+  "examples": ["裕福 (ゆうふく) - ချမ်းသာခြင်း", "余裕 (よゆう) - အချိန်၊ ငွေ စသည်ဖြင့်လုံလောက်မှု"],
+  "chapter": 5
+},
+  {
+    "kanji": "乏",
+    "onyomi": "ボウ",
+    "kunyomi": "とぼしい",
+    "meaning": "scarce, lacking",
+    "meaningMM": "မလုံလောက်သော၊ မရှိသော",
+    "examples": ["貧乏 (びんぼう) - ဆင်းရဲခြင်း", "乏しい (とぼしい) - မလုံလောက်သော"],
+    "chapter": 5
+  },
+{
+  "kanji": "微",
+  "onyomi": "ビ",
+  "kunyomi": "かすか",
+  "meaning": "tiny, subtle",
+  "meaningMM": "သေးငယ်သော၊ မသိသာသော",
+  "examples": ["微笑 (びしょう) - ခပ်မြိန်မြိန်ပြုံးခြင်း", "微量 (びりょう) - အနည်းငယ်သောအရေအတွက်"],
+  "chapter": 5
+},
+{
+    "kanji": "愚",
+    "onyomi": "グ",
+    "kunyomi": "おろか",
+    "meaning": "foolish, stupid",
+    "meaningMM": "အဓမ္မ၊ မိုက်မှု",
+    "examples": ["愚か者 (おろかもの) - အလေးမထားသူ", "愚痴 (ぐち) - တောင်းဆိုသည်"],
+    "chapter": 5
+  },
+  {
+    "kanji": "稚",
+    "onyomi": "チ",
+    "kunyomi": "いとけない、わかい",
+    "meaning": "young, immature",
+    "meaningMM": "ရွယ်တူသော၊ အရြယ်မပြည့်သေးသော",
+    "examples": ["幼稚園 (ようちえん) - မူကြိုကျောင်း", "稚魚 (ちぎょ) - ငါးပွေကလေး"],
+    "chapter": 5
+  },
+  {
+    "kanji": "猛",
+    "onyomi": "モウ",
+    "kunyomi": "",
+    "meaning": "fierce, intense",
+    "meaningMM": "ပြင်းထန်သော၊ တောင့်တင်းသော",
+    "examples": ["猛暑 (もうしょ) - ပြင်းထန်သောပူချိန်", "猛烈 (もうれつ) - ပြင်းထန်မှု"],
+    "chapter": 5
+  },
+  {
+    "kanji": "烈",
+    "onyomi": "レツ",
+    "kunyomi": "",
+    "meaning": "violent, ardent",
+    "meaningMM": "ပြင်းထန်သော၊ တောင့်တင်းသော",
+    "examples": ["強烈 (きょうれつ) - ပြင်းထန်သော သက်သာမှု", "烈火 (れっか) - မီးလောင်မှု ပြင်းထန်မှု"],
+    "chapter": 5
+  },
+  {
+    "kanji": "卑",
+    "onyomi": "ヒ",
+    "kunyomi": "いやしい",
+    "meaning": "lowly, base",
+    "meaningMM": "အနိမ့်ဆုံး၊ မတန်ဖိုး",
+    "examples": ["卑怯 (ひきょう) - မာနလျော့ခြင်း", "卑劣 (ひれつ) - ဆိုးရွားမှု"],
+    "chapter": 5
+  },
+  {
+    "kanji": "壮",
+    "onyomi": "ソウ",
+    "kunyomi": "",
+    "meaning": "robust, manly",
+    "meaningMM": "မာန်ရှိသော၊ သန်မာသော",
+    "examples": ["壮大 (そうだい) - ကြီးမားမှု", "壮健 (そうけん) - ကျန်းမာတက်ကြွခြင်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "陰",
+    "onyomi": "イン",
+    "kunyomi": "かげ",
+    "meaning": "shade, negative, hidden",
+    "meaningMM": "အရိပ်၊ ဝှက်ထားသော",
+    "examples": ["陰性 (いんせい) - အနုတ်လက္ခဏာ", "日陰 (ひかげ) - နေမလောင်သောနေရာ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "膨",
+    "onyomi": "ボウ",
+    "kunyomi": "ふくれる、ふくらむ",
+    "meaning": "swell, expand",
+    "meaningMM": "ဖောင်းသည်၊ ပေါက်ကြဲသည်",
+    "examples": ["膨大 (ぼうだい) - အလွန်ကြီးမားသော", "膨張 (ぼうちょう) - ကျယ်ပြန့်လာခြင်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "奇",
+    "onyomi": "キ",
+    "kunyomi": "くすしい",
+    "meaning": "strange, unusual",
+    "meaningMM": "ထူးဆန်းသော၊ မမှီမျှသော",
+    "examples": ["好奇心 (こうきしん) - သိလိုစိတ်", "奇跡 (きせき) - အံ့သြဖွယ်အရာ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "妙",
+    "onyomi": "ミョウ",
+    "kunyomi": "たえ",
+    "meaning": "strange, mysterious",
+    "meaningMM": "ထူးဆန်းသော၊ အံ့သြဖွယ်",
+    "examples": ["妙案 (みょうあん) - ဉာဏ်ကောင်းသော အကြံ", "奇妙 (きみょう) - ထူးဆန်းခြင်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "魅",
+    "onyomi": "ミ",
+    "kunyomi": "",
+    "meaning": "fascination, charm",
+    "meaningMM": "ဝိုင်းဝန်းစွဲဆောင်မှု",
+    "examples": ["魅力 (みりょく) - ဆွဲဆောင်မှု", "魅了 (みりょう) - စွဲဆောင်ခြင်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "凡",
+    "onyomi": "ボン",
+    "kunyomi": "",
+    "meaning": "ordinary, mediocre",
+    "meaningMM": "ပုံမှန်၊ ထူးခြားမှုမရှိသော",
+    "examples": ["凡人 (ぼんじん) - လူပျိုသား", "平凡 (へいぼん) - သာမန်မှု"],
+    "chapter": 5
+  },
+  {
+    "kanji": "甲",
+    "onyomi": "コウ",
+    "kunyomi": "きのえ",
+    "meaning": "armor, first",
+    "meaningMM": "စစ်ကာကွယ်စည်းကပ်ရာ၊ ပထမအဆင့်",
+    "examples": ["甲高い (かんだかい) - မြင့်မြတ်သောအသံ", "甲板 (かんぱん) - သင်္ဘောအပေါ်ယံ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "乙",
+    "onyomi": "オツ",
+    "kunyomi": "きのと",
+    "meaning": "second, quaint",
+    "meaningMM": "ဒုတိယ၊ ထူးခြားသောအရာ",
+    "examples": ["乙女 (おとめ) - မိန်းကလေး", "甲乙 (こうおつ) - ပထမနှင့် ဒုတိယ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "恒",
+    "onyomi": "コウ",
+    "kunyomi": "つね",
+    "meaning": "constant, always",
+    "meaningMM": "အမြဲတမ်း၊ မပြောင်းလဲသော",
+    "examples": ["恒例 (こうれい) - အမြဲကျင့်သုံးသော အလေ့အထ", "恒星 (こうせい) - ကြယ်ပွင့်"],
+    "chapter": 5
+  },
+  {
+    "kanji": "至",
+    "onyomi": "シ",
+    "kunyomi": "いたる",
+    "meaning": "reach, utmost",
+    "meaningMM": "ရောက်ရှိသည်၊ အတန်ဆုံး",
+    "examples": ["至急 (しきゅう) - အလျင်အမြန်", "夏至 (げし) - နွေဦးနေ့"],
+    "chapter": 5
+  },
+  {
+    "kanji": "瞬",
+    "onyomi": "シュン",
+    "kunyomi": "またたく",
+    "meaning": "instant, blink",
+    "meaningMM": "အနုပြတ်၊ မျက်လုံးခတ်ခြင်း",
+    "examples": ["瞬間 (しゅんかん) - မျက်နှာခုံးတင်ချိန်", "一瞬 (いっしゅん) - တစ်စက္ကန့်အတွင်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "旬",
+    "onyomi": "ジュン",
+    "kunyomi": "",
+    "meaning": "season, ten-day period",
+    "meaningMM": "အခါသမယ၊ တစ်လအတွင်း ၁၀ရက်",
+    "examples": ["上旬 (じょうじゅん) - လအစပိုင်း", "旬刊 (じゅんかん) - တစ်သောင်းပြည့်စာစောင်"],
+    "chapter": 5
+  },
+  {
+    "kanji": "頃",
+    "onyomi": "",
+    "kunyomi": "ころ、ごろ",
+    "meaning": "time, around",
+    "meaningMM": "အချိန်၊ လျှာချောချိန်",
+    "examples": ["子供の頃 (こどものころ) - ကလေးဘဝတုန်းက", "昼頃 (ひるごろ) - မွန်းလွဲချိန်ဝန်းကျင်"],
+    "chapter": 5
+  },
+  {
+    "kanji": "徐",
+    "onyomi": "ジョ",
+    "kunyomi": "おもむろに",
+    "meaning": "slowly, gently",
+    "meaningMM": "ဖြည်းဖြည်းချင်း၊ နှေးနှေးချင်း",
+    "examples": ["徐行 (じょこう) - နှေးနှေးလျှောက်ခြင်း", "徐々に (じょじょに) - တဖြည်းဖြည်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "頻",
+    "onyomi": "ヒン",
+    "kunyomi": "",
+    "meaning": "frequent",
+    "meaningMM": "ကြာကြာဖြစ်သော",
+    "examples": ["頻度 (ひんど) - ဖြစ်ပေါ်နှုန်း", "頻繁 (ひんぱん) - မကြာခဏ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "逐",
+    "onyomi": "チク",
+    "kunyomi": "",
+    "meaning": "chase, gradually",
+    "meaningMM": "လိုက်လံခြင်း၊ တဖြည်းဖြည်း",
+    "examples": ["逐一 (ちくいち) - အကြောင်းအရာတိုင်း", "駆逐 (くちく) - ဖယ်ရှားခြင်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "斉",
+    "onyomi": "セイ",
+    "kunyomi": "ひとしい",
+    "meaning": "uniform, equal",
+    "meaningMM": "တူညီသော၊ သာတူညီမွန်း",
+    "examples": ["一斉 (いっせい) - တစ်ပြိုင်နက်တည်း", "斉唱 (せいしょう) - သီချင်းတူတူဆိုခြင်း"],
+    "chapter": 5
+  },
+  {
+    "kanji": "唯",
+    "onyomi": "ユイ、イ",
+    "kunyomi": "ただ",
+    "meaning": "only, merely",
+    "meaningMM": "သာမက၊ မျှသာ",
+    "examples": ["唯一 (ゆいいつ) - တစ်ခုတည်းသော", "唯物論 (ゆいぶつろん) - ပစ္စည်းဝါဒ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "疎",
+    "onyomi": "ソ",
+    "kunyomi": "うとい",
+    "meaning": "distant, alienated",
+    "meaningMM": "အဝေး၊ ချစ်ကြည်မူနည်းသော",
+    "examples": ["過疎 (かそ) - လူနည်းသောနေရာ", "疎遠 (そえん) - ချစ်ကြည်မူနည်းသောအဆက်"],
+    "chapter": 5
+  },
+  {
+    "kanji": "剰",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "meaning": "surplus, excess",
+    "meaningMM": "ကျန်ရှိသော၊ လွန်စွာ",
+    "examples": ["過剰 (かじょう) - များခြင်း", "剰余 (じょうよ) - ကျန်ရှိသောအရာ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "緩",
+    "onyomi": "カン",
+    "kunyomi": "ゆるい、ゆるめる",
+    "meaning": "loose, relax",
+    "meaningMM": "လျော့သည်၊ ချောမွေ့သည်",
+    "examples": ["緩和 (かんわ) - သက်သာစေခြင်း", "緩やか (ゆるやか) - ဖြေးညှင်းသော"],
+    "chapter": 5
+  },
+  {
+    "kanji": "衝",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "collision, conflict",
+    "meaningMM": "တိုက်ခိုက်မှု၊ ငြိမ်ဆ",
+    "examples": ["衝突 (しょうとつ) - တိုက်မိခြင်း", "衝撃 (しょうげき) - ထိခိုက်မှု"],
+    "chapter": 5
+  },
+  {
+    "kanji": "殊",
+    "onyomi": "シュ",
+    "kunyomi": "ことに",
+    "meaning": "especially, different",
+    "meaningMM": "ထူးခြားသော၊ ထူးထူးခြားခြား",
+    "examples": ["特殊 (とくしゅ) - ထူးခြားမှုရှိသော", "殊勝 (しゅしょう) - သက်တောင့်သက်သာ"],
+    "chapter": 5
+  },
+  {
+    "kanji": "偏",
+    "onyomi": "ヘン",
+    "kunyomi": "かたよる",
+    "meaning": "biased, lean toward",
+    "meaningMM": "လွဲမှားခြင်း၊ တစ်ဖက်ချိုး",
+    "examples": ["偏見 (へんけん) - မျက်စိပိတ်အသုံးပြုခြင်း", "偏差値 (へんさち) - အဆင့်ဖော်ပြချက်"],
+    "chapter": 5
+  },
+  {
+    "kanji": "宜",
+    "onyomi": "ギ",
+    "kunyomi": "よろしい",
+    "meaning": "good, suitable",
+    "meaningMM": "သင့်လျော်သော၊ အဆင်ပြေသော",
+    "examples": ["便宜 (べんぎ) - အဆင်ပြေမှု", "宜しい (よろしい) - သင့်တော်သည်"],
+    "chapter": 5
+  },
+  {
+  "kanji": "愁",
+  "onyomi": "シュウ",
+  "kunyomi": "うれえる、うれい",
+  "meaning": "grief, sorrow, anxiety",
+  "meaningMM": "စိုးရိမ်မှု၊ ဝမ်းနည်းမှု",
+  "examples": ["愁い (うれい) - စိုးရိမ်မှု", "愁傷 (しゅうしょう) - ဝမ်းနည်းမှု"],
+  "chapter": 6
+},
+{
+  "kanji": "慕",
+  "onyomi": "ボ",
+  "kunyomi": "したう",
+  "meaning": "yearn, adore",
+  "meaningMM": "ဆန္ဒပြင်းပြသည်၊ ကြိုက်နှစ်သက်သည်",
+  "examples": ["慕う (したう) - ချစ်ခင်သည်", "敬慕 (けいぼ) - ရိုသေချစ်ခင်မှု"],
+  "chapter": 6
+},
+{
+  "kanji": "悦",
+  "onyomi": "エツ",
+  "kunyomi": "",
+  "meaning": "joy, delight",
+  "meaningMM": "ဝမ်းမြောက်ခြင်း၊ ပျော်ရွှင်ခြင်း",
+  "examples": ["喜悦 (きえつ) - ဝမ်းမြောက်မှု", "満悦 (まんえつ) - အပြည့်အဝ ဝမ်းမြောက်ခြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "愉",
+  "onyomi": "ユ",
+  "kunyomi": "",
+  "meaning": "pleasure, joyful",
+  "meaningMM": "ပျော်ရွှင်မှု၊ သာယာမှု",
+  "examples": ["愉快 (ゆかい) - စိတ်လန်းဆန်းခြင်း", "愉楽 (ゆらく) - ပျော်ရွှင်မှု"],
+  "chapter": 6
+},
+{
+  "kanji": "哀",
+  "onyomi": "アイ",
+  "kunyomi": "あわれ、あわれむ",
+  "meaning": "pity, sorrow",
+  "meaningMM": "သနားခြင်း၊ ဝမ်းနည်းမှု",
+  "examples": ["哀れ (あわれ) - သနားဖွယ်", "哀悼 (あいとう) - ဝမ်းနည်းခြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "惰",
+  "onyomi": "ダ",
+  "kunyomi": "",
+  "meaning": "lazy, inertia",
+  "meaningMM": "အလင်းစွဲခြင်း၊ ပျင်းရိခြင်း",
+  "examples": ["怠惰 (たいだ) - ပျင်းရိမှု", "惰性 (だせい) - အလင်းစွဲလေ့"],
+  "chapter": 6
+},
+{
+  "kanji": "閑",
+  "onyomi": "カン",
+  "kunyomi": "",
+  "meaning": "leisure, quiet",
+  "meaningMM": "အေးချမ်းခြင်း၊ အားလပ်မှု",
+  "examples": ["閑静 (かんせい) - တိတ်ဆိတ်မှု", "閑散 (かんさん) - အလုပ်မရှိခြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "虚",
+  "onyomi": "キョ、コ",
+  "kunyomi": "むなしい",
+  "meaning": "empty, false",
+  "meaningMM": "ဗလာသော၊ မမှန်သော",
+  "examples": ["虚無 (きょむ) - အဖျောက်", "虚偽 (きょぎ) - မမှန်သော"],
+  "chapter": 6
+},
+{
+  "kanji": "慈",
+  "onyomi": "ジ",
+  "kunyomi": "いつくしむ",
+  "meaning": "affection, mercy",
+  "meaningMM": "ကြင်နာမှု၊ သနားမှု",
+  "examples": ["慈愛 (じあい) - ကြင်နာမှု", "慈悲 (じひ) - သနားမှု"],
+  "chapter": 6
+},
+{
+  "kanji": "厳",
+  "onyomi": "ゲン、ゴン",
+  "kunyomi": "おごそか、きびしい",
+  "meaning": "strict, solemn",
+  "meaningMM": "တင်းကြပ်သော၊ အရေးကြီးသော",
+  "examples": ["厳重 (げんじゅう) - တင်းကြပ်မှု", "厳格 (げんかく) - စည်းကမ်းကောင်းသော"],
+  "chapter": 6
+},
+{
+  "kanji": "慎",
+  "onyomi": "シン",
+  "kunyomi": "つつしむ",
+  "meaning": "care, discretion",
+  "meaningMM": "သတိထားမှု၊ ဂရုစိုက်မှု",
+  "examples": ["慎重 (しんちょう) - သတိရှိမှု", "謹慎 (きんしん) - လှုပ်ရှားမှုကန့်သတ်ခြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "慨",
+  "onyomi": "ガイ",
+  "kunyomi": "",
+  "meaning": "resent, regret",
+  "meaningMM": "စိတ်ပျက်ခြင်း၊ စိတ်မကျေနပ်မှု",
+  "examples": ["感慨 (かんがい) - စိတ်ထဲက ခံစားချက်", "憤慨 (ふんがい) - စိတ်တိုခြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "惨",
+  "onyomi": "サン",
+  "kunyomi": "むごい",
+  "meaning": "cruel, tragic",
+  "meaningMM": "残忍သော၊ မစဲမမြဲသော",
+  "examples": ["惨事 (さんじ) - မတော်တဆဖြစ်စဉ်", "悲惨 (ひさん) - စိတ်ညစ်ဖွယ်"],
+  "chapter": 6
+},
+{
+  "kanji": "茂",
+  "onyomi": "モ",
+  "kunyomi": "しげる",
+  "meaning": "luxuriant, grow thick",
+  "meaningMM": "ကြီးထွားလှုပ်ရှားသော",
+  "examples": ["茂み (しげみ) - သစ်တောအုပ်", "茂る (しげる) - စိုက်ပျိုးသည်"],
+  "chapter": 6
+},
+{
+  "kanji": "剛",
+  "onyomi": "ゴウ",
+  "kunyomi": "",
+  "meaning": "strong, sturdy",
+  "meaningMM": "ခိုင်ခံ့သော၊ မျက်နှာတည့်သော",
+  "examples": ["剛健 (ごうけん) - ခိုင်ခံ့သောခန္ဓာကိုယ်", "剛性 (ごうせい) - ခိုင်မာမှု"],
+  "chapter": 6
+},
+{
+  "kanji": "欺",
+  "onyomi": "ギ",
+  "kunyomi": "あざむく",
+  "meaning": "deceive, cheat",
+  "meaningMM": "လှည့်စားသည်၊ လိမ်လည်သည်",
+  "examples": ["欺く (あざむく) - လိမ်လည်သည်", "欺瞞 (ぎまん) - လိမ်လည်မှု"],
+  "chapter": 6
+},
+{
+  "kanji": "俊",
+  "onyomi": "シュン",
+  "kunyomi": "",
+  "meaning": "talented, genius",
+  "meaningMM": "အရည်အချင်းပြည့်ဝသော၊ ထူးချွန်သော",
+  "examples": ["俊才 (しゅんさい) - ထူးချွန်သူ", "俊敏 (しゅんびん) - လျင်မြန်မှု"],
+  "chapter": 6
+},
+{
+  "kanji": "敏",
+  "onyomi": "ビン",
+  "kunyomi": "さとい",
+  "meaning": "quick, clever",
+  "meaningMM": "လျင်မြန်သော၊ ဉာဏ်မြန်သော",
+  "examples": ["敏感 (びんかん) - အာရုံမြင့်ခြင်း", "敏捷 (びんしょう) - လှုပ်ရှားမှုမြန်"],
+  "chapter": 6
+},
+{
+  "kanji": "迅",
+  "onyomi": "ジン",
+  "kunyomi": "",
+  "meaning": "swift, fast",
+  "meaningMM": "လျင်မြန်သော",
+  "examples": ["迅速 (じんそく) - လျင်မြန်သော", "迅風 (じんぷう) - လေဝါးပြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "潔",
+  "onyomi": "ケツ",
+  "kunyomi": "いさぎよい",
+  "meaning": "pure, clean",
+  "meaningMM": "သန့်ရှင်းသော၊ ရိုးသားသော",
+  "examples": ["潔白 (けっぱく) - သန့်ရှင်းမှု", "潔癖 (けっぺき) - သန့်ရှင်းရေးစနစ်ပြင်းထန်မှု"],
+  "chapter": 6
+},
+{
+  "kanji": "巧",
+  "onyomi": "コウ",
+  "kunyomi": "たくみ",
+  "meaning": "skillful, clever",
+  "meaningMM": "ကျွမ်းကျင်သော၊ အတတ်ပညာရှိသော",
+  "examples": ["巧妙 (こうみょう) - ကျွမ်းကျင်မှု", "技巧 (ぎこう) - နည်းပညာ"],
+  "chapter": 6
+},
+{
+  "kanji": "粋",
+  "onyomi": "スイ",
+  "kunyomi": "",
+  "meaning": "chic, refined",
+  "meaningMM": "သေချာစွာပြင်ဆင်ထားသော၊ ပို၍ချောမွေ့သော",
+  "examples": ["粋人 (すいじん) - ချောမွေ့သောသူ", "粋な (いきな) - ချောမွေ့သော"],
+  "chapter": 6
+},
+{
+  "kanji": "粗",
+  "onyomi": "ソ",
+  "kunyomi": "あらい",
+  "meaning": "rough, coarse",
+  "meaningMM": "ခက်ခဲသော၊ မကြည်လင်သော",
+  "examples": ["粗末 (そまつ) - မသန့်ရှင်းသော", "粗雑 (そざつ) - မကြည်လင်သော"],
+  "chapter": 6
+},
+{
+  "kanji": "丈",
+  "onyomi": "ジョウ",
+  "kunyomi": "たけ",
+  "meaning": "length, height",
+  "meaningMM": "အရှည်၊ အမြင့်",
+  "examples": ["背丈 (せたけ) - ခန္ဓာကိုယ်အရှည်", "身丈 (みたけ) - ကိုယ်ပမာဏ"],
+  "chapter": 6
+},
+{
+  "kanji": "慢",
+  "onyomi": "マン",
+  "kunyomi": "",
+  "meaning": "arrogant, complacent",
+  "meaningMM": "ဂုဏ်ယူခြင်း၊ ဂုဏ်ပြုခြင်း",
+  "examples": ["慢心 (まんしん) - အမြင့်တက်မှု", "自己満足 (じこまんぞく) - ကိုယ်ပိုင်ကျေနပ်မှု"],
+  "chapter": 6
+},
+{
+  "kanji": "侮",
+  "onyomi": "ブ",
+  "kunyomi": "あなどる",
+  "meaning": "despise, disdain",
+  "meaningMM": "လျော့မြန်ခြင်း၊ မဂုဏ်ပြုခြင်း",
+  "examples": ["侮辱 (ぶじょく) - အရှုံးပေးခြင်း", "侮る (あなどる) - မဂုဏ်ပြုဘဲကြည့်ခြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "怪",
+  "onyomi": "カイ",
+  "kunyomi": "あやしい",
+  "meaning": "suspicious, strange",
+  "meaningMM": "မယုံကြည်စရာ၊ ထူးခြားသော",
+  "examples": ["怪物 (かいぶつ) - ထူးခြားသောတိရစ္ဆာန်", "怪しい (あやしい) - မယုံကြည်စရာ"],
+  "chapter": 6
+},
+{
+  "kanji": "妄",
+  "onyomi": "モウ",
+  "kunyomi": "",
+  "meaning": "reckless, absurd",
+  "meaningMM": "မစဉ်းစားသော၊ မမှန်သော",
+  "examples": ["妄想 (もうそう) - မမှန်သော စိတ်ကူး", "妄言 (もうげん) - မမှန်သောစကား"],
+  "chapter": 6
+},
+{
+  "kanji": "恨",
+  "onyomi": "コン",
+  "kunyomi": "うらむ、うらみ",
+  "meaning": "resentment, regret",
+  "meaningMM": "စိတ်မကောင်းမှု၊ စိတ်မမြန်မှု",
+  "examples": ["恨み (うらみ) - စိတ်မကောင်းခြင်း", "恨む (うらむ) - စိတ်မကောင်းသည်"],
+  "chapter": 6
+},
+{
+  "kanji": "羨",
+  "onyomi": "セン",
+  "kunyomi": "うらやむ",
+  "meaning": "envy, jealous",
+  "meaningMM": "အလှည့်ချင်စိတ်၊ မကျေနပ်ခြင်း",
+  "examples": ["羨望 (せんぼう) - အလှည့်ချင်မှု", "羨む (うらやむ) - မကျေနပ်ခြင်း"],
+  "chapter": 6
+},
+{
+  "kanji": "煩",
+  "onyomi": "ハン",
+  "kunyomi": "わずらう",
+  "meaning": "annoy, worry",
+  "meaningMM": "စိတ်ပင်ပန်းခြင်း၊ စိုးရိမ်ခြင်း",
+  "examples": ["煩悩 (ぼんのう) - စိတ်ပင်ပန်းမှု", "煩わしい (わずらわしい) - အနှောင့်အယှက်ဖြစ်သော"],
+  "chapter": 6
+},
+{
+  "kanji": "悩",
+  "onyomi": "ノウ",
+  "kunyomi": "なやむ",
+  "meaning": "trouble, worry",
+  "meaningMM": "စိတ်ပင်ပန်းခြင်း၊ စိုးရိမ်ခြင်း",
+  "examples": ["悩み (なやみ) - စိုးရိမ်မှု", "悩む (なやむ) - စိတ်ပင်ပန်းသည်"],
+  "chapter": 6
+},
+{
+  "kanji": "陥",
+  "onyomi": "カン",
+  "kunyomi": "おちいる",
+  "meaning": "fall into, collapse",
+  "meaningMM": "ကျရောက်သည်၊ ကျရှုံးသည်",
+  "examples": ["陥落 (かんらく) - ကျရှုံးမှု", "陥る (おちいる) - ကျရောက်သည်"],
+  "chapter": 6
+},
+{
+  "kanji": "錯",
+  "onyomi": "サク",
+  "kunyomi": "",
+  "meaning": "confusion, mistake",
+  "meaningMM": "လွဲမှားခြင်း၊ မမှန်ခြင်း",
+  "examples": ["錯覚 (さっかく) - မမှန်သောအမြင်", "錯誤 (さくご) - အမှား"],
+  "chapter": 6
+},
+{
+  "kanji": "臆",
+  "onyomi": "オク",
+  "kunyomi": "",
+  "meaning": "timid, fainthearted",
+  "meaningMM": "ကြောက်ရွံ့သော၊ စိတ်မတည်သော",
+  "examples": ["臆病 (おくびょう) - ကြောက်ရွံ့မှု", "臆する (おくする) - ကြောက်ရွံ့သည်"],
+  "chapter": 6
+},
+{
+  "kanji": "寛",
+  "onyomi": "カン",
+  "kunyomi": "くつろぐ",
+  "meaning": "tolerant, lenient",
+  "meaningMM": "ရှင်းလင်းသော၊ ချိုသာသော",
+  "examples": ["寛大 (かんだい) - ကြင်နာမှု", "寛容 (かんよう) - ချိုသာမှု"],
+  "chapter": 6
+},
+{
+  "kanji": "悠",
+  "onyomi": "ユウ",
+  "kunyomi": "",
+  "meaning": "distant, leisurely",
+  "meaningMM": "အဝေး၊ ဖြည်းညိမျသော",
+  "examples": ["悠長 (ゆうちょう) - ဖြည်းညိမျသော", "悠然 (ゆうぜん) - တည်ငြိမ်သော"],
+  "chapter": 6
+},
+{
+  "kanji": "醜",
+  "onyomi": "シュウ",
+  "kunyomi": "みにくい",
+  "meaning": "ugly, unseemly",
+  "meaningMM": "မတော်တဆသော၊ မကြည့်ကောင်းသော",
+  "examples": ["醜態 (しゅうたい) - မကောင်းသောအပြုအမူ", "醜悪 (しゅうあく) - မကြည့်ကောင်းသော"],
+  "chapter": 6
+},
+{
+  "kanji": "罵",
+  "onyomi": "バ",
+  "kunyomi": "ののしる",
+  "meaning": "abuse, curse",
+  "meaningMM": "စကားပေါင်းစပ်၍ မဆိုးခြင်း",
+  "examples": ["罵倒 (ばとう) - စကားပေါင်းစပ်ခြင်း", "罵る (ののしる) - ဆိုးစကားပြောသည်"],
+  "chapter": 6
+},
+  {
+    "kanji": "幹",
+    "onyomi": "カン",
+    "kunyomi": "みき",
+    "meaning": "tree trunk, main part",
+    "meaningMM": "ပင်စည်၊ အဓိကအစိတ်အပိုင်း",
+    "examples": [
+      "幹部 (かんぶ) - အဖွဲ့အစည်း၏အရေးကြီးပုဂ္ဂိုလ်",
+      "幹線 (かんせん) - အဓိကလမ်းကြောင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "茎",
+    "onyomi": "ケイ",
+    "kunyomi": "くき",
+    "meaning": "stem, stalk",
+    "meaningMM": "ပင်စည်၊ အရိုး",
+    "examples": [
+      "茎 (くき) - အပင်၏ပင်စည်",
+      "茎葉 (けいよう) - ပင်စည်နှင့်အရွက်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "芽",
+    "onyomi": "ガ",
+    "kunyomi": "め",
+    "meaning": "bud, sprout",
+    "meaningMM": "ဖူးတောင့်၊ အပင်ပေါက်စ",
+    "examples": [
+      "芽生え (めばえ) - အပင်ပေါက်စပြုခြင်း",
+      "発芽 (はつが) - အပင်ပေါက်ခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "苗",
+    "onyomi": "ビョウ",
+    "kunyomi": "なえ、なわ",
+    "meaning": "seedling, sapling",
+    "meaningMM": "ပျိုးပင်၊ ပင်ပေါက်",
+    "examples": [
+      "苗木 (なえぎ) - ပျိုးပင် (သစ်ပင်)",
+      "苗代 (なわしろ) - ပျိုးခင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "芝",
+    "onyomi": "シ",
+    "kunyomi": "しば",
+    "meaning": "lawn, turf",
+    "meaningMM": "မြက်ခင်း၊ မြက်ပြား",
+    "examples": [
+      "芝生 (しばふ) - မြက်ခင်း",
+      "芝刈り (しばかり) - မြက်ရိတ်ခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "茂",
+    "onyomi": "モ",
+    "kunyomi": "しげる",
+    "meaning": "grow thick, luxuriant",
+    "meaningMM": "ထူထပ်စွာပေါက်ရောက်ခြင်း",
+    "examples": [
+      "茂る (しげる) - ထူထပ်စွာပေါက်သည်",
+      "茂み (しげみ) - ချုံပုတ်၊ အပင်ထူထပ်သောနေရာ"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "郊",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "suburb, outskirts",
+    "meaningMM": "ဆင်ခြေဖုံး၊ မြို့ပြင်",
+    "examples": [
+      "郊外 (こうがい) - ဆင်ခြေဖုံး",
+      "郊外線 (こうがいせん) - ဆင်ခြေဖုံးရထားလမ်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "樹",
+    "onyomi": "ジュ",
+    "kunyomi": "き",
+    "meaning": "tree",
+    "meaningMM": "သစ်ပင်",
+    "examples": [
+      "樹木 (じゅもく) - သစ်ပင်များ",
+      "植樹 (しょくじゅ) - သစ်ပင်စိုက်ပျိုးခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "獲",
+    "onyomi": "カク",
+    "kunyomi": "える、わる",
+    "meaning": "get, capture",
+    "meaningMM": "ရရှိသည်၊ ဖမ်းဆီးသည်",
+    "examples": [
+      "獲得 (かくとく) - ရရှိခြင်း",
+      "捕獲 (ほかく) - ဖမ်းဆီးခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "尾",
+    "onyomi": "ビ",
+    "kunyomi": "お",
+    "meaning": "tail, end",
+    "meaningMM": "အမြီး၊ အဆုံးပိုင်း",
+    "examples": [
+      "尾部 (びぶ) - အမြီးပိုင်း",
+      "尾行 (びこう) - နောက်ယောင်ခံလိုက်ခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "雄",
+    "onyomi": "ユウ",
+    "kunyomi": "おす",
+    "meaning": "male, hero",
+    "meaningMM": "အထီး၊ သူရဲကောင်း",
+    "examples": [
+      "雄大 (ゆうだい) - ခမ်းနားကြီးကျယ်သော",
+      "雄牛 (おうし) - နွားထီး"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "雌",
+    "onyomi": "シ",
+    "kunyomi": "めす",
+    "meaning": "female",
+    "meaningMM": "အမ",
+    "examples": [
+      "雌鳥 (めどり) - ကြက်မ",
+      "雌牛 (めうし) - နွားမ"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "滅",
+    "onyomi": "メツ",
+    "kunyomi": "ほろびる、ほろぼす",
+    "meaning": "destroy, perish",
+    "meaningMM": "ဖျက်ဆီးသည်၊ ပျက်စီးသည်",
+    "examples": [
+      "滅亡 (めつぼう) - ပျက်စီးခြင်း",
+      "絶滅 (ぜつめつ) - မျိုးသုဉ်းခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "獣",
+    "onyomi": "ジュウ",
+    "kunyomi": "けもの",
+    "meaning": "beast, animal",
+    "meaningMM": "သားရဲ၊ တိရစ္ဆာန်",
+    "examples": [
+      "野獣 (やじゅう) - တောရိုင်းသားရဲ",
+      "獣医 (じゅうい) - တိရစ္ဆာန်ဆရာဝန်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "狩",
+    "onyomi": "シュ",
+    "kunyomi": "かる",
+    "meaning": "hunt",
+    "meaningMM": "အမဲလိုက်သည်",
+    "examples": [
+      "狩猟 (しゅりょう) - အမဲလိုက်ခြင်း",
+      "狩る (かる) - အမဲလိုက်သည်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "猟",
+    "onyomi": "リョウ",
+    "kunyomi": "かる",
+    "meaning": "hunt, game",
+    "meaningMM": "အမဲလိုက်ခြင်း၊ သားကောင်",
+    "examples": [
+      "猟犬 (りょうけん) - အမဲလိုက်ခွေး",
+      "狩猟 (しゅりょう) - အမဲလိုက်ခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "窒",
+    "onyomi": "チツ",
+    "kunyomi": "",
+    "meaning": "plug up, stop up",
+    "meaningMM": "ပိတ်ဆို့သည်",
+    "examples": [
+      "窒息 (ちっそく) - အသက်ရှုကျပ်ခြင်း",
+      "閉塞 (へいそく) - ပိတ်ဆို့ခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "素",
+    "onyomi": "ソ",
+    "kunyomi": "もと",
+    "meaning": "elementary, plain, naked",
+    "meaningMM": "မူလ၊ ရိုးရိုးရှင်းရှင်း၊ ကိုယ်တိုင်",
+    "examples": [
+      "元素 (げんそ) - ဒြပ်စင်",
+      "素顔 (すがお) - မိတ်ကပ်မပါသောမျက်နှာ"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "亜",
+    "onyomi": "ア",
+    "kunyomi": "",
+    "meaning": "sub-, Asia",
+    "meaningMM": "အောက်၊ အာရှ",
+    "examples": [
+      "亜熱帯 (あねったい) - အပူပိုင်းဇုန်အောက်",
+      "亜種 (あしゅ) - မျိုးစိတ်ခွဲ"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "鉛",
+    "onyomi": "エン",
+    "kunyomi": "なまり",
+    "meaning": "lead (metal)",
+    "meaningMM": "ခဲ (သတ္တု)",
+    "examples": [
+      "鉛筆 (えんぴつ) - ခဲတံ",
+      "鉛 (なまり) - ခဲ (သတ္တု)"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "硫",
+    "onyomi": "リュウ",
+    "kunyomi": "いおう",
+    "meaning": "sulfur",
+    "meaningMM": "ကန့်",
+    "examples": [
+      "硫黄 (いおう) - ကန့်",
+      "硫酸 (りゅうさん) - ဆာလ်ဖျူရစ်အက်ဆစ်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "酸",
+    "onyomi": "サン",
+    "kunyomi": "すい",
+    "meaning": "acid, sour",
+    "meaningMM": "အက်ဆစ်၊ ချဉ်သော",
+    "examples": [
+      "酸性 (さんせい) - အက်ဆစ်ဓာတ်",
+      "酸っぱい (すっぱい) - ချဉ်သည်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "磁",
+    "onyomi": "ジ",
+    "kunyomi": "",
+    "meaning": "magnetism",
+    "meaningMM": "သံလိုက်ဓာတ်",
+    "examples": [
+      "磁石 (じしゃく) - သံလိုက်",
+      "磁力 (じりょく) - သံလိုက်အား"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "晶",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "sparkle, crystal",
+    "meaningMM": "တောက်ပခြင်း၊ ပုံဆောင်ခဲ",
+    "examples": [
+      "水晶 (すいしょう) - ကျောက်သလင်း",
+      "結晶 (けっしょう) - ပုံဆောင်ခဲ"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "潮",
+    "onyomi": "チョウ",
+    "kunyomi": "しお",
+    "meaning": "tide, salt water",
+    "meaningMM": "ဒီရေ၊ ဆားငန်ရေ",
+    "examples": [
+      "潮流 (ちょうりゅう) - ဒီရေစီးကြောင်း",
+      "干潮 (かんちょう) - ဒီရေကျချိန်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "浦",
+    "onyomi": "ホ",
+    "kunyomi": "うら",
+    "meaning": "bay, seacoast",
+    "meaningMM": "ပင်လယ်အော်၊ ကမ်းရိုးတန်း",
+    "examples": [
+      "浦辺 (うらべ) - ကမ်းခြေ",
+      "入浦 (いりうら) - ပင်လယ်အော်ဝင်ပေါက်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "沿",
+    "onyomi": "エン",
+    "kunyomi": "そう",
+    "meaning": "along, run beside",
+    "meaningMM": "တစ်လျှောက်၊ ဘေးချင်းယှဉ်ပြေးသည်",
+    "examples": [
+      "沿岸 (えんがん) - ကမ်းရိုးတန်း",
+      "沿線 (えんせん) - ရထားလမ်းတစ်လျှောက်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "溝",
+    "onyomi": "コウ",
+    "kunyomi": "みぞ",
+    "meaning": "ditch, gutter",
+    "meaningMM": "ရေမြောင်း၊ မြောင်း",
+    "examples": [
+      "排水溝 (はいすいこう) - ရေနုတ်မြောင်း",
+      "溝 (みぞ) - မြောင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "漂",
+    "onyomi": "ヒョウ",
+    "kunyomi": "ただよう",
+    "meaning": "drift, float",
+    "meaningMM": "မျောပါသည်၊ ရေပေါ်မျောသည်",
+    "examples": [
+      "漂流 (ひょうりゅう) - မျောပါခြင်း",
+      "漂う (ただよう) - လွင့်မျောနေသည်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "汐",
+    "onyomi": "セキ",
+    "kunyomi": "しお",
+    "meaning": "tide, evening tide",
+    "meaningMM": "ဒီရေ၊ ညနေဒီရေ",
+    "examples": [
+      "潮汐 (ちょうせき) - ဒီရေအတက်အကျ",
+      "干汐 (かんせき) - ဒီရေကျခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "潟",
+    "onyomi": "セキ",
+    "kunyomi": "かた",
+    "meaning": "lagoon, marsh",
+    "meaningMM": "အင်းအိုင်၊ ရေတိမ်ပိုင်း",
+    "examples": [
+      "潟湖 (せきこ) - အင်းအိုင်",
+      "潟 (かた) - အင်းအိုင်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "澄",
+    "onyomi": "チョウ",
+    "kunyomi": "すむ",
+    "meaning": "clear, pure",
+    "meaningMM": "ကြည်လင်သော၊ သန့်ရှင်းသော",
+    "examples": [
+      "澄む (すむ) - ကြည်လင်သည်",
+      "澄清 (ちょうせい) - ကြည်လင်သန့်ရှင်းခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "霧",
+    "onyomi": "ム",
+    "kunyomi": "きり",
+    "meaning": "fog, mist",
+    "meaningMM": "မြူ၊ နှင်း",
+    "examples": [
+      "霧 (きり) - မြူ",
+      "霧雨 (きりさめ) - မြူခိုးမိုး"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "霜",
+    "onyomi": "ソウ",
+    "kunyomi": "しも",
+    "meaning": "frost",
+    "meaningMM": "နှင်းခဲ",
+    "examples": [
+      "霜 (しも) - နှင်းခဲ",
+      "霜柱 (しもばしら) - နှင်းခဲတိုင်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "露",
+    "onyomi": "ロ",
+    "kunyomi": "つゆ",
+    "meaning": "dew, expose",
+    "meaningMM": "နှင်းရည်၊ ဖော်ထုတ်သည်",
+    "examples": [
+      "露 (つゆ) - နှင်းရည်",
+      "露出 (ろしゅつ) - ဖော်ထုတ်ခြင်း"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "曇",
+    "onyomi": "ドン",
+    "kunyomi": "くもる",
+    "meaning": "cloudy, become cloudy",
+    "meaningMM": "တိမ်ထူသော၊ တိမ်ထူလာသည်",
+    "examples": [
+      "曇る (くもる) - တိမ်ထူသည်",
+      "曇天 (どんてん) - တိမ်ထူသောကောင်းကင်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "虹",
+    "onyomi": "コウ",
+    "kunyomi": "にじ",
+    "meaning": "rainbow",
+    "meaningMM": "သက်တံ့",
+    "examples": [
+      "虹 (にじ) - သက်တံ့",
+      "虹色 (にじいろ) - သက်တံ့ရောင်"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "圏",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "range, sphere",
+    "meaningMM": "နယ်ပယ်၊ အတိုင်းအတာ",
+    "examples": [
+      "圏内 (けんない) - နယ်ပယ်အတွင်း",
+      "圏外 (けんがい) - နယ်ပယ်ပြင်ပ"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "緯",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "meaning": "latitude, weft",
+    "meaningMM": "လတ္တီကျု၊ အလျားလိုက်ချည်",
+    "examples": [
+      "緯度 (いど) - လတ္တီကျု",
+      "経緯 (けいい) - အသေးစိတ်အခြေအနေ/နောက်ခံ"
+    ],
+    "chapter": 7
+  },
+  {
+    "kanji": "蜂",
+    "onyomi": "ホウ",
+    "kunyomi": "はち",
+    "meaning": "bee, wasp",
+    "meaningMM": "ပျား၊ နကျယ်ကောင်",
+    "examples": [
+      "蜂 (はち) - ပျား",
+      "蜂の巣 (はちのす) - ပျားအုံ"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "蚊",
+    "onyomi": "ブン",
+    "kunyomi": "か",
+    "meaning": "mosquito",
+    "meaningMM": "ခြင်",
+    "examples": [
+      "蚊 (か) - ခြင်",
+      "蚊帳 (かや) - ခြင်ထောင်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "蜂",
+    "onyomi": "ホウ",
+    "kunyomi": "はち",
+    "meaning": "bee, wasp",
+    "meaningMM": "ပျား၊ နကျယ်ကောင်",
+    "examples": [
+      "蜂 (はち) - ပျား",
+      "蜂の巣 (はちのす) - ပျားအုံ"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "蜜",
+    "onyomi": "ミツ",
+    "kunyomi": "みつ",
+    "meaning": "honey, nectar",
+    "meaningMM": "ပျားရည်၊ ပန်းဝတ်ရည်",
+    "examples": [
+      "蜂蜜 (はちみつ) - ပျားရည်",
+      "蜜蜂 (みつばち) - ပျား"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "蛍",
+    "onyomi": "ケイ",
+    "kunyomi": "ほたる",
+    "meaning": "firefly",
+    "meaningMM": "ပိုးစုန်းကြူး",
+    "examples": [
+      "蛍 (ほたる) - ပိုးစုန်းကြူး",
+      "蛍火 (ほたるび) - ပိုးစုန်းကြူးမီး"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "亀",
+    "onyomi": "キ",
+    "kunyomi": "かめ",
+    "meaning": "turtle, tortoise",
+    "meaningMM": "လိပ်",
+    "examples": [
+      "亀 (かめ) - လိပ်",
+      "亀裂 (きれつ) - အက်ကွဲကြောင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "蛇",
+    "onyomi": "ジャ、ダ",
+    "kunyomi": "へび",
+    "meaning": "snake",
+    "meaningMM": "မြွေ",
+    "examples": [
+      "蛇 (へび) - မြွေ",
+      "蛇口 (じゃぐち) - ရေပိုက်ခေါင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "餌",
+    "onyomi": "ジ",
+    "kunyomi": "えさ",
+    "meaning": "bait, food (for animals)",
+    "meaningMM": "ငါးစာ၊ တိရစ္ဆာန်အစာ",
+    "examples": [
+      "餌 (えさ) - အစာ (တိရစ္ဆာန်)",
+      "餌をやる (えさをやる) - အစာကျွေးသည်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "雀",
+    "onyomi": "ジャク",
+    "kunyomi": "すずめ",
+    "meaning": "sparrow",
+    "meaningMM": "စာကလေး",
+    "examples": [
+      "雀 (すずめ) - စာကလေး",
+      "雀の涙 (すずめのなみだ) - စာကလေးမျက်ရည် (အနည်းငယ်မျှ)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "鳩",
+    "onyomi": "キュウ",
+    "kunyomi": "はと",
+    "meaning": "pigeon, dove",
+    "meaningMM": "ချိုး၊ ခို",
+    "examples": [
+      "鳩 (はと) - ချိုး",
+      "伝書鳩 (でんしょばと) - စာပို့ချိုး"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "鴨",
+    "onyomi": "オウ",
+    "kunyomi": "かも",
+    "meaning": "duck",
+    "meaningMM": "ဘဲ",
+    "examples": [
+      "鴨 (かも) - ဘဲ",
+      "鴨肉 (かもにく) - ဘဲသား"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "鴛",
+    "onyomi": "エン",
+    "kunyomi": "おし",
+    "meaning": "mandarin duck (male)",
+    "meaningMM": "ဘဲငန်းထီး",
+    "examples": [
+      "鴛鴦 (えんおう) - ဘဲငန်းတစ်စုံ (အထီးနှင့်အမ)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "鶏",
+    "onyomi": "ケイ",
+    "kunyomi": "にわとり",
+    "meaning": "chicken",
+    "meaningMM": "ကြက်",
+    "examples": [
+      "鶏 (にわとり) - ကြက်",
+      "鶏肉 (けいにく) - ကြက်သား"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "翼",
+    "onyomi": "ヨク",
+    "kunyomi": "つばさ",
+    "meaning": "wing",
+    "meaningMM": "အတောင်ပံ",
+    "examples": [
+      "翼 (つばさ) - အတောင်ပံ",
+      "右翼 (うよく) - ညာတောင်ပံ (နိုင်ငံရေး)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "牙",
+    "onyomi": "ガ",
+    "kunyomi": "きば",
+    "meaning": "fang, tusk",
+    "meaningMM": "စွယ်၊ အစွယ်",
+    "examples": [
+      "牙 (きば) - အစွယ်",
+      "犬歯 (けんし) - ခွေးသွား (စွယ်သွား)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "狼",
+    "onyomi": "ロウ",
+    "kunyomi": "おおかみ",
+    "meaning": "wolf",
+    "meaningMM": "ဝံပုလွေ",
+    "examples": [
+      "狼 (おおかみ) - ဝံပုလွေ",
+      "狼狽 (ろうばい) - စိတ်လှုပ်ရှားပြီးရှုပ်ထွေးခြင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "猿",
+    "onyomi": "エン",
+    "kunyomi": "さる",
+    "meaning": "monkey",
+    "meaningMM": "မျောက်",
+    "examples": [
+      "猿 (さる) - မျောက်",
+      "猿真似 (さるまね) - မျောက်လုပ်ရပ်အတုခိုးခြင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "猪",
+    "onyomi": "チョ",
+    "kunyomi": "いのしし",
+    "meaning": "wild boar",
+    "meaningMM": "တောဝက်",
+    "examples": [
+      "猪 (いのしし) - တောဝက်",
+      "猪突猛進 (ちょとつもうしん) - ရှေ့ကိုသာတိုးခြင်း (မဆင်မခြင်)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "熊",
+    "onyomi": "ユウ",
+    "kunyomi": "くま",
+    "meaning": "bear",
+    "meaningMM": "ဝက်ဝံ",
+    "examples": [
+      "熊 (くま) - ဝက်ဝံ",
+      "熊手 (くまで) - ဝက်ဝံလက် (ကောက်ညှင်းစားရန်ကိရိယာ)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "虎",
+    "onyomi": "コ",
+    "kunyomi": "とら",
+    "meaning": "tiger",
+    "meaningMM": "ကျား",
+    "examples": [
+      "虎 (とら) - ကျား",
+      "虎の威を借る狐 (とらのいをかるきつね) - ကျားကိုအားကိုးသောမြေခွေး (သူတစ်ပါးအရှိန်အဝါကိုသုံးခြင်း)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "鯨",
+    "onyomi": "ゲイ",
+    "kunyomi": "くじら",
+    "meaning": "whale",
+    "meaningMM": "ဝေလငါး",
+    "examples": [
+      "鯨 (くじら) - ဝေလငါး",
+      "鯨肉 (げいにく) - ဝေလငါးသား"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "龍",
+    "onyomi": "リュウ",
+    "kunyomi": "りゅう",
+    "meaning": "dragon",
+    "meaningMM": "နဂါး",
+    "examples": [
+      "龍 (りゅう) - နဂါး",
+      "龍神 (りゅうじん) - နဂါးနတ်ဘုရား"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "繭",
+    "onyomi": "ケン",
+    "kunyomi": "まゆ",
+    "meaning": "cocoon",
+    "meaningMM": "ပိုးအိမ်",
+    "examples": [
+      "繭 (まゆ) - ပိုးအိမ်",
+      "繭玉 (まゆだま) - ပိုးအိမ်လုံး"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "蚕",
+    "onyomi": "サン",
+    "kunyomi": "かいこ",
+    "meaning": "silkworm",
+    "meaningMM": "ပိုးကောင်",
+    "examples": [
+      "蚕 (かいこ) - ပိုးကောင်",
+      "養蚕 (ようさん) - ပိုးမွေးမြူရေး"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "桑",
+    "onyomi": "ソウ",
+    "kunyomi": "くわ",
+    "meaning": "mulberry",
+    "meaningMM": "ပိုးစာပင်",
+    "examples": [
+      "桑 (くわ) - ပိုးစာပင်",
+      "桑畑 (くわばたけ) - ပိုးစာခင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "柳",
+    "onyomi": "リュウ",
+    "kunyomi": "やなぎ",
+    "meaning": "willow",
+    "meaningMM": "မိုးမခပင်",
+    "examples": [
+      "柳 (やなぎ) - မိုးမခပင်",
+      "柳腰 (やなぎごし) - မိုးမခပင်ကဲ့သို့ ခါးသွယ်ခြင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "峰",
+    "onyomi": "ホウ",
+    "kunyomi": "みね",
+    "meaning": "peak, summit",
+    "meaningMM": "တောင်ထိပ်၊ အမြင့်ဆုံးနေရာ",
+    "examples": [
+      "峰 (みね) - တောင်ထိပ်",
+      "最高峰 (さいこうほう) - အမြင့်ဆုံးတောင်ထိပ်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "岳",
+    "onyomi": "ガク",
+    "kunyomi": "たけ",
+    "meaning": "peak, mountain",
+    "meaningMM": "တောင်ထိပ်၊ တောင်",
+    "examples": [
+      "岳 (たけ) - တောင်",
+      "山岳 (さんがく) - တောင်တန်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "峠",
+    "onyomi": "トウ",
+    "kunyomi": "とうげ",
+    "meaning": "mountain pass, highest point",
+    "meaningMM": "တောင်ကြားလမ်း၊ အမြင့်ဆုံးနေရာ",
+    "examples": [
+      "峠 (とうげ) - တောင်ကြားလမ်း",
+      "峠を越える (とうげをこえる) - တောင်ကြားလမ်းကိုဖြတ်ကျော်သည်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "漠",
+    "onyomi": "バク",
+    "kunyomi": "",
+    "meaning": "vague, desert",
+    "meaningMM": "မရေရာသော၊ သဲကန္တာရ",
+    "examples": [
+      "砂漠 (さばく) - သဲကန္တာရ",
+      "漠然 (ばくぜん) - မရေရာသော"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "堤",
+    "onyomi": "テイ",
+    "kunyomi": "つつみ",
+    "meaning": "dike, embankment",
+    "meaningMM": "ဆည်၊ တာတမံ",
+    "examples": [
+      "堤防 (ていぼう) - တာတမံ",
+      "堤 (つつみ) - ဆည်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "陵",
+    "onyomi": "リョウ",
+    "kunyomi": "みささぎ",
+    "meaning": "tomb, mound",
+    "meaningMM": "သင်္ချိုင်းကုန်း၊ တောင်ကုန်း",
+    "examples": [
+      "陵 (みささぎ) - ဘုရင်သင်္ချိုင်း",
+      "御陵 (ごりょう) - (ဧကရာဇ်) သင်္ချိုင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "岐",
+    "onyomi": "キ",
+    "kunyomi": "えだわかれ",
+    "meaning": "branch off, diverge",
+    "meaningMM": "လမ်းခွဲ၊ ကွဲပြားသည်",
+    "examples": [
+      "分岐点 (ぶんきてん) - လမ်းဆုံ",
+      "多岐 (たき) - နယ်ပယ်များစွာ"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "岬",
+    "onyomi": "コウ",
+    "kunyomi": "みさき",
+    "meaning": "cape, promontory",
+    "meaningMM": "အငူ",
+    "examples": [
+      "岬 (みさき) - အငူ",
+      "犬吠埼 (いぬぼうさき) - အင်ုဘိုးအငူ (နာမည်)"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "渓",
+    "onyomi": "ケイ",
+    "kunyomi": "たに",
+    "meaning": "valley, stream",
+    "meaningMM": "ချိုင့်ဝှမ်း၊ ချောင်း",
+    "examples": [
+      "渓谷 (けいこく) - ချိုင့်ဝှမ်း",
+      "渓流 (けいりゅう) - တောင်ကျချောင်း"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "潟",
+    "onyomi": "セキ",
+    "kunyomi": "かた",
+    "meaning": "lagoon, marsh",
+    "meaningMM": "အင်းအိုင်၊ ရေတိမ်ပိုင်း",
+    "examples": [
+      "潟湖 (せきこ) - အင်းအိုင်",
+      "潟 (かた) - အင်းအိုင်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "潤",
+    "onyomi": "ジュン",
+    "kunyomi": "うるおう、うるおす",
+    "meaning": "moist, profit",
+    "meaningMM": "စိုစွတ်သည်၊ အကျိုးအမြတ်",
+    "examples": [
+      "潤う (うるおう) - စိုစွတ်သည်",
+      "利益 (りえき) - အကျိုးအမြတ်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "郡",
+    "onyomi": "グン",
+    "kunyomi": "こおり",
+    "meaning": "district, county",
+    "meaningMM": "ခရိုင်၊ ကောင်တီ",
+    "examples": [
+      "郡 (ぐん) - ခရိုင်",
+      "郡部 (ぐんぶ) - ကျေးလက်ခရိုင်"
+    ],
+    "chapter": 8
+  },
+  {
+    "kanji": "汽",
+    "onyomi": "キ",
+    "kunyomi": "けむり",
+    "meaning": "steam",
+    "meaningMM": "ရေနွေးငွေ့",
+    "examples": [
+      "汽車 (きしゃ) - ရထား",
+      "汽船 (きせん) - သင်္ဘော"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "舶",
+    "onyomi": "ハク",
+    "kunyomi": "ふね",
+    "meaning": "ship, vessel",
+    "meaningMM": "သင်္ဘော",
+    "examples": [
+      "船舶 (せんぱく) - သင်္ဘောများ",
+      "商船 (しょうせん) - ကုန်တင်သင်္ဘော"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "搬",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "transport, carry",
+    "meaningMM": "သယ်ယူပို့ဆောင်သည်",
+    "examples": [
+      "運搬 (うんぱん) - သယ်ယူပို့ဆောင်ခြင်း",
+      "搬入 (はんにゅう) - သယ်ယူလာရောက်ခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "巡",
+    "onyomi": "ジュン",
+    "kunyomi": "めぐる、めぐらす",
+    "meaning": "patrol, go around",
+    "meaningMM": "ကင်းလှည့်သည်၊ ပတ်သည်",
+    "examples": [
+      "巡査 (じゅんさ) - ရဲ",
+      "巡回 (じゅんかい) - လှည့်ပတ်သွားလာခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "貢",
+    "onyomi": "コウ、ク",
+    "kunyomi": "みつぐ",
+    "meaning": "tribute, contribution",
+    "meaningMM": "အခွန်ဘဏ္ဍာ၊ ပံ့ပိုးမှု",
+    "examples": [
+      "貢献 (こうけん) - ပံ့ပိုးကူညီခြင်း",
+      "貢物 (みつぎもの) - ပူဇော်သက္ကာ"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "献",
+    "onyomi": "ケン、コン",
+    "kunyomi": "たてまつる",
+    "meaning": "offer, dedicate",
+    "meaningMM": "လှူဒါန်းသည်၊ ပေးအပ်သည်",
+    "examples": [
+      "献血 (けんけつ) - သွေးလှူဒါန်းခြင်း",
+      "献立 (こんだて) - ဟင်းလျာစာရင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "繁",
+    "onyomi": "ハン",
+    "kunyomi": "しげる",
+    "meaning": "flourish, luxuriant",
+    "meaningMM": "စည်ပင်သည်၊ ထူထပ်သည်",
+    "examples": [
+      "繁栄 (はんえい) - စည်ပင်ဝပြောခြင်း",
+      "繁忙 (はんぼう) - အလုပ်များခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "拓",
+    "onyomi": "タク",
+    "kunyomi": "ひらく",
+    "meaning": "clear (land), open up",
+    "meaningMM": "မြေရှင်းသည်၊ ဖွင့်သည်",
+    "examples": [
+      "開拓 (かいたく) - နယ်မြေသစ်ဖော်ထုတ်ခြင်း",
+      "拓本 (たくほん) - ကျောက်စာပွတ်ပုံ"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "刈",
+    "onyomi": "ガイ",
+    "kunyomi": "かる",
+    "meaning": "cut, mow",
+    "meaningMM": "ဖြတ်သည်၊ ရိတ်သည်",
+    "examples": [
+      "刈る (かる) - ရိတ်သည်",
+      "草刈り (くさかり) - မြက်ရိတ်ခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "稲",
+    "onyomi": "トウ",
+    "kunyomi": "いね",
+    "meaning": "rice plant",
+    "meaningMM": "စပါးပင်",
+    "examples": [
+      "稲 (いね) - စပါးပင်",
+      "稲作 (いなさく) - စပါးစိုက်ပျိုးခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "穂",
+    "onyomi": "スイ",
+    "kunyomi": "ほ",
+    "meaning": "ear (of grain), head (of plant)",
+    "meaningMM": "နှံ (စပါး)",
+    "examples": [
+      "穂 (ほ) - နှံ",
+      "稲穂 (いなほ) - စပါးနှံ"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "耕",
+    "onyomi": "コウ",
+    "kunyomi": "たがやす",
+    "meaning": "till, cultivate",
+    "meaningMM": "ထွန်ယက်သည်၊ စိုက်ပျိုးသည်",
+    "examples": [
+      "耕作 (こうさく) - စိုက်ပျိုးခြင်း",
+      "耕す (たがやす) - ထွန်ယက်သည်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "穫",
+    "onyomi": "カク",
+    "kunyomi": "",
+    "meaning": "harvest",
+    "meaningMM": "ရိတ်သိမ်းသည်",
+    "examples": [
+      "収穫 (しゅうかく) - ရိတ်သိမ်းခြင်း",
+      "穫り入れ (かりいれ) - ရိတ်သိမ်းချိန်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "穀",
+    "onyomi": "コク",
+    "kunyomi": "",
+    "meaning": "grain, cereal",
+    "meaningMM": "သီးနှံ၊ ကောက်ပဲသီးနှံ",
+    "examples": [
+      "穀物 (こくもつ) - ကောက်ပဲသီးနှံ",
+      "米穀 (べいこく) - ဆန်စပါး"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "栽",
+    "onyomi": "サイ",
+    "kunyomi": "",
+    "meaning": "plant, cultivate",
+    "meaningMM": "စိုက်ပျိုးသည်",
+    "examples": [
+      "栽培 (さいばい) - စိုက်ပျိုးခြင်း",
+      "盆栽 (ぼんさい) - ဘွန်ဆိုင်းပင်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "培",
+    "onyomi": "バイ",
+    "kunyomi": "つちかう",
+    "meaning": "cultivate, foster",
+    "meaningMM": "စိုက်ပျိုးသည်၊ မွေးမြူသည်",
+    "examples": [
+      "栽培 (さいばい) - စိုက်ပျိုးခြင်း",
+      "培養 (ばいよう) - မွေးမြူခြင်း (ပိုးမွှား)"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "渉",
+    "onyomi": "ショウ",
+    "kunyomi": "わたる",
+    "meaning": "ford, cross, involve",
+    "meaningMM": "ကူးဖြတ်သည်၊ ပါဝင်ပတ်သက်သည်",
+    "examples": [
+      "交渉 (こうしょう) - ညှိနှိုင်းဆွေးနွေးခြင်း",
+      "渉外 (しょうがい) - ပြင်ပဆက်ဆံရေး"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "堤",
+    "onyomi": "テイ",
+    "kunyomi": "つつみ",
+    "meaning": "dike, embankment",
+    "meaningMM": "ဆည်၊ တာတမံ",
+    "examples": [
+      "堤防 (ていぼう) - တာတမံ",
+      "堤 (つつみ) - ဆည်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "摘",
+    "onyomi": "テキ",
+    "kunyomi": "つむ",
+    "meaning": "pluck, pick",
+    "meaningMM": "ခူးသည်၊ ကောက်သည်",
+    "examples": [
+      "摘む (つむ) - ခူးသည်",
+      "指摘 (してき) - ထောက်ပြခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "択",
+    "onyomi": "タク",
+    "kunyomi": "えらぶ",
+    "meaning": "choose, select",
+    "meaningMM": "ရွေးချယ်သည်",
+    "examples": [
+      "選択 (せんたく) - ရွေးချယ်ခြင်း",
+      "択一 (たくいつ) - တစ်ခုတည်းရွေးချယ်ခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "把",
+    "onyomi": "ハ",
+    "kunyomi": "とる",
+    "meaning": "grasp, hold",
+    "meaningMM": "ဆုပ်ကိုင်သည်၊ ဖမ်းဆုပ်သည်",
+    "examples": [
+      "把握 (はあく) - နားလည်သဘောပေါက်ခြင်း",
+      "把手 (とって) - လက်ကိုင်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "妥",
+    "onyomi": "ダ",
+    "kunyomi": "",
+    "meaning": "appropriate, moderate",
+    "meaningMM": "သင့်လျော်သော၊ သင့်တင့်သော",
+    "examples": [
+      "妥当 (だとう) - သင့်လျော်သော",
+      "妥協 (だきょう) - အပေးအယူလုပ်ခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "佐",
+    "onyomi": "サ",
+    "kunyomi": "",
+    "meaning": "assist, help",
+    "meaningMM": "ကူညီသည်၊ အထောက်အကူပြုသည်",
+    "examples": [
+      "補佐 (ほさ) - အကူအညီပေးခြင်း",
+      "佐官 (さかん) - အရာရှိ (စစ်တပ်)"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "請",
+    "onyomi": "セイ、シン",
+    "kunyomi": "こう、うける",
+    "meaning": "request, invite",
+    "meaningMM": "တောင်းဆိုသည်၊ ဖိတ်ကြားသည်",
+    "examples": [
+      "請求 (せいきゅう) - တောင်းဆိုခြင်း",
+      "請け負う (うけおう) - တာဝန်ယူသည်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "派",
+    "onyomi": "ハ",
+    "kunyomi": "",
+    "meaning": "faction, dispatch",
+    "meaningMM": "ဂိုဏ်း၊ စေလွှတ်သည်",
+    "examples": [
+      "派遣 (はけん) - စေလွှတ်ခြင်း",
+      "学派 (がくは) - ကျောင်း (အတွေးအခေါ်)"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "遣",
+    "onyomi": "ケン",
+    "kunyomi": "つかわす、やる",
+    "meaning": "dispatch, send",
+    "meaningMM": "စေလွှတ်သည်၊ ပို့သည်",
+    "examples": [
+      "派遣 (はけん) - စေလွှတ်ခြင်း",
+      "遣る (やる) - လုပ်သည်/ပေးသည်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "宣",
+    "onyomi": "セン",
+    "kunyomi": "のたまう",
+    "meaning": "proclaim, announce",
+    "meaningMM": "ကြေညာသည်",
+    "examples": [
+      "宣言 (せんげん) - ကြေညာခြင်း",
+      "宣伝 (せんでん) - ကြော်ငြာခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "卸",
+    "onyomi": "シャ",
+    "kunyomi": "おろし",
+    "meaning": "wholesale",
+    "meaningMM": "လက်ကား",
+    "examples": [
+      "卸売 (おろしうり) - လက်ကားရောင်းချခြင်း",
+      "卸す (おろす) - လက်ကားရောင်းသည်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "属",
+    "onyomi": "ゾク",
+    "kunyomi": "さかん",
+    "meaning": "belong to, subordinate",
+    "meaningMM": "သက်ဆိုင်သည်၊ လက်အောက်ခံ",
+    "examples": [
+      "所属 (しょぞく) - သက်ဆိုင်ခြင်း",
+      "金属 (きんぞく) - သတ္တု"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "軸",
+    "onyomi": "ジク",
+    "kunyomi": "じく",
+    "meaning": "axis, shaft",
+    "meaningMM": "ဝင်ရိုး၊ ရိုးတံ",
+    "examples": [
+      "軸 (じく) - ဝင်ရိုး",
+      "車軸 (しゃじく) - ကားဘီးဝင်ရိုး"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "軌",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "track, rail",
+    "meaningMM": "ရထားလမ်းကြောင်း၊ လမ်းကြောင်း",
+    "examples": [
+      "軌道 (きどう) - ပတ်လမ်း",
+      "軌跡 (きせき) - ခြေရာ၊ လမ်းကြောင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "還",
+    "onyomi": "カン",
+    "kunyomi": "かえる",
+    "meaning": "return, send back",
+    "meaningMM": "ပြန်လာသည်၊ ပြန်ပို့သည်",
+    "examples": [
+      "還元 (かんげん) - ပြန်လည်ရယူခြင်း",
+      "帰還 (きかん) - ပြန်ရောက်ခြင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "遇",
+    "onyomi": "グウ",
+    "kunyomi": "あう",
+    "meaning": "meet, treat",
+    "meaningMM": "တွေ့ဆုံသည်၊ ဆက်ဆံသည်",
+    "examples": [
+      "遭遇 (そうぐう) - ကြုံတွေ့ခြင်း",
+      "待遇 (たいぐう) - ဆက်ဆံရေး၊ လစာ"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "蓄",
+    "onyomi": "チク",
+    "kunyomi": "たくわえる",
+    "meaning": "store, accumulate",
+    "meaningMM": "သိုလှောင်သည်၊ စုဆောင်းသည်",
+    "examples": [
+      "蓄積 (ちくせき) - စုဆောင်းခြင်း",
+      "貯蓄 (ちょちく) - စုဆောင်းငွေ"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "勘",
+    "onyomi": "カン",
+    "kunyomi": "かんがえる",
+    "meaning": "intuition, perception",
+    "meaningMM": "အလိုလိုသိစိတ်၊ ထိုးထွင်းဉာဏ်",
+    "examples": [
+      "勘定 (かんじょう) - တွက်ချက်ခြင်း",
+      "勘 (かん) - အလိုလိုသိစိတ်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "託",
+    "onyomi": "タク",
+    "kunyomi": "たくす",
+    "meaning": "entrust, commit",
+    "meaningMM": "အပ်နှံသည်၊ တာဝန်ပေးသည်",
+    "examples": [
+      "委託 (いたく) - လွှဲအပ်ခြင်း",
+      "託児所 (たくじしょ) - ကလေးထိန်းကျောင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "障",
+    "onyomi": "ショウ",
+    "kunyomi": "さわる",
+    "meaning": "hindrance, obstacle",
+    "meaningMM": "အနှောင့်အယှက်၊ အတားအဆီး",
+    "examples": [
+      "障害 (しょうがい) - အတားအဆီး",
+      "故障 (こしょう) - ချွတ်ယွင်းမှု"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "祉",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "welfare, happiness",
+    "meaningMM": "လူမှုဖူလုံရေး၊ ပျော်ရွှင်မှု",
+    "examples": [
+      "福祉 (ふくし) - လူမှုဖူလုံရေး",
+      "社会福祉 (しゃかいふくし) - လူမှုဖူလုံရေး"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "概",
+    "onyomi": "ガイ",
+    "kunyomi": "おおむね",
+    "meaning": "outline, approximation",
+    "meaningMM": "အကျဉ်းချုပ်၊ ခန့်မှန်းခြေ",
+    "examples": [
+      "概要 (がいよう) - အကျဉ်းချုပ်",
+      "概ね (おおむね) - အကြမ်းဖျင်း"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "顧",
+    "onyomi": "コ",
+    "kunyomi": "かえりみる",
+    "meaning": "look back, consider",
+    "meaningMM": "ပြန်လှည့်ကြည့်သည်၊ ထည့်သွင်းစဉ်းစားသည်",
+    "examples": [
+      "顧客 (こきゃく) - ဖောက်သည်",
+      "顧みる (かえりみる) - ပြန်လည်စဉ်းစားသည်"
+    ],
+    "chapter": 9
+  },
+  {
+    "kanji": "礎",
+    "onyomi": "ソ",
+    "kunyomi": "いしずえ",
+    "meaning": "foundation, cornerstone",
+    "meaningMM": "အုတ်မြစ်၊ အခြေခံ",
+    "examples": [
+      "基礎 (きそ) - အခြေခံ",
+      "礎を築く (いしずえをきずく) - အုတ်မြစ်ချသည်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "践",
+    "onyomi": "セン",
+    "kunyomi": "ふむ",
+    "meaning": "tread, practice",
+    "meaningMM": "နင်းသည်၊ ကျင့်သုံးသည်",
+    "examples": [
+      "実践 (じっせん) - လက်တွေ့ကျင့်သုံးခြင်း",
+      "履践 (りせん) - လိုက်နာကျင့်သုံးခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "模",
+    "onyomi": "モ、ボ",
+    "kunyomi": "",
+    "meaning": "model, imitate",
+    "meaningMM": "ပုံစံ၊ တုပသည်",
+    "examples": [
+      "模範 (もはん) - စံနမူနာ",
+      "模擬 (もぎ) - အတုယူပြုလုပ်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "範",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "pattern, example",
+    "meaningMM": "ပုံစံ၊ ဥပမာ",
+    "examples": [
+      "模範 (もはん) - စံနမူနာ",
+      "規範 (きはん) - စံနှုန်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "択",
+    "onyomi": "タク",
+    "kunyomi": "えらぶ",
+    "meaning": "choose, select",
+    "meaningMM": "ရွေးချယ်သည်",
+    "examples": [
+      "選択 (せんたく) - ရွေးချယ်ခြင်း",
+      "採択 (さいたく) - လက်ခံရွေးချယ်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "拠",
+    "onyomi": "キョ、コ",
+    "kunyomi": "よる",
+    "meaning": "base, depend on",
+    "meaningMM": "အခြေခံသည်၊ မှီခိုသည်",
+    "examples": [
+      "根拠 (こんきょ) - အခြေအမြစ်",
+      "証拠 (しょうこ) - သက်သေအထောက်အထား"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "克",
+    "onyomi": "コク",
+    "kunyomi": "かつ",
+    "meaning": "overcome, conquer",
+    "meaningMM": "ကျော်လွှားသည်၊ အောင်နိုင်သည်",
+    "examples": [
+      "克服 (こくふく) - ကျော်လွှားခြင်း",
+      "克己 (こっき) - မိမိကိုယ်ကိုထိန်းချုပ်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "擬",
+    "onyomi": "ギ",
+    "kunyomi": "まがい",
+    "meaning": "imitate, pseudo",
+    "meaningMM": "တုပသည်၊ အတုအယောင်",
+    "examples": [
+      "擬似 (ぎじ) - အတုအယောင်",
+      "擬人化 (ぎじんか) - လူပုဂ္ဂိုလ်စရိုက်သရုပ်ဖော်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "哲",
+    "onyomi": "テツ",
+    "kunyomi": "",
+    "meaning": "philosophy, clear",
+    "meaningMM": "ဒဿန၊ ရှင်းလင်းသော",
+    "examples": [
+      "哲学 (てつがく) - ဒဿနိကဗေဒ",
+      "哲学者 (てつがくしゃ) - ဒဿနပညာရှင်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "倫",
+    "onyomi": "リン",
+    "kunyomi": "",
+    "meaning": "ethics, morals",
+    "meaningMM": "ကျင့်ဝတ်၊ ကိုယ်ကျင့်တရား",
+    "examples": [
+      "倫理 (りんり) - ကျင့်ဝတ်",
+      "不倫 (ふりん) - ဖောက်ပြန်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "志",
+    "onyomi": "シ",
+    "kunyomi": "こころざす、こころざし",
+    "meaning": "will, aim, aspiration",
+    "meaningMM": "ဆန္ဒ၊ ရည်မှန်းချက်၊ လိုအင်",
+    "examples": [
+      "志 (こころざし) - ရည်မှန်းချက်",
+      "意志 (いし) - ဆန္ဒ၊ စေတနာ"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "功",
+    "onyomi": "コウ、ク",
+    "kunyomi": "いさお",
+    "meaning": "merit, achievement",
+    "meaningMM": "ကောင်းကျိုး၊ အောင်မြင်မှု",
+    "examples": [
+      "成功 (せいこう) - အောင်မြင်ခြင်း",
+      "功績 (こうせき) - အောင်မြင်မှုမှတ်တမ်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "佳",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "excellent, beautiful",
+    "meaningMM": "ထူးချွန်သော၊ လှပသော",
+    "examples": [
+      "佳作 (かさく) - အကောင်းဆုံးလက်ရာ",
+      "佳人 (かじん) - လှပသောအမျိုးသမီး"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "秀",
+    "onyomi": "シュウ",
+    "kunyomi": "ひいでる",
+    "meaning": "excellent, excel",
+    "meaningMM": "ထူးချွန်သော၊ ထူးချွန်သည်",
+    "examples": [
+      "優秀 (ゆうしゅう) - ထူးချွန်သော",
+      "秀作 (しゅうさく) - ထူးချွန်သောလက်ရာ"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "推",
+    "onyomi": "スイ",
+    "kunyomi": "おす",
+    "meaning": "conjecture, infer",
+    "meaningMM": "မှန်းဆသည်၊ ကောက်ချက်ချသည်",
+    "examples": [
+      "推測 (すいそく) - မှန်းဆခြင်း",
+      "推薦 (すいせん) - ထောက်ခံခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "薦",
+    "onyomi": "セン",
+    "kunyomi": "すすめる",
+    "meaning": "recommend, advise",
+    "meaningMM": "အကြံပြုသည်၊ အကြံပေးသည်",
+    "examples": [
+      "推薦 (すいせん) - ထောက်ခံခြင်း",
+      "薦める (すすめる) - အကြံပြုသည်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "訂",
+    "onyomi": "テイ",
+    "kunyomi": "",
+    "meaning": "revise, correct",
+    "meaningMM": "ပြန်လည်ပြင်ဆင်သည်၊ ပြင်သည်",
+    "examples": [
+      "訂正 (ていせい) - ပြင်ဆင်ခြင်း",
+      "改訂 (かいてい) - ပြန်လည်ပြင်ဆင်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "項",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "paragraph, item",
+    "meaningMM": "အပိုဒ်၊ အချက်",
+    "examples": [
+      "項目 (こうもく) - အချက်အလက်",
+      "事項 (じこう) - ကိစ္စရပ်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "索",
+    "onyomi": "サク",
+    "kunyomi": "",
+    "meaning": "search, rope",
+    "meaningMM": "ရှာဖွေသည်၊ ကြိုး",
+    "examples": [
+      "検索 (けんさく) - ရှာဖွေခြင်း",
+      "思索 (しさく) - စဉ်းစားဆင်ခြင်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "稿",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "draft, manuscript",
+    "meaningMM": "မူကြမ်း၊ လက်ရေးမူ",
+    "examples": [
+      "原稿 (げんこう) - မူရင်းမူကြမ်း",
+      "投稿 (とうこう) - ပုံနှိပ်ထုတ်ဝေရန်တင်ပြခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "翻",
+    "onyomi": "ホン",
+    "kunyomi": "ひるがえる、ひるがえす",
+    "meaning": "turn over, translate",
+    "meaningMM": "လှန်သည်၊ ဘာသာပြန်သည်",
+    "examples": [
+      "翻訳 (ほんやく) - ဘာသာပြန်ခြင်း",
+      "翻る (ひるがえる) - လှန်သွားသည်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "欄",
+    "onyomi": "ラン",
+    "kunyomi": "",
+    "meaning": "column, blank space",
+    "meaningMM": "ကော်လံ၊ နေရာလွတ်",
+    "examples": [
+      "欄 (らん) - ကော်လံ",
+      "解答欄 (かいとうらん) - အဖြေဖြည့်ရန်နေရာ"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "載",
+    "onyomi": "サイ",
+    "kunyomi": "のせる、のる",
+    "meaning": "load, publish",
+    "meaningMM": "တင်သည်၊ ထုတ်ဝေသည်",
+    "examples": [
+      "掲載 (けいさい) - ထည့်သွင်းဖော်ပြခြင်း",
+      "積載 (せきさい) - တင်ဆောင်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "啓",
+    "onyomi": "ケイ",
+    "kunyomi": "ひらく",
+    "meaning": "disclose, open",
+    "meaningMM": "ဖော်ထုတ်သည်၊ ဖွင့်သည်",
+    "examples": [
+      "啓発 (けいはつ) - ဉာဏ်အလင်းဖွင့်ပေးခြင်း",
+      "啓蒙 (けいもう) - ပညာပေးခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "監",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "supervise, oversee",
+    "meaningMM": "ကြီးကြပ်သည်",
+    "examples": [
+      "監督 (かんとく) - ဒါရိုက်တာ/ကြီးကြပ်ရေးမှူး",
+      "監査 (かんさ) - စာရင်းစစ်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "督",
+    "onyomi": "トク",
+    "kunyomi": "",
+    "meaning": "command, supervise",
+    "meaningMM": "အမိန့်ပေးသည်၊ ကြီးကြပ်သည်",
+    "examples": [
+      "監督 (かんとく) - ဒါရိုက်တာ/ကြီးကြပ်ရေးမှူး",
+      "督促 (とくそく) - တိုက်တွန်းနှိုးဆော်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "矛",
+    "onyomi": "ム",
+    "kunyomi": "ほこ",
+    "meaning": "halberd, spear",
+    "meaningMM": "လှံ၊ လှံတံ",
+    "examples": [
+      "矛盾 (むじゅん) - ဆန့်ကျင်ကွဲလွဲခြင်း (လှံနှင့်ဒိုင်း)"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "盾",
+    "onyomi": "ジュン",
+    "kunyomi": "たて",
+    "meaning": "shield, buckler",
+    "meaningMM": "ဒိုင်း",
+    "examples": [
+      "盾 (たて) - ဒိုင်း",
+      "矛盾 (むじゅん) - ဆန့်ကျင်ကွဲလွဲခြင်း (လှံနှင့်ဒိုင်း)"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "浸",
+    "onyomi": "シン",
+    "kunyomi": "ひたす、ひたる",
+    "meaning": "immerse, soak",
+    "meaningMM": "စိမ်သည်၊ စိုစွတ်သည်",
+    "examples": [
+      "浸水 (しんすい) - ရေဝင်ခြင်း",
+      "浸透 (しんとう) - စိမ့်ဝင်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "透",
+    "onyomi": "トウ",
+    "kunyomi": "すく、すかす、すける",
+    "meaning": "transparent, penetrate",
+    "meaningMM": "ကြည်လင်သော၊ ထိုးဖောက်သည်",
+    "examples": [
+      "透明 (とうめい) - ပွင့်လင်းမြင်သာသော",
+      "浸透 (しんとう) - စိမ့်ဝင်ခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "諸",
+    "onyomi": "ショ",
+    "kunyomi": "もろ",
+    "meaning": "various, many",
+    "meaningMM": "အမျိုးမျိုးသော၊ များစွာသော",
+    "examples": [
+      "諸国 (しょこく) - နိုင်ငံအသီးသီး",
+      "諸問題 (しょもんだい) - ပြဿနာအမျိုးမျိုး"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "班",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "group, squad",
+    "meaningMM": "အဖွဲ့၊ အစု",
+    "examples": [
+      "班 (はん) - အဖွဲ့",
+      "班長 (はんちょう) - အဖွဲ့ခေါင်းဆောင်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "怠",
+    "onyomi": "タイ",
+    "kunyomi": "おこたる、なまける",
+    "meaning": "neglect, lazy",
+    "meaningMM": "ပေါ့ဆသည်၊ ပျင်းရိသည်",
+    "examples": [
+      "怠ける (なまける) - ပျင်းရိသည်",
+      "怠慢 (たいまん) - ပေါ့ဆမှု"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "誠",
+    "onyomi": "セイ",
+    "kunyomi": "まこと",
+    "meaning": "sincerity, truth",
+    "meaningMM": "ရိုးသားမှု၊ မှန်ကန်မှု",
+    "examples": [
+      "誠実 (せいじつ) - ရိုးသားဖြောင့်မတ်သော",
+      "誠に (まことに) - စင်စစ်၊ အမှန်တကယ်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "謗",
+    "onyomi": "ボウ",
+    "kunyomi": "そしる",
+    "meaning": "slander, defame",
+    "meaningMM": "အသရေဖျက်သည်၊ ကဲ့ရဲ့သည်",
+    "examples": [
+      "誹謗 (ひぼう) - အသရေဖျက်ခြင်း",
+      "謗る (そしる) - ကဲ့ရဲ့သည်"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "懸",
+    "onyomi": "ケン、ケ",
+    "kunyomi": "かける、かかる",
+    "meaning": "hang, suspend",
+    "meaningMM": "ဆွဲသည်၊ ဆိုင်းသည်",
+    "examples": [
+      "懸命 (けんめい) - ကြိုးစားအားထုတ်မှု",
+      "懸賞 (けんしょう) - ဆုငွေ"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "縁",
+    "onyomi": "エン",
+    "kunyomi": "ふち、えん",
+    "meaning": "縁 (えん) - connection, fate",
+    "meaningMM": "ဆက်သွယ်မှု၊ ကံကြမ္မာ",
+    "examples": [
+      "縁 (えん) - ဆက်သွယ်မှု",
+      "縁側 (えんがわ) - ဂျပန်အိမ်၏အပြင်ဘက်စင်္ကြံ"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "析",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "meaning": "analyze, chop",
+    "meaningMM": "ခွဲခြမ်းစိတ်ဖြာသည်",
+    "examples": [
+      "分析 (ぶんせき) - ခွဲခြမ်းစိတ်ဖြာခြင်း",
+      "解析 (かいせき) - ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "熟",
+    "onyomi": "ジュク",
+    "kunyomi": "うれる",
+    "meaning": "ripe, mature, acquire skill",
+    "meaningMM": "မှည့်သော၊ ရင့်ကျက်သော၊ ကျွမ်းကျင်သော",
+    "examples": [
+      "熟練 (じゅくれん) - ကျွမ်းကျင်မှု",
+      "熟語 (じゅくご) - ဝေါဟာရပေါင်းစပ်မှု"
+    ],
+    "chapter": 10
+  },
+  {
+    "kanji": "揮",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "brandish, command",
+    "meaningMM": "ဝှေ့ယမ်းသည်၊ ကွပ်ကဲသည်",
+    "examples": [
+      "指揮 (しい) - ကွပ်ကဲခြင်း",
+      "発揮 (はっき) - ပြသခြင်း (စွမ်းရည်)"
+    ],
+    "chapter": 10
+  }
+]
+
+  
+
+
+
+
+  
+
+
+
