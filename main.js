@@ -22,7 +22,7 @@ document.getElementById('advancedLevel').addEventListener("click", () => {
 });
 
 document.getElementById('kanjiFlashCard').addEventListener("click", () => {
-    window.location.href = "/kanjiFlashCard/flashCardIndex.html";
+    window.location.href = "kanjiFlashCard/flashCardIndex.html";
 });
 
 // Grammar level filter buttons
