@@ -5,7 +5,7 @@ const kanjiDataUrl = {
   n4: "../kanjiFlashCard/n4kanji.json",
   n3: "../kanjiFlashCard/n3kanji.json",
   n2: "../kanjiFlashCard/n2kanji.json",
-  n1: "../kanjiFlashCard/n1kanji.json"
+  n1: "../kanjiFlashCard/n1kanjiMaster.json"
 };
 
 
@@ -55,7 +55,7 @@ function startGame() {
 
   gameState.isPlaying = true;
   gameState.score = 0;
-  gameState.lives = 5;
+  gameState.lives = 3;
   gameState.level = 1;
   gameState.fallingKanji = [];
   gameState.gameSpeed = 1800;
@@ -100,7 +100,7 @@ function spawnKanji() {
 
   // Mix of correct and incorrect kanji
   let kanjiData;
-  if (Math.random() < 0.4) {
+  if (Math.random() < 0.3) {
     // 30% chance of correct kanji
     kanjiData = kanjiDatabase.find(
       (k) => k.kanji === gameState.currentPrompt.kanji

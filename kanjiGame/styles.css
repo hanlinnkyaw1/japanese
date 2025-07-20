@@ -214,6 +214,7 @@ label[for="languages"] {
   .prompt-area {
     padding: 12px 6px;
     border-radius: 12px;
+    bottom: 5rem;
   }
 }
 
