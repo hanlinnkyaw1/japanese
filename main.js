@@ -21,7 +21,11 @@ document.getElementById("advancedLevel").addEventListener("click", () => {
 });
 
 document.getElementById("kanjiFlashCard").addEventListener("click", () => {
-  window.location.href = "kanjiFlashCard/flashCardIndex.html";
+  window.location.href = "kanjiFlashCard/kanjiFlashcards.html";
+});
+
+document.getElementById("kanjiGame").addEventListener("click", () => {
+  window.location.href = "kanjiGame/kanjigame.html";
 });
 
 // Grammar level filter buttons

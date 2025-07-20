@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanji Pop Game</title>
+</head>
+<link rel="stylesheet" href="styles.css">
+<body>
+    <div class="game-container">
+        <div class="start-screen" id="startScreen">
+            <h1 class="start-title">漢字 Pop!</h1>
+            <p class="start-subtitle">Match falling kanji with their meanings or readings before they reach the bottom!</p>
+           <label for="levelSelect" class="level-label">Choose Your Level:</label>
+            <select id="levelSelect" class="level-select">
+            <option value="n5">N5</option>
+            <option value="n4">N4</option>
+            <option value="n3">N3</option>
+            <option value="n2">N2</option>
+            <option value="n1">N1</option>
+            </select>
+            <label for="languages">Choose Languages</label>
+            <select name="language" id="languages">
+            <option value="burmese">Burmese</option>
+                <option value="english">English</option>
+            </select>
+            <br><br>
+            <button class="start-btn" onclick="startGame()">Start Game</button>
+
+        </div>
+        
+        <div class="header">
+            <h1 class="title">漢字 Pop!</h1>
+            <div class="stats">
+                <div class="stat">Score: <span id="score">0</span></div>
+                <div class="stat">Lives: <span id="lives">3</span></div>
+                <div class="stat">Level: <span id="level">1</span></div>
+            </div>
+        </div>
+        
+        <div class="game-area" id="gameArea"></div>
+        
+        <div class="prompt-area">
+            <div class="prompt">
+                <div class="prompt-text" id="promptText">水</div>
+                <div class="prompt-type" id="promptType">Find the meaning</div>
+            </div>
+        </div>
+        
+        <div class="game-over" id="gameOver">
+            <h2>Game Over!</h2>
+            <div class="final-score">Final Score: <span id="finalScore">0</span></div>
+            <button class="restart-btn" onclick="restartGame()">Play Again</button>
+        </div>
+    </div>
+
+   <script src="game.js"></script>
+</html>

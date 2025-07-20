@@ -1,71 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Kanji Flashcards</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="header.js"></script>
+const flashcardContainer = document.getElementById('flashcard-container');
+  document.getElementById('level-buttons').addEventListener('click', async (e) => {
+    if (e.target.dataset.level) {
+      const url = e.target.dataset.level;
+      const jurl = url + ".json";
+      const aurl = jurl.toString();
+     loadKanji(aurl);
+    }
+  });
 
-  <style>
-    .card-container {
-      perspective: 1000px;
-    }
-    .flashcard {
-      width: 100%;
-      height: 22rem;
-      position: relative;
-      transform-style: preserve-3d;
-      transition: transform 0.6s;
-    }
-    .flipped {
-      transform: rotateY(180deg);
-    }
-    .card-face {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      backface-visibility: hidden;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      padding: 1.5rem;
-      border-radius: 1rem;
-      background: white;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-    }
-    .back {
-      transform: rotateY(180deg);
-    }
-    .furigana-group {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin: 0 0.25rem;
-    }
-    .furigana-group span {
-      font-size: 0.75rem;
-      color: #555;
-    }
-    .furigana-group strong {
-      font-size: 1.25rem;
-      color: #111;
-    }
-  </style>
-</head>
-<body class="bg-gradient-to-br from-gray-100 to-gray-200 min-h-screen flex flex-col items-center justify-center py-8 px-4">
-
-  <h1 class="text-3xl font-bold text-gray-800 mb-6">🀄 N5 Kanji Flashcards</h1>
-
-  <div id="flashcard-container" class="card-container w-full max-w-md cursor-pointer"></div>
-
-  <div class="flex justify-between gap-4 mt-6 w-full max-w-md">
-    <button id="prev-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">← Prev</button>
-    <button id="next-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">Next →</button>
-  </div>
-
-  <script>
+    const choosePage = document.querySelector('.choose-page');
+    const mainContainer = document.querySelector('.main-flash-container');
+    mainContainer.style.display = "none";
     const container = document.getElementById('flashcard-container');
     const prevBtn = document.getElementById('prev-card-btn');
     const nextBtn = document.getElementById('next-card-btn');
@@ -94,12 +39,17 @@
     }
 
     function renderCard(data) {
+      mainContainer.style.display = "flex";
       const parsedExamples = data.examples.map(parseExample);
+
 
       container.innerHTML = `
         <div id="card" class="flashcard">
           <div class="card-face front">
             <div class="text-8xl font-extrabold mb-4">${data.kanji}</div>
+            <p class="inline-block cursor-pointer text-lg font-semibold text-slate-400 mt-10 hover:text-teal-600 transition duration-300">
+              ➤ Click to Show
+            </p>
           </div>
           
           <div class="card-face back">
@@ -147,8 +97,10 @@
       }
     }
     
-    async function loadKanji() {
-      const res = await fetch('n5kanji.json');
+    async function loadKanji(e) {
+      mainContainer.style.display = "flex"; // Show the container
+      choosePage.style.display = "none"; // Hide the choose page
+      const res = await fetch(e);
       kanjiData = await res.json();
       
       shuffleArray(kanjiData); // Shuffle the entire list
@@ -166,7 +118,12 @@
       renderCard(kanjiData[currentIndex]);
     });
 
-    loadKanji();
-  </script>
-</body>
-</html>
+   // Mobile menu toggle
+document.addEventListener("DOMContentLoaded", () => {
+  const toggleBtn = document.getElementById("menu-toggle");
+  const mobileMenu = document.getElementById("mobile-menu");
+
+  toggleBtn.addEventListener("click", () => {
+    mobileMenu.classList.toggle("hidden");
+  });
+});

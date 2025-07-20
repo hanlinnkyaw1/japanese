@@ -204,48 +204,65 @@
         </section>
         
       <!-- Study Tools -->
-        <section class="py-20 bg-gradient-to-br from-red-50 via-white to-pink-100" id="learnExplore">
-          <div class="max-w-6xl mx-auto px-6">
-            <h2 class="text-3xl font-extrabold text-center text-red-600 mb-8">Explore Learning Features</h2>
-        
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-              <!-- Feature Card -->
-              <div class="relative group bg-white min-h-[480px] p-10 rounded-3xl shadow-xl border border-gray-200 hover:border-red-400 transition-all duration-300 overflow-hidden hover:shadow-2xl hover:scale-[1.03]">
-                <!-- Glow Effect -->
-                <div class="absolute -inset-1 bg-gradient-to-r from-red-100 via-white to-red-100 rounded-3xl blur-2xl opacity-0 group-hover:opacity-60 transition duration-500 pointer-events-none"></div>
-        
-                <!-- Icon -->
-                <div class="relative z-10 w-20 h-20 bg-red-100 rounded-full flex items-center justify-center mb-6 shadow-md">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 text-red-500" fill="none" viewBox="0 0 24 24"
+       <section class="py-10 bg-gradient-to-br from-red-50 via-white to-pink-100" id="learnExplore">
+        <div class="max-w-xl mx-auto px-4">
+            <h2 class="text-2xl font-extrabold text-center text-red-600 mb-8">Explore Learning Features</h2>
+
+            <div class="grid grid-cols-1 gap-6">
+            <!-- Kanji Flashcards -->
+            <div class="relative group bg-white rounded-2xl shadow-md border border-gray-200 hover:border-red-400 transition-all duration-300 overflow-hidden hover:shadow-lg hover:scale-[1.02]">
+                <div class="absolute -inset-1 bg-gradient-to-r from-red-100 via-white to-red-100 rounded-2xl blur-2xl opacity-0 group-hover:opacity-50 transition duration-500 pointer-events-none"></div>
+                <div class="relative z-10 p-5">
+                <div class="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center mb-4 shadow">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-red-500" fill="none" viewBox="0 0 24 24"
                     stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                      d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-                  </svg>
+                        d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+                    </svg>
                 </div>
-        
-                <!-- Title -->
-                <h4 class="relative z-10 text-2xl font-bold text-gray-900 mb-4">Kanji Flashcards</h4>
-        
-                <!-- Description -->
-                <p class="relative z-10 text-gray-600 mb-6 leading-relaxed text-base">
-                  Practice and memorize Kanji through beautiful, interactive flashcards. Boost your retention and track progress by JLPT level.
+                <h4 class="text-lg font-bold text-gray-900 mb-2">Kanji Flashcards</h4>
+                <p class="text-gray-600 text-sm mb-4">
+                    Practice and memorize Kanji using interactive flashcards by JLPT level.
                 </p>
-        
-                <!-- CTA Button -->
                 <button id="kanjiFlashCard"
-                  class="relative z-10 inline-flex items-center text-red-600 font-semibold hover:text-red-700 transition-all group-hover:underline text-base">
-                  Start Practicing
-                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24"
+                    class="inline-flex items-center text-red-600 font-semibold hover:text-red-700 transition group-hover:underline text-sm">
+                    Start Practicing
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24"
                     stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                  </svg>
+                    </svg>
                 </button>
-              </div>
-        
-              <!-- Duplicate and modify this block for other features like Level Test, Grammar Bank, etc. -->
+                </div>
             </div>
+
+      <!-- Kanji Game -->
+      <div class="relative group bg-white rounded-2xl shadow-md border border-gray-200 hover:border-pink-400 transition-all duration-300 overflow-hidden hover:shadow-lg hover:scale-[1.02]">
+        <div class="absolute -inset-1 bg-gradient-to-r from-pink-100 via-white to-pink-100 rounded-2xl blur-2xl opacity-0 group-hover:opacity-50 transition duration-500 pointer-events-none"></div>
+        <div class="relative z-10 p-5">
+          <div class="w-12 h-12 bg-pink-100 rounded-full flex items-center justify-center mb-4 shadow">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-pink-500" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M13 10V3L4 14h7v7l9-11h-7z" />
+            </svg>
           </div>
-        </section>      
+          <h4 class="text-lg font-bold text-gray-900 mb-2">Kanji Game</h4>
+          <p class="text-gray-600 text-sm mb-4">
+           Kanji Pop – Kanji characters fall from the top! Tap the correct one before it hits the bottom. A fun way to boost your recognition speed.
+          </p>
+          <button id="kanjiGame"
+            class="inline-flex items-center text-pink-600 font-semibold hover:text-pink-700 transition group-hover:underline text-sm">
+            Start Playing
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
         <!-- Grammar Search -->
         <section class="py-12 bg-white">

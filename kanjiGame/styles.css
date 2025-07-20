@@ -1,0 +1,307 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  height: 100vh;
+  overflow: hidden;
+  user-select: none;
+}
+
+.game-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.header {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  text-align: center;
+  color: white;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.stats {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+
+.stat {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 8px 16px;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+}
+
+/* Style for the level and language selectors on the start screen */
+.level-label,
+.level-select,
+#languages,
+label[for="languages"] {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.level-select,
+#languages {
+  width: 160px;
+  padding: 6px 10px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+  border: 1px solid #aaa;
+  background: #f8f8f8;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.level-select:focus,
+#languages:focus {
+  border-color: #0078d7;
+}
+
+label[for="languages"] {
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+
+.start-btn {
+  margin-top: 10px;
+}
+
+/* --- Kanji Bubble: Transparent, watery, blue --- */
+.kanji {
+  position: absolute;
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+  background: radial-gradient(circle at 30% 30%, #a5dfff, #3b82f6); /* soft water tone */
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+  
+  /* Depth and glow */
+  box-shadow:
+    inset -4px -4px 6px rgba(255, 255, 255, 0.4),
+    inset 2px 2px 4px rgba(0, 0, 0, 0.05),
+    0 4px 15px rgba(0, 0, 0, 0.2),
+    0 0 10px rgba(91, 190, 255, 0.3); /* subtle glow */
+    
+  border: 2px solid rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
+}
+
+
+.kanji:hover {
+  transform: scale(1.12);
+  box-shadow: 0 12px 32px rgba(102,126,234,0.32), 0 4px 16px rgba(118,75,162,0.22);
+}
+
+
+.kanji.correct {
+  animation: pop 0.3s ease-out forwards;
+}
+
+.kanji.wrong {
+  animation: shake 0.5s ease-out forwards;
+  background: linear-gradient(45deg, #ff4757, #c44569);
+}
+
+
+/* Remove or comment out any other .kanji blocks below this line to avoid yellow backgrounds */
+.game-area {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  right: 0;
+  bottom: 120px;
+  overflow: hidden;
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.3);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(0);
+    opacity: 0;
+  }
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-10px);
+  }
+  75% {
+    transform: translateX(10px);
+  }
+}
+
+.prompt-area {
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 32px);
+  max-width: 400px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  padding: 12px 16px;
+  text-align: center;
+  z-index: 10;
+}
+
+.prompt-text {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1e3a8a; /* Blue-900 */
+  margin-bottom: 4px;
+  word-break: break-word;
+}
+
+.prompt-type {
+  font-size: 0.8rem;
+  color: #6b7280; /* Gray-500 */
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+/* Optional: Adjust for very small screens */
+@media (max-width: 400px) {
+  .prompt-text {
+    font-size: 1.2rem;
+  }
+
+  .prompt-type {
+    font-size: 0.7rem;
+  }
+
+  .prompt-area {
+    padding: 10px 12px;
+    border-radius: 12px;
+  }
+}
+
+
+.game-over {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  z-index: 200;
+  display: none;
+}
+
+.game-over h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #ff6b6b;
+}
+
+.final-score {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.restart-btn {
+  background: linear-gradient(45deg, #667eea, #764ba2);
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.restart-btn:hover {
+  transform: scale(1.05);
+}
+
+.start-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 300;
+}
+
+.start-title {
+  font-size: 4rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  background: linear-gradient(45deg, #ff6b6b, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.start-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+  opacity: 0.8;
+  text-align: center;
+  max-width: 600px;
+}
+
+.start-btn {
+  background: linear-gradient(45deg, #667eea, #764ba2);
+  color: white;
+  border: none;
+  padding: 20px 40px;
+  font-size: 1.5rem;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.start-btn:hover {
+  transform: scale(1.05);
+}
