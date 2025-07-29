@@ -1,0 +1,962 @@
+[
+  {
+    "word": "いす",
+    "reading": "いす",
+    "meaningEN": "chair",
+    "meaningMM": "ကုလားထိုင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "meaningEN": "on; above",
+    "meaningMM": "ပေါ်တွင်; အပေါ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "ねこ",
+    "reading": "ねこ",
+    "meaningEN": "cat",
+    "meaningMM": "ကြောင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "います",
+    "reading": "います",
+    "meaningEN": "to be (for living things)",
+    "meaningMM": "(သက်ရှိများအတွက်) ရှိသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "昨日",
+    "reading": "きのう",
+    "meaningEN": "yesterday",
+    "meaningMM": "မနေ့က",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "目",
+    "reading": "め",
+    "meaningEN": "eye",
+    "meaningMM": "မျက်လုံး",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaningEN": "painful",
+    "meaningMM": "နာကျင်သော",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "父",
+    "reading": "ちち",
+    "meaningEN": "father (my own)",
+    "meaningMM": "ဖခင် (မိမိဖခင်)",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "趣味",
+    "reading": "しゅみ",
+    "meaningEN": "hobby",
+    "meaningMM": "ဝါသနာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaningEN": "weather",
+    "meaningMM": "ရာသီဥတု",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "田中さん",
+    "reading": "たなかさん",
+    "meaningEN": "Mr./Ms. Tanaka",
+    "meaningMM": "တာနာကာမစ္စတာ/မစ္စ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "話しました",
+    "reading": "はなしました",
+    "meaningEN": "talked",
+    "meaningMM": "စကားပြောခဲ့သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "アパート",
+    "reading": "アパート",
+    "meaningEN": "apartment",
+    "meaningMM": "တိုက်ခန်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "南側",
+    "reading": "みなみがわ",
+    "meaningEN": "south side",
+    "meaningMM": "တောင်ဘက်ခြမ်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaningEN": "park",
+    "meaningMM": "ဥယျာဉ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "あります",
+    "reading": "あります",
+    "meaningEN": "to be (for inanimate things)",
+    "meaningMM": "(သက်မဲ့များအတွက်) ရှိသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaningEN": "outside",
+    "meaningMM": "အပြင်ဘက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "出てください",
+    "reading": "でてください",
+    "meaningEN": "please go out",
+    "meaningMM": "ကျေးဇူးပြု၍ ထွက်သွားပါ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaningEN": "girl",
+    "meaningMM": "မိန်းကလေး",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "歳",
+    "reading": "さい",
+    "meaningEN": "years old",
+    "meaningMM": "အသက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaningEN": "teacher",
+    "meaningMM": "ဆရာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "何人",
+    "reading": "なんにん",
+    "meaningEN": "how many people",
+    "meaningMM": "လူဘယ်နှစ်ယောက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaningEN": "watch; clock",
+    "meaningMM": "နာရီ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "八百円",
+    "reading": "はっぴゃくえん",
+    "meaningEN": "800 yen",
+    "meaningMM": "ယန်း ၈၀၀",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "meaningEN": "Saturday",
+    "meaningMM": "စနေနေ့",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "テスト",
+    "reading": "テスト",
+    "meaningEN": "test",
+    "meaningMM": "စာမေးပွဲ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "今朝",
+    "reading": "けさ",
+    "meaningEN": "this morning",
+    "meaningMM": "ဒီမနက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "四時",
+    "reading": "よじ",
+    "meaningEN": "four o'clock",
+    "meaningMM": "လေးနာရီ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "起きました",
+    "reading": "おきました",
+    "meaningEN": "woke up",
+    "meaningMM": "နိုးလာခဲ့သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "タクシー",
+    "reading": "タクシー",
+    "meaningEN": "taxi",
+    "meaningMM": "တက္ကစီ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "どのくらい",
+    "reading": "どのくらい",
+    "meaningEN": "how long; how much",
+    "meaningMM": "ဘယ်လောက်ကြာ; ဘယ်လောက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "かかります",
+    "reading": "かかります",
+    "meaningEN": "to take (time/money)",
+    "meaningMM": "ကြာသည် (အချိန်/ငွေ)",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaningEN": "bank",
+    "meaningMM": "ဘဏ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaningEN": "big",
+    "meaningMM": "ကြီးမားသော",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "ビル",
+    "reading": "ビル",
+    "meaningEN": "building",
+    "meaningMM": "အဆောက်အဦ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "階",
+    "reading": "かい",
+    "meaningEN": "floor (of a building)",
+    "meaningMM": "အထပ် (အဆောက်အဦ၏)",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaningEN": "friend",
+    "meaningMM": "သူငယ်ချင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "meaningEN": "sea; ocean",
+    "meaningMM": "ပင်လယ်; သမုဒ္ဒရာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "行きました",
+    "reading": "いきました",
+    "meaningEN": "went",
+    "meaningMM": "သွားခဲ့သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaningEN": "every day",
+    "meaningMM": "နေ့တိုင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "パン",
+    "reading": "パン",
+    "meaningEN": "bread",
+    "meaningMM": "ပေါင်မုန့်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "食べます",
+    "reading": "たべます",
+    "meaningEN": "eat",
+    "meaningMM": "စားသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "りんご",
+    "reading": "りんご",
+    "meaningEN": "apple",
+    "meaningMM": "ပန်းသီး",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "三つ",
+    "reading": "みっつ",
+    "meaningEN": "three (things)",
+    "meaningMM": "သုံးခု",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "あります",
+    "reading": "あります",
+    "meaningEN": "to be (for inanimate things)",
+    "meaningMM": "(သက်မဲ့များအတွက်) ရှိသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "meaningEN": "next year",
+    "meaningMM": "လာမည့်နှစ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "日本",
+    "reading": "にほん",
+    "meaningEN": "Japan",
+    "meaningMM": "ဂျပန်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "行きます",
+    "reading": "いきます",
+    "meaningEN": "go",
+    "meaningMM": "သွားသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaningEN": "shop; store",
+    "meaningMM": "ဆိုင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "時",
+    "reading": "じ",
+    "meaningEN": "o'clock",
+    "meaningMM": "နာရီ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "開きます",
+    "reading": "あきます",
+    "meaningEN": "open",
+    "meaningMM": "ဖွင့်သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaningEN": "newspaper",
+    "meaningMM": "သတင်းစာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "読みます",
+    "reading": "よみます",
+    "meaningEN": "read",
+    "meaningMM": "ဖတ်သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "meaningEN": "room",
+    "meaningMM": "အခန်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "meaningEN": "cold (weather)",
+    "meaningMM": "အေးသော (ရာသီဥတု)",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "ストーブ",
+    "reading": "ストーブ",
+    "meaningEN": "heater; stove",
+    "meaningMM": "အပူပေးစက်; မီးဖို",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "つけましょう",
+    "reading": "つけましょう",
+    "meaningEN": "let's turn on",
+    "meaningMM": "ဖွင့်ကြရအောင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "次",
+    "reading": "つぎ",
+    "meaningEN": "next",
+    "meaningMM": "နောက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meaningEN": "station",
+    "meaningMM": "ဘူတာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaningEN": "train",
+    "meaningMM": "ရထား",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "降ります",
+    "reading": "おります",
+    "meaningEN": "get off",
+    "meaningMM": "ဆင်းသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaningEN": "summer vacation",
+    "meaningMM": "နွေရာသီကျောင်းပိတ်ရက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "meaningEN": "family",
+    "meaningMM": "မိသားစု",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "山",
+    "reading": "やま",
+    "meaningEN": "mountain",
+    "meaningMM": "တောင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "登ります",
+    "reading": "のぼります",
+    "meaningEN": "climb",
+    "meaningMM": "တက်သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "歩きます",
+    "reading": "あるきます",
+    "meaningEN": "walk",
+    "meaningMM": "လမ်းလျှောက်သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "雪",
+    "reading": "ゆき",
+    "meaningEN": "snow",
+    "meaningMM": "နှင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "降りました",
+    "reading": "ふりました",
+    "meaningEN": "fell (rain, snow)",
+    "meaningMM": "ကျဆင်းခဲ့သည် (မိုး, နှင်း)",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaningEN": "pencil",
+    "meaningMM": "ခဲတံ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "買いました",
+    "reading": "かいました",
+    "meaningEN": "bought",
+    "meaningMM": "ဝယ်ခဲ့သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "佐藤さん",
+    "reading": "さとうさん",
+    "meaningEN": "Mr./Ms. Sato",
+    "meaningMM": "ဆာတိုမစ္စတာ/မစ္စ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "眼鏡",
+    "reading": "めがね",
+    "meaningEN": "glasses",
+    "meaningMM": "မျက်မှန်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "かけて",
+    "reading": "かけて",
+    "meaningEN": "wearing (glasses)",
+    "meaningMM": "(မျက်မှန်) တပ်ထားသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "風",
+    "reading": "かぜ",
+    "meaningEN": "wind",
+    "meaningMM": "လေ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaningEN": "strong",
+    "meaningMM": "အားကောင်းသော",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "meaningEN": "window",
+    "meaningMM": "ပြတင်းပေါက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "閉めましょう",
+    "reading": "しめましょう",
+    "meaningEN": "let's close",
+    "meaningMM": "ပိတ်ကြရအောင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaningEN": "song",
+    "meaningMM": "သီချင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaningEN": "skillful; good at",
+    "meaningMM": "ကျွမ်းကျင်သော; ကောင်းသော",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "歌いたくないです",
+    "reading": "うたいたくないです",
+    "meaningEN": "don't want to sing",
+    "meaningMM": "သီချင်းမဆိုချင်ပါ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaningEN": "younger sister",
+    "meaningMM": "ညီမလေး",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "meaningEN": "tooth",
+    "meaningMM": "သွား",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "磨いています",
+    "reading": "みがいています",
+    "meaningEN": "brushing",
+    "meaningMM": "တိုက်နေသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "meaningEN": "road; way",
+    "meaningMM": "လမ်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "分かりません",
+    "reading": "わかりません",
+    "meaningEN": "don't understand",
+    "meaningMM": "နားမလည်ပါ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "meaningEN": "map",
+    "meaningMM": "မြေပုံ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "書いてください",
+    "reading": "かいてください",
+    "meaningEN": "please write",
+    "meaningMM": "ကျေးဇူးပြု၍ ရေးပါ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaningEN": "same",
+    "meaningMM": "အတူတူ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaningEN": "meaning",
+    "meaningMM": "အဓိပ္ပာယ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaningEN": "library",
+    "meaningMM": "စာကြည့်တိုက်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "ご飯",
+    "reading": "ごはん",
+    "meaningEN": "rice; meal",
+    "meaningMM": "ထမင်း; အစားအစာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaningEN": "sweets; candy",
+    "meaningMM": "သကြားလုံး; အချိုပွဲ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "作るところ",
+    "reading": "つくるところ",
+    "meaningEN": "place where something is made",
+    "meaningMM": "တစ်ခုခုပြုလုပ်သည့်နေရာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meaningEN": "book",
+    "meaningMM": "စာအုပ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaningEN": "magazine",
+    "meaningMM": "မဂ္ဂဇင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "借ります",
+    "reading": "かります",
+    "meaningEN": "borrow",
+    "meaningMM": "ချေးသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "髪",
+    "reading": "かみ",
+    "meaningEN": "hair",
+    "meaningMM": "ဆံပင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "meaningEN": "body",
+    "meaningMM": "ခန္ဓာကိုယ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaningEN": "wash",
+    "meaningMM": "ဆေးကြောသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "はがき",
+    "reading": "はがき",
+    "meaningEN": "postcard",
+    "meaningMM": "စာပို့ကတ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "切手",
+    "reading": "きって",
+    "meaningEN": "postage stamp",
+    "meaningMM": "တံဆိပ်ခေါင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "買います",
+    "reading": "かいます",
+    "meaningEN": "buy",
+    "meaningMM": "ဝယ်သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "毎晩",
+    "reading": "まいばん",
+    "meaningEN": "every night",
+    "meaningMM": "ညတိုင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "テレビ",
+    "reading": "テレビ",
+    "meaningEN": "television",
+    "meaningMM": "ရုပ်မြင်သံကြား",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "ニュース",
+    "reading": "ニュース",
+    "meaningEN": "news",
+    "meaningMM": "သတင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "見ます",
+    "reading": "みます",
+    "meaningEN": "see; watch",
+    "meaningMM": "ကြည့်သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaningEN": "every day",
+    "meaningMM": "နေ့တိုင်း",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaningEN": "evening",
+    "meaningMM": "ညနေ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "meaningEN": "younger brother",
+    "meaningMM": "ညီလေး",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "レストラン",
+    "reading": "レストラン",
+    "meaningEN": "restaurant",
+    "meaningMM": "စားသောက်ဆိုင်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "働いています",
+    "reading": "はたらいています",
+    "meaningEN": "working",
+    "meaningMM": "အလုပ်လုပ်နေသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "休みます",
+    "reading": "やすみます",
+    "meaningEN": "rest",
+    "meaningMM": "အနားယူသည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaningEN": "meal",
+    "meaningMM": "အစားအစာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaningEN": "work",
+    "meaningMM": "အလုပ်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaningEN": "quiet",
+    "meaningMM": "တိတ်ဆိတ်သော",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "うるさい",
+    "reading": "うるさい",
+    "meaningEN": "noisy",
+    "meaningMM": "ဆူညံသော",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaningEN": "class; lesson",
+    "meaningMM": "အတန်း; သင်ခန်းစာ",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaningEN": "difficult",
+    "meaningMM": "ခက်ခဲသော",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "習いました",
+    "reading": "ならいました",
+    "meaningEN": "learned",
+    "meaningMM": "သင်ယူခဲ့သည်",
+    "level": "N5",
+    "date": "2013/7"
+  },
+  {
+    "word": "勉強しました",
+    "reading": "べんきょうしました",
+    "meaningEN": "studied",
+    "meaningMM": "လေ့လာခဲ့သည်",
+    "level": "N5",
+    "date": "2013/7"
+  }
+]

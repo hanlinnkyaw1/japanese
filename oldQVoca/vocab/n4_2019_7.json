@@ -1,0 +1,410 @@
+[
+  {
+    "word": "通っています",
+    "reading": "かよっています",
+    "meaningEN": "commute",
+    "meaningMM": "သွားလာသည်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "医学",
+    "reading": "いがく",
+    "meaningEN": "medical science",
+    "meaningMM": "ဆေးပညာ",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "送ります",
+    "reading": "おくります",
+    "meaningEN": "send",
+    "meaningMM": "ပို့သည်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaningEN": "music",
+    "meaningMM": "ဂီတ",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "レシート",
+    "reading": "れしーと",
+    "meaningEN": "receipt",
+    "meaningMM": "ပြေစာ",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "遠慮",
+    "reading": "えんりょ",
+    "meaningEN": "hesitation; restraint",
+    "meaningMM": "ရှောင်ကြဉ်ခြင်း",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "残っています",
+    "reading": "のこっています",
+    "meaningEN": "remain; left over",
+    "meaningMM": "ကျန်ရှိနေသည်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "調べてください",
+    "reading": "しらべてください",
+    "meaningEN": "please check",
+    "meaningMM": "စစ်ဆေးပေးပါ",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "見物",
+    "reading": "けんぶつ",
+    "meaningEN": "sightseeing",
+    "meaningMM": "လှည့်လည်ကြည့်ရှုခြင်း",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaningEN": "address",
+    "meaningMM": "လိပ်စာ",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "引っ越し",
+    "reading": "ひっこし",
+    "meaningEN": "moving (house)",
+    "meaningMM": "အိမ်ပြောင်းခြင်း",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaningEN": "convenient",
+    "meaningMM": "အဆင်ပြေသော",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "meaningEN": "scenery",
+    "meaningMM": "မြင်ကွင်း",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "送ります",
+    "reading": "おくります",
+    "meaningEN": "send",
+    "meaningMM": "ပို့သည်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "コーヒー",
+    "reading": "こーひー",
+    "meaningEN": "coffee",
+    "meaningMM": "ကော်ဖီ",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "頼む",
+    "reading": "たのむ",
+    "meaningEN": "request; order",
+    "meaningMM": "တောင်းဆိုသည်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaningEN": "custom; habit",
+    "meaningMM": "အလေ့အထ",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "近所",
+    "reading": "きんじょ",
+    "meaningEN": "neighborhood",
+    "meaningMM": "အနီးအနား",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "品物",
+    "reading": "しなもの",
+    "meaningEN": "item; goods",
+    "meaningMM": "ပစ္စည်း",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "留守",
+    "reading": "るす",
+    "meaningEN": "absence",
+    "meaningMM": "အိမ်မရှိခြင်း",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaningEN": "entrance",
+    "meaningMM": "အိမ်တံခါး",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "燃えるごみ",
+    "reading": "もえるごみ",
+    "meaningEN": "burnable trash",
+    "meaningMM": "လောင်ကျွမ်းနိုင်သောအမှိုက်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "燃えないごみ",
+    "reading": "もえないごみ",
+    "meaningEN": "non-burnable trash",
+    "meaningMM": "လောင်ကျွမ်းမှုမရှိသောအမှိုက်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "瓶",
+    "reading": "びん",
+    "meaningEN": "bottle",
+    "meaningMM": "ပုလင်း",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "缶",
+    "reading": "かん",
+    "meaningEN": "can",
+    "meaningMM": "ဘူး",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "大きいごみ",
+    "reading": "おおきいごみ",
+    "meaningEN": "large trash",
+    "meaningMM": "အကြီးစားအမှိုက်",
+    "level": "N4",
+    "date": "2019/12"
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaningEN": "to line up; to stand in line",
+    "meaningMM": "တန်းစီသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "飾る",
+    "reading": "かざる",
+    "meaningEN": "to decorate",
+    "meaningMM": "အလှဆင်သည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "決まる",
+    "reading": "きまる",
+    "meaningEN": "to be decided",
+    "meaningMM": "ဆုံးဖြတ်ခံရသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "優しい",
+    "reading": "やさしい",
+    "meaningEN": "gentle; kind",
+    "meaningMM": "သက်သေတယ်; ကြင်နာတယ်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "怖い",
+    "reading": "こわい",
+    "meaningEN": "scary; frightening",
+    "meaningMM": "ကြောက်ဖို့ကောင်းသော",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "乾く",
+    "reading": "かわく",
+    "meaningEN": "to dry",
+    "meaningMM": "ခြောက်သည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "光る",
+    "reading": "ひかる",
+    "meaningEN": "to shine",
+    "meaningMM": "တောက်ပသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "見つける",
+    "reading": "みつける",
+    "meaningEN": "to find",
+    "meaningMM": "တွေ့သည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "動く",
+    "reading": "うごく",
+    "meaningEN": "to move",
+    "meaningMM": "ရွှေ့လျားသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "渡す",
+    "reading": "わたす",
+    "meaningEN": "to hand over; to pass",
+    "meaningMM": "ပေးအပ်သည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "届ける",
+    "reading": "とどける",
+    "meaningEN": "to deliver; to send",
+    "meaningMM": "ပို့သည်; လွှဲသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "開く",
+    "reading": "ひらく",
+    "meaningEN": "to open",
+    "meaningMM": "ဖွင့်သည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "眠る",
+    "reading": "ねむる",
+    "meaningEN": "to sleep",
+    "meaningMM": "အိပ်သည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "通る",
+    "reading": "とおる",
+    "meaningEN": "to pass (by); to go through",
+    "meaningMM": "ဖြတ်သွားသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "育てる",
+    "reading": "そだてる",
+    "meaningEN": "to raise; to bring up",
+    "meaningMM": "ပြုစုထိန်းသိမ်းသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaningEN": "to be born",
+    "meaningMM": "မွေးဖွားသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "倒れる",
+    "reading": "たおれる",
+    "meaningEN": "to fall over; to collapse",
+    "meaningMM": "ပြိုကျသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "割れる",
+    "reading": "われる",
+    "meaningEN": "to break; to crack",
+    "meaningMM": "ကွဲသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "折れる",
+    "reading": "おれる",
+    "meaningEN": "to break; to be folded",
+    "meaningMM": "ကွဲသည်; ချိုးသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "焼ける",
+    "reading": "やける",
+    "meaningEN": "to be burned; to be roasted",
+    "meaningMM": "လောင်ကျွမ်းသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "集まる",
+    "reading": "あつまる",
+    "meaningEN": "to gather",
+    "meaningMM": "စုဝေးသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "続ける",
+    "reading": "つづける",
+    "meaningEN": "to continue",
+    "meaningMM": "ဆက်လက်လုပ်ဆောင်သည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaningEN": "to get up; to occur",
+    "meaningMM": "ထလာသည်; ဖြစ်ပွားသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "触る",
+    "reading": "さわる",
+    "meaningEN": "to touch",
+    "meaningMM": "ထိသည်",
+    "level": "N4",
+    "date": "2019/7"
+  },
+  {
+    "word": "止める",
+    "reading": "とめる",
+    "meaningEN": "to stop",
+    "meaningMM": "ရပ်သည်",
+    "level": "N4",
+    "date": "2019/7"
+  }
+]

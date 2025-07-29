@@ -1,0 +1,778 @@
+[
+  {
+    "word": "腐敗",
+    "reading": "ふはい",
+    "meaningEN": "decay; corruption",
+    "meaningMM": "ပုပ်သိုးခြင်း; ပျက်စီးခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "防止する",
+    "reading": "ぼうしする",
+    "meaningEN": "to prevent",
+    "meaningMM": "တားဆီးကာကွယ်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "粗い",
+    "reading": "あらい",
+    "meaningEN": "coarse; rough",
+    "meaningMM": "ကြမ်းတမ်းသော; အချိုးမကျသော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "粘膜",
+    "reading": "ねんまく",
+    "meaningEN": "mucous membrane",
+    "meaningMM": "အချွဲမြှေး",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "保護する",
+    "reading": "ほごする",
+    "meaningEN": "to protect",
+    "meaningMM": "ကာကွယ်စောင့်ရှောက်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "寿命",
+    "reading": "じゅみょう",
+    "meaningEN": "life span",
+    "meaningMM": "သက်တမ်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "延びた",
+    "reading": "のびた",
+    "meaningEN": "extended; stretched",
+    "meaningMM": "ရှည်ထွက်လာသည်; ဆန့်ထွက်လာသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "戒める",
+    "reading": "いましめる",
+    "meaningEN": "to warn; to admonish",
+    "meaningMM": "သတိပေးသည်; ဆုံးမသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "誓約書",
+    "reading": "せいやくしょ",
+    "meaningEN": "pledge; written oath",
+    "meaningMM": "ကတိခံဝန်ချက်; ကျိန်စာ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "署名する",
+    "reading": "しょめいする",
+    "meaningEN": "to sign",
+    "meaningMM": "လက်မှတ်ထိုးသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "緊張した",
+    "reading": "きんちょうした",
+    "meaningEN": "nervous; tense",
+    "meaningMM": "စိတ်လှုပ်ရှားသည်; တင်းမာသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "遺跡",
+    "reading": "いせき",
+    "meaningEN": "remains; ruins",
+    "meaningMM": "အပျက်အစီးများ; ရှေးဟောင်းပစ္စည်းများ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "根底",
+    "reading": "こんてい",
+    "meaningEN": "root; basis",
+    "meaningMM": "အမြစ်; အခြေခံ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "覆す",
+    "reading": "くつがえす",
+    "meaningEN": "to overturn; to overthrow",
+    "meaningMM": "မှောက်လှန်သည်; ဖြိုချသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "返上",
+    "reading": "へんじょう",
+    "meaningEN": "giving back; returning",
+    "meaningMM": "ပြန်ပေးခြင်း; ပြန်လည်အပ်နှံခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "取り次いで",
+    "reading": "とりついで",
+    "meaningEN": "to convey (a message); to act as an agent",
+    "meaningMM": "သတင်းပို့သည်; ကြားခံဆောင်ရွက်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "交錯",
+    "reading": "こうさく",
+    "meaningEN": "mingling; crossing",
+    "meaningMM": "ရောယှက်ခြင်း; ဖြတ်သန်းခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "難航",
+    "reading": "なんこう",
+    "meaningEN": "difficulty; rough going",
+    "meaningMM": "အခက်အခဲ; ခက်ခဲကြမ်းတမ်းသောခရီး",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "がやがや",
+    "reading": "がやがや",
+    "meaningEN": "noisily; boisterously",
+    "meaningMM": "ဆူညံစွာ; ဝုန်းဒိုင်းကြဲ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "足手まとい",
+    "reading": "あしてまとい",
+    "meaningEN": "hindrance; burden",
+    "meaningMM": "အနှောင့်အယှက်; ဝန်ထုပ်ဝန်ပိုး",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "委託",
+    "reading": "いたく",
+    "meaningEN": "entrust; commit",
+    "meaningMM": "အပ်နှံသည်; လွှဲအပ်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "清々しい",
+    "reading": "すがすがしい",
+    "meaningEN": "refreshing; bracing",
+    "meaningMM": "လန်းဆန်းသော; ကြည်လင်သော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "工面する",
+    "reading": "くめんする",
+    "meaningEN": "to raise money; to manage (to get)",
+    "meaningMM": "ငွေရှာသည်; စီမံသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "ぞんざいな",
+    "reading": "ぞんざいな",
+    "meaningEN": "rude; rough; careless",
+    "meaningMM": "ရိုင်းစိုင်းသော; ကြမ်းတမ်းသော; ပေါ့ဆသော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "うなだれて",
+    "reading": "うなだれて",
+    "meaningEN": "to hang one's head; to droop",
+    "meaningMM": "ခေါင်းငုံ့သည်; ညှိုးငယ်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "打撃",
+    "reading": "だげき",
+    "meaningEN": "blow; shock; damage",
+    "meaningMM": "ရိုက်နှက်မှု; ထိတ်လန့်မှု; ထိခိုက်မှု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "風潮",
+    "reading": "ふうちょう",
+    "meaningEN": "trend; tendency",
+    "meaningMM": "လမ်းကြောင်း; လမ်းညွှန်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "もたらす",
+    "reading": "もたらす",
+    "meaningEN": "to bring about; to cause",
+    "meaningMM": "ဖြစ်ပေါ်စေသည်; ဖြစ်စေသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "撤回",
+    "reading": "てっかい",
+    "meaningEN": "withdrawal; retraction",
+    "meaningMM": "နုတ်ထွက်ခြင်း; ပြန်လည်ရုပ်သိမ်းခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "補填",
+    "reading": "ほてん",
+    "meaningEN": "compensation; replenishment",
+    "meaningMM": "လျော်ကြေး; ပြန်လည်ဖြည့်တင်းခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "コンスタント",
+    "reading": "コンスタント",
+    "meaningEN": "constant; steady",
+    "meaningMM": "တည်မြဲသော; မှန်မှန်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "ずばり",
+    "reading": "ずばり",
+    "meaningEN": "frankly; precisely",
+    "meaningMM": "ပွင့်ပွင့်လင်းလင်း; တိတိကျကျ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "処分する",
+    "reading": "しょぶんする",
+    "meaningEN": "to dispose of; to punish",
+    "meaningMM": "ဖယ်ရှားသည်; အပြစ်ပေးသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "僅か",
+    "reading": "わずか",
+    "meaningEN": "only a little; few",
+    "meaningMM": "အနည်းငယ်သာ; နည်းပါးသော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "市長",
+    "reading": "しちょう",
+    "meaningEN": "mayor",
+    "meaningMM": "မြို့တော်ဝန်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "遺憾",
+    "reading": "いかん",
+    "meaningEN": "regrettable; regrettable; unfortunate",
+    "meaningMM": "ဝမ်းနည်းဖွယ်; စိတ်မကောင်းဖွယ်; ကံမကောင်းစွာ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "散々な",
+    "reading": "さんざんな",
+    "meaningEN": "terrible; disastrous",
+    "meaningMM": "ဆိုးရွားသော; ဘေးဆိုးကျရောက်သော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "しまいには",
+    "reading": "しまいには",
+    "meaningEN": "in the end; finally",
+    "meaningMM": "နောက်ဆုံးတွင်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "ずぶぬれになる",
+    "reading": "ずぶぬれになる",
+    "meaningEN": "to get soaking wet",
+    "meaningMM": "လုံးဝစိုစွတ်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "予選敗退",
+    "reading": "よせんはいたい",
+    "meaningEN": "elimination in the preliminary round",
+    "meaningMM": "အကြိုအဆင့်တွင် ထွက်သွားခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "単に",
+    "reading": "たんに",
+    "meaningEN": "simply; merely",
+    "meaningMM": "ရိုးရိုး; သက်သက်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "故障",
+    "reading": "こしょう",
+    "meaningEN": "breakdown; failure",
+    "meaningMM": "ပျက်စီးခြင်း; ချွတ်ယွင်းမှု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "低気圧",
+    "reading": "ていきあつ",
+    "meaningEN": "low pressure",
+    "meaningMM": "ဖိအားနည်းရပ်ဝန်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "発達",
+    "reading": "はったつ",
+    "meaningEN": "development; growth",
+    "meaningMM": "ဖွံ့ဖြိုးတိုးတက်မှု; ကြီးထွားမှု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "に伴い",
+    "reading": "にともない",
+    "meaningEN": "as; with; along with",
+    "meaningMM": "နှင့်အတူ; နှင့်အညီ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "強まる",
+    "reading": "つよまる",
+    "meaningEN": "to get stronger; to intensify",
+    "meaningMM": "အားကောင်းလာသည်; ပြင်းထန်လာသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "見込み",
+    "reading": "みこみ",
+    "meaningEN": "prospect; estimate",
+    "meaningMM": "မျှော်မှန်းချက်; ခန့်မှန်းချက်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "知りたがる",
+    "reading": "しりたがる",
+    "meaningEN": "to want to know",
+    "meaningMM": "သိချင်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "面倒くさがらずに",
+    "reading": "めんどうくさがらずに",
+    "meaningEN": "without bothering; willingly",
+    "meaningMM": "စိတ်မပျက်ဘဲ; ဆန္ဒအလျောက်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "引けなくってしまった",
+    "reading": "ひけなくってしまった",
+    "meaningEN": "couldn't play (due to nervousness)",
+    "meaningMM": "မကစားနိုင်တော့ပါ (စိတ်လှုပ်ရှားမှုကြောင့်)",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "大勢いの前で",
+    "reading": "おおぜいのまえで",
+    "meaningEN": "in front of many people",
+    "meaningMM": "လူအများရှေ့တွင်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "無理はない",
+    "reading": "むりはない",
+    "meaningEN": "no wonder; it's understandable",
+    "meaningMM": "အံ့ဩစရာမရှိပါ; နားလည်နိုင်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "産卵",
+    "reading": "さんらん",
+    "meaningEN": "egg-laying",
+    "meaningMM": "ဥဥခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "控えた",
+    "reading": "ひかえた",
+    "meaningEN": "approaching; scheduled",
+    "meaningMM": "ချဉ်းကပ်လာသော; စီစဉ်ထားသော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "踏まえ",
+    "reading": "ふまえ",
+    "meaningEN": "based on; taking into account",
+    "meaningMM": "အပေါ်မူတည်၍; ထည့်သွင်းစဉ်းစား၍",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "人工知能",
+    "reading": "じんこうちのう",
+    "meaningEN": "artificial intelligence",
+    "meaningMM": "ဉာဏ်ရည်တု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "先端技術",
+    "reading": "せんたんぎじゅつ",
+    "meaningEN": "advanced technology",
+    "meaningMM": "အဆင့်မြင့်နည်းပညာ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "確保",
+    "reading": "かくほ",
+    "meaningEN": "secure; guarantee",
+    "meaningMM": "လုံခြုံသည်; အာမခံသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "導入",
+    "reading": "どうにゅう",
+    "meaningEN": "introduction; installation",
+    "meaningMM": "မိတ်ဆက်ခြင်း; တပ်ဆင်ခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "活性化",
+    "reading": "かっせいか",
+    "meaningEN": "activation; revitalization",
+    "meaningMM": "လှုပ်ရှားစေခြင်း; ပြန်လည်အသက်ဝင်စေခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "感情",
+    "reading": "かんじょう",
+    "meaningEN": "emotion; feeling",
+    "meaningMM": "စိတ်ခံစားမှု; ခံစားချက်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "実感",
+    "reading": "じっかん",
+    "meaningEN": "real feeling; actual sensation",
+    "meaningMM": "လက်တွေ့ခံစားမှု; အမှန်တကယ်ခံစားမှု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "価値判断",
+    "reading": "かちはんだん",
+    "meaningEN": "value judgment",
+    "meaningMM": "တန်ဖိုးဆုံးဖြတ်ချက်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "論理的に",
+    "reading": "ろんりてきに",
+    "meaningEN": "logically",
+    "meaningMM": "ယုတ္တိရှိရှိ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "証明",
+    "reading": "しょうめい",
+    "meaningEN": "proof; certification",
+    "meaningMM": "အထောက်အထား; အသိအမှတ်ပြုခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "依存",
+    "reading": "いそん",
+    "meaningEN": "dependence; reliance",
+    "meaningMM": "မှီခိုခြင်း; အားကိုးခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "ヒロイン",
+    "reading": "ヒロイン",
+    "meaningEN": "heroine",
+    "meaningMM": "ဇာတ်ဆောင်မင်းသမီး",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "自ら",
+    "reading": "みずから",
+    "meaningEN": "oneself",
+    "meaningMM": "မိမိကိုယ်တိုင်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "決断",
+    "reading": "けつだん",
+    "meaningEN": "decision; determination",
+    "meaningMM": "ဆုံးဖြတ်ချက်; သန္နိဋ္ဌာန်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "生存",
+    "reading": "せいぞん",
+    "meaningEN": "existence; survival",
+    "meaningMM": "တည်ရှိမှု; ရှင်သန်မှု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "本質的な",
+    "reading": "ほんしつてきな",
+    "meaningEN": "essential; fundamental",
+    "meaningMM": "မရှိမဖြစ်သော; အခြေခံကျသော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "個体",
+    "reading": "こたい",
+    "meaningEN": "individual",
+    "meaningMM": "တစ်ဦးချင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "生き残れる",
+    "reading": "いきのこれる",
+    "meaningEN": "to be able to survive",
+    "meaningMM": "ရှင်သန်နိုင်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "突然変異",
+    "reading": "とつぜんへんい",
+    "meaningEN": "mutation",
+    "meaningMM": "မျိုးပြောင်းလဲမှု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaningEN": "environment",
+    "meaningMM": "ပတ်ဝန်းကျင်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "圧力",
+    "reading": "あつりょく",
+    "meaningEN": "pressure",
+    "meaningMM": "ဖိအား",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "多様性",
+    "reading": "たようせい",
+    "meaningEN": "diversity",
+    "meaningMM": "မျိုးစုံခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "拡大",
+    "reading": "かくだい",
+    "meaningEN": "expansion; enlargement",
+    "meaningMM": "ချဲ့ထွင်ခြင်း; တိုးချဲ့ခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "縮小",
+    "reading": "しゅくしょう",
+    "meaningEN": "reduction; curtailment",
+    "meaningMM": "လျှော့ချခြင်း; ဖြတ်တောက်ခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "役割",
+    "reading": "やくわり",
+    "meaningEN": "role; part",
+    "meaningMM": "အခန်းကဏ္ဍ; အစိတ်အပိုင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "不正",
+    "reading": "ふせい",
+    "meaningEN": "injustice; wrongdoing",
+    "meaningMM": "မတရားမှု; အမှား",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "正義",
+    "reading": "せいぎ",
+    "meaningEN": "justice; righteousness",
+    "meaningMM": "တရားမျှတမှု; ဖြောင့်မတ်မှု",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "思い込んでしまう",
+    "reading": "おもいこんでしまう",
+    "meaningEN": "to be convinced; to be under the impression",
+    "meaningMM": "ယုံကြည်သွားသည်; ထင်မှတ်သွားသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "客観視",
+    "reading": "きゃっかんし",
+    "meaningEN": "objective view",
+    "meaningMM": "ဘက်မလိုက်သော အမြင်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "批判",
+    "reading": "ひはん",
+    "meaningEN": "criticism; judgment",
+    "meaningMM": "ဝေဖန်မှု; ဆုံးဖြတ်ချက်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "著者の主張",
+    "reading": "ちょしゃのしゅちょう",
+    "meaningEN": "author's assertion",
+    "meaningMM": "စာရေးသူ၏ အဆို",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "正確に",
+    "reading": "せいかくに",
+    "meaningEN": "accurately; precisely",
+    "meaningMM": "တိကျစွာ; အတိအကျ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "徹底的に",
+    "reading": "てっていてきに",
+    "meaningEN": "thoroughly; completely",
+    "meaningMM": "စေ့စပ်သေချာစွာ; လုံးဝ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "結びつかない",
+    "reading": "むすびつかない",
+    "meaningEN": "not connected; not leading to",
+    "meaningMM": "ဆက်စပ်မှုမရှိသော; ဦးတည်ခြင်းမရှိသော",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "諦めた",
+    "reading": "あきらめた",
+    "meaningEN": "gave up; resigned",
+    "meaningMM": "လက်လျှော့လိုက်သည်; အရှုံးပေးလိုက်သည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "後悔",
+    "reading": "こうかい",
+    "meaningEN": "regret; repentance",
+    "meaningMM": "နောင်တ; နောင်တရခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "社会的規範",
+    "reading": "しゃかいてききはん",
+    "meaningEN": "social norms",
+    "meaningMM": "လူမှုရေးစံနှုန်းများ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "適応",
+    "reading": "てきおう",
+    "meaningEN": "adaptation; conformity",
+    "meaningMM": "လိုက်လျောညီထွေဖြစ်အောင်ပြုလုပ်ခြင်း; လိုက်နာခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "文学部図書館",
+    "reading": "ぶんがくぶとしょかん",
+    "meaningEN": "Faculty of Letters Library",
+    "meaningMM": "စာပေဌာနစာကြည့်တိုက်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "申請する",
+    "reading": "しんせいする",
+    "meaningEN": "to apply",
+    "meaningMM": "လျှောက်ထားသည်",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "貸出",
+    "reading": "かしだし",
+    "meaningEN": "lending; loan",
+    "meaningMM": "ငှားရမ်းခြင်း; ချေးငွေ",
+    "level": "N1",
+    "date": "2024/7"
+  },
+  {
+    "word": "複写",
+    "reading": "ふくしゃ",
+    "meaningEN": "copy; duplication",
+    "meaningMM": "မိတ္တူ; ပုံတူကူးခြင်း",
+    "level": "N1",
+    "date": "2024/7"
+  }
+]

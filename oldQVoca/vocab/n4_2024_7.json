@@ -1,0 +1,634 @@
+[
+  {
+    "word": "待って",
+    "reading": "まって",
+    "meaningEN": "wait",
+    "meaningMM": "စောင့်ပါ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaningEN": "medicine",
+    "meaningMM": "ဆေး",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "早い",
+    "reading": "はやい",
+    "meaningEN": "early; fast",
+    "meaningMM": "စောသော; မြန်သော",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "meaningEN": "sea; ocean",
+    "meaningMM": "ပင်လယ်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "一度",
+    "reading": "いちど",
+    "meaningEN": "once",
+    "meaningMM": "တစ်ကြိမ်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "教えて",
+    "reading": "おしえて",
+    "meaningEN": "tell; teach",
+    "meaningMM": "ပြောပြပါ; သင်ပြပါ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "天気予報",
+    "reading": "てんきよほう",
+    "meaningEN": "weather forecast",
+    "meaningMM": "မိုးလေဝသခန့်မှန်းချက်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "meaningEN": "hot (weather)",
+    "meaningMM": "ပူသော (ရာသီဥတု)",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "動かなく",
+    "reading": "うごかなく",
+    "meaningEN": "not moving",
+    "meaningMM": "မရွေ့လျားတော့",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "以下",
+    "reading": "いか",
+    "meaningEN": "below; less than",
+    "meaningMM": "အောက်; ထက်နည်းသော",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "音",
+    "reading": "おと",
+    "meaningEN": "sound",
+    "meaningMM": "အသံ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "交通",
+    "reading": "こうつう",
+    "meaningEN": "traffic",
+    "meaningMM": "သွားလာရေး",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "探した",
+    "reading": "さがした",
+    "meaningEN": "searched for",
+    "meaningMM": "ရှာဖွေခဲ့သည်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "meaningEN": "strict",
+    "meaningMM": "တင်းကျပ်သော",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "必要",
+    "reading": "ひつよう",
+    "meaningEN": "necessary",
+    "meaningMM": "လိုအပ်သော",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "人気",
+    "reading": "にんき",
+    "meaningEN": "popularity",
+    "meaningMM": "လူကြိုက်များမှု",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "折って",
+    "reading": "おって",
+    "meaningEN": "fold",
+    "meaningMM": "ခေါက်ပါ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "種類",
+    "reading": "しゅるい",
+    "meaningEN": "type; kind",
+    "meaningMM": "အမျိုးအစား",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "足りなくて",
+    "reading": "たりなくて",
+    "meaningEN": "not enough",
+    "meaningMM": "မလုံလောက်၍",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "注意",
+    "reading": "ちゅうい",
+    "meaningEN": "caution; warning",
+    "meaningMM": "သတိပေးခြင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "盗まれた",
+    "reading": "ぬすまれた",
+    "meaningEN": "stolen",
+    "meaningMM": "ခိုးယူခံရသည်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "女性",
+    "reading": "じょせい",
+    "meaningEN": "woman",
+    "meaningMM": "အမျိုးသမီး",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "話をする",
+    "reading": "はなしをする",
+    "meaningEN": "to talk",
+    "meaningMM": "စကားပြောသည်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "生産",
+    "reading": "せいさん",
+    "meaningEN": "production",
+    "meaningMM": "ထုတ်လုပ်မှု",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "人口",
+    "reading": "じんこう",
+    "meaningEN": "population",
+    "meaningMM": "လူဦးရေ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "混む",
+    "reading": "こむ",
+    "meaningEN": "to be crowded",
+    "meaningMM": "ကျပ်သည်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "逃げる",
+    "reading": "にげる",
+    "meaningEN": "to escape; to run away",
+    "meaningMM": "ထွက်ပြေးသည်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "不便",
+    "reading": "ふべん",
+    "meaningEN": "inconvenient",
+    "meaningMM": "အဆင်မပြေသော",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "腕",
+    "reading": "うで",
+    "meaningEN": "arm",
+    "meaningMM": "လက်မောင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaningEN": "convenient",
+    "meaningMM": "အဆင်ပြေသော",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "以上",
+    "reading": "いじょう",
+    "meaningEN": "more than",
+    "meaningMM": "အထက်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "大体",
+    "reading": "だいたい",
+    "meaningEN": "about; approximately",
+    "meaningMM": "ခန့်မှန်းခြေ; အကြမ်းဖျင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "息子",
+    "reading": "むすこ",
+    "meaningEN": "son",
+    "meaningMM": "သား",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "途中",
+    "reading": "とちゅう",
+    "meaningEN": "on the way; in the middle of",
+    "meaningMM": "လမ်းတွင်; အလယ်တွင်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "留学",
+    "reading": "りゅうがく",
+    "meaningEN": "study abroad",
+    "meaningMM": "နိုင်ငံခြားတွင် ပညာသင်ယူခြင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaningEN": "composition; essay",
+    "meaningMM": "စာစီစာကုံး",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "美術館",
+    "reading": "びじゅつかん",
+    "meaningEN": "art museum",
+    "meaningMM": "ပန်းချီပြတိုက်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaningEN": "building",
+    "meaningMM": "အဆောက်အဦး",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaningEN": "time",
+    "meaningMM": "အချိန်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "絵",
+    "reading": "え",
+    "meaningEN": "picture; painting",
+    "meaningMM": "ပုံ; ပန်းချီ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaningEN": "cafe; coffee shop",
+    "meaningMM": "ကော်ဖီဆိုင်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "meaningEN": "window",
+    "meaningMM": "ပြတင်းပေါက်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaningEN": "garden",
+    "meaningMM": "ဥယျာဉ်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "meaningEN": "fee; charge",
+    "meaningMM": "အခကြေးငွေ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "会議室",
+    "reading": "かいぎしつ",
+    "meaningEN": "conference room",
+    "meaningMM": "အစည်းအဝေးခန်းမ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaningEN": "reservation",
+    "meaningMM": "ကြိုတင်မှာကြားခြင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaningEN": "newspaper",
+    "meaningMM": "သတင်းစာ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "店員",
+    "reading": "てんいん",
+    "meaningEN": "store clerk",
+    "meaningMM": "ဆိုင်ဝန်ထမ်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaningEN": "class; lesson",
+    "meaningMM": "အတန်း; သင်ခန်းစာ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaningEN": "friend",
+    "meaningMM": "သူငယ်ချင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meaningEN": "airplane",
+    "meaningMM": "လေယာဉ်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaningEN": "train",
+    "meaningMM": "ရထား",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "meaningEN": "scenery",
+    "meaningMM": "ရှုခင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "会話",
+    "reading": "かいわ",
+    "meaningEN": "conversation",
+    "meaningMM": "စကားပြောဆိုမှု",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaningEN": "walk; stroll",
+    "meaningMM": "လမ်းလျှောက်ခြင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "運転手",
+    "reading": "うんてんしゅ",
+    "meaningEN": "driver",
+    "meaningMM": "ယာဉ်မောင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaningEN": "question",
+    "meaningMM": "မေးခွန်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "娘",
+    "reading": "むすめ",
+    "meaningEN": "daughter",
+    "meaningMM": "သမီး",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaningEN": "cuisine; dish",
+    "meaningMM": "ဟင်းပွဲ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaningEN": "shop; restaurant",
+    "meaningMM": "ဆိုင်; စားသောက်ဆိုင်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "meaningEN": "adult",
+    "meaningMM": "လူကြီး",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "中学生",
+    "reading": "ちゅうがくせい",
+    "meaningEN": "junior high school student",
+    "meaningMM": "အထက်တန်းကျောင်းသား (အလယ်တန်း)",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "高校生",
+    "reading": "こうこうせい",
+    "meaningEN": "high school student",
+    "meaningMM": "အထက်တန်းကျောင်းသား",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "小学生",
+    "reading": "しょうがくせい",
+    "meaningEN": "elementary school student",
+    "meaningMM": "မူလတန်းကျောင်းသား",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "エプロン",
+    "reading": "エプロン",
+    "meaningEN": "apron",
+    "meaningMM": "ဝတ်စုံ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "必要です",
+    "reading": "ひつようです",
+    "meaningEN": "is necessary",
+    "meaningMM": "လိုအပ်သည်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaningEN": "drink",
+    "meaningMM": "သောက်စရာ",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "サラダ",
+    "reading": "サラダ",
+    "meaningEN": "salad",
+    "meaningMM": "သုပ်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "アイスクリーム",
+    "reading": "アイスクリーム",
+    "meaningEN": "ice cream",
+    "meaningMM": "ရေခဲမုန့်",
+    "level": "N4",
+    "date": "2024/7"
+  },
+    {
+    "word": "まいあさ",
+    "reading": "毎朝",
+    "meaningEN": "every morning",
+    "meaningMM": "နံနက်တိုင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "しんぶん",
+    "reading": "新聞",
+    "meaningEN": "newspaper",
+    "meaningMM": "သတင်းစာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "よみます",
+    "reading": "読みます",
+    "meaningEN": "read",
+    "meaningMM": "ဖတ်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きのう",
+    "reading": "昨日",
+    "meaningEN": "yesterday",
+    "meaningMM": "မနေ့က",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "すくなかった",
+    "reading": "少なかった",
+    "meaningEN": "was few",
+    "meaningMM": "နည်းခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おわりました",
+    "reading": "終わりました",
+    "meaningEN": "finished",
+    "meaningMM": "ပြီးစီးခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ロボット",
+    "reading": "ロボット",
+    "meaningEN": "robot",
+    "meaningMM": "စက်ရုပ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaningEN": "reservation",
+    "meaningMM": "ကြိုတင်မှာကြားခြင်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaningEN": "telephone",
+    "meaningMM": "တယ်လီဖုန်း",
+    "level": "N4",
+    "date": "2024/7"
+  },
+  {
+    "word": "ホームページ",
+    "reading": "ホームページ",
+    "meaningEN": "homepage",
+    "meaningMM": "ပင်မစာမျက်နှာ",
+    "level": "N4",
+    "date": "2024/7"
+  }
+]

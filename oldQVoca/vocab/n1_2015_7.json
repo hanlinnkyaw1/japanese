@@ -1,0 +1,1874 @@
+[
+  {
+    "word": "添付",
+    "reading": "てんぷ",
+    "meaningEN": "attachment",
+    "meaningMM": "ပူးတွဲပါ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "慕われる",
+    "reading": "したわれる",
+    "meaningEN": "to be adored; to be admired; to be looked up to",
+    "meaningMM": "လေးစားခံရသည်; မြတ်နိုးခံရသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "破損",
+    "reading": "はそん",
+    "meaningEN": "damage; breakage",
+    "meaningMM": "ပျက်စီးခြင်း; ကွဲအက်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "承諾",
+    "reading": "しょうだく",
+    "meaningEN": "consent; acceptance; agreement",
+    "meaningMM": "သဘောတူညီချက်; လက်ခံခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "淡い",
+    "reading": "あわい",
+    "meaningEN": "faint; light; pale; delicate (hope, etc.)",
+    "meaningMM": "မှုန်မှိုင်းသော; အရောင်ဖျော့သော; နူးညံ့သော (မျှော်လင့်ချက် စသည်)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "画一的",
+    "reading": "かくいつてき",
+    "meaningEN": "uniform; standardized",
+    "meaningMM": "တစ်သားတည်းဖြစ်သော; စံပြုထားသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "展開",
+    "reading": "てんかい",
+    "meaningEN": "development; evolution; unfolding",
+    "meaningMM": "ဖွံ့ဖြိုးတိုးတက်မှု; ဆင့်ကဲပြောင်းလဲမှု; ချဲ့ထွင်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "稼働",
+    "reading": "かどう",
+    "meaningEN": "operation; actual work; (machine) operating",
+    "meaningMM": "လည်ပတ်မှု; အမှန်တကယ်လုပ်ငန်း; (စက်) လည်ပတ်နေခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "起動",
+    "reading": "きどう",
+    "meaningEN": "startup; activation (e.g., of a computer program)",
+    "meaningMM": "စတင်ခြင်း; အသက်သွင်းခြင်း (ဥပမာ: ကွန်ပျူတာပရိုဂရမ်)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "運行",
+    "reading": "うんこう",
+    "meaningEN": "operation (e.g., of a train, bus); service",
+    "meaningMM": "ပြေးဆွဲမှု (ဥပမာ: ရထား၊ ဘတ်စ်ကား); ဝန်ဆောင်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "慌ただしい",
+    "reading": "あわただしい",
+    "meaningEN": "busy; hurried; restless",
+    "meaningMM": "အလုပ်များသော; အလျင်လိုသော; မငြိမ်မသက်ဖြစ်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "やかましい",
+    "reading": "やかましい",
+    "meaningEN": "noisy; loud; fault-finding",
+    "meaningMM": "ဆူညံသော; အသံကျယ်သော; အပြစ်ရှာတတ်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "勇ましい",
+    "reading": "いさましい",
+    "meaningEN": "brave; courageous; gallant",
+    "meaningMM": "ရဲရင့်သော; သတ္တိရှိသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "すさまじい",
+    "reading": "すさまじい",
+    "meaningEN": "terrific; tremendous; dreadful; awful",
+    "meaningMM": "အံ့သြဖွယ်ကောင်းသော; ကြီးမားလှသော; ကြောက်မက်ဖွယ်ကောင်းသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "隣接",
+    "reading": "りんせつ",
+    "meaningEN": "adjoining; adjacent; contiguous",
+    "meaningMM": "ကပ်လျက်ရှိသော; နီးစပ်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "直面",
+    "reading": "ちょくめん",
+    "meaningEN": "confrontation; facing (a situation)",
+    "meaningMM": "ရင်ဆိုင်ခြင်း; တိုက်ရိုက်ရင်ဆိုင်ခြင်း (အခြေအနေတစ်ခုအား)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "近接",
+    "reading": "きんせつ",
+    "meaningEN": "proximity; close proximity",
+    "meaningMM": "အနီးကပ်တည်ရှိခြင်း; အလွန်နီးကပ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "対面",
+    "reading": "たいめん",
+    "meaningEN": "face-to-face (meeting); interview",
+    "meaningMM": "မျက်နှာချင်းဆိုင် (တွေ့ဆုံခြင်း); အင်တာဗျူး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "くよくよ",
+    "reading": "くよくよ",
+    "meaningEN": "worrying; fretting; moping",
+    "meaningMM": "ပူပန်ခြင်း; စိတ်ပူပင်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "のろのろ",
+    "reading": "のろのろ",
+    "meaningEN": "slowly; sluggishly",
+    "meaningMM": "နှေးကွေးစွာ; လေးကန်စွာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "ひっそり",
+    "reading": "ひっそり",
+    "meaningEN": "quietly; secretly; deserted",
+    "meaningMM": "တိတ်ဆိတ်စွာ; လျှို့ဝှက်စွာ; လူသူရှင်းလင်းစွာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "ふんわり",
+    "reading": "ふんわり",
+    "meaningEN": "softly; lightly; fluffily",
+    "meaningMM": "နူးညံ့စွာ; ပေါ့ပါးစွာ; ဖောင်းဖောင်းကားကား",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "よほど",
+    "reading": "よほど",
+    "meaningEN": "very; greatly; a good deal; or so; surely (if...)",
+    "meaningMM": "အလွန်; အများကြီး; သေချာပေါက် (ဆိုလျှင်...)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "いっそう",
+    "reading": "いっそう",
+    "meaningEN": "much more; still more; all the more",
+    "meaningMM": "ပို၍များစွာ; ပို၍ပင်; ထို့ကြောင့်ပင်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "しいて",
+    "reading": "しいて",
+    "meaningEN": "by force; by choice (despite difficulties); against one's will",
+    "meaningMM": "အတင်းအကျပ်; ရွေးချယ်၍ (အခက်အခဲများကြားမှ); မလိုလားဘဲ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "いかにも",
+    "reading": "いかにも",
+    "meaningEN": "indeed; truly; as if; quite right",
+    "meaningMM": "စင်စစ်; တကယ်; ပမာ; မှန်လှပါပြီ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "該当",
+    "reading": "がいとう",
+    "meaningEN": "corresponding; applicable; relevant",
+    "meaningMM": "ကိုက်ညီသော; သက်ဆိုင်ရာ; ပတ်သက်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "順応",
+    "reading": "じゅんのう",
+    "meaningEN": "adaptation; adjustment; conformity",
+    "meaningMM": "လိုက်လျောညီထွေဖြစ်အောင်လုပ်ခြင်း; ညှိနှိုင်းခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "相当",
+    "reading": "そうとう",
+    "meaningEN": "suitable; appropriate; equivalent; considerable",
+    "meaningMM": "သင့်လျော်သော; သင့်တော်သော; ညီမျှသော; အတော်အသင့်ရှိသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "適応",
+    "reading": "てきおう",
+    "meaningEN": "adaptation; accommodation",
+    "meaningMM": "လိုက်လျောညီထွေဖြစ်အောင်လုပ်ခြင်း; လိုက်လျောညီထွေဖြစ်အောင်နေခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "馴染んで",
+    "reading": "なじんで",
+    "meaningEN": "to become accustomed to; to get used to; to blend in",
+    "meaningMM": "ရင်းနှီးသွားသည်; အကျင့်ဖြစ်သွားသည်; လိုက်ဖက်ညီသွားသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "絡んで",
+    "reading": "からんで",
+    "meaningEN": "to be involved in; to be entwined; to be associated with",
+    "meaningMM": "ပါဝင်ပတ်သက်သည်; ရှုပ်ထွေးနေသည်; ဆက်စပ်နေသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "収まって",
+    "reading": "おさまって",
+    "meaningEN": "to settle down; to be contained; to subside",
+    "meaningMM": "အခြေချသည်; ထည့်သွင်းထားသည်; ငြိမ်သက်သွားသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "紛れて",
+    "reading": "まぎれて",
+    "meaningEN": "to be mixed in; to be lost among; to get confused in",
+    "meaningMM": "ရောနှောနေသည်; အကြားပျောက်ဆုံးနေသည်; ရှုပ်ထွေးသွားသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "仕上がったら",
+    "reading": "しあがったら",
+    "meaningEN": "when it's finished; when it's completed",
+    "meaningMM": "ပြီးစီးသွားသောအခါ; ပြီးပြည့်စုံသွားသောအခါ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "完成したら",
+    "reading": "かんせいしたら",
+    "meaningEN": "when it's completed; when it's perfected",
+    "meaningMM": "ပြီးစီးသွားသောအခါ; ပြီးပြည့်စုံသွားသောအခါ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "互角",
+    "reading": "ごかく",
+    "meaningEN": "equal; even; on a par with",
+    "meaningMM": "တန်းတူ; မျှတသော; အဆင့်တူသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "大体同じだ",
+    "reading": "だいたいおなじだ",
+    "meaningEN": "mostly the same; almost identical",
+    "meaningMM": "အများအားဖြင့်အတူတူ; အတူတူနီးပါး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "クレーム",
+    "reading": "クレーム",
+    "meaningEN": "claim; complaint",
+    "meaningMM": "တောင်းဆိုမှု; တိုင်ကြားမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "苦情",
+    "reading": "くじょう",
+    "meaningEN": "complaint; grievance",
+    "meaningMM": "တိုင်ကြားမှု; မကျေနပ်ချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "助言",
+    "reading": "じょげん",
+    "meaningEN": "advice; counsel",
+    "meaningMM": "အကြံဉာဏ်; အကြံပေးချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "アドバイス",
+    "reading": "アドバイス",
+    "meaningEN": "advice",
+    "meaningMM": "အကြံဉာဏ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "錯覚",
+    "reading": "さっかく",
+    "meaningEN": "optical illusion; hallucination; misconception",
+    "meaningMM": "အမြင်မှားခြင်း; ထင်ယောင်ထင်မှားဖြစ်ခြင်း; နားလည်မှုလွဲမှားခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "勘違いする",
+    "reading": "かんちがいする",
+    "meaningEN": "to misunderstand; to make a mistake (in one's understanding)",
+    "meaningMM": "နားလည်မှုလွဲမှားသည်; မှားယွင်းစွာနားလည်သည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "殺到",
+    "reading": "さっとう",
+    "meaningEN": "rush; deluge; flood",
+    "meaningMM": "အလုအယက်ရောက်လာခြင်း; ရေကြီးသကဲ့သို့ဝင်လာခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "一度に大勢来た",
+    "reading": "いちどにおおぜいきた",
+    "meaningEN": "many people came at once",
+    "meaningMM": "တစ်ပြိုင်နက်တည်းလူအများအပြားရောက်လာသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "没頭",
+    "reading": "ぼっとう",
+    "meaningEN": "immersion; absorption; devotion (to)",
+    "meaningMM": "နစ်မြုပ်ခြင်း; စွဲလမ်းခြင်း; လုံးလုံးလျားလျားမြှုပ်နှံခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "人手",
+    "reading": "ひとで",
+    "meaningEN": "manpower; hands; help",
+    "meaningMM": "လူအင်အား; အကူအညီ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "今更",
+    "reading": "いまさら",
+    "meaningEN": "now (after all this time); at this late stage",
+    "meaningMM": "ယခု (ဤမျှအချိန်ကြာပြီးနောက်); ဤနောက်ကျမှ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "くまなく",
+    "reading": "くまなく",
+    "meaningEN": "everywhere; thoroughly; without exception",
+    "meaningMM": "နေရာတိုင်း; စေ့စပ်သေချာစွာ; အားလုံးမကျန်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "安静",
+    "reading": "あんせい",
+    "meaningEN": "rest; quiet; repose (especially for medical reasons)",
+    "meaningMM": "အနားယူခြင်း; တိတ်ဆိတ်ခြင်း; ငြိမ်သက်ခြင်း (အထူးသဖြင့် ဆေးဘက်ဆိုင်ရာအတွက်)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "統合",
+    "reading": "とうごう",
+    "meaningEN": "integration; unification; consolidation",
+    "meaningMM": "ပေါင်းစည်းခြင်း; ပေါင်းစည်းမှု; စုပေါင်းခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "趣旨",
+    "reading": "しゅし",
+    "meaningEN": "purpose; aim; gist",
+    "meaningMM": "ရည်ရွယ်ချက်; အနှစ်ချုပ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "格差",
+    "reading": "かくさ",
+    "meaningEN": "gap; disparity",
+    "meaningMM": "ကွာဟချက်; မညီမျှမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "貧困",
+    "reading": "ひんこん",
+    "meaningEN": "poverty; destitution",
+    "meaningMM": "ဆင်းရဲနွမ်းပါးမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "単位",
+    "reading": "たんい",
+    "meaningEN": "unit; denomination; credit (in school)",
+    "meaningMM": "ယူနစ်; အတိုင်းအတာ; (ကျောင်း)ခရက်ဒစ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "訴える",
+    "reading": "うったえる",
+    "meaningEN": "to sue; to appeal to; to complain",
+    "meaningMM": "တရားစွဲဆိုသည်; တောင်းဆိုသည်; တိုင်ကြားသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "所得",
+    "reading": "しょとく",
+    "meaningEN": "income; earnings",
+    "meaningMM": "ဝင်ငွေ; ရရှိမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "多寡",
+    "reading": "たか",
+    "meaningEN": "quantity; amount; number (of something)",
+    "meaningMM": "ပမာဏ; အရေအတွက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "就労",
+    "reading": "しゅうろう",
+    "meaningEN": "employment; work",
+    "meaningMM": "အလုပ်အကိုင်; လုပ်ငန်းခွင်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "専業主婦",
+    "reading": "せんぎょうしゅふ",
+    "meaningEN": "housewife (who does not work outside the home)",
+    "meaningMM": "အိမ်ရှင်မ (အိမ်ပြင်ပ အလုပ်မလုပ်သူ)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "家計",
+    "reading": "かけい",
+    "meaningEN": "household finances; family budget",
+    "meaningMM": "အိမ်ထောင်စရိတ်; မိသားစုဘတ်ဂျက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "統計",
+    "reading": "とうけい",
+    "meaningEN": "statistics",
+    "meaningMM": "စာရင်းအင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "駆使",
+    "reading": "くし",
+    "meaningEN": "to make full use of; to master",
+    "meaningMM": "အပြည့်အဝ အသုံးပြုသည်; ကျွမ်းကျင်စွာ အသုံးပြုသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "妥当性",
+    "reading": "だとうせい",
+    "meaningEN": "validity; appropriateness",
+    "meaningMM": "မှန်ကန်မှု; သင့်လျော်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "検証",
+    "reading": "けんしょう",
+    "meaningEN": "verification; inspection",
+    "meaningMM": "စစ်ဆေးအတည်ပြုခြင်း; စစ်ဆေးခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "有業率",
+    "reading": "ゆうぎょうりつ",
+    "meaningEN": "employment rate",
+    "meaningMM": "အလုပ်အကိုင်ရရှိမှုနှုန်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "拍車",
+    "reading": "はくしゃ",
+    "meaningEN": "spur; stimulus",
+    "meaningMM": "လှုံ့ဆော်မှု; တွန်းအား",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "離婚",
+    "reading": "りこん",
+    "meaningEN": "divorce",
+    "meaningMM": "ကွာရှင်းပြတ်စဲခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaningEN": "influence; effect",
+    "meaningMM": "သြဇာလွှမ်းမိုးမှု; အကျိုးသက်ရောက်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "低学歴",
+    "reading": "ていがくれき",
+    "meaningEN": "low educational background",
+    "meaningMM": "ပညာအရည်အချင်းနိမ့်ပါးမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "失業",
+    "reading": "しつぎょう",
+    "meaningEN": "unemployment",
+    "meaningMM": "အလုပ်လက်မဲ့ဖြစ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "繋がる",
+    "reading": "つながる",
+    "meaningEN": "to be connected; to be related",
+    "meaningMM": "ချိတ်ဆက်နေသည်; ဆက်စပ်နေသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "行間",
+    "reading": "ぎょうかん",
+    "meaningEN": "between the lines (of a text); implied meaning",
+    "meaningMM": "စာကြောင်းများကြားမှ (ဆိုလိုရင်း)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "経済的弱者",
+    "reading": "けいざいてきじゃくしゃ",
+    "meaningEN": "economically vulnerable people; economically disadvantaged",
+    "meaningMM": "စီးပွားရေးအရ ထိခိုက်လွယ်သူများ; စီးပွားရေးအရ နိမ့်ကျသူများ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "目線",
+    "reading": "めせん",
+    "meaningEN": "gaze; line of sight; point of view",
+    "meaningMM": "အကြည့်; ရှုထောင့်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "伝わる",
+    "reading": "つたわる",
+    "meaningEN": "to be conveyed; to be transmitted; to be introduced",
+    "meaningMM": "ကူးစက်သည်; ရောက်ရှိသည်; သယ်ယူပို့ဆောင်သည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "あるべき姿",
+    "reading": "あるべきすがた",
+    "meaningEN": "the ideal state; what it should be like",
+    "meaningMM": "စံပြအခြေအနေ; ဖြစ်သင့်သောပုံစံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "読売新聞",
+    "reading": "よみうりしんぶん",
+    "meaningEN": "Yomiuri Shimbun (Japanese newspaper)",
+    "meaningMM": "ယိုမိအုရိရှင်ဘွန်း (ဂျပန်သတင်းစာ)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "モノサシ",
+    "reading": "ものさし",
+    "meaningEN": "ruler; measure; standard",
+    "meaningMM": "ပေတံ; တိုင်းတာရေးကိရိယာ; စံနှုန်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "エリート",
+    "reading": "えりーと",
+    "meaningEN": "elite",
+    "meaningMM": "အထက်တန်းလွှာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "平凡",
+    "reading": "へいぼん",
+    "meaningEN": "ordinary; common; mediocre",
+    "meaningMM": "သာမန်; ရိုးရိုး; အလယ်အလတ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "共感",
+    "reading": "きょうかん",
+    "meaningEN": "sympathy; empathy; resonance",
+    "meaningMM": "စာနာမှု; နားလည်ပေးနိုင်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "発想",
+    "reading": "はっそう",
+    "meaningEN": "idea; way of thinking; conception",
+    "meaningMM": "စိတ်ကူး; တွေးခေါ်ပုံ; သဘောတရား",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "シナリオ",
+    "reading": "しなりお",
+    "meaningEN": "scenario; script",
+    "meaningMM": "ဇာတ်လမ်း; ဇာတ်ညွှန်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "独創的",
+    "reading": "どくそうてき",
+    "meaningEN": "original; creative",
+    "meaningMM": "မူရင်း; တီထွင်ဖန်တီးနိုင်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "活版印刷",
+    "reading": "かっぱんいんさつ",
+    "meaningEN": "letterpress printing",
+    "meaningMM": "ပုံနှိပ်စက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "革命",
+    "reading": "かくめい",
+    "meaningEN": "revolution",
+    "meaningMM": "တော်လှန်ရေး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "情報爆発",
+    "reading": "じょうほうばくはつ",
+    "meaningEN": "information explosion",
+    "meaningMM": "သတင်းအချက်အလက် ပေါက်ကွဲမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "発信者",
+    "reading": "はっしんしゃ",
+    "meaningEN": "sender; originator",
+    "meaningMM": "ပေးပို့သူ; မူလဖန်တီးသူ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "飽和",
+    "reading": "ほうわ",
+    "meaningEN": "saturation",
+    "meaningMM": "ပြည့်ဝမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "蓄積",
+    "reading": "ちくせき",
+    "meaningEN": "accumulation; storage",
+    "meaningMM": "စုဆောင်းခြင်း; သိုလှောင်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "統合的",
+    "reading": "とうごうてき",
+    "meaningEN": "integrated; comprehensive",
+    "meaningMM": "ပေါင်းစပ်ထားသော; ပြည့်စုံသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "再利用",
+    "reading": "さいりよう",
+    "meaningEN": "reuse; recycling",
+    "meaningMM": "ပြန်လည်အသုံးပြုခြင်း; ပြန်လည်အသုံးပြုနိုင်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "発掘",
+    "reading": "はっくつ",
+    "meaningEN": "excavation; discovery",
+    "meaningMM": "တူးဖော်ခြင်း; ရှာဖွေတွေ့ရှိခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "創造",
+    "reading": "そうぞう",
+    "meaningEN": "creation; creativity",
+    "meaningMM": "ဖန်တီးမှု; တီထွင်ဖန်တီးနိုင်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "索引検索",
+    "reading": "さくいんけんさく",
+    "meaningEN": "index search",
+    "meaningMM": "အညွှန်းရှာဖွေမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "基本システム",
+    "reading": "きほんしすてむ",
+    "meaningEN": "basic system",
+    "meaningMM": "အခြေခံစနစ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "芸術家",
+    "reading": "げいじゅつか",
+    "meaningEN": "artist",
+    "meaningMM": "အနုပညာရှင်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "学者",
+    "reading": "がくしゃ",
+    "meaningEN": "scholar; learned person",
+    "meaningMM": "ပညာရှင်; ကျောင်းသား",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "生涯",
+    "reading": "しょうがい",
+    "meaningEN": "lifetime; career",
+    "meaningMM": "တစ်သက်တာ; အသက်မွေးဝမ်းကြောင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "蒸発",
+    "reading": "じょうはつ",
+    "meaningEN": "evaporation; disappearance",
+    "meaningMM": "ရေငွေ့ပျံခြင်း; ပျောက်ကွယ်သွားခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "感動",
+    "reading": "かんどう",
+    "meaningEN": "deep emotion; impression",
+    "meaningMM": "စိတ်ခံစားမှုပြင်းထန်ခြင်း; စွဲမှတ်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "豊潤",
+    "reading": "ほうじゅん",
+    "meaningEN": "richness; abundance",
+    "meaningMM": "ကြွယ်ဝမှု; ပေါများမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "鑑賞家",
+    "reading": "かんしょうか",
+    "meaningEN": "connoisseur; appreciator (of art, music, etc.)",
+    "meaningMM": "အနုပညာ/ဂီတ မြတ်နိုးသူ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "趣味人",
+    "reading": "しゅみじん",
+    "meaningEN": "person of hobbies; hobbyist",
+    "meaningMM": "ဝါသနာပါသူ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "裸の眼",
+    "reading": "はだかのめ",
+    "meaningEN": "naked eye; objective view",
+    "meaningMM": "မျက်စိအမြင်; ဘက်မလိုက်သောအမြင်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "常識",
+    "reading": "じょうしき",
+    "meaningEN": "common sense",
+    "meaningMM": "သာမန်အသိ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "色眼鏡",
+    "reading": "いろめがね",
+    "meaningEN": "colored glasses; prejudice; bias",
+    "meaningMM": "ဘက်လိုက်မှု; အဂတိ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "偉大な",
+    "reading": "いだいな",
+    "meaningEN": "great; grand; magnificent",
+    "meaningMM": "ကြီးကျယ်သော; ခမ်းနားသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "学問",
+    "reading": "がくもん",
+    "meaningEN": "learning; scholarship; study",
+    "meaningMM": "သင်ကြားခြင်း; ပညာသင်ကြားခြင်း; လေ့လာခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "伝承",
+    "reading": "でんしょう",
+    "meaningEN": "transmission; folklore; tradition",
+    "meaningMM": "ကူးစက်ခြင်း; ရိုးရာဓလေ့; အစဉ်အလာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "歪んで",
+    "reading": "ゆがんで",
+    "meaningEN": "twisted; distorted; warped",
+    "meaningMM": "ကောက်ကွေးနေသော; ပုံပျက်နေသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "強迫観念",
+    "reading": "きょうはくかんねん",
+    "meaningEN": "obsession; compulsive idea",
+    "meaningMM": "စွဲလမ်းစိတ်; အတင်းအကြပ်စိတ်ကူး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "速読",
+    "reading": "そくどく",
+    "meaningEN": "speed reading",
+    "meaningMM": "အမြန်ဖတ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "コンプレックス",
+    "reading": "こんぷれっくす",
+    "meaningEN": "complex (e.g., inferiority complex)",
+    "meaningMM": "စိတ်ဓာတ်အခြေအနေ (ဥပမာ- နိမ့်ကျစိတ်)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "巷",
+    "reading": "ちまた",
+    "meaningEN": "the streets; the public; the town",
+    "meaningMM": "လမ်းများ; အများပြည်သူ; မြို့",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "溢れかえっている",
+    "reading": "あふれかえっている",
+    "meaningEN": "overflowing; flooded with",
+    "meaningMM": "လျှံကျနေသော; ရေလွှမ်းနေသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "巧み",
+    "reading": "たくみ",
+    "meaningEN": "skillful; clever; ingenious",
+    "meaningMM": "ကျွမ်းကျင်သော; လိမ္မာပါးနပ်သော; ထူးချွန်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaningEN": "materials; data; document",
+    "meaningMM": "ပစ္စည်းများ; အချက်အလက်; စာရွက်စာတမ်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "斜め読み",
+    "reading": "ななめよみ",
+    "meaningEN": "skimming; reading diagonally",
+    "meaningMM": "အပေါ်ယံဖတ်ခြင်း; မြန်မြန်ဖတ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "一時的",
+    "reading": "いちじてき",
+    "meaningEN": "temporary; transient",
+    "meaningMM": "ယာယီ; ခဏတာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "財産",
+    "reading": "ざいさん",
+    "meaningEN": "property; fortune; assets",
+    "meaningMM": "ပိုင်ဆိုင်မှု; ဥစ္စာဓန; ပိုင်ဆိုင်သောပစ္စည်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "否応なく",
+    "reading": "いやおうなく",
+    "meaningEN": "whether one likes it or not; by force; without choice",
+    "meaningMM": "ကြိုက်သည်ဖြစ်စေ မကြိုက်သည်ဖြစ်စေ; အတင်းအကြပ်; ရွေးချယ်စရာမရှိဘဲ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "個性的",
+    "reading": "こせいてき",
+    "meaningEN": "personal; individual; unique",
+    "meaningMM": "ကိုယ်ပိုင်; တစ်ဦးချင်း; ထူးခြားသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "秘訣",
+    "reading": "ひけつ",
+    "meaningEN": "secret; key (to success)",
+    "meaningMM": "လျှို့ဝှက်ချက်; အောင်မြင်မှု၏သော့ချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "解放",
+    "reading": "かいほう",
+    "meaningEN": "release; liberation; emancipation",
+    "meaningMM": "လွှတ်မြောက်ခြင်း; လွတ်မြောက်ခြင်း; လွတ်လပ်ခွင့်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "手応え",
+    "reading": "てごたえ",
+    "meaningEN": "response; reaction; feel; impact",
+    "meaningMM": "တုံ့ပြန်မှု; အကျိုးသက်ရောက်မှု; ခံစားချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "醍醐味",
+    "reading": "だいごみ",
+    "meaningEN": "the real pleasure; the true charm; the best part",
+    "meaningMM": "စစ်မှန်သောပျော်ရွှင်မှု; စစ်မှန်သောဆွဲဆောင်မှု; အကောင်းဆုံးအပိုင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "孤立",
+    "reading": "こりつ",
+    "meaningEN": "isolation; solitude; being alone",
+    "meaningMM": "တစ်ဦးတည်းဖြစ်နေခြင်း; အထီးကျန်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "意外性",
+    "reading": "いがいせい",
+    "meaningEN": "unexpectedness; surprisingness",
+    "meaningMM": "မမျှော်လင့်ထားခြင်း; အံ့သြဖွယ်ဖြစ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "自然科学",
+    "reading": "しぜんかがく",
+    "meaningEN": "natural science",
+    "meaningMM": "သဘာဝသိပ္ပံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "構築",
+    "reading": "こうちく",
+    "meaningEN": "construction; building; framework",
+    "meaningMM": "တည်ဆောက်ခြင်း; တည်ဆောက်ပုံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "すこぶる",
+    "reading": "すこぶる",
+    "meaningEN": "very; extremely; exceedingly",
+    "meaningMM": "အလွန်; အထူးသဖြင့်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "本質",
+    "reading": "ほんしつ",
+    "meaningEN": "essence; true nature; substance",
+    "meaningMM": "အနှစ်သာရ; စစ်မှန်သောသဘောသဘာဝ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "繰り返す",
+    "reading": "くりかえす",
+    "meaningEN": "to repeat; to do over again",
+    "meaningMM": "ထပ်ခါတလဲလဲလုပ်သည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "織密",
+    "reading": "しょくみつ",
+    "meaningEN": "dense; intricate (weaving)",
+    "meaningMM": "သိပ်သည်းသော; ရှုပ်ထွေးသော (ယက်ကန်း)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "途方もなく",
+    "reading": "とほうもなく",
+    "meaningEN": "enormously; tremendously; excessively",
+    "meaningMM": "အလွန်အမင်း; မယုံနိုင်လောက်အောင်; လွန်ကဲစွာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "壮大",
+    "reading": "そうだい",
+    "meaningEN": "magnificent; grand; majestic",
+    "meaningMM": "ခမ်းနားသော; ကြီးကျယ်သော; ဂုဏ်ယူဖွယ်ရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "演劇",
+    "reading": "えんげき",
+    "meaningEN": "drama; theatre; play",
+    "meaningMM": "ပြဇာတ်; ကဇာတ်; ကစားခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "先祖",
+    "reading": "せんぞ",
+    "meaningEN": "ancestor",
+    "meaningMM": "ဘိုးဘွား",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "家系",
+    "reading": "かけい",
+    "meaningEN": "family line; lineage",
+    "meaningMM": "မျိုးရိုး; မျိုးနွယ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "退場",
+    "reading": "たいじょう",
+    "meaningEN": "exit; leaving (a stage or arena)",
+    "meaningMM": "ထွက်ခွာခြင်း; ထွက်သွားခြင်း (စင်ပေါ်မှ)",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "都市",
+    "reading": "とし",
+    "meaningEN": "city; urban",
+    "meaningMM": "မြို့; မြို့ပြ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "空間",
+    "reading": "くうかん",
+    "meaningEN": "space; room; gap",
+    "meaningMM": "နေရာ; အခန်း; ကွာဟမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "部族的",
+    "reading": "ぶぞくてき",
+    "meaningEN": "tribal",
+    "meaningMM": "လူမျိုးစုဆိုင်ရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "村落",
+    "reading": "そんらく",
+    "meaningEN": "village; hamlet",
+    "meaningMM": "ရွာ; ကျေးရွာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "本質的",
+    "reading": "ほんしつてき",
+    "meaningEN": "essential; fundamental",
+    "meaningMM": "မရှိမဖြစ်လိုအပ်သော; အခြေခံကျသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "熟知",
+    "reading": "じゅくち",
+    "meaningEN": "knowing well; being thoroughly familiar with",
+    "meaningMM": "ကောင်းစွာသိရှိခြင်း; ကျွမ်းကျင်စွာသိရှိခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meaningEN": "premise; prerequisite; assumption",
+    "meaningMM": "အခြေခံ; လိုအပ်ချက်; ယူဆချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "匿名性",
+    "reading": "とくめいせい",
+    "meaningEN": "anonymity",
+    "meaningMM": "နာမည်မဖော်ပြခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "視線",
+    "reading": "しせん",
+    "meaningEN": "gaze; glance; line of sight",
+    "meaningMM": "အကြည့်; မျက်လုံးထောင့်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "機能的",
+    "reading": "きのうてき",
+    "meaningEN": "functional",
+    "meaningMM": "လုပ်ဆောင်ချက်ဆိုင်ရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "結びつき",
+    "reading": "むすびつき",
+    "meaningEN": "connection; link; relationship",
+    "meaningMM": "ချိတ်ဆက်မှု; ဆက်သွယ်မှု; ဆက်ဆံရေး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "恒常化",
+    "reading": "こうじょうか",
+    "meaningEN": "normalization; becoming permanent",
+    "meaningMM": "ပုံမှန်ဖြစ်လာခြင်း; အမြဲတမ်းဖြစ်လာခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "分業",
+    "reading": "ぶんぎょう",
+    "meaningEN": "division of labor; specialization",
+    "meaningMM": "အလုပ်ခွဲဝေခြင်း; အထူးပြုလုပ်ငန်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "最適",
+    "reading": "さいてき",
+    "meaningEN": "optimal; most suitable",
+    "meaningMM": "အကောင်းဆုံး; အသင့်တော်ဆုံး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "決定的に",
+    "reading": "けっていてきに",
+    "meaningEN": "decisively; definitively; conclusively",
+    "meaningMM": "ပြတ်သားစွာ; အပြီးသတ်; အပြီးသတ်ဆုံးဖြတ်ချက်ချသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "財",
+    "reading": "ざい",
+    "meaningEN": "wealth; property; goods",
+    "meaningMM": "စည်းစိမ်ဥစ္စာ; ပိုင်ဆိုင်မှု; ကုန်ပစ္စည်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "属性",
+    "reading": "ぞくせい",
+    "meaningEN": "attribute; property; characteristic",
+    "meaningMM": "ဂုဏ်သတ္တိ; ပိုင်ဆိုင်မှု; လက္ခဏာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "うわさ",
+    "reading": "うわさ",
+    "meaningEN": "rumor; gossip",
+    "meaningMM": "ကောလာဟလ; အတင်းအဖျင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "複雑化",
+    "reading": "ふくざつか",
+    "meaningEN": "complication; becoming complex",
+    "meaningMM": "ရှုပ်ထွေးလာခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "不安定性",
+    "reading": "ふあんていせい",
+    "meaningEN": "instability",
+    "meaningMM": "မတည်ငြိမ်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "拡大",
+    "reading": "かくだい",
+    "meaningEN": "expansion; enlargement; amplification",
+    "meaningMM": "ချဲ့ထွင်ခြင်း; ချဲ့ကားခြင်း; ချဲ့ထွင်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "マスメディア",
+    "reading": "ますめでぃあ",
+    "meaningEN": "mass media",
+    "meaningMM": "လူထုဆက်သွယ်ရေးမီဒီယာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "公開型",
+    "reading": "こうかいがた",
+    "meaningEN": "open type; public",
+    "meaningMM": "ဖွင့်လှစ်ထားသောပုံစံ; အများပြည်သူဆိုင်ရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "補完",
+    "reading": "ほかん",
+    "meaningEN": "complement; supplement",
+    "meaningMM": "ဖြည့်စွက်; အားဖြည့်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "強化",
+    "reading": "きょうか",
+    "meaningEN": "strengthening; enhancement; reinforcement",
+    "meaningMM": "အားကောင်းလာခြင်း; တိုးတက်လာခြင်း; ခိုင်မာလာခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "希薄",
+    "reading": "きはく",
+    "meaningEN": "thin; weak; diluted; tenuous",
+    "meaningMM": "ပါးလွှာသော; အားနည်းသော; ရေရောထားသော; ခပ်ပါးပါး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "親密さ",
+    "reading": "しんみつさ",
+    "meaningEN": "intimacy; closeness; familiarity",
+    "meaningMM": "ရင်းနှီးမှု; နီးစပ်မှု; ရင်းနှီးကျွမ်းဝင်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "作曲家",
+    "reading": "さっきょくか",
+    "meaningEN": "composer",
+    "meaningMM": "တေးရေးဆရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "方法論",
+    "reading": "ほうほうろん",
+    "meaningEN": "methodology",
+    "meaningMM": "နည်းစနစ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "感覚",
+    "reading": "かんかく",
+    "meaningEN": "sense; sensation; feeling",
+    "meaningMM": "အာရုံ; ခံစားမှု; ခံစားချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "直感的",
+    "reading": "ちょっかんてき",
+    "meaningEN": "intuitive",
+    "meaningMM": "အလိုလိုသိနိုင်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "連なり",
+    "reading": "つらなり",
+    "meaningEN": "succession; row; connection",
+    "meaningMM": "ဆက်ခံခြင်း; တန်းစီခြင်း; ချိတ်ဆက်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "根拠",
+    "reading": "こんきょ",
+    "meaningEN": "basis; foundation; grounds",
+    "meaningMM": "အခြေခံ; အုတ်မြစ်; အကြောင်းပြချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "素材",
+    "reading": "そざい",
+    "meaningEN": "material; subject matter",
+    "meaningMM": "ပစ္စည်း; အကြောင်းအရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "構成",
+    "reading": "こうせい",
+    "meaningEN": "composition; organization; structure",
+    "meaningMM": "ဖွဲ့စည်းမှု; စီစဉ်မှု; တည်ဆောက်ပုံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "当然",
+    "reading": "とうぜん",
+    "meaningEN": "natural; as a matter of course; right",
+    "meaningMM": "သဘာဝကျသော; မလွဲမသွေ; မှန်ကန်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "無意識的",
+    "reading": "むいしきてき",
+    "meaningEN": "unconscious; involuntary",
+    "meaningMM": "သတိမထားမိသော; မရည်ရွယ်ဘဲ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "保守的",
+    "reading": "ほしゅてき",
+    "meaningEN": "conservative",
+    "meaningMM": "อนุรักษ์นิยม",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "前衛主義",
+    "reading": "ぜんえいしゅぎ",
+    "meaningEN": "avant-gardism",
+    "meaningMM": "အနုပညာသစ်ဖန်တီးမှုဝါဒ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "可能性",
+    "reading": "かのうせい",
+    "meaningEN": "possibility; potentiality",
+    "meaningMM": "ဖြစ်နိုင်ခြေ; အလားအလာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "求める",
+    "reading": "もとめる",
+    "meaningEN": "to seek; to request; to demand",
+    "meaningMM": "ရှာဖွေသည်; တောင်းဆိုသည်; လိုချင်သည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "踏み出す",
+    "reading": "ふみだす",
+    "meaningEN": "to step forward; to start; to set out",
+    "meaningMM": "ရှေ့သို့တက်လှမ်းသည်; စတင်သည်; ထွက်ခွာသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "逸脱",
+    "reading": "いつだつ",
+    "meaningEN": "deviation; departure; aberration",
+    "meaningMM": "သွေဖည်ခြင်း; ထွက်ခွာခြင်း; ပုံမှန်မဟုတ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "実験的",
+    "reading": "じっけんてき",
+    "meaningEN": "experimental",
+    "meaningMM": "စမ်းသပ်မှုဆိုင်ရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "性質",
+    "reading": "せいしつ",
+    "meaningEN": "nature; property; characteristic",
+    "meaningMM": "သဘာဝ; ဂုဏ်သတ္တိ; လက္ခဏာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "由来",
+    "reading": "ゆらい",
+    "meaningEN": "origin; source; history",
+    "meaningMM": "မူရင်း; အရင်းအမြစ်; သမိုင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "意義",
+    "reading": "いぎ",
+    "meaningEN": "meaning; significance; value",
+    "meaningMM": "အဓိပ္ပာယ်; အရေးပါမှု; တန်ဖိုး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "価値",
+    "reading": "かち",
+    "meaningEN": "value; worth; merit",
+    "meaningMM": "တန်ဖိုး; အရည်အသွေး; ဂုဏ်ကျေးဇူး",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "吟味",
+    "reading": "ぎんみ",
+    "meaningEN": "careful examination; scrutiny; selection",
+    "meaningMM": "သေချာစွာ စစ်ဆေးခြင်း; စေ့စေ့စပ်စပ်ကြည့်ရှုခြင်း; ရွေးချယ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "解釈",
+    "reading": "かいしゃく",
+    "meaningEN": "explanation; interpretation",
+    "meaningMM": "ရှင်းလင်းချက်; အနက်ဖွင့်ဆိုချက်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "昆虫採集",
+    "reading": "こんちゅうさいしゅう",
+    "meaningEN": "insect collecting",
+    "meaningMM": "ပိုးကောင်စုဆောင်းခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "生命尊重",
+    "reading": "せいめいそんちょう",
+    "meaningEN": "respect for life",
+    "meaningMM": "အသက်ကိုလေးစားခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "希少種",
+    "reading": "きしょうしゅ",
+    "meaningEN": "rare species",
+    "meaningMM": "ရှားပါးမျိုးစိတ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "保護",
+    "reading": "ほご",
+    "meaningEN": "protection; conservation",
+    "meaningMM": "ကာကွယ်ခြင်း; ထိန်းသိမ်းခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "批判的",
+    "reading": "ひはんてき",
+    "meaningEN": "critical",
+    "meaningMM": "ဝေဖန်ပိုင်းခြားသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "微々たる",
+    "reading": "びびたる",
+    "meaningEN": "trifling; meager; negligible",
+    "meaningMM": "သေးငယ်သော; နည်းပါးသော; အရေးမပါသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "触れ合う",
+    "reading": "ふれあう",
+    "meaningEN": "to come into contact with; to interact with",
+    "meaningMM": "ထိတွေ့ဆက်ဆံသည်; အပြန်အလှန်ဆက်ဆံသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "有意義",
+    "reading": "ゆういぎ",
+    "meaningEN": "meaningful; significant; worthwhile",
+    "meaningMM": "အဓိပ္ပာယ်ရှိသော; အရေးပါသော; တန်ဖိုးရှိသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "働きかけ",
+    "reading": "はたらきかけ",
+    "meaningEN": "approach; appeal; influence",
+    "meaningMM": "ချဉ်းကပ်မှု; တောင်းဆိုမှု; လွှမ်းမိုးမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "生態",
+    "reading": "せいたい",
+    "meaningEN": "ecology; mode of life",
+    "meaningMM": "ဂေဟစနစ်; နေထိုင်မှုပုံစံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "多様性",
+    "reading": "たようせい",
+    "meaningEN": "diversity",
+    "meaningMM": "ကွဲပြားခြားနားမှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "秘められている",
+    "reading": "ひめられている",
+    "meaningEN": "hidden; concealed",
+    "meaningMM": "ဖုံးကွယ်ထားသော; လျှို့ဝှက်ထားသော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "生命観",
+    "reading": "せいめいかん",
+    "meaningEN": "view of life; outlook on life",
+    "meaningMM": "ဘဝအမြင်; ဘဝအပေါ်ရှုမြင်ပုံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "自然観",
+    "reading": "しぜんかん",
+    "meaningEN": "view of nature; outlook on nature",
+    "meaningMM": "သဘာဝအမြင်; သဘာဝအပေါ်ရှုမြင်ပုံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "進化",
+    "reading": "しんか",
+    "meaningEN": "evolution; progress",
+    "meaningMM": "ဆင့်ကဲပြောင်းလဲမှု; တိုးတက်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "生命愛護",
+    "reading": "せいめいあいご",
+    "meaningEN": "protection of life; love of life",
+    "meaningMM": "အသက်ကိုကာကွယ်ခြင်း; အသက်ကိုချစ်မြတ်နိုးခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "共存",
+    "reading": "きょうぞん",
+    "meaningEN": "coexistence",
+    "meaningMM": "အတူယှဉ်တွဲနေထိုင်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "心情",
+    "reading": "しんじょう",
+    "meaningEN": "state of mind; sentiment; feelings",
+    "meaningMM": "စိတ်အခြေအနေ; ခံစားချက်; စိတ်ပိုင်းဆိုင်ရာ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "深化",
+    "reading": "しんか",
+    "meaningEN": "deepening; enhancement",
+    "meaningMM": "နက်ရှိုင်းလာခြင်း; တိုးတက်လာခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "実感",
+    "reading": "じっかん",
+    "meaningEN": "real feeling; actual experience",
+    "meaningMM": "လက်တွေ့ခံစားမှု; လက်တွေ့အတွေ့အကြုံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "企画部門",
+    "reading": "きかくぶもん",
+    "meaningEN": "planning department; planning division",
+    "meaningMM": "စီမံကိန်းဌာန; စီမံကိန်းကဏ္ဍ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "目標値",
+    "reading": "もくひょうち",
+    "meaningEN": "target value; target figure",
+    "meaningMM": "ပစ်မှတ်တန်ဖိုး; ပစ်မှတ်ပမာဏ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "設定",
+    "reading": "せってい",
+    "meaningEN": "setting; establishment; configuration",
+    "meaningMM": "သတ်မှတ်ခြင်း; တည်ထောင်ခြင်း; စနစ်ထည့်သွင်းခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "達成不可能",
+    "reading": "たっせいふかのう",
+    "meaningEN": "impossible to achieve; unattainable",
+    "meaningMM": "အောင်မြင်ရန်မဖြစ်နိုင်သော; မရောက်နိုင်သော",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "外部環境",
+    "reading": "がいぶかんきょう",
+    "meaningEN": "external environment",
+    "meaningMM": "ပြင်ပပတ်ဝန်းကျင်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "内部の状況",
+    "reading": "ないぶのじょうきょう",
+    "meaningEN": "internal situation; internal circumstances",
+    "meaningMM": "အတွင်းပိုင်းအခြေအနေ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "諸々",
+    "reading": "もろもろ",
+    "meaningEN": "various; diverse; all sorts of",
+    "meaningMM": "အမျိုးမျိုး; ကွဲပြားသော; အစုံအလင်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "要素",
+    "reading": "ようそ",
+    "meaningEN": "element; factor; component",
+    "meaningMM": "ဒြပ်စင်; အကြောင်းအရာ; အစိတ်အပိုင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "検討",
+    "reading": "けんとう",
+    "meaningEN": "consideration; examination; discussion",
+    "meaningMM": "စဉ်းစားခြင်း; စစ်ဆေးခြင်း; ဆွေးနွေးခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "把握",
+    "reading": "はあく",
+    "meaningEN": "grasp; understanding; capture",
+    "meaningMM": "နားလည်ခြင်း; ဖမ်းဆုပ်ခြင်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "この上なく",
+    "reading": "このうえなく",
+    "meaningEN": "supremely; exceedingly; extremely",
+    "meaningMM": "အမြင့်ဆုံး; အလွန်အမင်း; အထူးသဖြင့်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "不確定要素",
+    "reading": "ふかくていようそ",
+    "meaningEN": "uncertain factor; unknown element",
+    "meaningMM": "မသေချာသော အကြောင်းအရာ; မသိသော ဒြပ်စင်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "対応",
+    "reading": "たいおう",
+    "meaningEN": "correspondence; adaptation; response",
+    "meaningMM": "ဆက်စပ်မှု; လိုက်လျောညီထွေဖြစ်အောင်ပြုလုပ်ခြင်း; တုံ့ပြန်မှု",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "ビジネスチャンス",
+    "reading": "びじねすちゃんす",
+    "meaningEN": "business opportunity",
+    "meaningMM": "စီးပွားရေးအခွင့်အလမ်း",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "創意工夫",
+    "reading": "そういくふう",
+    "meaningEN": "creative ingenuity; inventiveness",
+    "meaningMM": "တီထွင်ဖန်တီးနိုင်မှု; တီထွင်ဉာဏ်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "落とし所",
+    "reading": "おとしどころ",
+    "meaningEN": "compromise; point of agreement; common ground",
+    "meaningMM": "အလျှော့အတင်း; သဘောတူညီချက်ရရှိရာနေရာ; ဘုံအခြေခံ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "引き出す",
+    "reading": "ひきだす",
+    "meaningEN": "to pull out; to draw out; to elicit",
+    "meaningMM": "ဆွဲထုတ်သည်; ရယူသည်; ထုတ်ယူသည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "力士",
+    "reading": "りきし",
+    "meaningEN": "sumo wrestler",
+    "meaningMM": "ဆူမိုနပန်းသမား",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "一戦",
+    "reading": "いっせん",
+    "meaningEN": "a battle; a game; a match",
+    "meaningMM": "စစ်ပွဲ; ဂိမ်း; ပြိုင်ပွဲ",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "控える",
+    "reading": "ひかえる",
+    "meaningEN": "to be in front of; to be reserved; to refrain from",
+    "meaningMM": "ရှေ့တွင်ရှိသည်; ထိန်းချုပ်သည်; ရှောင်ကြဉ်သည်",
+    "level": "N1",
+    "date": "2015/7"
+  },
+  {
+    "word": "スコア",
+    "reading": "すこあ",
+    "meaningEN": "score",
+    "meaningMM": "ရမှတ်",
+    "level": "N1",
+    "date": "2015/7"
+  }]
+

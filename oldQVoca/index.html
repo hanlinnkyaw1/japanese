@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JLPT Old Question Vocabulary Collections | N5-N1 with Burmese Meaning</title>
+  <meta name="description" content="JLPT old question vocabulary lists from N5 to N1 with English and Burmese meanings. Perfect for JLPT learners in Myanmar. Filter by level and date.">
+  <meta name="keywords" content="JLPT vocabulary, JLPT old questions, N5 N4 N3 N2 N1 vocab, JLPT Myanmar, Burmese vocabulary list, JLPT vocab with Burmese meaning">
+  <meta name="robots" content="index, follow">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+
+    <header class="bg-white shadow-sm">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-cyan-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                </svg>
+                <h1 class="text-xl font-bold">日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span></h1>
+            </div>
+   <nav class="hidden md:flex space-x-10">
+      <a href="../index.html" class="text-emerald-600 font-medium">Home</a>
+      <a href="../#learnExplore" class="text-gray-600 hover:text-emerald-600">Study Tools</a>
+      <a href="../#levels" class="text-gray-600 hover:text-emerald-600">Learn Grammar</a>
+    </nav>
+
+    <!-- Mobile Toggle Button -->
+    <button id="menu-toggle" class="md:hidden">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24"
+        stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </div>
+
+<!-- Mobile -->
+  <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
+    <a href="../index.html" class="text-green-600 font-medium">Home</a>
+    <a href="../#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
+    <a href="../#levels" class="text-gray-700 hover:text-green-600">Learn Grammar</a>
+  </nav>
+ </div>
+</header>
+
+<div class="max-w-3xl mx-auto px-4 py-6">
+  <h1 class="text-2x font-bold text-blue-700 mb-4 text-center">
+    📘 JLPT Old Question Vocabulary List (N5–N1) with Burmese Translations
+  </h1>
+  <!-- 🔍 Search bar -->
+  <div class="mb-4">
+    <label class="block text-sm font-medium text-gray-700 mb-1">🔍 Search</label>
+    <input id="searchInput" type="text" placeholder="Search word or meaning..."
+      class="w-full px-4 py-2 border rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300" />
+  </div>
+
+  <!-- 📝 Level & 📅 Date filters side by side -->
+  <div class="flex gap-3 mb-4">
+    <!-- Level -->
+    <div class="flex flex-col w-1/2">
+      <label class="text-sm font-medium text-gray-700 mb-1">📝 Level</label>
+      <select id="levelFilter"
+        class="px-4 py-2 border rounded-md bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300">
+        <option value="">All Levels</option>
+        <option value="n1">N1</option>
+        <option value="n2">N2</option>
+        <option value="n3">N3</option>
+        <option value="n4">N4</option>
+        <option value="n5">N5</option>
+      </select>
+    </div>
+
+    <!-- Date -->
+    <div class="flex flex-col w-1/2">
+      <label class="text-sm font-medium text-gray-700 mb-1">📅 Date</label>
+    <select id="dateFilter" disabled
+      class="px-4 py-2 border rounded-md bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300">
+      <option value="">Select level first</option>
+    </select>
+    </div>
+  </div>
+  
+  <div id="announcement" class="text-center text-md text-gray-600 mt-5 p-5">
+    <p>[ please select Level and Date ] </p>
+    <p>Level နဲ့ Date ကိုရွေးပေးပါ။</p>
+  </div>
+
+  <!-- 📄 Vocabulary List -->
+  <div id="vocabList" class="space-y-4"></div>
+</div>
+
+  <script>
+
+  // Mobile menu toggle
+        document.addEventListener("DOMContentLoaded", () => {
+          const toggleBtn = document.getElementById("menu-toggle");
+          const mobileMenu = document.getElementById("mobile-menu");
+
+          toggleBtn.addEventListener("click", () => {
+            mobileMenu.classList.toggle("hidden");
+          });
+        });
+
+    const searchInput = document.getElementById("searchInput");
+    const levelFilter = document.getElementById("levelFilter");
+    const dateFilter = document.getElementById("dateFilter");
+    const vocabList = document.getElementById("vocabList");
+
+    let allWords = [];
+    
+    const levelToDates = {
+  n1: ["2015_7", "2016_7", "2017_7", "2018_7","2019_7","2022_7", "2023_7", "2024_7"],
+  n2: ["2020_12","2021_12","2022_12", "2023_7","2024_7"],
+  n3: ["2015_7", "2016_7", "2016_12", "2017_7", "2018_7", "2020_12","2023_7"],
+  n4: ["2016_12", "2017_7", "2019_7", "2024_7"],
+  n5: ["2013_7", "2017_7", "2024_7"]
+};
+
+    function updateDateOptions() {
+      const level = levelFilter.value;
+      dateFilter.innerHTML = "";
+      
+      if (!level || !levelToDates[level]) {
+        dateFilter.disabled = true;
+        const option = document.createElement("option");
+        option.value = "";
+        option.textContent = "Select level first";
+        dateFilter.appendChild(option);
+        return;
+      }
+      
+      dateFilter.disabled = false;
+      const defaultOption = document.createElement("option");
+      defaultOption.value = "";
+      defaultOption.textContent = "All Dates";
+      dateFilter.appendChild(defaultOption);
+      
+      levelToDates[level].forEach((date) => {
+        const option = document.createElement("option");
+        option.value = date;
+        option.textContent = date.replace("_", "/");
+        dateFilter.appendChild(option);
+      });
+    }
+    
+    
+    levelFilter.addEventListener("change", () => {
+      updateDateOptions();
+      fetchData();
+    });
+
+    function fetchData() {
+      document.getElementById("announcement").style.display = "none";
+      const level = levelFilter.value;
+      const date = dateFilter.value;
+
+      if (!level || !date) {
+        vocabList.innerHTML = '<p class="p-4 text-gray-400">Please select both level and date.</p>';
+        return;
+      }
+
+      const fileName = `${level}_${date}.json`;
+
+      fetch(`./vocab/${fileName}`)
+        .then((res) => res.json())
+        .then((data) => {
+          allWords = data;
+          applySearch();
+        })
+        .catch((error) => {
+          console.error("Error loading JSON:", error);
+          vocabList.innerHTML = '<p class="p-4 text-red-500">Failed to load data.</p>';
+        });
+    }
+
+    function applySearch() {
+      const query = searchInput.value.toLowerCase();
+      const filtered = allWords.filter((word) =>
+        word.word.includes(query) ||
+        word.reading.includes(query) ||
+        word.meaningEN.toLowerCase().includes(query) ||
+        word.meaningMM.includes(query)
+      );
+
+      vocabList.innerHTML = "";
+
+      if (filtered.length === 0) {
+        vocabList.innerHTML = '<p class="p-4 text-gray-400">No results found.</p>';
+        return;
+      }
+
+      filtered.forEach(item => {
+        const card = `
+            <div class="border rounded-xl shadow-sm p-4 bg-blue-50">
+              <div class="text-xl font-bold text-blue-800">${item.word} <span class="text-sm text-gray-500 ml-2">(${item.reading})</span></div>
+              <div class="text-sm text-gray-500 mt-1">📘 ${item.meaningEN}</div>
+              <div class="text-sm text-gray-700">📗 ${item.meaningMM}</div>
+              <div class="text-xs text-gray-400 mt-2">Level: ${item.level} | Date: ${item.date}</div>
+            </div>
+          `;
+    vocabList.innerHTML += card;
+  });
+}
+
+    // Event listeners
+    searchInput.addEventListener("input", applySearch);
+    levelFilter.addEventListener("change", fetchData);
+    dateFilter.addEventListener("change", fetchData);
+  </script>
+</body>
+</html>

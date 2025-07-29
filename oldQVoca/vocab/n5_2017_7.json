@@ -1,0 +1,810 @@
+[
+  {
+    "japanese": "先週",
+    "reading": "せんしゅう",
+    "english": "last week",
+    "myanmar": "ပြီးခဲ့သည့်အပတ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "あと",
+    "reading": "あと",
+    "english": "after",
+    "myanmar": "နောက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "山",
+    "reading": "やま",
+    "english": "mountain",
+    "myanmar": "တောင်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "多い",
+    "reading": "おおい",
+    "english": "many",
+    "myanmar": "များသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "学校",
+    "reading": "がっこう",
+    "english": "school",
+    "myanmar": "ကျောင်း",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "六本",
+    "reading": "ろっぽん",
+    "english": "six (for long, thin objects)",
+    "myanmar": "ခြောက်ခု (အရှည်၊ ပါးလွှာသောအရာများအတွက်)",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "新聞",
+    "reading": "しんぶん",
+    "english": "newspaper",
+    "myanmar": "သတင်းစာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "安い",
+    "reading": "やすい",
+    "english": "cheap",
+    "myanmar": "စျေးပေါသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "外",
+    "reading": "そと",
+    "english": "outside",
+    "myanmar": "အပြင်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "子ども",
+    "reading": "こども",
+    "english": "child",
+    "myanmar": "ကလေး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "シャワー",
+    "reading": "シャワー",
+    "english": "shower",
+    "myanmar": "ရေချိုးခန်း",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "車",
+    "reading": "くるま",
+    "english": "car",
+    "myanmar": "ကား",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "千円",
+    "reading": "せんえん",
+    "english": "1000 yen",
+    "myanmar": "ယန်း ၁၀၀၀",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "半分",
+    "reading": "はんぶん",
+    "english": "half",
+    "myanmar": "တစ်ဝက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "同じ",
+    "reading": "おなじ",
+    "english": "same",
+    "myanmar": "တူညီသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "アパート",
+    "reading": "アパート",
+    "english": "apartment",
+    "myanmar": "တိုက်ခန်း",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "じょうずに",
+    "reading": "じょうずに",
+    "english": "skillfully",
+    "myanmar": "ကျွမ်းကျင်စွာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "きれい",
+    "reading": "きれい",
+    "english": "clean, beautiful",
+    "myanmar": "သန့်ရှင်းသော၊ လှပသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "メートル",
+    "reading": "メートル",
+    "english": "meter",
+    "myanmar": "မီတာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "地図",
+    "reading": "ちず",
+    "english": "map",
+    "myanmar": "မြေပုံ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "雪",
+    "reading": "ゆき",
+    "english": "snow",
+    "myanmar": "နှင်း",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "四つ",
+    "reading": "よっつ",
+    "english": "four (general counter)",
+    "myanmar": "လေးခု",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "下",
+    "reading": "した",
+    "english": "under, below",
+    "myanmar": "အောက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "出口",
+    "reading": "でぐち",
+    "english": "exit",
+    "myanmar": "ထွက်ပေါက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "入口",
+    "reading": "いりぐち",
+    "english": "entrance",
+    "myanmar": "ဝင်ပေါက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "あちら",
+    "reading": "あちら",
+    "english": "over there",
+    "myanmar": "ဟိုဘက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "毎晩",
+    "reading": "まいばん",
+    "english": "every evening",
+    "myanmar": "ညတိုင်း",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "家族",
+    "reading": "かぞく",
+    "english": "family",
+    "myanmar": "မိသားစု",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "電話します",
+    "reading": "でんわします",
+    "english": "make a phone call",
+    "myanmar": "ဖုန်းခေါ်သည်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "有名",
+    "reading": "ゆうめい",
+    "english": "famous",
+    "myanmar": "နာမည်ကြီးသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "建物",
+    "reading": "たてもの",
+    "english": "building",
+    "myanmar": "အဆောက်အဦး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "ビル",
+    "reading": "ビル",
+    "english": "building (loanword)",
+    "myanmar": "အဆောက်အဦး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "映画",
+    "reading": "えいが",
+    "english": "movie",
+    "myanmar": "ရုပ်ရှင်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "つまらない",
+    "reading": "つまらない",
+    "english": "boring",
+    "myanmar": "စိတ်မဝင်စားဖွယ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "誕生日",
+    "reading": "たんじょうび",
+    "english": "birthday",
+    "myanmar": "မွေးနေ့",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "生まれる",
+    "reading": "うまれる",
+    "english": "be born",
+    "myanmar": "မွေးဖွားသည်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "二年前",
+    "reading": "にねんまえ",
+    "english": "two years ago",
+    "myanmar": "နှစ်နှစ်အကြာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "一昨年",
+    "reading": "おととし",
+    "english": "year before last",
+    "myanmar": "လွန်ခဲ့သည့်နှစ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "次",
+    "reading": "つぎ",
+    "english": "next",
+    "myanmar": "နောက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "後ろ",
+    "reading": "うしろ",
+    "english": "back, behind",
+    "myanmar": "နောက်ကျော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "前",
+    "reading": "まえ",
+    "english": "front, before",
+    "myanmar": "ရှေ့",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "川",
+    "reading": "かわ",
+    "english": "river",
+    "myanmar": "မြစ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "池",
+    "reading": "いけ",
+    "english": "pond",
+    "myanmar": "ကန်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "海",
+    "reading": "うみ",
+    "english": "sea, ocean",
+    "myanmar": "ပင်လယ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "少ない",
+    "reading": "すくない",
+    "english": "few, a little",
+    "myanmar": "နည်းသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "狭い",
+    "reading": "せまい",
+    "english": "narrow",
+    "myanmar": "ကျဉ်းမြောင်းသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "広い",
+    "reading": "ひろい",
+    "english": "wide, spacious",
+    "myanmar": "ကျယ်ဝန်းသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "鉛筆",
+    "reading": "えんぴつ",
+    "english": "pencil",
+    "myanmar": "ခဲတံ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "カメラ",
+    "reading": "カメラ",
+    "english": "camera",
+    "myanmar": "ကင်မရာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "高い",
+    "reading": "たかい",
+    "english": "expensive, high",
+    "myanmar": "စျေးကြီးသော၊ မြင့်သော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "重い",
+    "reading": "おもい",
+    "english": "heavy",
+    "myanmar": "လေးသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "軽い",
+    "reading": "かるい",
+    "english": "light",
+    "myanmar": "ပေါ့ပါးသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "傘",
+    "reading": "かさ",
+    "english": "umbrella",
+    "myanmar": "ထီး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "家",
+    "reading": "いえ",
+    "english": "house",
+    "myanmar": "အိမ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "中",
+    "reading": "なか",
+    "english": "inside",
+    "myanmar": "အတွင်း",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "庭",
+    "reading": "にわ",
+    "english": "garden",
+    "myanmar": "ဥယျာဉ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "花",
+    "reading": "はな",
+    "english": "flower",
+    "myanmar": "ပန်း",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "今朝",
+    "reading": "けさ",
+    "english": "this morning",
+    "myanmar": "ဒီမနက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "コーヒー",
+    "reading": "コーヒー",
+    "english": "coffee",
+    "myanmar": "ကော်ဖီ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "新しい",
+    "reading": "あたらしい",
+    "english": "new",
+    "myanmar": "အသစ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "宿題",
+    "reading": "しゅくだい",
+    "english": "homework",
+    "myanmar": "အိမ်စာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "昨日",
+    "reading": "きのう",
+    "english": "yesterday",
+    "myanmar": "မနေ့က",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "妹",
+    "reading": "いもうと",
+    "english": "younger sister",
+    "myanmar": "ညီမ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "服",
+    "reading": "ふく",
+    "english": "clothes",
+    "myanmar": "အဝတ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "エレベーター",
+    "reading": "エレベーター",
+    "english": "elevator",
+    "myanmar": "ဓာတ်လှေကား",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "プール",
+    "reading": "プール",
+    "english": "pool",
+    "myanmar": "ရေကူးကန်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "エアコン",
+    "reading": "エアコン",
+    "english": "air conditioner",
+    "myanmar": "လေအေးပေးစက်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "ギター",
+    "reading": "ギター",
+    "english": "guitar",
+    "myanmar": "ဂစ်တာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "歌います",
+    "reading": "うたいます",
+    "english": "sing",
+    "myanmar": "သီဆိုသည်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "聞きます",
+    "reading": "ききます",
+    "english": "listen, ask, hear",
+    "myanmar": "နားထောင်သည်၊ မေးသည်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "遊びます",
+    "reading": "あそびます",
+    "english": "play, enjoy oneself",
+    "myanmar": "ကစားသည်၊ ပျော်ပါးသည်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "テーブル",
+    "reading": "テーブル",
+    "english": "table",
+    "myanmar": "စားပွဲ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "お皿",
+    "reading": "おさら",
+    "english": "plate",
+    "myanmar": "ပန်းကန်ပြား",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "箸",
+    "reading": "はし",
+    "english": "chopsticks",
+    "myanmar": "တူ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "掃除",
+    "reading": "そうじ",
+    "english": "cleaning",
+    "myanmar": "သန့်ရှင်းရေး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "明るい",
+    "reading": "あかるい",
+    "english": "bright",
+    "myanmar": "တောက်ပသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "暗い",
+    "reading": "くらい",
+    "english": "dark",
+    "myanmar": "မှောင်သော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "今日",
+    "reading": "きょう",
+    "english": "today",
+    "myanmar": "ယနေ့",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "泳ぎます",
+    "reading": "およぎます",
+    "english": "swim",
+    "myanmar": "ရေကူးသည်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "度",
+    "reading": "ど",
+    "english": "degree (counter)",
+    "myanmar": "ဒီဂရီ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "番",
+    "reading": "ばん",
+    "english": "number (counter)",
+    "myanmar": "နံပါတ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "グラム",
+    "reading": "グラム",
+    "english": "gram",
+    "myanmar": "ဂရမ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "駅",
+    "reading": "えき",
+    "english": "station",
+    "myanmar": "ဘူတာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "大使館",
+    "reading": "たいしかん",
+    "english": "embassy",
+    "myanmar": "သံရုံး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "写真",
+    "reading": "しゃしん",
+    "english": "photograph",
+    "myanmar": "ဓာတ်ပုံ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "手紙",
+    "reading": "てがみ",
+    "english": "letter",
+    "myanmar": "စာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "切符",
+    "reading": "きっぷ",
+    "english": "ticket",
+    "myanmar": "လက်မှတ်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "うるさい",
+    "reading": "うるさい",
+    "english": "noisy",
+    "myanmar": "ဆူညံသော",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "テレビ",
+    "reading": "テレビ",
+    "english": "television",
+    "myanmar": "ရုပ်မြင်သံကြား",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "曇り",
+    "reading": "くもり",
+    "english": "cloudy weather",
+    "myanmar": "မိုးအုံ့သောရာသီဥတု",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "晴れ",
+    "reading": "はれ",
+    "english": "clear weather",
+    "myanmar": "သာယာသောရာသီဥတု",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "風",
+    "reading": "かぜ",
+    "english": "wind",
+    "myanmar": "လေ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "箱",
+    "reading": "はこ",
+    "english": "box",
+    "myanmar": "သေတ္တာ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "りんご",
+    "reading": "りんご",
+    "english": "apple",
+    "myanmar": "ပန်းသီး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "五つ",
+    "reading": "いつつ",
+    "english": "five",
+    "myanmar": "ငါးခု",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "六つ",
+    "reading": "むっつ",
+    "english": "six",
+    "myanmar": "ခြောက်ခု",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "七つ",
+    "reading": "ななつ",
+    "english": "seven",
+    "myanmar": "ခုနစ်ခု",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "眼鏡",
+    "reading": "めがね",
+    "english": "glasses",
+    "myanmar": "မျက်မှန်",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "机",
+    "reading": "つくえ",
+    "english": "desk",
+    "myanmar": "စားပွဲခုံ",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "側",
+    "reading": "そば",
+    "english": "near",
+    "myanmar": "အနီး",
+    "level": "N5",
+    "date": "2017/7"
+  },
+  {
+    "japanese": "横",
+    "reading": "よこ",
+    "english": "side",
+    "myanmar": "ဘေး",
+    "level": "N5",
+    "date": "2017/7"
+  }
+]

@@ -1,0 +1,714 @@
+[
+  {
+    "word": "猛烈",
+    "reading": "もうれつ",
+    "meaningEN": "violent; fierce; tremendous",
+    "meaningMM": "ပြင်းထန်သော; အားကြီးသော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "克服",
+    "reading": "こくふく",
+    "meaningEN": "conquest; subjugation; overcoming",
+    "meaningMM": "အနိုင်ယူခြင်း; ကျော်လွှားခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "崩れる",
+    "reading": "くずれる",
+    "meaningEN": "to collapse; to crumble",
+    "meaningMM": "ပြိုကျသည်; ပြိုကွဲသည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "繁殖",
+    "reading": "はんしょく",
+    "meaningEN": "breed; multiply; increase",
+    "meaningMM": "မျိုးပွားသည်; တိုးပွားသည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "履歴",
+    "reading": "りれき",
+    "meaningEN": "personal history; background; career",
+    "meaningMM": "ကိုယ်ရေးရာဇဝင်; နောက်ခံသမိုင်း; အလုပ်အကိုင်မှတ်တမ်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "映える",
+    "reading": "はえる",
+    "meaningEN": "to shine; to look attractive; to be set off",
+    "meaningMM": "တောက်ပသည်; ဆွဲဆောင်မှုရှိသော; ပေါ်လွင်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "感知",
+    "reading": "かんち",
+    "meaningEN": "sensing; detection; perception",
+    "meaningMM": "အာရုံခံခြင်း; ထောက်လှမ်းခြင်း; သိမြင်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "絶大",
+    "reading": "ぜつだい",
+    "meaningEN": "tremendous; immense; enormous",
+    "meaningMM": "အလွန်ကြီးမားသော; ကြီးမားသော; အလျှံပယ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "壮大",
+    "reading": "そうだい",
+    "meaningEN": "magnificent; grand; majestic",
+    "meaningMM": "ခမ်းနားသော; ကြီးကျယ်သော; ဂုဏ်ယူဖွယ်ရာ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "ここちよい",
+    "reading": "ここちよい",
+    "meaningEN": "comfortable; pleasant",
+    "meaningMM": "သက်တောင့်သက်သာရှိသော; နှစ်သက်ဖွယ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "誘う",
+    "reading": "さそう",
+    "meaningEN": "to invite; to tempt",
+    "meaningMM": "ဖိတ်ခေါ်သည်; သွေးဆောင်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "従事",
+    "reading": "じゅうじ",
+    "meaningEN": "engagement; pursuit; being employed",
+    "meaningMM": "ပါဝင်လုပ်ကိုင်ခြင်း; လိုက်စားခြင်း; အလုပ်လုပ်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "にじむ",
+    "reading": "にじむ",
+    "meaningEN": "to blur; to blot; to run",
+    "meaningMM": "မှုန်ဝါးသည်; ပေကျံသည်; စီးကျသည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "ゆがむ",
+    "reading": "ゆがむ",
+    "meaningEN": "to warp; to bend; to be distorted",
+    "meaningMM": "ကောက်ကွေးသည်; ကွေးညွတ်သည်; ပုံပျက်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "過度",
+    "reading": "かど",
+    "meaningEN": "excessive; immoderate",
+    "meaningMM": "အလွန်အကျွံ; အတိုင်းအတာမဲ့",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "禁物",
+    "reading": "きんもつ",
+    "meaningEN": "taboo; forbidden thing",
+    "meaningMM": "တားမြစ်ထားသောအရာ; မလုပ်ရသောအရာ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "ひしひしと",
+    "reading": "ひしひしと",
+    "meaningEN": "acutely; keenly; severely",
+    "meaningMM": "ပြင်းပြင်းထန်ထန်; နက်နက်နဲနဲ; ကြမ်းကြမ်းတမ်းတမ်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "コンパクト",
+    "reading": "コンパクト",
+    "meaningEN": "compact",
+    "meaningMM": "ကျစ်လျစ်သော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "極力",
+    "reading": "きょくりょく",
+    "meaningEN": "to the utmost; to the best of one's ability",
+    "meaningMM": "အစွမ်းကုန်; အတတ်နိုင်ဆုံး",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "つぶやく",
+    "reading": "つぶやく",
+    "meaningEN": "to mutter; to murmur; to tweet",
+    "meaningMM": "ရေရွတ်သည်; တီးတိုးပြောသည်; တွီတာတင်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "不審",
+    "reading": "ふしん",
+    "meaningEN": "suspicion; doubt; questionable",
+    "meaningMM": "သံသယ; မယုံသင်္ကာ; မေးခွန်းထုတ်စရာ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "まっとうする",
+    "reading": "まっとうする",
+    "meaningEN": "to accomplish; to fulfill; to carry out",
+    "meaningMM": "ပြီးမြောက်အောင်လုပ်သည်; ဖြည့်ဆည်းသည်; ဆောင်ရွက်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "簡素",
+    "reading": "かんそ",
+    "meaningEN": "simple; plain; modest",
+    "meaningMM": "ရိုးရှင်းသော; ရိုးရိုးလေး; ချိုးခြံသော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "解明",
+    "reading": "かいめい",
+    "meaningEN": "clarification; elucidation; explanation",
+    "meaningMM": "ရှင်းလင်းချက်; ရှင်းလင်းပြသခြင်း; ရှင်းပြခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "ほほえましい",
+    "reading": "ほほえましい",
+    "meaningEN": "heartwarming; charming; pleasant",
+    "meaningMM": "ရင်နွေးစရာ; ဆွဲဆောင်မှုရှိသော; နှစ်သက်ဖွယ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "目安",
+    "reading": "めやす",
+    "meaningEN": "standard; criterion; rough estimate",
+    "meaningMM": "စံနှုန်း; သတ်မှတ်ချက်; ခန့်မှန်းခြေ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "様相",
+    "reading": "ようそう",
+    "meaningEN": "aspect; phase; state",
+    "meaningMM": "ရှုထောင့်; အဆင့်; အခြေအနေ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "交える",
+    "reading": "まじえる",
+    "meaningEN": "to mix; to cross; to exchange",
+    "meaningMM": "ရောစပ်သည်; ဖြတ်ကျော်သည်; ဖလှယ်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "どうやら",
+    "reading": "どうやら",
+    "meaningEN": "it seems like; somehow or other",
+    "meaningMM": "ပုံစံအရ; တစ်နည်းနည်းဖြင့်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "わが社",
+    "reading": "わがしゃ",
+    "meaningEN": "our company",
+    "meaningMM": "ကျွန်ုပ်တို့၏ကုမ္ပဏီ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "勧誘",
+    "reading": "かんゆう",
+    "meaningEN": "invitation; solicitation; canvassing",
+    "meaningMM": "ဖိတ်ခေါ်ခြင်း; တိုက်တွန်းခြင်း; စည်းရုံးခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "危うく",
+    "reading": "あやうく",
+    "meaningEN": "narrowly; barely; almost",
+    "meaningMM": "မမြဲမတည်; မဖြစ်စလောက်; နီးပါး",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "自己ベスト",
+    "reading": "じこベスト",
+    "meaningEN": "personal best",
+    "meaningMM": "ကိုယ်ပိုင်အကောင်းဆုံးမှတ်တမ်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "好成績",
+    "reading": "こうせいせき",
+    "meaningEN": "good results; excellent performance",
+    "meaningMM": "ကောင်းမွန်သောရလဒ်; ထူးချွန်သောစွမ်းဆောင်ရည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "収める",
+    "reading": "おさめる",
+    "meaningEN": "to obtain; to achieve; to store",
+    "meaningMM": "ရရှိသည်; အောင်မြင်သည်; သိုလှောင်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "自戒",
+    "reading": "じかい",
+    "meaningEN": "self-admonition; self-reproof",
+    "meaningMM": "မိမိကိုယ်ကိုဆုံးမခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "問いかける",
+    "reading": "といかける",
+    "meaningEN": "to ask a question; to pose a question",
+    "meaningMM": "မေးခွန်းမေးသည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "史資料",
+    "reading": "ししりょう",
+    "meaningEN": "historical materials",
+    "meaningMM": "သမိုင်းဆိုင်ရာအထောက်အထားများ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "遺物",
+    "reading": "いぶつ",
+    "meaningEN": "relic; remains; artifact",
+    "meaningMM": "ရှေးဟောင်းပစ္စည်း; ကျန်ရှိသောအရာ; လက်ရာပစ္စည်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "構築",
+    "reading": "こうちく",
+    "meaningEN": "construction; building; framework",
+    "meaningMM": "ဆောက်လုပ်ခြင်း; တည်ဆောက်ခြင်း; ဘောင်ခတ်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "度外視",
+    "reading": "どがいし",
+    "meaningEN": "ignoring; disregarding",
+    "meaningMM": "လျစ်လျူရှုခြင်း; ပစ်ပယ်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "撤廃",
+    "reading": "てっぱい",
+    "meaningEN": "abolition; withdrawal",
+    "meaningMM": "ဖျက်သိမ်းခြင်း; ရုပ်သိမ်းခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "攪乱",
+    "reading": "かくらん",
+    "meaningEN": "disturbance; disruption; agitation",
+    "meaningMM": "နှောင့်ယှက်ခြင်း; ဖျက်ဆီးခြင်း; လှုပ်ရှားခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "衝突",
+    "reading": "しょうとつ",
+    "meaningEN": "collision; conflict; crash",
+    "meaningMM": "တိုက်မိခြင်း; ပဋိပက္ခ; ထိပ်တိုက်တွေ့ဆုံခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "破砕物",
+    "reading": "はさいぶつ",
+    "meaningEN": "crushed material; debris",
+    "meaningMM": "ကြေမွနေသောပစ္စည်း; အပျက်အစီးများ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "浮遊",
+    "reading": "ふゆう",
+    "meaningEN": "floating; suspension",
+    "meaningMM": "မျောလွင့်ခြင်း; ဆိုင်းငံ့ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "寒冷化",
+    "reading": "かんれいか",
+    "meaningEN": "cooling (climate)",
+    "meaningMM": "အေးမြလာခြင်း (ရာသီဥတု)",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "優占",
+    "reading": "ゆうせん",
+    "meaningEN": "dominance; prevalence",
+    "meaningMM": "လွှမ်းမိုးခြင်း; ပျံ့နှံ့ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "打たれ強い",
+    "reading": "うたれづよい",
+    "meaningEN": "resilient; tough; able to take a beating",
+    "meaningMM": "ခံနိုင်ရည်ရှိသော; ကြမ်းတမ်းသော; ဒဏ်ခံနိုင်သော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "繁栄",
+    "reading": "はんえい",
+    "meaningEN": "prosperity; flourishing",
+    "meaningMM": "သာယာဝပြောခြင်း; ကြီးပွားခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "食物連鎖",
+    "reading": "しょくもつれんさ",
+    "meaningEN": "food chain",
+    "meaningMM": "အစားအစာကွင်းဆက်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "無我夢中",
+    "reading": "むがむちゅう",
+    "meaningEN": "being engrossed; being absorbed; ecstasy",
+    "meaningMM": "နစ်မြုပ်နေခြင်း; စွဲလမ်းနေခြင်း; ပီတိဖြစ်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "没する",
+    "reading": "ぼっする",
+    "meaningEN": "to sink; to set; to disappear",
+    "meaningMM": "နစ်မြုပ်သည်; ကျဆင်းသည်; ပျောက်ကွယ်သည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "惑わされる",
+    "reading": "まどわされる",
+    "meaningEN": "to be misled; to be confused",
+    "meaningMM": "လှည့်စားခံရသည်; ရှုပ်ထွေးသွားသည်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "多岐",
+    "reading": "たき",
+    "meaningEN": "many-sided; diverse",
+    "meaningMM": "ဘက်ပေါင်းစုံ; ကွဲပြားသော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "的確",
+    "reading": "てきかく",
+    "meaningEN": "accurate; precise; exact",
+    "meaningMM": "တိကျသော; စေ့စပ်သော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "婉曲",
+    "reading": "えんきょく",
+    "meaningEN": "euphemistic; indirect; circumlocutory",
+    "meaningMM": "ယဉ်ကျေးသော; သွယ်ဝိုက်သော; စကားလုံးရှည်လျားသော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "合理的",
+    "reading": "ごうりてき",
+    "meaningEN": "rational; reasonable; logical",
+    "meaningMM": "ကျိုးကြောင်းဆီလျော်သော; သင့်လျော်သော; ယုတ္တိတန်သော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "迅速",
+    "reading": "じんそく",
+    "meaningEN": "quick; prompt; speedy",
+    "meaningMM": "လျင်မြန်သော; ချက်ချင်း; အမြန်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "瞬時",
+    "reading": "しゅんじ",
+    "meaningEN": "instant; moment",
+    "meaningMM": "ချက်ချင်း; တခဏ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "多角",
+    "reading": "たかく",
+    "meaningEN": "multi-faceted; polygonal; diversified",
+    "meaningMM": "ဘက်ပေါင်းစုံ; များစွာသောဘက်ခြမ်း; ကွဲပြားခြားနားသော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "没入",
+    "reading": "ぼつにゅう",
+    "meaningEN": "immersion; absorption",
+    "meaningMM": "နှစ်မြှုပ်ခြင်း; စုပ်ယူခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "寄る辺ない",
+    "reading": "よるべない",
+    "meaningEN": "helpless; forlorn; without a place to turn to",
+    "meaningMM": "အားကိုးရာမဲ့; တစ်ယောက်တည်း; လှည့်စရာနေရာမရှိ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "払拭",
+    "reading": "ふっしょく",
+    "meaningEN": "wiping out; eradication; dispelling",
+    "meaningMM": "သုတ်သင်ရှင်းလင်းခြင်း; ဖျက်သိမ်းခြင်း; ပယ်ဖျက်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "源泉",
+    "reading": "げんせん",
+    "meaningEN": "source; origin; spring",
+    "meaningMM": "ရင်းမြစ်; မူလ; ရေပူစမ်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "悦ばしい",
+    "reading": "よろこばしい",
+    "meaningEN": "joyful; delightful; gratifying",
+    "meaningMM": "ဝမ်းမြောက်ဖွယ်; နှစ်သက်ဖွယ်; ကျေနပ်ဖွယ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "留意",
+    "reading": "りゅうい",
+    "meaningEN": "paying attention; taking notice; heed",
+    "meaningMM": "အာရုံစိုက်ခြင်း; သတိပြုခြင်း; ဂရုစိုက်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "先着順",
+    "reading": "せんちゃくじゅん",
+    "meaningEN": "first-come, first-served basis",
+    "meaningMM": "ပထမဆုံးရောက်သူ ဦးစားပေးစနစ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "再募集",
+    "reading": "さいぼしゅう",
+    "meaningEN": "re-recruitment; re-application",
+    "meaningMM": "ပြန်လည်ခေါ်ယူခြင်း; ပြန်လည်လျှောက်ထားခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "労苦",
+    "reading": "ろうく",
+    "meaningEN": "hardship; toil; trouble",
+    "meaningMM": "ဒုက္ခ; ပင်ပန်းဆင်းရဲခြင်း; အခက်အခဲ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "転化",
+    "reading": "てんか",
+    "meaningEN": "conversion; change; transformation",
+    "meaningMM": "ပြောင်းလဲခြင်း; ပြောင်းလဲမှု; ပုံပြောင်းလဲခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "苦役",
+    "reading": "くえき",
+    "meaningEN": "hard labor; drudgery",
+    "meaningMM": "ခက်ခဲသောအလုပ်; ပင်ပန်းသောအလုပ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "情報化社会",
+    "reading": "じょうほうかしゃかい",
+    "meaningEN": "information society",
+    "meaningMM": "သတင်းအချက်အလက်ခေတ်လူ့ဘောင်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "ジレンマ",
+    "reading": "ジレンマ",
+    "meaningEN": "dilemma",
+    "meaningMM": "ဒုက္ခိတ;  dillema",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "包括",
+    "reading": "ほうかつ",
+    "meaningEN": "inclusion; comprehension; covering",
+    "meaningMM": "ပါဝင်ခြင်း; နားလည်ခြင်း; ဖုံးအုပ်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "優劣",
+    "reading": "ゆうれつ",
+    "meaningEN": "superiority and inferiority; relative merits",
+    "meaningMM": "သာလွန်မှုနှင့် နိမ့်ကျမှု; ဆွေမျိုးသားချင်းများ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "手がかり",
+    "reading": "てがかり",
+    "meaningEN": "clue; hint; key",
+    "meaningMM": "သဲလွန်စ; အရိပ်အမြွက်; သော့ချက်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "軽減",
+    "reading": "けいげん",
+    "meaningEN": "reduction; alleviation; mitigation",
+    "meaningMM": "လျှော့ချခြင်း; သက်သာစေခြင်း; လျှော့ပေါ့ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "領分",
+    "reading": "りょうぶん",
+    "meaningEN": "domain; territory; sphere",
+    "meaningMM": "နယ်ပယ်; နယ်မြေ; အပိုင်းအခြား",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "人里",
+    "reading": "ひとざと",
+    "meaningEN": "human habitation; village",
+    "meaningMM": "လူနေအိမ်ခြေ; ရွာ",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "出没",
+    "reading": "しゅつぼつ",
+    "meaningEN": "appearance and disappearance; frequenting",
+    "meaningMM": "ပေါ်လာခြင်းနှင့် ပျောက်ကွယ်သွားခြင်း; မကြာခဏသွားလာခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "豊凶",
+    "reading": "ほうきょう",
+    "meaningEN": "good or bad harvest",
+    "meaningMM": "သီးနှံကောင်းခြင်း သို့မဟုတ် မကောင်းခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "餌付け",
+    "reading": "えづけ",
+    "meaningEN": "feeding (animals to tame them)",
+    "meaningMM": "အစာကျွေးခြင်း (တိရစ္ဆာန်များကို ယဉ်ပါးစေရန်)",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "共存",
+    "reading": "きょうそん",
+    "meaningEN": "coexistence",
+    "meaningMM": "အတူယှဉ်တွဲနေထိုင်ခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "生態系",
+    "reading": "せいたいけい",
+    "meaningEN": "ecosystem",
+    "meaningMM": "ဂေဟစနစ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "惑星",
+    "reading": "わくせい",
+    "meaningEN": "planet",
+    "meaningMM": "ဂြိုဟ်",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "絶滅",
+    "reading": "ぜつめつ",
+    "meaningEN": "extinction",
+    "meaningMM": "မျိုးသုဉ်းခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "多様",
+    "reading": "たよう",
+    "meaningEN": "diverse; varied",
+    "meaningMM": "ကွဲပြားသော; အမျိုးမျိုးသော",
+    "level": "N1",
+    "date": "2019/7"
+  },
+  {
+    "word": "繁栄",
+    "reading": "はんえい",
+    "meaningEN": "prosperity; flourishing",
+    "meaningMM": "သာယာဝပြောခြင်း; ကြီးပွားခြင်း",
+    "level": "N1",
+    "date": "2019/7"
+  }
+]

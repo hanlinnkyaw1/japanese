@@ -1,0 +1,1346 @@
+[
+  {
+    "word": "復習",
+    "reading": "ふくしゅう",
+    "meaningEN": "review",
+    "meaningMM": "ပြန်လည်လေ့လာခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "小型",
+    "reading": "こがた",
+    "meaningEN": "small-sized",
+    "meaningMM": "အရွယ်အစားသေးငယ်သော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "理由",
+    "reading": "りゆう",
+    "meaningEN": "reason",
+    "meaningMM": "အကြောင်းပြချက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "疑って",
+    "reading": "うたがって",
+    "meaningEN": "to doubt; to suspect",
+    "meaningMM": "သံသယရှိသည်; မသင်္ကာဖြစ်သည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "細く",
+    "reading": "ほそく",
+    "meaningEN": "thin; narrow",
+    "meaningMM": "ပါးလွှာသော; ကျဉ်းမြောင်းသော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "退院",
+    "reading": "たいいん",
+    "meaningEN": "discharge from hospital",
+    "meaningMM": "ဆေးရုံမှဆင်းခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "夫婦",
+    "reading": "ふうふ",
+    "meaningEN": "married couple",
+    "meaningMM": "လင်မယား",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "留守",
+    "reading": "るす",
+    "meaningEN": "absence; being away from home",
+    "meaningMM": "မရှိခြင်း; အိမ်မှခဏတာထွက်ခွာခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "高価な",
+    "reading": "こうかな",
+    "meaningEN": "expensive",
+    "meaningMM": "စျေးကြီးသော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "花瓶",
+    "reading": "かびん",
+    "meaningEN": "flower vase",
+    "meaningMM": "ပန်းအိုး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "短気",
+    "reading": "たんき",
+    "meaningEN": "short temper",
+    "meaningMM": "စိတ်တိုခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "心配",
+    "reading": "しんぱい",
+    "meaningEN": "worry; concern",
+    "meaningMM": "စိုးရိမ်ပူပန်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "焼いて",
+    "reading": "やいて",
+    "meaningEN": "to bake; to grill; to burn",
+    "meaningMM": "ဖုတ်သည်; ကင်သည်; မီးရှို့သည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "必ず",
+    "reading": "かならず",
+    "meaningEN": "surely; without fail",
+    "meaningMM": "ဧကန်မလွဲ; မပျက်မကွက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "制服",
+    "reading": "せいふく",
+    "meaningEN": "uniform",
+    "meaningMM": "ယူနီဖောင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "薬局",
+    "reading": "やっきょく",
+    "meaningEN": "pharmacy",
+    "meaningMM": "ဆေးဆိုင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "平気",
+    "reading": "へいき",
+    "meaningEN": "calm; all right",
+    "meaningMM": "စိတ်အေးလက်အေး; အဆင်ပြေသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "疲れている",
+    "reading": "つかれている",
+    "meaningEN": "tired",
+    "meaningMM": "ပင်ပန်းနေသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "面倒くさい",
+    "reading": "めんどうくさい",
+    "meaningEN": "troublesome; bothersome",
+    "meaningMM": "စိတ်ရှုပ်စရာကောင်းသော; ဒုက္ခပေးသော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "夕飯",
+    "reading": "ゆうはん",
+    "meaningEN": "dinner",
+    "meaningMM": "ညစာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "外食",
+    "reading": "がいしょく",
+    "meaningEN": "eating out",
+    "meaningMM": "အပြင်မှာစားခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "眠くて",
+    "reading": "ねむくて",
+    "meaningEN": "sleepy",
+    "meaningMM": "အိပ်ချင်သော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "あくび",
+    "reading": "あくび",
+    "meaningEN": "yawn",
+    "meaningMM": "သမ်းဝေခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "テーマ",
+    "reading": "テーマ",
+    "meaningEN": "theme",
+    "meaningMM": "ခေါင်းစဉ်; အဓိကအကြောင်းအရာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "気温",
+    "reading": "きおん",
+    "meaningEN": "temperature",
+    "meaningMM": "အပူချိန်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "差",
+    "reading": "さ",
+    "meaningEN": "difference",
+    "meaningMM": "ကွာခြားချက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "うっかり",
+    "reading": "うっかり",
+    "meaningEN": "carelessly; by accident",
+    "meaningMM": "ပေါ့ဆစွာ; မတော်တဆ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "空席",
+    "reading": "くうせき",
+    "meaningEN": "empty seat",
+    "meaningMM": "နေရာလွတ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaningEN": "reservation",
+    "meaningMM": "ကြိုတင်မှာကြားခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "可能",
+    "reading": "かのう",
+    "meaningEN": "possible",
+    "meaningMM": "ဖြစ်နိုင်သော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "動作",
+    "reading": "どうさ",
+    "meaningEN": "action; movement; operation",
+    "meaningMM": "လုပ်ဆောင်ချက်; လှုပ်ရှားမှု; လည်ပတ်မှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "説明会",
+    "reading": "せつめいかい",
+    "meaningEN": "information session",
+    "meaningMM": "ရှင်းလင်းပွဲ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "期限",
+    "reading": "きげん",
+    "meaningEN": "deadline",
+    "meaningMM": "နောက်ဆုံးနေ့ရက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "恋しく",
+    "reading": "こいしく",
+    "meaningEN": "to miss; to long for",
+    "meaningMM": "လွမ်းဆွတ်သည်; တောင့်တသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "付き合って",
+    "reading": "つきあって",
+    "meaningEN": "to go out with; to keep company with",
+    "meaningMM": "ချိန်းတွေ့သည်; အဖော်လုပ်ပေးသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "家具",
+    "reading": "かぐ",
+    "meaningEN": "furniture",
+    "meaningMM": "ပရိဘောဂ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "暗記",
+    "reading": "あんき",
+    "meaningEN": "memorization",
+    "meaningMM": "အလွတ်ကျက်မှတ်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "得意な",
+    "reading": "とくいな",
+    "meaningEN": "good at; strong point",
+    "meaningMM": "ကျွမ်းကျင်သော; အားသာချက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "欠点",
+    "reading": "けってん",
+    "meaningEN": "fault; drawback",
+    "meaningMM": "အားနည်းချက်; ချို့ယွင်းချက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "怒らないで",
+    "reading": "おこらないで",
+    "meaningEN": "don't get angry",
+    "meaningMM": "စိတ်မဆိုးပါနဲ့",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaningEN": "progress; advance",
+    "meaningMM": "တိုးတက်မှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaningEN": "technology; skill",
+    "meaningMM": "နည်းပညာ; ကျွမ်းကျင်မှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "便利になった",
+    "reading": "べんりになった",
+    "meaningEN": "became convenient",
+    "meaningMM": "အဆင်ပြေလာသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "食欲",
+    "reading": "しょくよく",
+    "meaningEN": "appetite",
+    "meaningMM": "အစာစားချင်စိတ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "家賃",
+    "reading": "やちん",
+    "meaningEN": "rent",
+    "meaningMM": "အိမ်ငှားခ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "話しかける",
+    "reading": "はなしかける",
+    "meaningEN": "to speak to; to accost",
+    "meaningMM": "စကားပြောသည်; နှုတ်ဆက်သည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "観光客",
+    "reading": "かんこうきゃく",
+    "meaningEN": "tourist",
+    "meaningMM": "ခရီးသွား",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "お礼",
+    "reading": "おれい",
+    "meaningEN": "thanks; gratitude",
+    "meaningMM": "ကျေးဇူးတင်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "交流",
+    "reading": "こうりゅう",
+    "meaningEN": "exchange; interaction",
+    "meaningMM": "ဖလှယ်ခြင်း; အပြန်အလှန်ဆက်ဆံခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "機会",
+    "reading": "きかい",
+    "meaningEN": "opportunity",
+    "meaningMM": "အခွင့်အရေး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "渋滞",
+    "reading": "じゅうたい",
+    "meaningEN": "traffic jam; delay",
+    "meaningMM": "ယာဉ်ကြောပိတ်ဆို့မှု; ကြန့်ကြာမှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaningEN": "accident",
+    "meaningMM": "မတော်တဆမှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "遅刻",
+    "reading": "ちこく",
+    "meaningEN": "late arrival",
+    "meaningMM": "နောက်ကျခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "ストレス",
+    "reading": "ストレス",
+    "meaningEN": "stress",
+    "meaningMM": "စိတ်ဖိစီးမှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "商品",
+    "reading": "しょうひん",
+    "meaningEN": "product; goods",
+    "meaningMM": "ကုန်ပစ္စည်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "倉庫",
+    "reading": "そうこ",
+    "meaningEN": "warehouse",
+    "meaningMM": "ဂိုဒေါင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "にこにこ",
+    "reading": "にこにこ",
+    "meaningEN": "smilingly",
+    "meaningMM": "ပြုံးပြုံးလေး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "ガソリン",
+    "reading": "ガソリン",
+    "meaningEN": "gasoline; petrol",
+    "meaningMM": "ဓာတ်ဆီ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "途中で",
+    "reading": "とちゅうで",
+    "meaningEN": "on the way; halfway",
+    "meaningMM": "လမ်းတစ်ဝက်တွင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "具合",
+    "reading": "ぐあい",
+    "meaningEN": "condition; state",
+    "meaningMM": "အခြေအနေ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "祖母",
+    "reading": "そぼ",
+    "meaningEN": "grandmother",
+    "meaningMM": "အဘွား",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "歌手",
+    "reading": "かしゅ",
+    "meaningEN": "singer",
+    "meaningMM": "အဆိုတော်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "人気",
+    "reading": "にんき",
+    "meaningEN": "popularity",
+    "meaningMM": "နာမည်ကြီးမှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "中心",
+    "reading": "ちゅうしん",
+    "meaningEN": "center",
+    "meaningMM": "ဗဟို",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "調査",
+    "reading": "ちょうさ",
+    "meaningEN": "investigation; survey",
+    "meaningMM": "စုံစမ်းစစ်ဆေးခြင်း; စစ်တမ်းကောက်ယူခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaningEN": "result",
+    "meaningMM": "ရလဒ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaningEN": "habit",
+    "meaningMM": "အလေ့အထ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "読書",
+    "reading": "どくしょ",
+    "meaningEN": "reading books",
+    "meaningMM": "စာဖတ်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "減っている",
+    "reading": "へっている",
+    "meaningEN": "decreasing",
+    "meaningMM": "လျော့နည်းနေသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "誘われて",
+    "reading": "さそわれて",
+    "meaningEN": "invited",
+    "meaningMM": "ဖိတ်ကြားခြင်းခံရသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "不動産屋",
+    "reading": "ふどうさんや",
+    "meaningEN": "real estate agent",
+    "meaningMM": "အိမ်ခြံမြေအကျိုးဆောင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "店員",
+    "reading": "てんいん",
+    "meaningEN": "shop assistant",
+    "meaningMM": "ဆိုင်ဝန်ထမ်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "お客様",
+    "reading": "おきゃくさま",
+    "meaningEN": "customer; guest",
+    "meaningMM": "ဧည့်သည်; ဖောက်သည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "慌てて",
+    "reading": "あわてて",
+    "meaningEN": "in a hurry; flustered",
+    "meaningMM": "အလောတကြီး; စိတ်လှုပ်ရှားစွာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaningEN": "coffee shop",
+    "meaningMM": "ကော်ဖီဆိုင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "受付",
+    "reading": "うけつけ",
+    "meaningEN": "reception",
+    "meaningMM": "ဧည့်ကြို",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "診察室",
+    "reading": "しんさつしつ",
+    "meaningEN": "examination room",
+    "meaningMM": "စစ်ဆေးခန်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "遅れた",
+    "reading": "おくれた",
+    "meaningEN": "late",
+    "meaningMM": "နောက်ကျသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "テキスト",
+    "reading": "テキスト",
+    "meaningEN": "textbook",
+    "meaningMM": "စာအုပ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "夢",
+    "reading": "ゆめ",
+    "meaningEN": "dream",
+    "meaningMM": "အိပ်မက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "ケーキ屋",
+    "reading": "ケーキや",
+    "meaningEN": "cake shop",
+    "meaningMM": "ကိတ်ဆိုင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "妻",
+    "reading": "つま",
+    "meaningEN": "wife",
+    "meaningMM": "ဇနီး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "先輩",
+    "reading": "せんぱい",
+    "meaningEN": "senior",
+    "meaningMM": "အကြီးတန်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "カフェ",
+    "reading": "カフェ",
+    "meaningEN": "cafe",
+    "meaningMM": "ကဖေး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "美容院",
+    "reading": "びよういん",
+    "meaningEN": "beauty salon",
+    "meaningMM": "အလှပြင်ဆိုင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "髪",
+    "reading": "かみ",
+    "meaningEN": "hair",
+    "meaningMM": "ဆံပင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "目の疲れ",
+    "reading": "めのつかれ",
+    "meaningEN": "eye strain",
+    "meaningMM": "မျက်လုံးပင်ပန်းခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaningEN": "cause",
+    "meaningMM": "အကြောင်းရင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "頭が痛くなる",
+    "reading": "あたまがいたくなる",
+    "meaningEN": "to get a headache",
+    "meaningMM": "ခေါင်းကိုက်လာသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meaningEN": "practice",
+    "meaningMM": "လေ့ကျင့်ခန်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "失敗",
+    "reading": "しっぱい",
+    "meaningEN": "failure; mistake",
+    "meaningMM": "ကျရှုံးခြင်း; အမှား",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "繰り返さない",
+    "reading": "くりかえさない",
+    "meaningEN": "not to repeat",
+    "meaningMM": "မထပ်ခါတလဲလဲလုပ်ရန်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaningEN": "birthday",
+    "meaningMM": "မွေးနေ့",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "プレゼント",
+    "reading": "プレゼント",
+    "meaningEN": "present",
+    "meaningMM": "လက်ဆောင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "タオル",
+    "reading": "タオル",
+    "meaningEN": "towel",
+    "meaningMM": "သဘက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "講演会",
+    "reading": "こうえんかい",
+    "meaningEN": "lecture meeting",
+    "meaningMM": "ဟောပြောပွဲ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "司会者",
+    "reading": "しかいしゃ",
+    "meaningEN": "moderator; host",
+    "meaningMM": "အစီအစဉ်တင်ဆက်သူ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "専門家",
+    "reading": "せんもんか",
+    "meaningEN": "specialist; expert",
+    "meaningMM": "ကျွမ်းကျင်သူ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "都会",
+    "reading": "とかい",
+    "meaningEN": "city",
+    "meaningMM": "မြို့ကြီး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "留学生",
+    "reading": "りゅうがくせい",
+    "meaningEN": "international student",
+    "meaningMM": "နိုင်ငံခြားကျောင်းသား",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaningEN": "essay; composition",
+    "meaningMM": "စာစီစာကုံး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "仲間",
+    "reading": "なかま",
+    "meaningEN": "colleague; comrade",
+    "meaningMM": "လုပ်ဖော်ကိုင်ဖက်; အပေါင်းအသင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "アルバイト",
+    "reading": "アルバイト",
+    "meaningEN": "part-time job",
+    "meaningMM": "အချိန်ပိုင်းအလုပ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "親切",
+    "reading": "しんせつ",
+    "meaningEN": "kindness",
+    "meaningMM": "ကြင်နာမှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "困っている",
+    "reading": "こまっている",
+    "meaningEN": "in trouble; distressed",
+    "meaningMM": "ဒုက္ခရောက်နေသည်; စိတ်မချမ်းမသာဖြစ်နေသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "店長",
+    "reading": "てんちょう",
+    "meaningEN": "store manager",
+    "meaningMM": "ဆိုင်မန်နေဂျာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "全員",
+    "reading": "ぜんいん",
+    "meaningEN": "all members",
+    "meaningMM": "လူအားလုံး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meaningEN": "gratitude",
+    "meaningMM": "ကျေးဇူးတင်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "応援",
+    "reading": "おうえん",
+    "meaningEN": "support; cheer",
+    "meaningMM": "ပံ့ပိုးမှု; အားပေးမှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "飾って",
+    "reading": "かざって",
+    "meaningEN": "to decorate",
+    "meaningMM": "အလှဆင်သည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaningEN": "lively; healthy",
+    "meaningMM": "တက်ကြွသော; ကျန်းမာသော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "ホテル",
+    "reading": "ホテル",
+    "meaningEN": "hotel",
+    "meaningMM": "ဟိုတယ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "フロント",
+    "reading": "フロント",
+    "meaningEN": "front desk",
+    "meaningMM": "ဧည့်ကြိုကောင်တာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "夏祭り",
+    "reading": "なつまつり",
+    "meaningEN": "summer festival",
+    "meaningMM": "နွေရာသီပွဲတော်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaningEN": "park",
+    "meaningMM": "ပန်းခြံ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "会場",
+    "reading": "かいじょう",
+    "meaningEN": "venue",
+    "meaningMM": "ပွဲကျင်းပရာနေရာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "浴衣",
+    "reading": "ゆかた",
+    "meaningEN": "yukata (casual summer kimono)",
+    "meaningMM": "ယူကာတာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "ドリンク",
+    "reading": "ドリンク",
+    "meaningEN": "drink",
+    "meaningMM": "အချိုရည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "帯",
+    "reading": "おび",
+    "meaningEN": "sash; belt (for kimono)",
+    "meaningMM": "ခါးပတ် (ကီမိုနိုအတွက်)",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "特別料金",
+    "reading": "とくべつりょうきん",
+    "meaningEN": "special price",
+    "meaningMM": "အထူးစျေးနှုန်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "お貸しします",
+    "reading": "おかしします",
+    "meaningEN": "to lend (polite)",
+    "meaningMM": "ငှားပေးသည် (ယဉ်ကျေးသော)",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "帰国",
+    "reading": "きこく",
+    "meaningEN": "return to one's country",
+    "meaningMM": "မိမိနိုင်ငံသို့ပြန်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "知り合い",
+    "reading": "しりあい",
+    "meaningEN": "acquaintance",
+    "meaningMM": "အသိအကျွမ်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "数学",
+    "reading": "すうがく",
+    "meaningEN": "mathematics",
+    "meaningMM": "သင်္ချာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "実家",
+    "reading": "じっか",
+    "meaningEN": "one's parents' home",
+    "meaningMM": "မိဘအိမ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "整理",
+    "reading": "せいり",
+    "meaningEN": "arrangement; organization",
+    "meaningMM": "စီစဉ်ခြင်း; စုစည်းခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaningEN": "cleaning",
+    "meaningMM": "သန့်ရှင်းရေးလုပ်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "驚いた",
+    "reading": "おどろいた",
+    "meaningEN": "surprised",
+    "meaningMM": "အံ့သြသွားသည်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "招待券",
+    "reading": "しょうたいけん",
+    "meaningEN": "invitation ticket",
+    "meaningMM": "ဖိတ်ကြားလွှာလက်မှတ်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "試合",
+    "reading": "しあい",
+    "meaningEN": "match; game",
+    "meaningMM": "ပွဲစဉ်; အားကစားပွဲ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "日時",
+    "reading": "にちじ",
+    "meaningEN": "date and time",
+    "meaningMM": "နေ့ရက်နှင့်အချိန်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "集合",
+    "reading": "しゅうごう",
+    "meaningEN": "gathering; assembly",
+    "meaningMM": "စုဝေးခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "服装",
+    "reading": "ふくそう",
+    "meaningEN": "clothing; attire",
+    "meaningMM": "အဝတ်အစား",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "実験",
+    "reading": "じっけん",
+    "meaningEN": "experiment",
+    "meaningMM": "စမ်းသပ်မှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "研究者",
+    "reading": "けんきゅうしゃ",
+    "meaningEN": "researcher",
+    "meaningMM": "သုတေသီ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "汚れ",
+    "reading": "よごれ",
+    "meaningEN": "dirt; stain",
+    "meaningMM": "အညစ်အကြေး; အစွန်းအထင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "鏡",
+    "reading": "かがみ",
+    "meaningEN": "mirror",
+    "meaningMM": "မှန်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "確認",
+    "reading": "かくにん",
+    "meaningEN": "confirmation",
+    "meaningMM": "အတည်ပြုခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "運転",
+    "reading": "うんてん",
+    "meaningEN": "driving",
+    "meaningMM": "မောင်းနှင်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "自信",
+    "reading": "じしん",
+    "meaningEN": "confidence",
+    "meaningMM": "ယုံကြည်မှု",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "不安",
+    "reading": "ふあん",
+    "meaningEN": "anxiety; uneasy",
+    "meaningMM": "စိုးရိမ်ပူပန်မှု; စိတ်မချမ်းမသာဖြစ်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "車庫",
+    "reading": "しゃこ",
+    "meaningEN": "garage",
+    "meaningMM": "ကားဂိုဒေါင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "丘",
+    "reading": "おか",
+    "meaningEN": "hill",
+    "meaningMM": "တောင်ကုန်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "坂",
+    "reading": "さか",
+    "meaningEN": "slope; hill",
+    "meaningMM": "ဆင်ခြေလျှော; တောင်ကုန်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "運動不足",
+    "reading": "うんどうぶそく",
+    "meaningEN": "lack of exercise",
+    "meaningMM": "လေ့ကျင့်ခန်းမလုပ်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "引っ越し",
+    "reading": "ひっこし",
+    "meaningEN": "moving (house)",
+    "meaningMM": "အိမ်ပြောင်းရွှေ့ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "近所",
+    "reading": "きんじょ",
+    "meaningEN": "neighborhood",
+    "meaningMM": "ပတ်ဝန်းကျင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "インターネット",
+    "reading": "インターネット",
+    "meaningEN": "internet",
+    "meaningMM": "အင်တာနက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "配達料",
+    "reading": "はいたつりょう",
+    "meaningEN": "delivery fee",
+    "meaningMM": "ပို့ဆောင်ခ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "重要",
+    "reading": "じゅうよう",
+    "meaningEN": "important",
+    "meaningMM": "အရေးကြီးသော",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaningEN": "environment",
+    "meaningMM": "ပတ်ဝန်းကျင်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "経営者",
+    "reading": "けいえいしゃ",
+    "meaningEN": "manager; executive",
+    "meaningMM": "မန်နေဂျာ; အုပ်ချုပ်သူ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "相談",
+    "reading": "そうだん",
+    "meaningEN": "consultation",
+    "meaningMM": "တိုင်ပင်ခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "解決",
+    "reading": "かいけつ",
+    "meaningEN": "solution",
+    "meaningMM": "ဖြေရှင်းချက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "社長",
+    "reading": "しゃちょう",
+    "meaningEN": "company president",
+    "meaningMM": "ကုမ္ပဏီဥက္ကဋ္ဌ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "観察",
+    "reading": "かんさつ",
+    "meaningEN": "observation",
+    "meaningMM": "လေ့လာခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "意見",
+    "reading": "いけん",
+    "meaningEN": "opinion",
+    "meaningMM": "ထင်မြင်ချက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "確認",
+    "reading": "かくにん",
+    "meaningEN": "confirmation",
+    "meaningMM": "အတည်ပြုခြင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "姿勢",
+    "reading": "しせい",
+    "meaningEN": "attitude; posture",
+    "meaningMM": "သဘောထား; ကိုယ်ဟန်အနေအထား",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "ホームページ",
+    "reading": "ホームページ",
+    "meaningEN": "homepage",
+    "meaningMM": "ပင်မစာမျက်နှာ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "休暇",
+    "reading": "きゅうか",
+    "meaningEN": "holiday; vacation",
+    "meaningMM": "အားလပ်ရက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "平日",
+    "reading": "へいじつ",
+    "meaningEN": "weekday",
+    "meaningMM": "ရက်သတ္တပတ်၏ရက်များ",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "営業",
+    "reading": "えいぎょう",
+    "meaningEN": "business; sales",
+    "meaningMM": "လုပ်ငန်း; အရောင်း",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "メニュー",
+    "reading": "メニュー",
+    "meaningEN": "menu",
+    "meaningMM": "မီနူး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "祝日",
+    "reading": "しゅくじつ",
+    "meaningEN": "public holiday",
+    "meaningMM": "အစိုးရရုံးပိတ်ရက်",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "最少",
+    "reading": "さいしょう",
+    "meaningEN": "minimum",
+    "meaningMM": "အနည်းဆုံး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "最大",
+    "reading": "さいだい",
+    "meaningEN": "maximum",
+    "meaningMM": "အများဆုံး",
+    "level": "N3",
+    "date": "2023/7"
+  },
+  {
+    "word": "連絡先",
+    "reading": "れんらくさき",
+    "meaningEN": "contact information",
+    "meaningMM": "ဆက်သွယ်ရန်အချက်အလက်",
+    "level": "N3",
+    "date": "2023/7"
+  }
+]

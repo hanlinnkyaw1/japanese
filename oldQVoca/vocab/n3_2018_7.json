@@ -1,0 +1,730 @@
+[
+  {
+    "word": "塩",
+    "reading": "しお",
+    "meaningEN": "salt",
+    "meaningMM": "ဆား",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaningEN": "kitchen",
+    "meaningMM": "မီးဖိုချောင်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "命令",
+    "reading": "めいれい",
+    "meaningEN": "order, command",
+    "meaningMM": "အမိန့်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "恋しい",
+    "reading": "こいしい",
+    "meaningEN": "longed for; missed",
+    "meaningMM": "လွမ်းဆွတ်သော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "機械",
+    "reading": "きかい",
+    "meaningEN": "machine",
+    "meaningMM": "စက်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "故障",
+    "reading": "こしょう",
+    "meaningEN": "breakdown; failure",
+    "meaningMM": "ချို့ယွင်းချက်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "休日",
+    "reading": "きゅうじつ",
+    "meaningEN": "holiday; day off",
+    "meaningMM": "အားလပ်ရက်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "部分",
+    "reading": "ぶぶん",
+    "meaningEN": "part; section",
+    "meaningMM": "အပိုင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "疑う",
+    "reading": "うたがう",
+    "meaningEN": "to doubt; to suspect",
+    "meaningMM": "သံသယဝင်သည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "得意",
+    "reading": "とくい",
+    "meaningEN": "good at; strong point",
+    "meaningMM": "ကျွမ်းကျင်သော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "疲れ",
+    "reading": "つかれ",
+    "meaningEN": "fatigue; tiredness",
+    "meaningMM": "ပင်ပန်းနွမ်းနယ်မှု",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "泣かないで",
+    "reading": "なかないで",
+    "meaningEN": "Don't cry",
+    "meaningMM": "မငိုပါနဲ့",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meaningEN": "complicated",
+    "meaningMM": "ရှုပ်ထွေးသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "当たる",
+    "reading": "あたる",
+    "meaningEN": "to hit",
+    "meaningMM": "ထိမှန်သည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "右折",
+    "reading": "うせつ",
+    "meaningEN": "right turn",
+    "meaningMM": "ညာဘက်ကွေ့",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "帰宅",
+    "reading": "きたく",
+    "meaningEN": "returning home",
+    "meaningMM": "အိမ်ပြန်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "利用",
+    "reading": "りよう",
+    "meaningEN": "use; utilization",
+    "meaningMM": "အသုံးပြုခြင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "meaningEN": "electricity",
+    "meaningMM": "လျှပ်စစ်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "エネルギー",
+    "reading": "エネルギー",
+    "meaningEN": "energy",
+    "meaningMM": "စွမ်းအင်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "想像",
+    "reading": "そうぞう",
+    "meaningEN": "imagination; guess",
+    "meaningMM": "စိတ်ကူးခြင်း; ခန့်မှန်းခြင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "観察",
+    "reading": "かんさつ",
+    "meaningEN": "observation",
+    "meaningMM": "လေ့လာခြင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "期待",
+    "reading": "きたい",
+    "meaningEN": "expectation; hope",
+    "meaningMM": "မျှော်လင့်ချက်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "確認",
+    "reading": "かくにん",
+    "meaningEN": "confirmation",
+    "meaningMM": "အတည်ပြုခြင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "友人",
+    "reading": "ゆうじん",
+    "meaningEN": "friend",
+    "meaningMM": "သူငယ်ချင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "待ち合わせる",
+    "reading": "まちあわせる",
+    "meaningEN": "to meet (by arrangement)",
+    "meaningMM": "ချိန်းဆိုတွေ့ဆုံသည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "講演会",
+    "reading": "こうえんかい",
+    "meaningEN": "lecture meeting",
+    "meaningMM": "ဟောပြောပွဲ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "会場",
+    "reading": "かいじょう",
+    "meaningEN": "venue",
+    "meaningMM": "ပွဲကျင်းပရာနေရာ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "制限",
+    "reading": "せいげん",
+    "meaningEN": "restriction; limitation",
+    "meaningMM": "ကန့်သတ်ချက်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "大人しい",
+    "reading": "おとなしい",
+    "meaningEN": "obedient; gentle",
+    "meaningMM": "အေးဆေးသော; နူးညံ့သော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "意外に",
+    "reading": "いがい に",
+    "meaningEN": "unexpectedly",
+    "meaningMM": "မမျှော်လင့်ဘဲ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "積極的",
+    "reading": "せっきょくてき",
+    "meaningEN": "positive; active",
+    "meaningMM": "တက်ကြွသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "経営",
+    "reading": "けいえい",
+    "meaningEN": "management; operation",
+    "meaningMM": "စီမံခန့်ခွဲမှု",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "太る",
+    "reading": "ふとる",
+    "meaningEN": "to get fat",
+    "meaningMM": "ဝလာသည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "きつい",
+    "reading": "きつい",
+    "meaningEN": "tight; difficult",
+    "meaningMM": "ကျပ်သော; ခက်ခဲသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "大雨",
+    "reading": "おおあめ",
+    "meaningEN": "heavy rain",
+    "meaningMM": "မိုးကြီးခြင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "溢れる",
+    "reading": "あふれる",
+    "meaningEN": "to overflow",
+    "meaningMM": "လျှံသည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "原料",
+    "reading": "げんりょう",
+    "meaningEN": "raw materials",
+    "meaningMM": "ကုန်ကြမ်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "栄養",
+    "reading": "えいよう",
+    "meaningEN": "nutrition",
+    "meaningMM": "အာဟာရ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "迷子",
+    "reading": "まいご",
+    "meaningEN": "lost child",
+    "meaningMM": "လမ်းပျောက်ကလေး",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "しっかり",
+    "reading": "しっかり",
+    "meaningEN": "firmly; tightly",
+    "meaningMM": "ခိုင်မြဲစွာ; တင်းကျပ်စွာ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "握る",
+    "reading": "にぎる",
+    "meaningEN": "to grasp; to hold",
+    "meaningMM": "ဆုပ်ကိုင်သည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "新鮮",
+    "reading": "しんせん",
+    "meaningEN": "fresh",
+    "meaningMM": "လတ်ဆတ်သော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "絞る",
+    "reading": "しぼる",
+    "meaningEN": "to squeeze",
+    "meaningMM": "ညှစ်သည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "団体",
+    "reading": "だんたい",
+    "meaningEN": "group; organization",
+    "meaningMM": "အဖွဲ့အစည်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "移動",
+    "reading": "いどう",
+    "meaningEN": "movement; transfer",
+    "meaningMM": "ရွေ့လျားခြင်း; ပြောင်းရွှေ့ခြင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "しゃべる",
+    "reading": "しゃべる",
+    "meaningEN": "to talk; to chat",
+    "meaningMM": "စကားပြောသည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "退屈",
+    "reading": "たいくつ",
+    "meaningEN": "boring; boredom",
+    "meaningMM": "ပျင်းရိဖွယ်; ပျင်းရိခြင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "多少",
+    "reading": "たしょう",
+    "meaningEN": "a little; somewhat",
+    "meaningMM": "အနည်းငယ်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "駆ける",
+    "reading": "かける",
+    "meaningEN": "to run; to gallop",
+    "meaningMM": "ပြေးသည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "距離",
+    "reading": "きょり",
+    "meaningEN": "distance",
+    "meaningMM": "အကွာအဝေး",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "活動",
+    "reading": "かつどう",
+    "meaningEN": "activity",
+    "meaningMM": "လှုပ်ရှားမှု",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "盛ん",
+    "reading": "さかん",
+    "meaningEN": "prosperous; thriving; popular",
+    "meaningMM": "ထွန်းကားသော; လူကြိုက်များသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "区別",
+    "reading": "くべつ",
+    "meaningEN": "distinction; differentiation",
+    "meaningMM": "ကွဲပြားခြားနားမှု",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "追いつく",
+    "reading": "おいつく",
+    "meaningEN": "to catch up with",
+    "meaningMM": "မီအောင်လိုက်သည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "過ごす",
+    "reading": "すごす",
+    "meaningEN": "to spend (time)",
+    "meaningMM": "အချိန်ကုန်ဆုံးသည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "割引",
+    "reading": "わりびき",
+    "meaningEN": "discount",
+    "meaningMM": "လျှော့စျေး",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "ぜっかく",
+    "reading": "せっかく",
+    "meaningEN": "with much effort; at great pains",
+    "meaningMM": "အားထုတ်ကြိုးပမ်း၍",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "必ずしも",
+    "reading": "かならずしも",
+    "meaningEN": "not necessarily",
+    "meaningMM": "အမြဲတမ်းမဟုတ်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "驚かれる",
+    "reading": "おどろかれる",
+    "meaningEN": "to be surprised",
+    "meaningMM": "အံ့သြခြင်းခံရသည်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaningEN": "difficult",
+    "meaningMM": "ခက်ခဲသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaningEN": "company",
+    "meaningMM": "ကုမ္ပဏီ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaningEN": "company",
+    "meaningMM": "ကုမ္ပဏီ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "差し上げます",
+    "reading": "さしあげます",
+    "meaningEN": "to give (humble)",
+    "meaningMM": "ပေးပါသည် (နှိမ့်ချသော)",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaningEN": "company",
+    "meaningMM": "ကုမ္ပဏီ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "出張",
+    "reading": "しゅっちょう",
+    "meaningEN": "business trip",
+    "meaningMM": "လုပ်ငန်းခရီး",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaningEN": "coffee shop",
+    "meaningMM": "ကော်ဖီဆိုင်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "種類",
+    "reading": "しゅるい",
+    "meaningEN": "type; kind",
+    "meaningMM": "အမျိုးအစား",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaningEN": "evening",
+    "meaningMM": "ညနေခင်း",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "営業部",
+    "reading": "えいぎょうぶ",
+    "meaningEN": "sales department",
+    "meaningMM": "အရောင်းဌာန",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaningEN": "park",
+    "meaningMM": "ဥယျာဉ်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "本当",
+    "reading": "ほんとう",
+    "meaningEN": "truth; real",
+    "meaningMM": "အမှန်တရား; အစစ်အမှန်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaningEN": "doctor",
+    "meaningMM": "ဆရာဝန်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaningEN": "medicine",
+    "meaningMM": "ဆေး",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "患者",
+    "reading": "かんじゃ",
+    "meaningEN": "patient",
+    "meaningMM": "လူနာ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "痛み",
+    "reading": "いたみ",
+    "meaningEN": "pain",
+    "meaningMM": "နာကျင်မှု",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "人生",
+    "reading": "じんせい",
+    "meaningEN": "life",
+    "meaningMM": "ဘဝ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "幸せ",
+    "reading": "しあわせ",
+    "meaningEN": "happiness",
+    "meaningMM": "ပျော်ရွှင်မှု",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaningEN": "movie",
+    "meaningMM": "ရုပ်ရှင်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "感動",
+    "reading": "かんどう",
+    "meaningEN": "impression; emotion",
+    "meaningMM": "ခံစားမှု; စိတ်လှုပ်ရှားမှု",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaningEN": "new",
+    "meaningMM": "အသစ်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaningEN": "convenient",
+    "meaningMM": "အဆင်ပြေသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "うるさい",
+    "reading": "うるさい",
+    "meaningEN": "noisy; annoying",
+    "meaningMM": "ဆူညံသော; စိတ်အနှောင့်အယှက်ဖြစ်စေသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "特",
+    "reading": "とく",
+    "meaningEN": "special",
+    "meaningMM": "အထူး",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaningEN": "composition; essay",
+    "meaningMM": "စာစီစာကုံး",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "苦手",
+    "reading": "にがて",
+    "meaningEN": "poor at; weak in",
+    "meaningMM": "မကျွမ်းကျင်သော; အားနည်းသော",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "専門店",
+    "reading": "せんもんてん",
+    "meaningEN": "specialty store",
+    "meaningMM": "အထူးပြုဆိုင်",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "長さ",
+    "reading": "ながさ",
+    "meaningEN": "length",
+    "meaningMM": "အလျား",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "太さ",
+    "reading": "ふとさ",
+    "meaningEN": "thickness",
+    "meaningMM": "အထူ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaningEN": "ingredients; materials",
+    "meaningMM": "ပါဝင်ပစ္စည်းများ; ပစ္စည်းများ",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "驚いて",
+    "reading": "おどろいて",
+    "meaningEN": "surprised",
+    "meaningMM": "အံ့သြ၍",
+    "level": "N3",
+    "date": "2018/7"
+  },
+  {
+    "word": "めんどうくさい",
+    "reading": "めんどうくさい",
+    "meaningEN": "troublesome; bothersome",
+    "meaningMM": "စိတ်ရှုပ်စရာကောင်းသော",
+    "level": "N3",
+    "date": "2018/7"
+  }
+]

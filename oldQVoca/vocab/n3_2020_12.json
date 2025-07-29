@@ -1,0 +1,650 @@
+[
+  {
+    "word": "調査",
+    "reading": "ちょうさ",
+    "meaningEN": "investigation; survey",
+    "meaningMM": "စုံစမ်းစစ်ဆေးခြင်း; စစ်တမ်းကောက်ယူခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "種類",
+    "reading": "しゅるい",
+    "meaningEN": "kind; sort; variety",
+    "meaningMM": "အမျိုးအစား",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "岩",
+    "reading": "いわ",
+    "meaningEN": "rock",
+    "meaningMM": "ကျောက်တုံး",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "交流",
+    "reading": "こうりゅう",
+    "meaningEN": "exchange; interaction",
+    "meaningMM": "ဖလှယ်ခြင်း; အပြန်အလှန်ဆက်ဆံခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "預ける",
+    "reading": "あずける",
+    "meaningEN": "to entrust; to deposit",
+    "meaningMM": "အပ်နှံသည်; အပ်နှံထားသည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "普通",
+    "reading": "ふつう",
+    "meaningEN": "normal; ordinary; usually",
+    "meaningMM": "သာမန်; ပုံမှန်; များသောအားဖြင့်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "疑う",
+    "reading": "うたがう",
+    "meaningEN": "to doubt; to suspect",
+    "meaningMM": "သံသယဝင်သည်; မသင်္ကာဖြစ်သည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "留守",
+    "reading": "るす",
+    "meaningEN": "absence from home",
+    "meaningMM": "အိမ်မှာမရှိခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "逆",
+    "reading": "ぎゃく",
+    "meaningEN": "reverse; opposite",
+    "meaningMM": "ပြောင်းပြန်; ဆန့်ကျင်ဘက်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "低い",
+    "reading": "ひくい",
+    "meaningEN": "low",
+    "meaningMM": "နိမ့်သော",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "観察",
+    "reading": "かんさつ",
+    "meaningEN": "observation",
+    "meaningMM": "လေ့လာစောင့်ကြည့်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "泣く",
+    "reading": "なく",
+    "meaningEN": "to cry",
+    "meaningMM": "ငိုသည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "以降",
+    "reading": "いこう",
+    "meaningEN": "on and after; hereafter",
+    "meaningMM": "ထိုအချိန်မှစ၍; နောင်တွင်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meaningEN": "complex; complicated",
+    "meaningMM": "ရှုပ်ထွေးသော",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "案外",
+    "reading": "あんがい",
+    "meaningEN": "unexpectedly",
+    "meaningMM": "မထင်မှတ်ဘဲ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "偶然",
+    "reading": "ぐうぜん",
+    "meaningEN": "by chance; accidentally",
+    "meaningMM": "မတော်တဆ; တိုက်ဆိုင်စွာ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "ユーモア",
+    "reading": "ユーモア",
+    "meaningEN": "humor",
+    "meaningMM": "ဟာသဉာဏ်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaningEN": "hope; wish",
+    "meaningMM": "မျှော်လင့်ချက်; ဆန္ဒ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "登場",
+    "reading": "とうじょう",
+    "meaningEN": "entry; appearance (on stage, etc.)",
+    "meaningMM": "ပေါ်ထွက်လာခြင်း; ပါဝင်လာခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "ぴったり",
+    "reading": "ぴったり",
+    "meaningEN": "perfectly; exactly; snugly",
+    "meaningMM": "အတိအကျ; ကွက်တိ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "配達",
+    "reading": "はいたつ",
+    "meaningEN": "delivery",
+    "meaningMM": "ပို့ဆောင်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "引き受ける",
+    "reading": "ひきうける",
+    "meaningEN": "to undertake; to accept",
+    "meaningMM": "တာဝန်ယူသည်; လက်ခံသည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "比較",
+    "reading": "ひかく",
+    "meaningEN": "comparison",
+    "meaningMM": "နှိုင်းယှဉ်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "あくび",
+    "reading": "あくび",
+    "meaningEN": "yawn",
+    "meaningMM": "သမ်းဝေခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "文句",
+    "reading": "もんく",
+    "meaningEN": "complaint",
+    "meaningMM": "မကျေနပ်ချက်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "囲む",
+    "reading": "かこむ",
+    "meaningEN": "to surround",
+    "meaningMM": "ဝန်းရံသည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "価格",
+    "reading": "かかく",
+    "meaningEN": "price",
+    "meaningMM": "စျေးနှုန်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "楽な",
+    "reading": "らくな",
+    "meaningEN": "easy; comfortable",
+    "meaningMM": "လွယ်ကူသော; သက်သောင့်သက်သာရှိသော",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "回収",
+    "reading": "かいしゅう",
+    "meaningEN": "collection; recovery",
+    "meaningMM": "ပြန်လည်စုဆောင်းခြင်း; ပြန်လည်ရယူခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "姪",
+    "reading": "めい",
+    "meaningEN": "niece",
+    "meaningMM": "တူမ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "お小遣い",
+    "reading": "おこづかい",
+    "meaningEN": "pocket money; allowance",
+    "meaningMM": "မုန့်ဖိုး; စရိတ်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "割引",
+    "reading": "わりびき",
+    "meaningEN": "discount",
+    "meaningMM": "လျှော့စျေး",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "気づく",
+    "reading": "きづく",
+    "meaningEN": "to notice; to realize",
+    "meaningMM": "သတိထားမိသည်; သိရှိနားလည်သည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "栄養",
+    "reading": "えいよう",
+    "meaningEN": "nutrition",
+    "meaningMM": "အာဟာရ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "ふらふら",
+    "reading": "ふらふら",
+    "meaningEN": "dizzy; tottering",
+    "meaningMM": "ခေါင်းမူးခြင်း; ယိုင်တိုင်တိုင်ဖြစ်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "滞在",
+    "reading": "たいざい",
+    "meaningEN": "stay; sojourn",
+    "meaningMM": "နေထိုင်ခြင်း; ခေတ္တနေခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaningEN": "progress; advance",
+    "meaningMM": "တိုးတက်မှု",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "営業",
+    "reading": "えいぎょう",
+    "meaningEN": "business; operation",
+    "meaningMM": "လုပ်ငန်း; ဆောင်ရွက်မှု",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "懐かしい",
+    "reading": "なつかしい",
+    "meaningEN": "nostalgic; fondly remembered",
+    "meaningMM": "လွမ်းဆွတ်ဖွယ်ရာ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaningEN": "habit; custom",
+    "meaningMM": "အလေ့အထ; ဓလေ့ထုံးတမ်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "夫婦",
+    "reading": "ふうふ",
+    "meaningEN": "married couple",
+    "meaningMM": "ဇနီးမောင်နှံ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "辺り",
+    "reading": "あたり",
+    "meaningEN": "around; vicinity",
+    "meaningMM": "ပတ်ဝန်းကျင်; အနီးအနား",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "電灯",
+    "reading": "でんとう",
+    "meaningEN": "electric light",
+    "meaningMM": "လျှပ်စစ်မီး",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "懐中電灯",
+    "reading": "かいちゅうでんとう",
+    "meaningEN": "flashlight; torch",
+    "meaningMM": "လက်နှိပ်ဓာတ်မီး",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "満月",
+    "reading": "まんげつ",
+    "meaningEN": "full moon",
+    "meaningMM": "လပြည့်ဝန်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "輝く",
+    "reading": "かがやく",
+    "meaningEN": "to shine; to glitter",
+    "meaningMM": "တောက်ပသည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "影",
+    "reading": "かげ",
+    "meaningEN": "shadow; silhouette",
+    "meaningMM": "အရိပ်; ပုံရိပ်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "拾う",
+    "reading": "ひろう",
+    "meaningEN": "to pick up",
+    "meaningMM": "ကောက်သည်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "募集",
+    "reading": "ぼしゅう",
+    "meaningEN": "recruitment; public appeal",
+    "meaningMM": "ခေါ်ယူခြင်း; ကြေညာခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "協力",
+    "reading": "きょうりょく",
+    "meaningEN": "cooperation; collaboration",
+    "meaningMM": "ပူးပေါင်းဆောင်ရွက်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "中止",
+    "reading": "ちゅうし",
+    "meaningEN": "cancellation; suspension",
+    "meaningMM": "ရပ်ဆိုင်းခြင်း; ပယ်ဖျက်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaningEN": "habit; custom",
+    "meaningMM": "အလေ့အထ; ဓလေ့ထုံးတမ်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "売場",
+    "reading": "うりば",
+    "meaningEN": "sales floor; counter",
+    "meaningMM": "အရောင်းဆိုင်; ကောင်တာ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "珍しい",
+    "reading": "めずらしい",
+    "meaningEN": "rare; unusual",
+    "meaningMM": "ရှားပါးသော; ထူးခြားသော",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "記録",
+    "reading": "きろく",
+    "meaningEN": "record; document",
+    "meaningMM": "မှတ်တမ်း; စာရွက်စာတမ်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "失敗",
+    "reading": "しっぱい",
+    "meaningEN": "failure; mistake",
+    "meaningMM": "ပျက်ကွက်ခြင်း; မှားယွင်းခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "成功",
+    "reading": "せいこう",
+    "meaningEN": "success",
+    "meaningMM": "အောင်မြင်မှု",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "残念",
+    "reading": "ざんねん",
+    "meaningEN": "regrettable; disappointing",
+    "meaningMM": "စိတ်မကောင်းစရာ; စိတ်ပျက်စရာ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaningEN": "cause; origin",
+    "meaningMM": "အကြောင်းရင်း; မူလအစ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaningEN": "habit; custom",
+    "meaningMM": "အလေ့အထ; ဓလေ့ထုံးတမ်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "平均",
+    "reading": "へいきん",
+    "meaningEN": "average; mean",
+    "meaningMM": "ပျမ်းမျှ; အလယ်အလတ်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "豪華",
+    "reading": "ごうか",
+    "meaningEN": "luxurious; gorgeous",
+    "meaningMM": "ခမ်းနားသော; လှပသော",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "丁寧",
+    "reading": "ていねい",
+    "meaningEN": "polite; careful",
+    "meaningMM": "ယဉ်ကျေးသော; ဂရုတစိုက်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaningEN": "ingredients; material",
+    "meaningMM": "ပါဝင်ပစ္စည်းများ; ပစ္စည်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "伝統",
+    "reading": "でんとう",
+    "meaningEN": "tradition",
+    "meaningMM": "ဓလေ့ထုံးတမ်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "指導",
+    "reading": "しどう",
+    "meaningEN": "guidance; leadership",
+    "meaningMM": "လမ်းညွှန်မှု; ဦးဆောင်မှု",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "修理",
+    "reading": "しゅうり",
+    "meaningEN": "repair; mending",
+    "meaningMM": "ပြင်ဆင်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaningEN": "hope; wish",
+    "meaningMM": "မျှော်လင့်ချက်; ဆန္ဒ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaningEN": "materials; data",
+    "meaningMM": "ပစ္စည်းများ; အချက်အလက်များ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "発売",
+    "reading": "はつばい",
+    "meaningEN": "sale; launch (of a product)",
+    "meaningMM": "ရောင်းချခြင်း; ထုတ်ကုန်စတင်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "増加",
+    "reading": "ぞうか",
+    "meaningEN": "increase; rise",
+    "meaningMM": "တိုးမြှင့်ခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "費用",
+    "reading": "ひよう",
+    "meaningEN": "cost; expense",
+    "meaningMM": "ကုန်ကျစရိတ်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "講義",
+    "reading": "こうぎ",
+    "meaningEN": "lecture",
+    "meaningMM": "ဟောပြောပွဲ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "満足",
+    "reading": "まんぞく",
+    "meaningEN": "satisfaction",
+    "meaningMM": "စိတ်ကျေနပ်မှု",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "変化",
+    "reading": "へんか",
+    "meaningEN": "change; variation",
+    "meaningMM": "ပြောင်းလဲခြင်း; ကွဲပြားခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaningEN": "information",
+    "meaningMM": "သတင်းအချက်အလက်",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaningEN": "habit; custom",
+    "meaningMM": "အလေ့အထ; ဓလေ့ထုံးတမ်း",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaningEN": "technology; skill",
+    "meaningMM": "နည်းပညာ; ကျွမ်းကျင်မှု",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaningEN": "progress; advance",
+    "meaningMM": "တိုးတက်မှု",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "経験",
+    "reading": "けいけん",
+    "meaningEN": "experience",
+    "meaningMM": "အတွေ့အကြုံ",
+    "level": "N3",
+    "date": "2020/12"
+  },
+  {
+    "word": "安心",
+    "reading": "あんしん",
+    "meaningEN": "relief; peace of mind",
+    "meaningMM": "စိတ်သက်သာရာရခြင်း; စိတ်အေးချမ်းသာခြင်း",
+    "level": "N3",
+    "date": "2020/12"
+  }
+]

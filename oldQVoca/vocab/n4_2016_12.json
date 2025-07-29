@@ -1,0 +1,1353 @@
+[
+  {
+    "word": "げんご",
+    "reading": "言語",
+    "meaningEN": "language",
+    "meaningMM": "ဘာသာစကား",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ちしき",
+    "reading": "知識",
+    "meaningEN": "knowledge",
+    "meaningMM": "အသိပညာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ごい",
+    "reading": "語彙",
+    "meaningEN": "vocabulary",
+    "meaningMM": "ဝေါဟာရ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ぷん",
+    "reading": "分",
+    "meaningEN": "minute",
+    "meaningMM": "မိနစ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "しけん",
+    "reading": "試験",
+    "meaningEN": "examination; test",
+    "meaningMM": "စာမေးပွဲ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "はじまる",
+    "reading": "始まる",
+    "meaningEN": "to begin",
+    "meaningMM": "စတင်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "まえ",
+    "reading": "前",
+    "meaningEN": "before",
+    "meaningMM": "အရင်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "もんだいようし",
+    "reading": "問題用紙",
+    "meaningEN": "question booklet",
+    "meaningMM": "မေးခွန်းစာအုပ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "あけないで",
+    "reading": "開けないで",
+    "meaningEN": "do not open",
+    "meaningMM": "မဖွင့်ပါနှင့်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "もってかえる",
+    "reading": "持って帰る",
+    "meaningEN": "to take home",
+    "meaningMM": "အိမ်ပြန်ယူသွားသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "じゅけんばんごう",
+    "reading": "受験番号",
+    "meaningEN": "examinee registration number",
+    "meaningMM": "စာမေးပွဲဖြေဆိုသူ မှတ်ပုံတင်နံပါတ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "なまえ",
+    "reading": "名前",
+    "meaningEN": "name",
+    "meaningMM": "အမည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "した",
+    "reading": "下",
+    "meaningEN": "bottom; under",
+    "meaningMM": "အောက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "らん",
+    "reading": "欄",
+    "meaningEN": "column",
+    "meaningMM": "ကော်လံ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "じゅけんひょう",
+    "reading": "受験票",
+    "meaningEN": "test voucher",
+    "meaningMM": "စာမေးပွဲဘောင်ချာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おなじ",
+    "reading": "同じ",
+    "meaningEN": "same",
+    "meaningMM": "တူညီသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かいて",
+    "reading": "書いて",
+    "meaningEN": "to write",
+    "meaningMM": "ရေးသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ぜんぶ",
+    "reading": "全部",
+    "meaningEN": "all",
+    "meaningMM": "အားလုံး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ページ",
+    "reading": "ページ",
+    "meaningEN": "page",
+    "meaningMM": "စာမျက်နှာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かいとうばんごう",
+    "reading": "解答番号",
+    "meaningEN": "answer number",
+    "meaningMM": "အဖြေနံပါတ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かいとう",
+    "reading": "解答",
+    "meaningEN": "answer",
+    "meaningMM": "အဖြေ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かいとうようし",
+    "reading": "解答用紙",
+    "meaningEN": "answer sheet",
+    "meaningMM": "အဖြေစာရွက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "マークして",
+    "reading": "マークして",
+    "meaningEN": "mark",
+    "meaningMM": "အမှတ်အသားပြုသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ひらがな",
+    "reading": "ひらがな",
+    "meaningEN": "hiragana",
+    "meaningMM": "ဟီရာဂါနာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いちばん",
+    "reading": "一番",
+    "meaningEN": "most; best",
+    "meaningMM": "အများဆုံး; အကောင်းဆုံး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "えらんで",
+    "reading": "選んで",
+    "meaningEN": "choose",
+    "meaningMM": "ရွေးချယ်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "せんえん",
+    "reading": "千円",
+    "meaningEN": "one thousand yen",
+    "meaningMM": "ယန်းတစ်ထောင်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きょう",
+    "reading": "今日",
+    "meaningEN": "today",
+    "meaningMM": "ယနေ့",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "たのしかった",
+    "reading": "楽しかった",
+    "meaningEN": "was fun",
+    "meaningMM": "ပျော်စရာကောင်းခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "あじ",
+    "reading": "味",
+    "meaningEN": "taste",
+    "meaningMM": "အရသာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "すき",
+    "reading": "好き",
+    "meaningEN": "like",
+    "meaningMM": "ကြိုက်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ふべん",
+    "reading": "不便",
+    "meaningEN": "inconvenient",
+    "meaningMM": "အဆင်မပြေသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "やさい",
+    "reading": "野菜",
+    "meaningEN": "vegetable",
+    "meaningMM": "ဟင်းသီးဟင်းရွက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きって",
+    "reading": "切って",
+    "meaningEN": "cut",
+    "meaningMM": "ဖြတ်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いがい",
+    "reading": "以外",
+    "meaningEN": "except",
+    "meaningMM": "မှအပ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "まど",
+    "reading": "窓",
+    "meaningEN": "window",
+    "meaningMM": "ပြတင်းပေါက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "くも",
+    "reading": "雲",
+    "meaningEN": "cloud",
+    "meaningMM": "တိမ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "みていました",
+    "reading": "見ていました",
+    "meaningEN": "was looking",
+    "meaningMM": "ကြည့်နေခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "でんしゃ",
+    "reading": "電車",
+    "meaningEN": "train",
+    "meaningMM": "ရထား",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きゅうこう",
+    "reading": "急行",
+    "meaningEN": "express (train)",
+    "meaningMM": "အမြန် (ရထား)",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "うつさないで",
+    "reading": "写さないで",
+    "meaningEN": "do not copy",
+    "meaningMM": "ကူးယူမထားပါနှင့်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "はんたい",
+    "reading": "反対",
+    "meaningEN": "opposition",
+    "meaningMM": "ဆန့်ကျင်ဘက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いけん",
+    "reading": "意見",
+    "meaningEN": "opinion",
+    "meaningMM": "ထင်မြင်ချက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "くち",
+    "reading": "口",
+    "meaningEN": "mouth",
+    "meaningMM": "ပါးစပ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "あけて",
+    "reading": "開けて",
+    "meaningEN": "open",
+    "meaningMM": "ဖွင့်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "くろい",
+    "reading": "黒い",
+    "meaningEN": "black",
+    "meaningMM": "အနက်ရောင်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "くつした",
+    "reading": "靴下",
+    "meaningEN": "socks",
+    "meaningMM": "ခြေအိတ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ほしい",
+    "reading": "欲しい",
+    "meaningEN": "want",
+    "meaningMM": "လိုချင်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "なつやすみ",
+    "reading": "夏休み",
+    "meaningEN": "summer vacation",
+    "meaningMM": "နွေရာသီကျောင်းပိတ်ရက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "けいかく",
+    "reading": "計画",
+    "meaningEN": "plan",
+    "meaningMM": "အစီအစဉ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meaningEN": "still; yet",
+    "meaningMM": "နေဆဲ; သေး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きまって",
+    "reading": "決まって",
+    "meaningEN": "decided",
+    "meaningMM": "ဆုံးဖြတ်ပြီး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いしゃ",
+    "reading": "医者",
+    "meaningEN": "doctor",
+    "meaningMM": "ဆရာဝန်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "なりたい",
+    "reading": "なりたい",
+    "meaningEN": "want to be",
+    "meaningMM": "ဖြစ်ချင်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "あした",
+    "reading": "明日",
+    "meaningEN": "tomorrow",
+    "meaningMM": "မနက်ဖြန်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "よる",
+    "reading": "夜",
+    "meaningEN": "night",
+    "meaningMM": "ည",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かぞく",
+    "reading": "家族",
+    "meaningEN": "family",
+    "meaningMM": "မိသားစု",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "でかけます",
+    "reading": "出かけます",
+    "meaningEN": "go out",
+    "meaningMM": "အပြင်ထွက်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かさ",
+    "reading": "傘",
+    "meaningEN": "umbrella",
+    "meaningMM": "ထီး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かして",
+    "reading": "貸して",
+    "meaningEN": "lend",
+    "meaningMM": "ချေးသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "しあい",
+    "reading": "試合",
+    "meaningEN": "game; match",
+    "meaningMM": "ပွဲ; ပြိုင်ပွဲ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いれます",
+    "reading": "入れます",
+    "meaningEN": "put in",
+    "meaningMM": "ထည့်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ざっし",
+    "reading": "雑誌",
+    "meaningEN": "magazine",
+    "meaningMM": "မဂ္ဂဇင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "さつ",
+    "reading": "冊",
+    "meaningEN": "counter for books",
+    "meaningMM": "စာအုပ်ရေတွက်သောပစ္စည်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "まい",
+    "reading": "枚",
+    "meaningEN": "counter for flat objects",
+    "meaningMM": "ပြားချပ်သောပစ္စည်းများအတွက် ရေတွက်သောပစ္စည်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "だい",
+    "reading": "台",
+    "meaningEN": "counter for machines",
+    "meaningMM": "စက်များအတွက် ရေတွက်သောပစ္စည်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ひき",
+    "reading": "匹",
+    "meaningEN": "counter for small animals",
+    "meaningMM": "တိရစ္ဆာန်ငယ်လေးများအတွက် ရေတွက်သောပစ္စည်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "けが",
+    "reading": "怪我",
+    "meaningEN": "injury",
+    "meaningMM": "ဒဏ်ရာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きいて",
+    "reading": "聞いて",
+    "meaningEN": "listen; ask",
+    "meaningMM": "နားထောင်သည်; မေးသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "しんぱい",
+    "reading": "心配",
+    "meaningEN": "worry",
+    "meaningMM": "စိုးရိမ်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "しょうらい",
+    "reading": "将来",
+    "meaningEN": "future",
+    "meaningMM": "အနာဂတ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かしゅ",
+    "reading": "歌手",
+    "meaningEN": "singer",
+    "meaningMM": "အဆိုတော်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ゆめ",
+    "reading": "夢",
+    "meaningEN": "dream",
+    "meaningMM": "အိပ်မက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "パーティー",
+    "reading": "パーティー",
+    "meaningEN": "party",
+    "meaningMM": "ပါတီ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ぜひ",
+    "reading": "ぜひ",
+    "meaningEN": "by all means",
+    "meaningMM": "မည်သို့ပင်ဖြစ်စေ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きかい",
+    "reading": "機会",
+    "meaningEN": "opportunity; machine",
+    "meaningMM": "အခွင့်အရေး; စက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "つかいかた",
+    "reading": "使い方",
+    "meaningEN": "how to use",
+    "meaningMM": "အသုံးပြုပုံ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "せつめい",
+    "reading": "説明",
+    "meaningEN": "explanation",
+    "meaningMM": "ရှင်းလင်းချက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "は",
+    "reading": "歯",
+    "meaningEN": "tooth",
+    "meaningMM": "သွား",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "わるい",
+    "reading": "悪い",
+    "meaningEN": "bad",
+    "meaningMM": "မကောင်းသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かたい",
+    "reading": "硬い",
+    "meaningEN": "hard",
+    "meaningMM": "မာသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "たべられません",
+    "reading": "食べられません",
+    "meaningEN": "cannot eat",
+    "meaningMM": "စား၍မရပါ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "さそいました",
+    "reading": "誘いました",
+    "meaningEN": "invited",
+    "meaningMM": "ဖိတ်ခေါ်ခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いけない",
+    "reading": "行けない",
+    "meaningEN": "cannot go",
+    "meaningMM": "သွား၍မရပါ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "むすこ",
+    "reading": "息子",
+    "meaningEN": "son",
+    "meaningMM": "သား",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ねん",
+    "reading": "年",
+    "meaningEN": "year",
+    "meaningMM": "နှစ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "くらい",
+    "reading": "くらい",
+    "meaningEN": "about; approximately",
+    "meaningMM": "ခန့်; ခန့်မှန်းခြေ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "せ",
+    "reading": "背",
+    "meaningEN": "height",
+    "meaningMM": "အရပ်အမောင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "たかくなりました",
+    "reading": "高くなりました",
+    "meaningEN": "became taller",
+    "meaningMM": "ပိုမြင့်လာသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "パソコン",
+    "reading": "パソコン",
+    "meaningEN": "personal computer",
+    "meaningMM": "ကွန်ပျူတာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "くらべて",
+    "reading": "比べて",
+    "meaningEN": "compare",
+    "meaningMM": "နှိုင်းယှဉ်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かるい",
+    "reading": "軽い",
+    "meaningEN": "light",
+    "meaningMM": "ပေါ့ပါးသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "えらびました",
+    "reading": "選びました",
+    "meaningEN": "chose",
+    "meaningMM": "ရွေးချယ်ခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "でんき",
+    "reading": "電気",
+    "meaningEN": "electricity; light",
+    "meaningMM": "လျှပ်စစ်ဓာတ်; မီး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ついていません",
+    "reading": "ついていません",
+    "meaningEN": "not on",
+    "meaningMM": "မဖွင့်ထားပါ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "るす",
+    "reading": "留守",
+    "meaningEN": "absence",
+    "meaningMM": "မရှိခြင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "へや",
+    "reading": "部屋",
+    "meaningEN": "room",
+    "meaningMM": "အခန်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かぎ",
+    "reading": "鍵",
+    "meaningEN": "key",
+    "meaningMM": "သော့",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "さがしていますが",
+    "reading": "探していますが",
+    "meaningEN": "looking for",
+    "meaningMM": "ရှာဖွေနေသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "みつかりません",
+    "reading": "見つかりません",
+    "meaningEN": "cannot find",
+    "meaningMM": "ရှာမတွေ့ပါ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いみ",
+    "reading": "意味",
+    "meaningEN": "meaning",
+    "meaningMM": "အဓိပ္ပာယ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "にねんまえ",
+    "reading": "二年前",
+    "meaningEN": "two years ago",
+    "meaningMM": "နှစ်နှစ်အကြာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きょうと",
+    "reading": "京都",
+    "meaningEN": "Kyoto",
+    "meaningMM": "ကျိုတို",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いきました",
+    "reading": "行きました",
+    "meaningEN": "went",
+    "meaningMM": "သွားခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おとうと",
+    "reading": "弟",
+    "meaningEN": "younger brother",
+    "meaningMM": "မောင်လေး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きっさてん",
+    "reading": "喫茶店",
+    "meaningEN": "coffee shop",
+    "meaningMM": "ကော်ဖီဆိုင်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "アルバイト",
+    "reading": "アルバイト",
+    "meaningEN": "part-time job",
+    "meaningMM": "အချိန်ပိုင်းအလုပ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "はたらいています",
+    "reading": "働いています",
+    "meaningEN": "is working",
+    "meaningMM": "အလုပ်လုပ်နေသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "すいえい",
+    "reading": "水泳",
+    "meaningEN": "swimming",
+    "meaningMM": "ရေကူးခြင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "およぐ",
+    "reading": "泳ぐ",
+    "meaningEN": "to swim",
+    "meaningMM": "ရေကူးသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "びっくりしました",
+    "reading": "びっくりしました",
+    "meaningEN": "was surprised",
+    "meaningMM": "အံ့သြသွားသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おどろきました",
+    "reading": "驚きました",
+    "meaningEN": "was surprised",
+    "meaningMM": "အံ့သြသွားသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "うつくしい",
+    "reading": "美しい",
+    "meaningEN": "beautiful",
+    "meaningMM": "လှပသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きれい",
+    "reading": "きれい",
+    "meaningEN": "pretty; clean",
+    "meaningMM": "လှပသော; သန့်ရှင်းသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "こめ",
+    "reading": "米",
+    "meaningEN": "rice",
+    "meaningMM": "ဆန်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ゆにゅう",
+    "reading": "輸入",
+    "meaningEN": "import",
+    "meaningMM": "သွင်းကုန်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かっています",
+    "reading": "買っています",
+    "meaningEN": "is buying",
+    "meaningMM": "ဝယ်နေသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "さいきん",
+    "reading": "最近",
+    "meaningEN": "recently",
+    "meaningMM": "မကြာသေးမီက",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "けっこん",
+    "reading": "結婚",
+    "meaningEN": "marriage",
+    "meaningMM": "လက်ထပ်ခြင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ラジオ",
+    "reading": "ラジオ",
+    "meaningEN": "radio",
+    "meaningMM": "ရေဒီယို",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おおきい",
+    "reading": "大きい",
+    "meaningEN": "big",
+    "meaningMM": "ကြီးမားသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "すこし",
+    "reading": "少し",
+    "meaningEN": "a little",
+    "meaningMM": "နည်းနည်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ちいさく",
+    "reading": "小さく",
+    "meaningEN": "small",
+    "meaningMM": "သေးငယ်သော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "けんがく",
+    "reading": "見学",
+    "meaningEN": "study tour; factory visit",
+    "meaningMM": "လေ့လာရေးခရီး; စက်ရုံလည်ပတ်ခြင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "こうじょう",
+    "reading": "工場",
+    "meaningEN": "factory",
+    "meaningMM": "စက်ရုံ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "せんせい",
+    "reading": "先生",
+    "meaningEN": "teacher",
+    "meaningMM": "ဆရာ/မ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "友だち",
+    "reading": "友だち",
+    "meaningEN": "friend",
+    "meaningMM": "သူငယ်ချင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "はな",
+    "reading": "花",
+    "meaningEN": "flower",
+    "meaningMM": "ပန်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "うち",
+    "reading": "うち",
+    "meaningEN": "house",
+    "meaningMM": "အိမ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "なか",
+    "reading": "中",
+    "meaningEN": "inside",
+    "meaningMM": "အတွင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "こうじ",
+    "reading": "工事",
+    "meaningEN": "construction",
+    "meaningMM": "ဆောက်လုပ်ရေး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "みち",
+    "reading": "道",
+    "meaningEN": "road",
+    "meaningMM": "လမ်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "とおれません",
+    "reading": "通れません",
+    "meaningEN": "cannot pass through",
+    "meaningMM": "ဖြတ်သန်း၍မရပါ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "まいあさ",
+    "reading": "毎朝",
+    "meaningEN": "every morning",
+    "meaningMM": "နံနက်တိုင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "しんぶん",
+    "reading": "新聞",
+    "meaningEN": "newspaper",
+    "meaningMM": "သတင်းစာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "よみます",
+    "reading": "読みます",
+    "meaningEN": "read",
+    "meaningMM": "ဖတ်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "きのう",
+    "reading": "昨日",
+    "meaningEN": "yesterday",
+    "meaningMM": "မနေ့က",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "すくなかった",
+    "reading": "少なかった",
+    "meaningEN": "was few",
+    "meaningMM": "နည်းခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おわりました",
+    "reading": "終わりました",
+    "meaningEN": "finished",
+    "meaningMM": "ပြီးစီးခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ロボット",
+    "reading": "ロボット",
+    "meaningEN": "robot",
+    "meaningMM": "စက်ရုပ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かいわ",
+    "reading": "会話",
+    "meaningEN": "conversation",
+    "meaningMM": "စကားပြောဆိုခြင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "できます",
+    "reading": "できます",
+    "meaningEN": "can do",
+    "meaningMM": "လုပ်နိုင်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ちいさいとき",
+    "reading": "小さいとき",
+    "meaningEN": "when I was small",
+    "meaningMM": "ကျွန်တော်ငယ်စဉ်က",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "りょうしん",
+    "reading": "両親",
+    "meaningEN": "parents",
+    "meaningMM": "မိဘများ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "あさごはん",
+    "reading": "朝ご飯",
+    "meaningEN": "breakfast",
+    "meaningMM": "မနက်စာ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "パン",
+    "reading": "パン",
+    "meaningEN": "bread",
+    "meaningMM": "ပေါင်မုန့်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おいしかった",
+    "reading": "おいしかった",
+    "meaningEN": "was delicious",
+    "meaningMM": "အရသာရှိခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "やつ",
+    "reading": "八つ",
+    "meaningEN": "eight",
+    "meaningMM": "ရှစ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "つくられました",
+    "reading": "作られました",
+    "meaningEN": "was made",
+    "meaningMM": "ပြုလုပ်ခဲ့သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "うんどうじょう",
+    "reading": "運動場",
+    "meaningEN": "sports ground",
+    "meaningMM": "အားကစားကွင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "つかえます",
+    "reading": "使えます",
+    "meaningEN": "can use",
+    "meaningMM": "သုံးနိုင်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "よやく",
+    "reading": "予約",
+    "meaningEN": "reservation",
+    "meaningMM": "ကြိုတင်မှာကြားခြင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "ひつよう",
+    "reading": "必要",
+    "meaningEN": "necessary",
+    "meaningMM": "လိုအပ်သော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "だれでも",
+    "reading": "誰でも",
+    "meaningEN": "anyone",
+    "meaningMM": "မည်သူမဆို",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaningEN": "always",
+    "meaningMM": "အမြဲတမ်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "くに",
+    "reading": "国",
+    "meaningEN": "country",
+    "meaningMM": "နိုင်ငံ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "れんらくします",
+    "reading": "連絡します",
+    "meaningEN": "contact",
+    "meaningMM": "ဆက်သွယ်သည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "メール",
+    "reading": "メール",
+    "meaningEN": "email",
+    "meaningMM": "အီးမေးလ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "かく",
+    "reading": "書く",
+    "meaningEN": "write",
+    "meaningMM": "ရေးသည်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "おおい",
+    "reading": "多い",
+    "meaningEN": "many",
+    "meaningMM": "များသော",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "むすめ",
+    "reading": "娘",
+    "meaningEN": "daughter",
+    "meaningMM": "သမီး",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "せんげつ",
+    "reading": "先月",
+    "meaningEN": "last month",
+    "meaningMM": "ပြီးခဲ့သည့်လ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "こうこう",
+    "reading": "高校",
+    "meaningEN": "high school",
+    "meaningMM": "အထက်တန်းကျောင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "そつぎょう",
+    "reading": "卒業",
+    "meaningEN": "graduation",
+    "meaningMM": "ဘွဲ့ရခြင်း",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "だいがく",
+    "reading": "大学",
+    "meaningEN": "university",
+    "meaningMM": "တက္ကသိုလ်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "にゅうがくしき",
+    "reading": "入学式",
+    "meaningEN": "entrance ceremony",
+    "meaningMM": "ဝင်ခွင့်အခမ်းအနား",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaningEN": "soon",
+    "meaningMM": "မကြာမီ",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "けさ",
+    "reading": "今朝",
+    "meaningEN": "this morning",
+    "meaningMM": "ယနေ့နံနက်",
+    "level": "N4",
+    "date": "2016/12"
+  },
+  {
+    "word": "バス",
+    "reading": "バス",
+    "meaningEN": "bus",
+    "meaningMM": "ဘတ်စ်ကား",
+    "level": "N4",
+    "date": "2016/12"
+}]
