@@ -6,20 +6,21 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://japanese-jet.vercel.app/</loc>
+    <loc>https://jlptburmese.com/</loc>
     <lastmod>2025-07-19</lastmod>
     <priority>1.00</priority>
   </url>
 
- <url>
-<loc>https://japanese-jet.vercel.app/kanjiFlashCard/flashCardIndex.html</loc>
-<lastmod>2025-07-19T13:37:22+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://japanese-jet.vercel.app/kanjiFlashCard/n1kanjiMaster.html</loc>
-<lastmod>2025-07-19T13:37:23+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://jlptburmese.com/kanjiFlashCard/flashCardIndex.html</loc>
+    <lastmod>2025-07-19T13:37:22+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://jlptburmese.com/kanjiFlashCard/n1kanjiMaster.html</loc>
+    <lastmod>2025-07-19T13:37:23+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>
