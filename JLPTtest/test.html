@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Add inside <head> -->
+  <meta name="description" content="JLPT Practice Test - Take free JLPT mock exams for N5, N4, N3, N2, N1 levels. Practice vocabulary, grammar, and reading with Burmese explanations. Perfect for Myanmar learners preparing for JLPT." />
+  <meta name="keywords" content="JLPT Practice Test, JLPT Mock Exam, JLPT N5, JLPT N4, JLPT N3, JLPT N2, JLPT N1, JLPT Myanmar, JLPT Burmese, Japanese Test, JLPT Vocabulary, JLPT Grammar, JLPT Reading, ဗမာစာ, ဗမာလူများအတွက်, JLPT စာမေးပွဲ, JLPT စမ်းသပ်မှု" />
+  <meta name="language" content="my" />
+  <meta property="og:title" content="JLPT Practice Test" />
+  <meta property="og:description" content="Take JLPT mock tests for all levels. Practice vocabulary, grammar, and reading to prepare for the JLPT exam." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.jlptburmese.com/JLPTtest/test.html" />
+  <meta property="og:image" content="https://www.jlptburmese.com/favicon.png" />
+  <meta property="og:locale" content="my_MM" />
+  <title>JLPT Practice Test</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <div class="max-w-md mx-auto p-6 space-y-10" id="container">
+    <!-- Header -->
+    <div class="text-center">
+      <h1 class="text-3xl font-semibold">JLPT Practice</h1>
+      <p class="text-sm text-gray-600 mt-2">Select level and test type</p>
+    </div>
+
+    <!-- JLPT Level Selection -->
+    <div>
+      <h2 class="text-lg font-medium mb-3">Level</h2>
+      <div class="space-y-2">
+        <button onclick="selectLevel('N5')" id="level-N5" class="w-full py-3 px-4 text-left bg-white border rounded-lg hover:border-blue-500 focus:outline-none">
+          JLPT N5
+        </button>
+        <button onclick="selectLevel('N4')" id="level-N4" class="w-full py-3 px-4 text-left bg-white border rounded-lg hover:border-blue-500 focus:outline-none">
+          JLPT N4
+        </button>
+        <button onclick="selectLevel('N3')" id="level-N3" class="w-full py-3 px-4 text-left bg-white border rounded-lg hover:border-blue-500 focus:outline-none">
+          JLPT N3
+        </button>
+        <button onclick="selectLevel('N2')" id="level-N2" class="w-full py-3 px-4 text-left bg-white border rounded-lg hover:border-blue-500 focus:outline-none">
+          JLPT N2
+        </button>
+        <button onclick="selectLevel('N1')" id="level-N1" class="w-full py-3 px-4 text-left bg-white border rounded-lg hover:border-blue-500 focus:outline-none">
+          JLPT N1
+        </button>
+      </div>
+    </div>
+
+    <!-- Test Type Selection -->
+    <div>
+      <h2 class="text-lg font-medium mb-3">Test Type</h2>
+      <div class="space-y-2">
+        <button onclick="selectTestType('vocab_grammar')" id="test_vocab_grammar" class="w-full py-3 px-4 text-left bg-white border rounded-lg hover:border-blue-500 focus:outline-none">
+          Vocabulary + Grammar
+        </button>
+        <button onclick="selectTestType('reading')" id="test_reading" class="w-full py-3 px-4 text-left bg-white border rounded-lg hover:border-blue-500 focus:outline-none">
+          Reading
+        </button>
+      </div>
+    </div>
+
+    <!-- Start Test Button -->
+    <button
+      onclick="startTest()"
+      id="start-button"
+      class="w-full bg-blue-600 text-white py-3 rounded-lg font-semibold hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
+      disabled
+    >
+      Start Test
+    </button>
+  </div>
+
+  <!-- Test Section -->
+  <main id="containerTest" class="hidden max-w-3xl mx-auto p-2 space-y-6">
+    <header class="bg-white p-4 rounded shadow text-center">
+    <div id="level-badge" class="inline-block bg-blue-500 text-black text-sm font-bold px-3 py-1 rounded-full mb-2"></div>
+      <h1 class="text-xl font-semibold mt-2">日本語能力試験</h1>
+      <p class="text-gray-500 text-sm" id="test-date"></p>
+    </header>
+
+    <section id="sections-container" class="space-y-6">
+      <!-- Questions will be injected here -->
+    </section>
+     <section id="reading-container"></section>
+
+    <footer class="footer">
+      <button id="submitBtn">答案を提出</button>
+      <div id="results" class="results hidden">
+        <p class="score" id="score">0/0</p>
+        <p class="percentage">正解率: <span id="percentage">0%</span></p>
+      </div>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+</html>

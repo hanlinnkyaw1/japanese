@@ -1,98 +1,408 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>JLPT Old Question Vocabulary Collections | N5-N1 with Burmese Meaning</title>
-  <meta name="description" content="JLPT old question vocabulary lists from N5 to N1 with English and Burmese meanings. Perfect for JLPT learners in Myanmar. Filter by level and date.">
-  <meta name="keywords" content="JLPT vocabulary, JLPT old questions, N5 N4 N3 N2 N1 vocab, JLPT Myanmar, Burmese vocabulary list, JLPT vocab with Burmese meaning">
-  <meta name="robots" content="index, follow">
-  <script src="https://cdn.tailwindcss.com"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Add inside <head> -->
+    <meta name="description" content="JLPT Old Questions Vocabulary Collections - Search and learn Japanese vocabulary from previous JLPT exams with Burmese meanings. Perfect for Myanmar learners preparing for JLPT." />
+    <meta name="keywords" content="JLPT, JLPT Vocabulary, JLPT Old Questions, JLPT Myanmar, JLPT Burmese, Japanese Vocabulary, JLPT Exam, JLPT N5, JLPT N4, JLPT N3, JLPT N2, JLPT N1, JLPT စာမေးခွန်းဟောာင်း, JLPT မေးခွန်းဟောင်း မီးနင်း, JLPT မီးနင်း" />
+    <meta name="language" content="my" />
+    <meta property="og:title" content="JLPT Old Questions Vocabulary Collections for Myanmar Learners" />
+    <meta property="og:description" content="JLPT မေးခွန်းဟောင်း မီးနင်းများ။ JLPT စာမေးပွဲအောင်မြင်ရန် ဗမာလူငယ်များအတွက်။" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.jlptburmese.com/oldQVoca/index.html" />
+    <meta property="og:image" content="https://www.jlptburmese.com/favicon.png" />
+    <meta property="og:locale" content="my_MM" />
+    <title>JLPT Vocabulary Collection</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .slide-in {
+            animation: slideIn 0.3s ease-out;
+        }
+        .slide-out {
+            animation: slideOut 0.3s ease-in;
+        }
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        @keyframes slideOut {
+            from {
+                opacity: 1;
+                transform: translateX(0);
+            }
+            to {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+        }
+        .level-button {
+            transition: all 0.2s ease;
+        }
+        .level-button:active {
+            transform: scale(0.98);
+        }
+        .date-item {
+            transition: all 0.2s ease;
+        }
+        .date-item:active {
+            transform: scale(0.98);
+        }
+        .vocab-item {
+            transition: all 0.2s ease;
+        }
+        .vocab-item:active {
+            transform: scale(0.98);
+        }
+    </style>
 </head>
-<body class="bg-gray-50">
-
+<body class="bg-gray-50 min-h-screen">
     <header class="bg-white shadow-sm">
-        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-            <div class="flex items-center space-x-2">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-cyan-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
-                </svg>
-                <h1 class="text-xl font-bold">日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span></h1>
+            <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+                <div class="flex items-center space-x-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-cyan-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                    </svg>
+                    <h1 class="text-xl font-bold">日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span></h1>
+                </div>
+        <nav class="hidden md:flex space-x-10">
+        <a href="../index.html" class="text-emerald-600 font-medium">Home</a>
+        <a href="../#learnExplore" class="text-gray-600 hover:text-emerald-600">Study Tools</a>
+        <a href="../#levels" class="text-gray-600 hover:text-emerald-600">Learn Grammar</a>
+        <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
+
+        </nav>
+
+        <!-- Mobile Toggle Button -->
+            <button id="menu-toggle" class="md:hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+            </button>
+        </div>
+
+        <!-- Mobile -->
+        <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
+            <a href="../index.html" class="text-green-600 font-medium">Home</a>
+            <a href="../#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
+            <a href="../#levels" class="text-gray-700 hover:text-green-600">Learn Grammar</a>
+             <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
+        </nav>
+        </div>
+    </header>
+        <!-- Step 1: Level Selection -->
+        <div id="level-selection" class="min-h-screen flex flex-col">
+        <!-- Header -->       
+        <div class="bg-white shadow-sm px-6 py-8">
+            <div class="text-center">
+                <div class="text-4xl mb-3">📚</div>
+                <h2 class="text-2x font-bold text-gray-900 mb-2">JLPT old question Vocabulary</h2>
+                <p class="text-gray-600">Choose your level to get started</p>
             </div>
-   <nav class="hidden md:flex space-x-10">
-      <a href="../index.html" class="text-emerald-600 font-medium">Home</a>
-      <a href="../#learnExplore" class="text-gray-600 hover:text-emerald-600">Study Tools</a>
-      <a href="../#levels" class="text-gray-600 hover:text-emerald-600">Learn Grammar</a>
-    </nav>
+        </div>
 
-    <!-- Mobile Toggle Button -->
-    <button id="menu-toggle" class="md:hidden">
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24"
-        stroke="currentColor">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-          d="M4 6h16M4 12h16M4 18h16" />
-      </svg>
-    </button>
-  </div>
+        <!-- Level Cards -->
+        <div class="flex-1 px-6 py-8">
+            <div class="space-y-4 max-w-sm mx-auto">
+                <button onclick="selectLevel('N5')" class="level-button w-full bg-white rounded-2xl p-6 shadow-lg border-2 border-transparent hover:border-red-200 active:bg-red-50">
+                    <div class="flex items-center justify-between">
+                        <div class="text-left">
+                            <div class="text-2xl font-bold text-gray-900 mb-1">N5</div>
+                            <div class="text-gray-600">Beginner</div>
+                            <div class="text-sm text-gray-500 mt-1">~800 words</div>
+                        </div>
+                        <div class="text-4xl">🌱</div>
+                    </div>
+                </button>
 
-<!-- Mobile -->
-  <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
-    <a href="../index.html" class="text-green-600 font-medium">Home</a>
-    <a href="../#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
-    <a href="../#levels" class="text-gray-700 hover:text-green-600">Learn Grammar</a>
-  </nav>
- </div>
-</header>
+                <button onclick="selectLevel('N4')" class="level-button w-full bg-white rounded-2xl p-6 shadow-lg border-2 border-transparent hover:border-orange-200 active:bg-orange-50">
+                    <div class="flex items-center justify-between">
+                        <div class="text-left">
+                            <div class="text-2xl font-bold text-gray-900 mb-1">N4</div>
+                            <div class="text-gray-600">Elementary</div>
+                            <div class="text-sm text-gray-500 mt-1">~1,500 words</div>
+                        </div>
+                        <div class="text-4xl">🌿</div>
+                    </div>
+                </button>
 
-<div class="max-w-3xl mx-auto px-4 py-6">
-  <h1 class="text-2x font-bold text-blue-700 mb-4 text-center">
-    📘 JLPT Old Question Vocabulary List (N5–N1) with Burmese Translations
-  </h1>
-  <!-- 🔍 Search bar -->
-  <div class="mb-4">
-    <label class="block text-sm font-medium text-gray-700 mb-1">🔍 Search</label>
-    <input id="searchInput" type="text" placeholder="Search word or meaning..."
-      class="w-full px-4 py-2 border rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300" />
-  </div>
+                <button onclick="selectLevel('N3')" class="level-button w-full bg-white rounded-2xl p-6 shadow-lg border-2 border-transparent hover:border-yellow-200 active:bg-yellow-50">
+                    <div class="flex items-center justify-between">
+                        <div class="text-left">
+                            <div class="text-2xl font-bold text-gray-900 mb-1">N3</div>
+                            <div class="text-gray-600">Intermediate</div>
+                            <div class="text-sm text-gray-500 mt-1">~3,000 words</div>
+                        </div>
+                        <div class="text-4xl">🌳</div>
+                    </div>
+                </button>
 
-  <!-- 📝 Level & 📅 Date filters side by side -->
-  <div class="flex gap-3 mb-4">
-    <!-- Level -->
-    <div class="flex flex-col w-1/2">
-      <label class="text-sm font-medium text-gray-700 mb-1">📝 Level</label>
-      <select id="levelFilter"
-        class="px-4 py-2 border rounded-md bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300">
-        <option value="">All Levels</option>
-        <option value="n1">N1</option>
-        <option value="n2">N2</option>
-        <option value="n3">N3</option>
-        <option value="n4">N4</option>
-        <option value="n5">N5</option>
-      </select>
+                <button onclick="selectLevel('N2')" class="level-button w-full bg-white rounded-2xl p-6 shadow-lg border-2 border-transparent hover:border-blue-200 active:bg-blue-50">
+                    <div class="flex items-center justify-between">
+                        <div class="text-left">
+                            <div class="text-2xl font-bold text-gray-900 mb-1">N2</div>
+                            <div class="text-gray-600">Upper Intermediate</div>
+                            <div class="text-sm text-gray-500 mt-1">~6,000 words</div>
+                        </div>
+                        <div class="text-4xl">🏔️</div>
+                    </div>
+                </button>
+
+                <button onclick="selectLevel('N1')" class="level-button w-full bg-white rounded-2xl p-6 shadow-lg border-2 border-transparent hover:border-purple-200 active:bg-purple-50">
+                    <div class="flex items-center justify-between">
+                        <div class="text-left">
+                            <div class="text-2xl font-bold text-gray-900 mb-1">N1</div>
+                            <div class="text-gray-600">Advanced</div>
+                            <div class="text-sm text-gray-500 mt-1">~10,000 words</div>
+                        </div>
+                        <div class="text-4xl">⭐</div>
+                    </div>
+                </button>
+            </div>
+        </div>
     </div>
 
-    <!-- Date -->
-    <div class="flex flex-col w-1/2">
-      <label class="text-sm font-medium text-gray-700 mb-1">📅 Date</label>
-    <select id="dateFilter" disabled
-      class="px-4 py-2 border rounded-md bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300">
-      <option value="">Select level first</option>
-    </select>
+    <!-- Step 2: Date Selection -->
+    <div id="date-selection" class="min-h-screen flex flex-col hidden">
+        <!-- Header with Back Button -->
+        <div class="bg-white shadow-sm px-6 py-6">
+            <div class="flex items-center mb-4">
+                <button onclick="goBackToLevels()" class="p-2 -ml-2 rounded-lg hover:bg-gray-100 active:bg-gray-200">
+                    <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                    </svg>
+                </button>
+                <div class="ml-4">
+                    <div class="text-lg font-semibold text-gray-900" id="selected-level-display"></div>
+                    <div class="text-sm text-gray-600">Choose exam date</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Date List -->
+        <div class="flex-1 px-6 py-4">
+            <div class="max-w-sm mx-auto">
+                <div class="text-sm text-gray-600 mb-4 text-center">Available exam dates</div>
+                <div id="date-list" class="space-y-3">
+                    <!-- Dates will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  
-  <div id="announcement" class="text-center text-md text-gray-600 mt-5 p-5">
-    <p>[ please select Level and Date ] </p>
-    <p>Level နဲ့ Date ကိုရွေးပေးပါ။</p>
-  </div>
 
-  <!-- 📄 Vocabulary List -->
-  <div id="vocabList" class="space-y-4"></div>
-</div>
+    <!-- Step 3: Vocabulary List -->
+    <div id="vocabulary-list" class="min-h-screen flex flex-col hidden">
+        <!-- Header with Back Button -->
+        <div class="bg-white shadow-sm px-6 py-6 sticky top-0 z-10">
+            <div class="flex items-center justify-between">
+                <button onclick="goBackToDates()" class="p-2 -ml-2 rounded-lg hover:bg-gray-100 active:bg-gray-200">
+                    <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                    </svg>
+                </button>
+                <div class="text-center">
+                    <div class="font-semibold text-gray-900" id="vocab-header-level"></div>
+                    <div class="text-sm text-gray-600" id="vocab-header-date"></div>
+                </div>
+                <div class="w-10"></div>
+            </div>
+        </div>
 
-  <script>
+        <!-- Vocabulary Items -->
+        <div class="flex-1 px-6 py-4">
+            <div class="max-w-sm mx-auto">
+                <div class="text-sm text-gray-600 mb-4 text-center" id="vocab-count"></div>
+                <div id="vocab-items" class="space-y-3">
+                    <!-- Vocabulary items will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </div>
 
-  // Mobile menu toggle
+    <script>
+        let selectedLevel = '';
+        let selectedDate = '';
+
+        // Exam dates data structure
+        const levelToDates = {
+            n1: ["2015_7", "2016_7", "2017_7", "2018_7","2019_7","2022_7", "2023_7", "2024_7"],
+            n2: ["2020_12","2021_12","2022_12", "2023_7","2024_7"],
+            n3: ["2015_7", "2016_7", "2016_12", "2017_7", "2018_7", "2020_12","2023_7"],
+            n4: ["2016_12", "2017_7", "2019_7", "2024_7"],
+            n5: ["2013_7", "2017_7", "2024_7"]
+        };
+
+        let allWords = [];
+
+        function selectLevel(level) {
+            selectedLevel = level.toLowerCase();
+            
+            console.log(selectedLevel)
+            
+            // Update display
+            document.getElementById('selected-level-display').textContent = `JLPT ${level}`;
+            
+            // Populate dates
+            const dateList = document.getElementById('date-list');
+            const dates = levelToDates[selectedLevel] || [];
+            
+            dateList.innerHTML = dates.map(date => `
+                <button onclick="selectDate('${date}')" class="date-item w-full bg-white rounded-xl p-4 shadow-sm border border-gray-200 hover:border-blue-300 active:bg-blue-50 text-left">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <div class="font-medium text-gray-900">${date.replace('_', '/')}</div>
+                            <div class="text-sm text-gray-500">${getDateDescription(date)}</div>
+                        </div>
+                        <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    </div>
+                </button>
+            `).join('');
+            
+            // Show date selection
+            showDateSelection();
+        }
+
+        function selectDate(date) {
+            selectedDate = date;
+            
+            // Update headers
+            document.getElementById('vocab-header-level').textContent = `JLPT ${selectedLevel.toUpperCase()}`;
+            document.getElementById('vocab-header-date').textContent = date.replace('_', '/');
+            
+            // Simulate fetching data
+            fetchData();
+            
+            // Show vocabulary list
+            showVocabularyList();
+        }
+
+        function fetchData() {
+            if (!selectedLevel || !selectedDate) {
+                const vocabItems = document.getElementById('vocab-items');
+                vocabItems.innerHTML = '<p class="p-4 text-gray-400 text-center">Please select both level and date.</p>';
+                return;
+            }
+
+            const fileName = `${selectedLevel}_${selectedDate}`;
+            
+            console.log(fileName)
+            
+            fetch(`./vocab/${fileName}.json`)
+                .then((res) => res.json())
+                .then((data) => {
+             // Show loading state
+            const vocabItems = document.getElementById('vocab-items');
+            vocabItems.innerHTML = `
+                <div class="bg-white rounded-xl p-8 shadow-sm text-center">
+                    <div class="text-4xl mb-4">⏳</div>
+                    <div class="text-gray-600">Loading vocabulary...</div>
+                </div>
+            `;
+                
+                if (data) {
+                    allWords = data;
+                    loadVocabulary();
+                } else {
+                    // Handle missing data
+                    vocabItems.innerHTML = `
+                        <div class="bg-white rounded-xl p-8 shadow-sm text-center">
+                            <div class="text-4xl mb-4">📝</div>
+                            <div class="text-gray-600">No vocabulary data available for this exam date yet.</div>
+                            <div class="text-sm text-gray-500 mt-2">Please try another date or check back later.</div>
+                        </div>
+                    `;
+                }
+               })
+            
+        }
+
+        function loadVocabulary() {
+            const vocabItems = document.getElementById('vocab-items');
+            const vocabCount = document.getElementById('vocab-count');
+            
+            vocabCount.textContent = `${allWords.length} vocabulary words`;
+            
+            if (allWords.length === 0) {
+                vocabItems.innerHTML = `
+                    <div class="bg-white rounded-xl p-8 shadow-sm text-center">
+                        <div class="text-4xl mb-4">📝</div>
+                        <div class="text-gray-600">No vocabulary data available for this exam date yet.</div>
+                        <div class="text-sm text-gray-500 mt-2">Please try another date or check back later.</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            vocabItems.innerHTML = allWords.map((item, index) => `
+                <div class="vocab-item bg-white rounded-xl p-4 shadow-sm border border-gray-200 hover:border-blue-300 active:bg-blue-50">
+                    <div class="flex items-center justify-between">
+                        <div class="flex-1">
+                            <div class="flex items-center space-x-3 mb-2">
+                                <div class="text-lg font-medium text-gray-900">${item.word}</div>
+                                <div class="text-sm text-gray-500">${item.reading}</div>
+                            </div>
+                   <div class="text-gray-600">${item.meaningEN}</div>
+                   <div class="text-gray-600">${item.meaningMM}</div>
+                        </div>
+                        <div class="text-sm text-gray-400 ml-4">${index + 1}</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function getDateDescription(date) {
+            const [year, month] = date.split('_');
+            const monthName = month === '7' ? 'July' : 'December';
+            return `${monthName} ${year}`;
+        }
+
+        function showDateSelection() {
+            document.getElementById('level-selection').classList.add('hidden');
+            document.getElementById('date-selection').classList.remove('hidden');
+            document.getElementById('date-selection').classList.add('slide-in');
+            document.getElementById('vocabulary-list').classList.add('hidden');
+        }
+
+        function showVocabularyList() {
+            document.getElementById('level-selection').classList.add('hidden');
+            document.getElementById('date-selection').classList.add('hidden');
+            document.getElementById('vocabulary-list').classList.remove('hidden');
+            document.getElementById('vocabulary-list').classList.add('slide-in');
+        }
+
+        function goBackToLevels() {
+            document.getElementById('date-selection').classList.add('slide-out');
+            setTimeout(() => {
+                document.getElementById('level-selection').classList.remove('hidden');
+                document.getElementById('date-selection').classList.add('hidden');
+                document.getElementById('date-selection').classList.remove('slide-out');
+            }, 300);
+        }
+
+        function goBackToDates() {
+            document.getElementById('vocabulary-list').classList.add('slide-out');
+            setTimeout(() => {
+                document.getElementById('date-selection').classList.remove('hidden');
+                document.getElementById('vocabulary-list').classList.add('hidden');
+                document.getElementById('vocabulary-list').classList.remove('slide-out');
+            }, 300);
+        }
+
+        // Mobile menu toggle
         document.addEventListener("DOMContentLoaded", () => {
           const toggleBtn = document.getElementById("menu-toggle");
           const mobileMenu = document.getElementById("mobile-menu");
@@ -101,112 +411,6 @@
             mobileMenu.classList.toggle("hidden");
           });
         });
-
-    const searchInput = document.getElementById("searchInput");
-    const levelFilter = document.getElementById("levelFilter");
-    const dateFilter = document.getElementById("dateFilter");
-    const vocabList = document.getElementById("vocabList");
-
-    let allWords = [];
-    
-    const levelToDates = {
-  n1: ["2015_7", "2016_7", "2017_7", "2018_7","2019_7","2022_7", "2023_7", "2024_7"],
-  n2: ["2020_12","2021_12","2022_12", "2023_7","2024_7"],
-  n3: ["2015_7", "2016_7", "2016_12", "2017_7", "2018_7", "2020_12","2023_7"],
-  n4: ["2016_12", "2017_7", "2019_7", "2024_7"],
-  n5: ["2013_7", "2017_7", "2024_7"]
-};
-
-    function updateDateOptions() {
-      const level = levelFilter.value;
-      dateFilter.innerHTML = "";
-      
-      if (!level || !levelToDates[level]) {
-        dateFilter.disabled = true;
-        const option = document.createElement("option");
-        option.value = "";
-        option.textContent = "Select level first";
-        dateFilter.appendChild(option);
-        return;
-      }
-      
-      dateFilter.disabled = false;
-      const defaultOption = document.createElement("option");
-      defaultOption.value = "";
-      defaultOption.textContent = "All Dates";
-      dateFilter.appendChild(defaultOption);
-      
-      levelToDates[level].forEach((date) => {
-        const option = document.createElement("option");
-        option.value = date;
-        option.textContent = date.replace("_", "/");
-        dateFilter.appendChild(option);
-      });
-    }
-    
-    
-    levelFilter.addEventListener("change", () => {
-      updateDateOptions();
-      fetchData();
-    });
-
-    function fetchData() {
-      document.getElementById("announcement").style.display = "none";
-      const level = levelFilter.value;
-      const date = dateFilter.value;
-
-      if (!level || !date) {
-        vocabList.innerHTML = '<p class="p-4 text-gray-400">Please select both level and date.</p>';
-        return;
-      }
-
-      const fileName = `${level}_${date}.json`;
-
-      fetch(`./vocab/${fileName}`)
-        .then((res) => res.json())
-        .then((data) => {
-          allWords = data;
-          applySearch();
-        })
-        .catch((error) => {
-          console.error("Error loading JSON:", error);
-          vocabList.innerHTML = '<p class="p-4 text-red-500">Failed to load data.</p>';
-        });
-    }
-
-    function applySearch() {
-      const query = searchInput.value.toLowerCase();
-      const filtered = allWords.filter((word) =>
-        word.word.includes(query) ||
-        word.reading.includes(query) ||
-        word.meaningEN.toLowerCase().includes(query) ||
-        word.meaningMM.includes(query)
-      );
-
-      vocabList.innerHTML = "";
-
-      if (filtered.length === 0) {
-        vocabList.innerHTML = '<p class="p-4 text-gray-400">No results found.</p>';
-        return;
-      }
-
-      filtered.forEach(item => {
-        const card = `
-            <div class="border rounded-xl shadow-sm p-4 bg-blue-50">
-              <div class="text-xl font-bold text-blue-800">${item.word} <span class="text-sm text-gray-500 ml-2">(${item.reading})</span></div>
-              <div class="text-sm text-gray-500 mt-1">📘 ${item.meaningEN}</div>
-              <div class="text-sm text-gray-700">📗 ${item.meaningMM}</div>
-              <div class="text-xs text-gray-400 mt-2">Level: ${item.level} | Date: ${item.date}</div>
-            </div>
-          `;
-    vocabList.innerHTML += card;
-  });
-}
-
-    // Event listeners
-    searchInput.addEventListener("input", applySearch);
-    levelFilter.addEventListener("change", fetchData);
-    dateFilter.addEventListener("change", fetchData);
-  </script>
+    </script>
 </body>
 </html>
