@@ -6,31 +6,31 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://jlptburmese.com/</loc>
+    <loc>https://www.jlptburmese.com/</loc>
     <lastmod>2025-07-19</lastmod>
     <priority>1.00</priority>
   </url>
 
   <url>
-    <loc>https://jlptburmese.com/oldQVoca/index.html</loc>
+    <loc>https://www.jlptburmese.com/oldQVoca/index.html</loc>
     <lastmod>2025-07-19T13:37:22+00:00</lastmod>
     <priority>1.00</priority>
   </url>
 
   <url>
-    <loc>https://jlptburmese.com/kanjiFlashCard/flashCardIndex.html</loc>
+    <loc>https://www.jlptburmese.com/kanjiFlashCard/flashCardIndex.html</loc>
     <lastmod>2025-07-19T13:37:22+00:00</lastmod>
     <priority>1.00</priority>
   </url>
 
   <url>
-    <loc>https://jlptburmese.com/JLPTtest/test.html</loc>
+    <loc>https://www.jlptburmese.com/JLPTtest/test.html</loc>
     <lastmod>2025-07-19T13:37:23+00:00</lastmod>
     <priority>0.65</priority>
   </url>
 
   <url>
-    <loc>https://jlptburmese.com/kanjiFlashCard/n1kanjiMaster.html</loc>
+    <loc>https://www.jlptburmese.com/kanjiFlashCard/n1kanjiMaster.html</loc>
     <lastmod>2025-07-19T13:37:23+00:00</lastmod>
     <priority>0.80</priority>
   </url>

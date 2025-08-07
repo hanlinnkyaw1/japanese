@@ -6,45 +6,10 @@
   <link rel="icon" href="../favicon.png" />
   <meta name="description" content="Free Japanese Books">
   <title>Japanese Free Books</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="../header.js"></script>
 </head>
 <body class="bg-gray-100 text-gray-800 font-sans">
-
-  <!-- Header Placeholder -->
-  <header class="bg-white shadow-sm">
-        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-            <div class="flex items-center space-x-2">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
-                </svg>
-                <h1 class="text-xl font-bold">日本語の文法 <span class="text-gray-500 font-normal">Japanese Grammar</span></h1>
-            </div>
-   <nav class="hidden md:flex space-x-10">
-              <a href="../index.html" class="text-emerald-600 font-medium">Home</a>
-        <a href="../#learnExplore" class="text-gray-600 hover:text-emerald-600">Study Tools</a>
-        <a href="../#levels" class="text-gray-600 hover:text-emerald-600">Learn Grammar</a>
-        <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
-    </nav>
-
-    <!-- Mobile Toggle Button -->
-    <button id="menu-toggle" class="md:hidden">
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24"
-        stroke="currentColor">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-          d="M4 6h16M4 12h16M4 18h16" />
-      </svg>
-    </button>
-  </div>
-
-<!-- Mobile -->
-  <nav id="mobile-menu" class="hidden md:hidden flex flex-col space-y-4 px-4 pb-4 bg-white shadow">
-        <a href="../index.html" class="text-emerald-600 font-medium">Home</a>
-        <a href="../#learnExplore" class="text-gray-600 hover:text-emerald-600">Study Tools</a>
-        <a href="../#levels" class="text-gray-600 hover:text-emerald-600">Learn Grammar</a>
-        <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
-  </nav>
- </div>
-</header>
 
   <!-- Main Content -->
   <main class="px-4 pb-12 pt-24 max-w-6xl mx-auto">
@@ -73,16 +38,6 @@
           container.insertAdjacentHTML('beforeend', card);
         });
       });
-
-      // Mobile menu toggle
-        document.addEventListener("DOMContentLoaded", () => {
-          const toggleBtn = document.getElementById("menu-toggle");
-          const mobileMenu = document.getElementById("mobile-menu");
-
-          toggleBtn.addEventListener("click", () => {
-            mobileMenu.classList.toggle("hidden");
-          });
-        });
   </script>
 
 </body>
