@@ -3,11 +3,12 @@ document.addEventListener("DOMContentLoaded", () => {
   const toggleBtn = document.getElementById("menu-toggle");
   const mobileMenu = document.getElementById("mobile-menu");
 
-  toggleBtn.addEventListener("click", () => {
-    mobileMenu.classList.toggle("hidden");
+  toggleBtn?.addEventListener("click", () => {
+    mobileMenu?.classList.toggle("hidden");
   });
 });
 
+// Navigation buttons
 document.getElementById("beginnerLevel").addEventListener("click", () => {
   window.location.href = "beginner/beginner.html";
 });
@@ -28,108 +29,148 @@ document.getElementById("kanjiGame").addEventListener("click", () => {
   window.location.href = "kanjiGame/kanjigame.html";
 });
 
-// Grammar level filter buttons
-document.querySelectorAll(".flex.flex-wrap button").forEach((btn) => {
-  btn.addEventListener("click", function () {
-    const level = btn.textContent.trim();
-    document.querySelectorAll(".flex.flex-wrap button").forEach((b) => {
-      b.classList.remove("bg-red-500", "text-white");
-      b.classList.add("bg-gray-100", "text-gray-800");
-    });
-    btn.classList.remove("bg-gray-100", "text-gray-800");
-    btn.classList.add("bg-red-500", "text-white");
+// Grammar rendering and filtering
+document.addEventListener("DOMContentLoaded", function () {
+  const container = document.getElementById("grammar-container");
+  const searchInput = document.querySelector("input[type='text']");
+  const filterButtons = document.querySelectorAll(".flex.flex-wrap button");
 
-    document.querySelectorAll(".grammar-card").forEach((card) => {
-      if (level === "All Levels") {
-        card.style.display = "";
-      } else {
-        const badge = card.querySelector("span");
-        if (badge && badge.textContent.trim() === level) {
-          card.style.display = "";
-        } else {
-          card.style.display = "none";
-        }
-      }
-    });
-  });
-});
+  let metaData = [];
+  let fullData = null;
+  let currentFilter = "All Levels";
+  let isSearching = false;
 
-// Smooth scroll for nav links (if you add #anchors)
-document.querySelectorAll('nav a[href^="#"]').forEach((link) => {
-  link.addEventListener("click", function (e) {
-    const target = document.querySelector(this.getAttribute("href"));
-    if (target) {
-      e.preventDefault();
-      target.scrollIntoView({ behavior: "smooth" });
+  fetch("preview.json")
+    .then(res => res.json())
+    .then(data => {
+      metaData = data;
+      renderCards(metaData.slice(0, 3)); // initial preview
+    });
+
+  function renderCards(data) {
+    container.innerHTML = "";
+
+    if (!data.length) {
+      container.innerHTML = `<p class="text-gray-500 text-center col-span-full">No grammar points found.</p>`;
+      return;
     }
-  });
-});
 
-// Grammar card hover effect
-const grammarCards = document.querySelectorAll(".grammar-card");
-grammarCards.forEach((card) => {
-  card.addEventListener("mouseenter", function () {
-    this.classList.add("shadow-md");
-  });
-  card.addEventListener("mouseleave", function () {
-    this.classList.remove("shadow-md");
-  });
-});
+    data.forEach((item, index) => {
+      const badgeColor = {
+        N5: "green",
+        N4: "blue",
+        N3: "purple",
+        N2: "yellow",
+        N1: "red"
+      }[item.level] || "gray";
 
-// --- Add your new JS code below ---
-// Example: Show alert when "Practice This Point" is clicked
-document.querySelectorAll("button").forEach((btn) => {
-  if (btn.textContent.includes("Practice This Point")) {
-    btn.addEventListener("click", () => {
-      alert("Practice mode coming soon!");
+      const exampleHTML = (item.examples || []).map(ex => `
+        <li class="mb-2">
+          <span class="jp-text font-medium">${ex.jp}</span><br>
+          <span class="text-gray-400 text-xs">${ex.mm}</span>
+        </li>
+      `).join("");
+
+      const cardHTML = `
+        <div class="grammar-card bg-white p-5 rounded-xl shadow-sm border border-gray-100 hover:border-red-200">
+          <span class="bg-${badgeColor}-100 text-${badgeColor}-600 text-xs font-medium px-2.5 py-0.5 rounded-full">${item.level}</span>
+          <h4 class="text-lg font-bold mt-2 jp-text">${item.title}</h4>
+          <p class="text-gray-600 text-sm mb-3">${item.short}</p>
+          ${item.description ? `<p class="text-gray-700 mb-4 text-sm">${item.description}</p>` : ""}
+          ${item.examples ? `
+            <div class="flex justify-between items-center">
+              <button class="text-red-500 hover:text-red-600 text-sm font-medium show-examples-btn" data-index="${index}">Show examples</button>
+              <span class="text-gray-400 text-xs">${item.examples.length} examples</span>
+            </div>
+            <ul class="example-list text-sm mt-4 hidden">${exampleHTML}</ul>
+          ` : ""}
+        </div>
+      `;
+
+      container.insertAdjacentHTML("beforeend", cardHTML);
+    });
+
+    // Toggle example visibility
+    document.querySelectorAll(".show-examples-btn").forEach(btn => {
+      btn.addEventListener("click", function () {
+        const card = this.closest(".grammar-card");
+        const list = card.querySelector(".example-list");
+        const isHidden = list.classList.contains("hidden");
+        if (isHidden) {
+          list.classList.remove("hidden");
+          this.textContent = "Hide examples";
+        } else {
+          list.classList.add("hidden");
+          this.textContent = "Show examples";
+        }
+      });
     });
   }
-});
 
-// Animate grammar cards on scroll into view
-const observer = new IntersectionObserver(
-  (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add("animate__animated", "animate__fadeInUp");
+  // Filter buttons: filter on preview.json data only
+  filterButtons.forEach(button => {
+    button.addEventListener("click", function () {
+      currentFilter = this.textContent.trim();
+      isSearching = false;
+      searchInput.value = "";
+
+      filterButtons.forEach(btn => btn.classList.remove("bg-red-500", "text-white"));
+      this.classList.add("bg-red-500", "text-white");
+
+      if (currentFilter === "All Levels") {
+        renderCards(metaData.slice(0, 3)); // preview mode on all levels
+      } else {
+        const filtered = metaData.filter(item => item.level === currentFilter);
+        renderCards(filtered);
       }
     });
-  },
-  { threshold: 0.1 }
-);
+  });
 
-document.querySelectorAll(".grammar-card").forEach((card) => {
-  observer.observe(card);
-});
-
-// Optional: Add Animate.css for card animation if not already included
-if (!document.querySelector('link[href*="animate.min.css"]')) {
-  const animateCSS = document.createElement("link");
-  animateCSS.rel = "stylesheet";
-  animateCSS.href =
-    "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
-  document.head.appendChild(animateCSS);
-}
-
-// Auto-close mobile nav when a nav link is clicked (for better UX on mobile)
-document.querySelectorAll("nav a").forEach((link) => {
-  link.addEventListener("click", () => {
-    const nav = document.querySelector("nav");
-    if (window.innerWidth < 768 && nav.classList.contains("flex")) {
-      nav.classList.add("hidden");
-      nav.classList.remove(
-        "flex",
-        "flex-col",
-        "absolute",
-        "top-16",
-        "right-4",
-        "bg-white",
-        "shadow-lg",
-        "p-4",
-        "rounded-lg",
-        "space-y-4",
-        "z-50"
-      );
+  // Load full grammarMetadata.json for search only
+  function ensureFullData(callback) {
+    if (fullData) {
+      callback(fullData);
+    } else {
+      fetch("grammarMetadata.json")
+        .then(res => res.json())
+        .then(data => {
+          fullData = data;
+          callback(fullData);
+        });
     }
+  }
+
+  // Search input event (search fullData only)
+  searchInput.addEventListener("input", function () {
+    const keyword = this.value.toLowerCase().trim();
+
+    if (keyword === "") {
+      // Reset view on search cleared
+      isSearching = false;
+      if (currentFilter === "All Levels") {
+        renderCards(metaData.slice(0, 3));
+      } else {
+        renderCards(metaData.filter(item => item.level === currentFilter));
+      }
+      return;
+    }
+
+    isSearching = true;
+    ensureFullData(data => {
+      const filtered = data.filter(item =>
+        item.title.toLowerCase().includes(keyword) ||
+        item.short.toLowerCase().includes(keyword) ||
+        (item.description && item.description.toLowerCase().includes(keyword))
+      );
+      renderCards(filtered);
+    });
+  });
+
+  // View All Grammar Points button (load fullData)
+  document.querySelector(".flex.justify-center button").addEventListener("click", function () {
+    isSearching = true;
+    searchInput.value = "";
+    filterButtons.forEach(btn => btn.classList.remove("bg-red-500", "text-white"));
+    ensureFullData(data => renderCards(data));
   });
 });

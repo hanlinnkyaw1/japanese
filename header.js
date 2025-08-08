@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <nav class="hidden md:flex space-x-6">
           <a href="../index.html" class="hover:text-red-400 transition">Home</a>
           <a href="../#learnExplore" class="hover:text-red-400 transition">Study tools</a>
-          <a href="../#levels" class="hover:text-red-400 transition">Learn grammar</a>
+          <a href="../#grammar-search" class="hover:text-red-400 transition">Grammar Search</a>
           <a href="../about.html" class="hover:text-red-400 transition">About me</a>
         </nav>
         <button id="menu-toggle" class="md:hidden focus:outline-none">
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <div id="mobile-menu" class="hidden md:hidden bg-gray-800 px-4 py-4 space-y-2">
         <a href="../index.html" class="block text-white hover:text-red-400 transition">Home</a>
         <a href="../#learnExplore" class="block text-white hover:text-red-400 transition">Study tools</a>
-        <a href="../#levels" class="block text-white hover:text-red-400 transition">Learn grammar</a>
+        <a href="../#grammar-search" class="block text-white hover:text-red-400 transition">Grammar Search</a>
         <a href="../about.html" class="block text-white hover:text-red-400 transition">About me</a>
       </div>
     </header>`;
