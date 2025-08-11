@@ -8,6 +8,15 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
+window.addEventListener('DOMContentLoaded', function() {
+  // Show deferred sections after a short delay
+  setTimeout(function() {
+    document.querySelectorAll('.deferred-section').forEach(function(section) {
+      section.style.display = '';
+    });
+  }, 400); // 400ms delay, adjust as needed
+});
+
 // Navigation buttons
 document.getElementById("beginnerLevel").addEventListener("click", () => {
   window.location.href = "beginner/beginner.html";

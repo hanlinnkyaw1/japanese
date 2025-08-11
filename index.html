@@ -32,10 +32,18 @@
     <!-- Fonts and Tailwind -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Poppins:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Add to your <style> or a CSS file */
+        .deferred-section {
+        opacity: 0;
+        transition: opacity 0.6s;
+        }
+        .deferred-section[style=""] {
+        opacity: 1;
+        }
+    </style>
 
 </head>
 
@@ -129,7 +137,7 @@
 
      
         <!-- Study Tools -->
-        <section class="py-10 bg-gradient-to-br from-red-50 via-white to-pink-100" id="learnExplore">
+        <section class="py-10 bg-gradient-to-br from-red-50 via-white to-pink-100" id="learnExplore" style="display:none;" >
             <div class="max-w-xl mx-auto px-4">
                 <h2 class="text-2xl font-extrabold text-center text-red-600 mb-8">Explore Learning Features</h2>
 
@@ -234,7 +242,7 @@
         </section>
 
         <!-- Grammar Search -->
-        <section class="py-12 bg-white" id="grammar-search">
+        <section class="py-12 bg-white" id="grammar-search" style="display:none;">
             <div class="container mx-auto px-4">
                 <h3 class="text-2xl font-bold text-center mb-8">Find Grammar Points</h3>
 
@@ -283,7 +291,7 @@
         </section>
 
            <!-- Level Selection -->
-        <section id="grammar" class="py-12 bg-white">
+        <section id="grammar" class="py-12 bg-white" style="display:none;">
             <div class="container mx-auto px-4">
                 <h3 class="text-2xl font-bold text-center mb-8">Choose Your Level</h3>
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">

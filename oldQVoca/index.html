@@ -264,36 +264,32 @@
             }
 
             const fileName = `${selectedLevel}_${selectedDate}`;
-            
-            console.log(fileName)
-            
-            fetch(`./vocab/${fileName}.json`)
-                .then((res) => res.json())
-                .then((data) => {
-             // Show loading state
             const vocabItems = document.getElementById('vocab-items');
+            // Show loading state immediately
             vocabItems.innerHTML = `
                 <div class="bg-white rounded-xl p-8 shadow-sm text-center">
                     <div class="text-4xl mb-4">⏳</div>
                     <div class="text-gray-600">Loading vocabulary...</div>
                 </div>
             `;
-                
-                if (data) {
-                    allWords = data;
-                    loadVocabulary();
-                } else {
-                    // Handle missing data
-                    vocabItems.innerHTML = `
-                        <div class="bg-white rounded-xl p-8 shadow-sm text-center">
-                            <div class="text-4xl mb-4">📝</div>
-                            <div class="text-gray-600">No vocabulary data available for this exam date yet.</div>
-                            <div class="text-sm text-gray-500 mt-2">Please try another date or check back later.</div>
-                        </div>
-                    `;
-                }
-               })
-            
+
+            fetch(`./vocab/${fileName}.json`)
+                .then((res) => res.json())
+                .then((data) => {
+                    if (data) {
+                        allWords = data;
+                        loadVocabulary();
+                    } else {
+                        // Handle missing data
+                        vocabItems.innerHTML = `
+                            <div class="bg-white rounded-xl p-8 shadow-sm text-center">
+                                <div class="text-4xl mb-4">📝</div>
+                                <div class="text-gray-600">No vocabulary data available for this exam date yet.</div>
+                                <div class="text-sm text-gray-500 mt-2">Please try another date or check back later.</div>
+                            </div>
+                        `;
+                    }
+                });
         }
 
         function loadVocabulary() {
