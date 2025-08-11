@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function () {
         <nav class="hidden md:flex space-x-6">
           <a href="../index.html" class="hover:text-red-400 transition">Home</a>
           <a href="../#learnExplore" class="hover:text-red-400 transition">Study tools</a>
-          <a href="../#grammar-search" class="hover:text-red-400 transition">Grammar Search</a>
-          <a href="../about.html" class="hover:text-red-400 transition">About me</a>
+          <a href="../searchgrammar.html" class="hover:text-red-400 transition">Grammar Search</a>
+          <a href="../about.html" class="hover:text-red-400 transition">Contact</a>
         </nav>
         <button id="menu-toggle" class="md:hidden focus:outline-none">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24"
@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', function () {
       <div id="mobile-menu" class="hidden md:hidden bg-gray-800 px-4 py-4 space-y-2">
         <a href="../index.html" class="block text-white hover:text-red-400 transition">Home</a>
         <a href="../#learnExplore" class="block text-white hover:text-red-400 transition">Study tools</a>
-        <a href="../#grammar-search" class="block text-white hover:text-red-400 transition">Grammar Search</a>
-        <a href="../about.html" class="block text-white hover:text-red-400 transition">About me</a>
+        <a href="../searchgrammar.html" class="block text-white hover:text-red-400 transition">Grammar Search</a>
+        <a href="../about.html" class="block text-white hover:text-red-400 transition">Contact</a>
       </div>
     </header>`;
 

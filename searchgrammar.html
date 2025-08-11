@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="my">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <!-- Add inside <head> -->
+<meta name="description" content="Japanese Grammar Viewer - Search and explore Japanese grammar points with Myanmar explanations and examples. Perfect for JLPT and Japanese learners in Myanmar." />
+<meta name="keywords" content="Japanese Grammar, JLPT Grammar, Grammar Viewer, Myanmar, Burmese, ဗမာစာ, ဗမာလူများအတွက်, Japanese Study, JLPT N5, JLPT N4, JLPT N3, JLPT N2, JLPT N1, Grammar Search" />
+<meta name="language" content="my" />
+<meta property="og:title" content="Search Japanese Grammar" />
+<meta property="og:description" content="Search and explore Japanese grammar points with Myanmar explanations and examples. Perfect for JLPT and Japanese learners in Myanmar." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.jlptburmese.com/searchgrammar.html" />
+<meta property="og:image" content="https://www.jlptburmese.com/favicon.png" />
+<meta property="og:locale" content="my_MM" />
+  <title>Search Japanese Grammar</title>
+  <style>
+    :root{
+      --bg: #f5f8fc;
+      --accent: #007BFF;
+      --accent2: #00C6FF;
+      --card-bg: #ffffff;
+      --jp-color: #d62828;
+      --muted: #666;
+    }
+    html,body{
+      margin:0;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: #222;
+    }
+    .wrap{
+      max-width:900px;
+      margin:auto;
+      padding:16px;
+    }
+    header{
+      position:sticky;
+      top:0;
+      z-index:50;
+      background:linear-gradient(90deg,var(--accent),var(--accent2));
+      padding:14px;
+      border-radius:8px;
+      color:white;
+      box-shadow:0 4px 10px rgba(0,0,0,0.15);
+    }
+    .header-top{
+      display:flex;
+      flex-wrap:wrap;
+      align-items:center;
+      gap:14px;
+    }
+    .logo{
+      font-size:18px;
+      font-weight:600;
+      flex-shrink:0;
+    }
+    nav{
+      display:flex;
+      gap:12px;
+      flex-wrap:wrap;
+    }
+    nav a{
+      color:white;
+      text-decoration:none;
+      font-size:14px;
+      padding:6px 10px;
+      border-radius:6px;
+      transition:background 0.2s ease;
+    }
+    nav a:hover{
+      background:rgba(255,255,255,0.15);
+    }
+    .search-wrap{
+      flex:1;
+      min-width:200px;
+    }
+    #searchBar{
+      width:100%;
+      padding:8px 12px;
+      border-radius:8px;
+      border:none;
+      font-size:15px;
+    }
+    #searchBar:focus{
+      outline:3px solid rgba(255,255,255,0.25);
+    }
+    main{margin-top:16px;}
+
+    .grammar-card{
+      background:var(--card-bg);
+      border-radius:12px;
+      margin-bottom:16px;
+      overflow:hidden;
+      box-shadow:0 4px 12px rgba(0,0,0,0.08);
+      transition:transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .grammar-card:hover{
+      transform:translateY(-3px);
+      box-shadow:0 6px 16px rgba(0,0,0,0.12);
+    }
+    .card-header{
+      background:linear-gradient(90deg,var(--accent),var(--accent2));
+      padding:10px 14px;
+      color:white;
+      font-weight:600;
+      font-size:16px;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+    }
+    .grammar-short{
+      font-size:14px;
+      font-style:italic;
+      color:var(--muted);
+      padding:10px 14px 0 14px;
+    }
+    .desc{
+      background:#fdfdfd;
+      border-left:4px solid var(--accent);
+      padding:10px 14px;
+      font-size:14px;
+      line-height:1.5;
+      white-space:pre-wrap;
+      margin:10px 14px;
+      border-radius:6px;
+    }
+    .examples{
+      padding:8px 14px 14px 32px;
+      margin:0;
+    }
+    .examples li{
+      font-size:14px;
+      margin-bottom:6px;
+    }
+    .examples strong{
+      color:var(--jp-color);
+      font-weight:600;
+    }
+    #loading{
+      padding:14px;
+      text-align:center;
+      color:var(--muted);
+    }
+    .no-results{
+      padding:30px;
+      text-align:center;
+      color:var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="header-top">
+        <div class="logo">Japanese Grammar</div>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="../#learnExploraring">Study Tools</a>
+          <a href="about.html">Contact</a>
+        </nav>
+        <div class="search-wrap">
+          <input id="searchBar" placeholder="ရှာဖွေရန်..." aria-label="Search grammar">
+        </div>
+      </div>
+    </header>
+
+    <main id="grammarList" aria-live="polite"></main>
+    <div id="loading">Loading more...</div>
+  </div>
+
+  <script>
+    const ITEMS_PER_PAGE = 20;
+    const JSON_PATH = 'grammarMetadata.json';
+
+    const grammarListEl = document.getElementById('grammarList');
+    const loadingEl = document.getElementById('loading');
+    const searchBar = document.getElementById('searchBar');
+
+    let grammarData = [];
+    let currentIndex = 0;
+    let isLoading = false;
+    let isSearchMode = false;
+    let loadPromise = null;
+
+    function safeLower(v){ return (typeof v === 'string') ? v.toLowerCase() : ''; }
+    function showLoading(text){
+      loadingEl.style.display = 'block';
+      loadingEl.innerText = text ?? 'Loading...';
+    }
+    function hideLoading(){ loadingEl.style.display = 'none'; }
+    function escapeHtml(s){
+      return String(s || '')
+        .replaceAll('&','&amp;')
+        .replaceAll('<','&lt;')
+        .replaceAll('>','&gt;')
+        .replaceAll('"','&quot;');
+    }
+    function itemMatches(item, qLower){
+      if (!qLower) return true;
+      if (safeLower(item.title).includes(qLower)) return true;
+      if (safeLower(item.short).includes(qLower)) return true;
+      if (safeLower(item.description).includes(qLower)) return true;
+      if (Array.isArray(item.examples)){
+        for (const ex of item.examples){
+          if (safeLower(ex.jp).includes(qLower)) return true;
+          if (safeLower(ex.mm).includes(qLower)) return true;
+        }
+      }
+      return false;
+    }
+    function renderGrammar(items, { append = true } = {}){
+      if (!append) grammarListEl.innerHTML = '';
+      const frag = document.createDocumentFragment();
+      for (const item of items){
+        const card = document.createElement('div');
+        card.className = 'grammar-card';
+        card.innerHTML = `
+          <div class="card-header">
+            <span>${escapeHtml(item.title)}</span>
+            <span style="font-size:13px;opacity:0.9">${escapeHtml(item.level ?? '')}</span>
+          </div>
+          <div class="grammar-short">${escapeHtml(item.short)}</div>
+          <div class="desc">${escapeHtml(item.description)}</div>
+          <ul class="examples">
+            ${item.examples.map(ex => `<li><strong>${escapeHtml(ex.jp)}</strong> — ${escapeHtml(ex.mm)}</li>`).join('')}
+          </ul>
+        `;
+        frag.appendChild(card);
+      }
+      grammarListEl.appendChild(frag);
+    }
+    function fetchAllData(){
+      if (loadPromise) return loadPromise;
+      loadPromise = fetch(JSON_PATH)
+        .then(r => r.json())
+        .then(data => {
+          grammarData = Array.isArray(data) ? data : [];
+          return grammarData;
+        });
+      return loadPromise;
+    }
+    async function loadMore(){
+      if (isLoading || isSearchMode) return;
+      isLoading = true;
+      showLoading();
+      await fetchAllData();
+      const next = grammarData.slice(currentIndex, currentIndex + ITEMS_PER_PAGE);
+      if (next.length){
+        renderGrammar(next, { append: true });
+        currentIndex += next.length;
+        hideLoading();
+      } else {
+        showLoading('No more items');
+      }
+      isLoading = false;
+    }
+    function debounce(fn, ms=250){
+      let t; return (...args)=>{ clearTimeout(t); t = setTimeout(()=>fn(...args), ms); };
+    }
+    const handleSearch = debounce(async (ev) => {
+      const q = ev.target.value.trim();
+      if (!q){
+        isSearchMode = false;
+        grammarListEl.innerHTML = '';
+        currentIndex = 0;
+        loadMore();
+        return;
+      }
+      isSearchMode = true;
+      showLoading('Searching...');
+      await fetchAllData();
+      const filtered = grammarData.filter(item => itemMatches(item, q.toLowerCase()));
+      grammarListEl.innerHTML = '';
+      if (filtered.length){
+        renderGrammar(filtered, { append: false });
+      } else {
+        grammarListEl.innerHTML = `<div class="no-results">No results for <strong>${escapeHtml(q)}</strong></div>`;
+      }
+      hideLoading();
+    }, 220);
+
+    window.addEventListener('scroll', () => {
+      if (isSearchMode) return;
+      if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 120){
+        loadMore();
+      }
+    });
+    searchBar.addEventListener('input', handleSearch);
+    loadMore();
+  </script>
+</body>
+</html>

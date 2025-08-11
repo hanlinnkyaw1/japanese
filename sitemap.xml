@@ -30,6 +30,18 @@
   </url>
 
   <url>
+    <loc>https://www.jlptburmese.com/bookStorage/bookstorage.html</loc>
+    <lastmod>2025-07-19T13:37:22+00:00</lastmod>
+    <priority>1.00</priority>
+  </url> 
+
+   <url>
+    <loc>https://www.jlptburmese.com/searchgrammar.html</loc>
+    <lastmod>2025-07-19T13:37:22+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
     <loc>https://www.jlptburmese.com/JLPTtest/test.html</loc>
     <lastmod>2025-07-19T13:37:23+00:00</lastmod>
     <priority>0.65</priority>

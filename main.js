@@ -28,6 +28,9 @@ document.getElementById("kanjiFlashCard").addEventListener("click", () => {
 document.getElementById("kanjiGame").addEventListener("click", () => {
   window.location.href = "kanjiGame/kanjigame.html";
 });
+document.getElementById("viewAllGrammar").addEventListener("click", () => {
+  window.location.href = "searchgrammar.html";
+});
 
 // Grammar rendering and filtering
 document.addEventListener("DOMContentLoaded", function () {
