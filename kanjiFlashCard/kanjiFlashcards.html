@@ -1,74 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- Add inside <head> -->
-<meta name="description" content="Kanji Flashcards for JLPT N5-N1. Practice and learn Japanese kanji with interactive flashcards. Perfect for Myanmar learners and JLPT self-study." />
-<meta name="keywords" content="Kanji Flashcards, JLPT Kanji, JLPT N5, JLPT N4, JLPT N3, JLPT N2, JLPT N1, Japanese Kanji, Myanmar, Burmese, ဗမာစာ, ဗမာလူများအတွက်, Japanese Study, Kanji Master" />
-<meta name="language" content="my" />
-<meta property="og:title" content="Kanji Flashcards for JLPT | Practice Japanese Kanji" />
-<meta property="og:description" content="Practice JLPT kanji with interactive flashcards. Learn kanji meanings, readings, and examples for N5-N1 levels. Perfect for Myanmar learners." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.jlptburmese.com/kanjiFlashCard/kanjiFlashcards.html" />
-<meta property="og:image" content="https://www.jlptburmese.com/favicon.png" />
-<meta property="og:locale" content="my_MM" />
+  <meta name="description"
+    content="Kanji Flashcards for JLPT N5-N1. Practice and learn Japanese kanji with interactive flashcards. Perfect for Myanmar learners and JLPT self-study." />
+  <meta name="keywords"
+    content="Kanji Flashcards, JLPT Kanji, JLPT N5, JLPT N4, JLPT N3, JLPT N2, JLPT N1, Japanese Kanji, Myanmar, Burmese, ဗမာစာ, ဗမာလူများအတွက်, Japanese Study, Kanji Master" />
+  <meta name="language" content="my" />
+  <meta property="og:title" content="Kanji Flashcards for JLPT | Practice Japanese Kanji" />
+  <meta property="og:description"
+    content="Practice JLPT kanji with interactive flashcards. Learn kanji meanings, readings, and examples for N5-N1 levels. Perfect for Myanmar learners." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.jlptburmese.com/kanjiFlashCard/kanjiFlashcards.html" />
+  <meta property="og:image" content="https://www.jlptburmese.com/favicon.ico" />
   <meta name="description" content="Kanji Flashcard">
   <title>Kanji Flashcards</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="../output.css">
+
 </head>
 <style>
-    .card-container {
-      perspective: 1000px;
-    }
-    .flashcard {
-      width: 100%;
-      height: 22rem;
-      position: relative;
-      transform-style: preserve-3d;
-      transition: transform 0.6s;
-    }
-    .flipped {
-      transform: rotateY(180deg);
-    }
-    .card-face {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      backface-visibility: hidden;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      padding: 1.5rem;
-      border-radius: 1rem;
-      background: white;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-    }
-    .back {
-      transform: rotateY(180deg);
-    }
-    .furigana-group {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin: 0 0.25rem;
-    }
-    .furigana-group span {
-      font-size: 0.75rem;
-      color: #555;
-    }
-    .furigana-group strong {
-      font-size: 1.25rem;
-      color: #111;
-    }
-  </style>
+  .card-container {
+    perspective: 1000px;
+  }
+
+  .flashcard {
+    width: 100%;
+    height: 22rem;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+  }
+
+  .flipped {
+    transform: rotateY(180deg);
+  }
+
+  .card-face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    background: white;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  }
+
+  .back {
+    transform: rotateY(180deg);
+  }
+
+  .furigana-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 0.25rem;
+  }
+
+  .furigana-group span {
+    font-size: 0.75rem;
+    color: #555;
+  }
+
+  .furigana-group strong {
+    font-size: 1.25rem;
+    color: #111;
+  }
+</style>
+
 <body>
 
   <header class="bg-white shadow-sm w-full fixed top-0 left-0 z-50">
     <div class="container mx-auto px-4 py-4 flex justify-between items-center">
       <div class="flex items-center space-x-2">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-pink-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-pink-600" fill="none" viewBox="0 0 24 24"
+          stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
             d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
         </svg>
@@ -81,59 +94,115 @@
         Home
       </a>
       <nav class="hidden md:flex space-x-10">
-            <a href="../index.html" class="text-green-600 font-medium">Home</a>
-            <a href="../#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
-            <a href="../#grammar-search" class="text-gray-700 hover:text-green-600">Grammar Search</a>
-             <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
+        <a href="../index.html" class="text-green-600 font-medium">Home</a>
+        <a href="../#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
+        <a href="../#grammar-search" class="text-gray-700 hover:text-green-600">Grammar Search</a>
+        <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
       </nav>
       <button id="menu-toggle" class="md:hidden">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24"
           stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-            d="M4 6h16M4 12h16M4 18h16" />
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
         </svg>
       </button>
     </div>
     <nav id="mobile-menu" class="hidden md:hidden flex flex-col px-4 pb-4 bg-white shadow space-y-2">
-            <a href="../index.html" class="text-green-600 font-medium">Home</a>
-            <a href="../#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
-            <a href="../#grammar-search" class="text-gray-700 hover:text-green-600">Grammar Search</a>
-             <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
+      <a href="../index.html" class="text-green-600 font-medium">Home</a>
+      <a href="../#learnExplore" class="text-gray-700 hover:text-green-600">Study Tools</a>
+      <a href="../#grammar-search" class="text-gray-700 hover:text-green-600">Grammar Search</a>
+      <a href="../about.html" class="text-gray-700 hover:text-green-600">About Me</a>
     </nav>
   </header>
-  
 
-  <div class="choose-page min-h-screen bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center px-4">
-      <div class="w-full max-w-sm text-center mt-20 py-4">
-        <h1 class="text-3xl font-bold text-gray-800 mb-5">
-          🀄 Choose Kanji Level
-        </h1>
-        <div class="grid gap-4" id="level-buttons">
-          <button class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition" data-level="n5kanji">JLPT N5</button>
-          <button class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition" data-level="n4kanji">JLPT N4</button>
-          <button class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition" data-level="n3kanji">JLPT N3</button>
-          <button class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition" data-level="n2kanji">JLPT N2</button>
-          <button class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition" data-level="n1kanji">JLPT N1</button>
-         <a
-          href="n1kanjiMaster.html"
-          class="block bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-gray-100 transition"
-          >N1 Kanji Master</a> 
-         </div>
+
+<!-- study mode -->
+  <main class="max-w-6xl mx-auto px-4 py-6 hidden" id="study-mode">
+
+  <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-center space-x-4 bg-gray-300 mt-20">
+  <label class="mode-label text-gray-700 font-medium cursor-pointer select-none">
+    Study Mode
+  </label>
+  <button class="mode-toggle-btn relative inline-flex items-center h-6 w-12 rounded-full bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors" aria-pressed="false" aria-label="Toggle study mode">
+    <span class="sr-only">Flash Card mode</span>
+    <span class="toggle-circle w-5 h-5 bg-white rounded-full shadow transform transition-transform duration-300 translate-x-0"></span>
+  </button>
+</div>
+   
+    <div id="contentStudy"></div>
+
+    <!-- Progress Indicator -->
+    <div id="progress" class="bg-white rounded-lg p-6 shadow-sm mt-8 hidden">
+      <h3 class="font-semibold text-gray-700 mb-4">Learning Progress</h3>
+      <div class="flex items-center space-x-4">
+        <div class="flex-1 bg-gray-200 rounded-full h-3">
+          <div id="progress-bar" class="bg-gradient-to-r from-blue-500 to-purple-600 h-3 rounded-full"
+            style="width: 0%"></div>
+        </div>
+        <span id="progress-text" class="text-sm text-gray-600 font-medium">0 of 0 kanji learned</span>
       </div>
+    </div>
+  </main>
+
+
+<!-- Flashcard Mode -->
+  <div
+    class="choose-page min-h-screen bg-gradient-to-br from-gray-100 to-gray-200 flex 
+    items-center justify-center px-4">
+    <div class="w-full max-w-sm text-center mt-20 py-4">
+      <h1 class="text-3xl font-bold text-gray-800 mb-5">
+        🀄 Choose Kanji Level
+      </h1>
+      <div class="grid gap-4" id="level-buttons">
+        <button
+          class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition"
+          data-level="n5kanji">JLPT N5</button>
+        <button
+          class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition"
+          data-level="n4kanji">JLPT N4</button>
+        <button
+          class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition"
+          data-level="n3kanji">JLPT N3</button>
+        <button
+          class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition"
+          data-level="n2kanji">JLPT N2</button>
+        <button
+          class="block w-full bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-blue-100 transition"
+          data-level="n1kanji">JLPT N1</button>
+        <a href="n1kanjiMaster.html"
+          class="block bg-white rounded-xl shadow p-6 text-xl font-semibold text-gray-700 hover:bg-gray-100 transition">N1
+          Kanji Master</a>
+      </div>
+    </div>
   </div>
 
 
-<div class="main-flash-container  bg-gradient-to-br from-gray-100 to-gray-200 min-h-screen flex 
+  <div class="main-flash-container  bg-gradient-to-br from-gray-100 to-gray-200 min-h-screen flex 
 flex-col items-center justify-center py-8 px-4">
-     <h1 id="level-title" class="text-3xl font-bold text-gray-800 mb-6"></h1>
-   <div id="flashcard-container" class="card-container w-full max-w-md cursor-pointer"></div>
-    <div class="flex justify-between gap-4 mt-6 w-full max-w-md">
-        <button id="prev-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">← Prev</button>
-        <button id="next-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">Next →</button>
-     </div>
-  </div>
+
+
+  <!-- toggle button -->
+<div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-center space-x-4 bg-gray-300 mt-20">
+  <label class="mode-label text-gray-700 font-medium cursor-pointer select-none">
+    Study Mode
+  </label>
+  <button class="mode-toggle-btn relative inline-flex items-center h-6 w-12 rounded-full bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors" aria-pressed="false" aria-label="Toggle study mode">
+    <span class="sr-only">Flash Card mode</span>
+    <span class="toggle-circle w-5 h-5 bg-white rounded-full shadow transform transition-transform duration-300 translate-x-0"></span>
+  </button>
 </div>
 
-    <script src="kanjiMain.js"></script>
+    <h1 id="level-title" class="text-3xl font-bold text-gray-800 mb-6"></h1>
+    <div id="flashcard-container" class="card-container w-full max-w-md cursor-pointer"></div>
+    <div class="flex justify-between gap-4 mt-6 w-full max-w-md">
+      <button id="prev-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">←
+        Prev</button>
+      <button id="next-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">Next
+        →</button>
+    </div>
+  </div>
+  </div>
+
+  <script src="kanjiMain.js"></script>
 </body>
+
 </html>
