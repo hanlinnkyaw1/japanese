@@ -34,16 +34,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
     
-    <style>
-        /* Add to your <style> or a CSS file */
-        .deferred-section {
-        opacity: 0;
-        transition: opacity 0.6s;
-        }
-        .deferred-section[style=""] {
-        opacity: 1;
-        }
-    </style>
     <link rel="stylesheet" href="output.css">
 
 </head>
@@ -103,9 +93,9 @@
                                 class="flex-1 flex items-center justify-center bg-red-500 hover:bg-red-600 text-white font-medium py-3 px-6 rounded-lg shadow-md transition">
                                 Books Storage
                             </a>
-                            <a href="#grammar"
+                            <a href="/searchgrammar.html"
                                 class="flex-1 flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white font-medium py-3 px-6 rounded-lg shadow-md transition">
-                                Learn Grammar
+                                Grammar Dictionary
                             </a>
                         </div>
 
@@ -138,7 +128,7 @@
 
      
         <!-- Study Tools -->
-        <section class="py-10 bg-gradient-to-br from-red-50 via-white to-pink-100 deferred-section" id="learnExplore" style="display:none;" >
+        <section class="py-10 bg-gradient-to-br from-red-50 via-white to-pink-100 " id="learnExplore">
             <div class="max-w-xl mx-auto px-4">
                 <h2 class="text-2xl font-extrabold text-center text-red-600 mb-8">Explore Learning Features</h2>
 
@@ -242,57 +232,8 @@
             </div>
         </section>
 
-        <!-- Grammar Search -->
-        <section class="py-12 bg-white deferred-section" id="grammar-search" style="display:none;">
-            <div class="container mx-auto px-4">
-                <h3 class="text-2xl font-bold text-center mb-8">Find Grammar Points</h3>
-
-                <div class="max-w-2xl mx-auto mb-8">
-                    <div class="relative">
-                        <input type="text" placeholder="Search grammar points..."
-                            class="w-full py-3 px-4 pl-12 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-400 absolute left-3 top-3"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                        </svg>
-                    </div>
-                </div>
-
-                <div class="flex flex-wrap justify-center gap-2 mb-8">
-                    <button class="bg-red-500 text-white px-4 py-2 rounded-full text-sm font-medium">All Levels</button>
-                    <button
-                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N5</button>
-                    <button
-                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N4</button>
-                    <button
-                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N3</button>
-                    <button
-                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N2</button>
-                    <button
-                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N1</button>
-                </div>
-
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto"
-                    id="grammar-container">
-                    <!-- Grammar cards will be inserted here via JavaScript -->
-                </div>
-
-                <div class="flex justify-center mt-8">
-                    <button id="viewAllGrammar"
-                        class="bg-red-50 hover:bg-red-100 text-red-600 font-medium py-2 px-6 rounded-lg transition flex items-center">
-                        View All Grammar Points
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24"
-                            stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                        </svg>
-                    </button>
-                </div>
-            </div>        
-        </section>
-
-           <!-- Level Selection -->
-        <section id="grammar" class="py-12 bg-white deferred-section " style="display:none;">
+        <!-- Level Selection -->
+        <section id="grammar" class="py-12 bg-white ">
             <div class="container mx-auto px-4">
                 <h3 class="text-2xl font-bold text-center mb-8">Choose Your Level</h3>
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
@@ -415,6 +356,55 @@
             </div>
         </section>
 
+        <!-- Grammar Search -->
+        <section class="py-12 bg-white" id="grammar-search">
+            <div class="container mx-auto px-4">
+                <h3 class="text-2xl font-bold text-center mb-8">Find Grammar Points</h3>
+
+                <div class="max-w-2xl mx-auto mb-8">
+                    <div class="relative">
+                        <input type="text" placeholder="Search grammar points..."
+                            class="w-full py-3 px-4 pl-12 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-400 absolute left-3 top-3"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                        </svg>
+                    </div>
+                </div>
+
+                <div class="flex flex-wrap justify-center gap-2 mb-8">
+                    <button class="bg-red-500 text-white px-4 py-2 rounded-full text-sm font-medium">All Levels</button>
+                    <button
+                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N5</button>
+                    <button
+                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N4</button>
+                    <button
+                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N3</button>
+                    <button
+                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N2</button>
+                    <button
+                        class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">N1</button>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto"
+                    id="grammar-container">
+                    <!-- Grammar cards will be inserted here via JavaScript -->
+                </div>
+
+                <div class="flex justify-center mt-8">
+                    <button id="viewAllGrammar"
+                        class="bg-red-50 hover:bg-red-100 text-red-600 font-medium py-2 px-6 rounded-lg transition flex items-center">
+                        View All Grammar Points
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                        </svg>
+                    </button>
+                </div>
+            </div>        
+        </section>
+
     </main>
 
     <footer class="bg-gray-800 text-gray-300 py-10">
@@ -434,6 +424,7 @@
                         <li><a href="#grammar-search" class="hover:text-white">Grammar Search</a></li>
                         <li><a href="bookStroage/bookstorage.html" class="hover:text-white">Books Storage</a></li>
                         <li><a href="about.html" class="hover:text-white">About & Contact</a></li>
+                        <li><a href="/privacy.html" class="hover:text-white">Privacy Policy</a></li>
                     </ul>
                 </div>
 
@@ -445,7 +436,6 @@
                         <li><a href="/intermediate/n3.html" class="hover:text-white">N3 Grammar</a></li>
                         <li><a href="/advanced/advancedLevel.html" class="hover:text-white">N2 Grammar</a></li>
                         <li><a href="/advanced/advancedLevel.html" class="hover:text-white">N1 Grammar</a></li>
-                        <li><a href="/privacy.html" class="hover:text-white">Privacy Policy</a></li>
                     </ul>
                 </div>
 

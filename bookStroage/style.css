@@ -1,0 +1,201 @@
+
+    /* Reset & base */
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: #eef2f7;
+      margin: 0;
+      padding: 2rem 1rem;
+      color: #222;
+      line-height: 1.5;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      font-size: 2rem;
+      letter-spacing: 1px;
+    }
+
+    /* Search bar container */
+    .search-container {
+      max-width: 700px;
+      margin: 0 auto 1.5rem auto;
+      display: flex;
+      justify-content: center;
+    }
+
+    /* Search input */
+    #search-input {
+      width: 100%;
+      max-width: 700px;
+      padding: 0.6rem 1rem;
+      font-size: 1rem;
+      border: 2px solid #2980b9;
+      border-radius: 8px;
+      transition: border-color 0.3s ease;
+      outline-offset: 2px;
+    }
+    #search-input:focus {
+      border-color: #1c5980;
+      outline: none;
+      box-shadow: 0 0 6px rgba(28, 89, 128, 0.5);
+    }
+
+    /* Table styles */
+    table {
+      width: 100%;
+      max-width: 700px;
+      margin: 0 auto;
+      border-collapse: separate;
+      border-spacing: 0 0.7rem;
+      background: transparent;
+    }
+
+    thead tr {
+      background: transparent;
+    }
+
+    th {
+      text-align: left;
+      font-weight: 600;
+      font-size: 0.95rem;
+      padding: 0.75rem 1rem;
+      color: #32495e;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      border-bottom: 2px solid #bdc3c7;
+    }
+
+    tbody tr {
+      background: #fff;
+      box-shadow: 0 2px 6px rgb(0 0 0 / 0.1);
+      border-radius: 8px;
+      transition: box-shadow 0.3s ease;
+    }
+
+    tbody tr td:first-child {
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+    }
+    tbody tr td:last-child {
+      border-top-right-radius: 8px;
+      border-bottom-right-radius: 8px;
+    }
+
+    tbody tr:hover {
+      box-shadow: 0 8px 16px rgb(0 0 0 / 0.15);
+    }
+
+    td {
+      padding: 1rem 1.2rem;
+      font-size: 1.1rem;
+      vertical-align: middle;
+      color: #1d1a45;
+      font-weight: bold;
+      border: none;
+    }
+
+    /* Download button without icon */
+    .download-btn {
+      background-color: #2980b9;
+      color: #fff;
+      padding: 0.5rem 1.2rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.9rem;
+      display: inline-block;
+      text-align: center;
+      transition: background-color 0.3s ease;
+      border: none;
+      cursor: pointer;
+      user-select: none;
+      box-shadow: 0 2px 8px rgb(41 128 185 / 0.3);
+    }
+
+    .download-btn:hover,
+    .download-btn:focus {
+      background-color: #1c5980;
+      box-shadow: 0 4px 12px rgb(28 89 128 / 0.5);
+      outline: none;
+      color: #fff;
+      text-decoration: none;
+    }
+
+    /* Responsive tweaks */
+    @media (max-width: 480px) {
+      body {
+        padding: 1rem 0.5rem;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      td,
+      th {
+        padding: 0.8rem 1rem;
+        font-size: 0.9rem;
+      }
+
+      .download-btn {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.95rem;
+      }
+
+      #search-input {
+        font-size: 0.9rem;
+      }
+        .filter-container {
+        gap: 0.4rem;
+      }
+      .filter-container button {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.85rem;
+      }
+    }
+    
+    /* Filter button container */
+.filter-container {
+  max-width: 700px;
+  margin: 0 auto 1.5rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+}
+
+/* Filter buttons */
+.filter-container button {
+  background-color: #fff;
+  color: #2980b9;
+  border: 2px solid #2980b9;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 6px rgba(41, 128, 185, 0.15);
+}
+
+.filter-container button:hover,
+.filter-container button:focus {
+  background-color: #2980b9;
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(41, 128, 185, 0.35);
+  outline: none;
+}
+
+/* Active filter button */
+.filter-container button.active {
+  background-color: #1c5980;
+  color: #fff;
+  border-color: #1c5980;
+  box-shadow: 0 4px 12px rgba(28, 89, 128, 0.4);
+}

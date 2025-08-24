@@ -4,175 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <!-- Add inside <head> -->
-    <meta name="description" content="Free Japanese books for JLPT N1-N5. Download grammar, vocabulary, kanji, and reading books for all levels. Perfect for Myanmar learners and JLPT self-study." />
-    <meta name="keywords" content="Japanese Books, JLPT Books, Free Download, JLPT N1, JLPT N2, JLPT N3, JLPT N4, JLPT N5, Myanmar, Burmese, ဗမာစာ, ဗမာလူများအတွက်, Japanese Study, Minna No Nihongo, Kanji Master, Somatome" />
+    <meta name="description" content="Free Japanese books and JLPT Old Question. Download grammar, vocabulary, kanji,
+     and reading books for all levels. Download JLPT old question pdf" />
+    <meta name="keywords" content="Japanese Books, JLPT old question, JLPT Books, Free Download, JLPT N1, JLPT N2, JLPT N3, JLPT N4,
+     JLPT N5,Japanese Study, Minna No Nihongo, Kanji Master, Somatome" />
     <meta name="language" content="my" />
-    <meta property="og:title" content="Free Japanese Books for JLPT | Download Grammar, Vocabulary, Kanji" />
-    <meta property="og:description" content="Download free Japanese books for JLPT N1-N5 levels. Grammar, vocabulary, kanji, and reading resources for Myanmar learners." />
+    <meta property="og:title" content="Free Japanese Books for JLPT | Download JLPT old question "/>
+    <meta property="og:description" content="Download free Japanese books for JLPT N1-N5 levels. JLPT old question, Grammar, vocabulary, kanji, and reading resources for Myanmar learners." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.jlptburmese.com/bookStroage/bookstorage.html" />
     <meta property="og:image" content="https://www.jlptburmese.com/favicon.ico" />
-    <meta property="og:locale" content="my_MM" />
     <title>Japanese Books - Free Downloads</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f4f4f4;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-        }
-        
-        .subtitle {
-            font-size: 1.1rem;
-            opacity: 0.9;
-        }
-        
-        .books-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-        
-        .book-card {
-            background: white;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            transition: transform 0.3s ease;
-        }
-        
-        .book-card:hover {
-            transform: translateY(-5px);
-        }
-        
-        .book-title {
-            font-size: 1.2rem;
-            font-weight: bold;
-            margin-bottom: 15px;
-            color: #2c3e50;
-        }
-        
-        .book-level {
-            display: inline-block;
-            background: #3498db;
-            color: white;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            margin-bottom: 15px;
-        }
-        
-        .download-btn {
-            display: block;
-            width: 100%;
-            background: #27ae60;
-            color: white;
-            text-decoration: none;
-            padding: 12px;
-            border-radius: 5px;
-            text-align: center;
-            font-weight: bold;
-            transition: background 0.3s ease;
-        }
-        
-        .download-btn:hover {
-            background: #219a52;
-        }
-        
-        .search-section {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        
-        .search-input {
-            width: 100%;
-            max-width: 400px;
-            padding: 12px 20px;
-            font-size: 1rem;
-            border: 2px solid #ddd;
-            border-radius: 25px;
-            outline: none;
-            transition: border-color 0.3s ease;
-            margin-bottom: 15px;
-        }
-        
-        .search-input:focus {
-            border-color: #3498db;
-        }
-        
-        .filter-section {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        
-        .filter-btn {
-            background: #34495e;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            margin: 5px;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background 0.3s ease;
-        }
-        
-        .filter-btn:hover,
-        .filter-btn.active {
-            background: #2c3e50;
-        }
-        
-        .no-results {
-            text-align: center;
-            color: #666;
-            font-size: 1.1rem;
-            margin-top: 40px;
-        }
-    </style>
-
-    <link rel="stylesheet" href="../output.css">
-
+    <link rel="stylesheet" href="style.css">
     <script src="../header.js"></script>
+    <link rel="stylesheet" href="../output.css">
 </head>
 <body>
-    <div class="container">
-        <div class="search-section">
-            <input type="text" id="searchInput" class="search-input" placeholder="Search books by title..." oninput="searchBooks()">
-        </div>
-        
-        <div class="filter-section">
-            <button class="filter-btn active" onclick="filterBooks('all')">All Books</button>
-            <button class="filter-btn" onclick="filterBooks('N1')">N1</button>
-            <button class="filter-btn" onclick="filterBooks('N2')">N2</button>
-            <button class="filter-btn" onclick="filterBooks('N3')">N3</button>
-            <button class="filter-btn" onclick="filterBooks('N4')">N4</button>
-            <button class="filter-btn" onclick="filterBooks('N5')">N5</button>
-        </div>
+  <h2>Japanese Books and Old question pdf file Download</h2>
 
-        <div id="booksContainer" class="books-grid">
-            <!-- Books will be populated by JavaScript -->
-        </div>
-    </div>
+  <div class="search-container">
+    <input
+      type="text"
+      id="search-input"
+      placeholder="Search books by title..."
+      aria-label="Search books by title"
+    />
+  </div>
 
-    <script>
-        const books = [
+  <div class="filter-container">
+    <button onclick="setFilter('all')">All</button>
+    <button onclick="setFilter('N1')">N1</button>
+    <button onclick="setFilter('N2')">N2</button>
+    <button onclick="setFilter('N3')">N3</button>
+    <button onclick="setFilter('N4')">N4</button>
+    <button onclick="setFilter('N5')">N5</button>
+    <button onclick="setFilter('General')">General</button>
+    <button onclick="setFilter('Old Question')">Old Questions</button>
+  </div>
+
+  <table id="book-table" aria-label="List of downloadable JLPT books">
+    <thead>
+      <tr>
+        <th>Book Title</th>
+        <th>Download</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    const books = [
             { "title": "飲食料製造業 japanese book", "link": "https://t.me/japanese_books_storage/26" },
             { "title": "စားသောက်ကုန်ထုတ်_မြန်မာပြန်", "link": "https://t.me/japanese_books_storage/27" },
             { "title": "Kanji Master N1", "link": "https://t.me/japanese_books_storage/3" },
@@ -196,78 +77,192 @@
             { "title": "Minna No Nihongo N5", "link": "https://t.me/japanese_books_storage/22" },
             { "title": "N3 Standard 2400 with burmese translation", "link": "https://t.me/japanese_books_storage/23" },
             { "title": "N2 Standard 2500 by Asuka Mori", "link": "https://t.me/japanese_books_storage/24" },
+            { "title": "JLPT N5 2012 December old question", "link": "https://t.me/japanese_books_storage/28" },
+            { "title": "JLPT N5 2013 July old question", "link": "https://t.me/japanese_books_storage/29" },
+            { "title": "JLPT N5 2017 July old question", "link": "https://t.me/japanese_books_storage/30" },
+            { "title": "JLPT N5 2018 December old question", "link": "https://t.me/japanese_books_storage/31" },
+            { "title": "JLPT N5 2024 July old question", "link": "https://t.me/japanese_books_storage/32" },
+            { "title": "JLPT N4 2012 December old question", "link": "https://t.me/japanese_books_storage/34" },
+            { "title": "JLPT N4 2013 July old question", "link": "https://t.me/japanese_books_storage/35" },
+            { "title": "JLPT N4 2013 December old question", "link": "https://t.me/japanese_books_storage/36" },
+            { "title": "JLPT N4 2014 July old question", "link": "https://t.me/japanese_books_storage/37" },
+            { "title": "JLPT N4 2014 December old question", "link": "https://t.me/japanese_books_storage/38" },
+            { "title": "JLPT N4 2017 December old question", "link": "https://t.me/japanese_books_storage/39" },
+            { "title": "JLPT N4 2018 December old question", "link": "https://t.me/japanese_books_storage/40" },
+            { "title": "JLPT N4 2019 December old question", "link": "https://t.me/japanese_books_storage/41" },
+            { "title": "JLPT N4 2024 July old question", "link": "https://t.me/japanese_books_storage/42" },
+            { "title": "JLPT N3 2010 July old question", "link": "https://t.me/japanese_books_storage/44" },
+            { "title": "JLPT N3 2011 July old question", "link": "https://t.me/japanese_books_storage/45" },
+            { "title": "JLPT N3 2012 July old question", "link": "https://t.me/japanese_books_storage/46" },
+            { "title": "JLPT N3 2012 December old question", "link": "https://t.me/japanese_books_storage/48" },
+            { "title": "JLPT N3 2013 July old question", "link": "https://t.me/japanese_books_storage/49" },
+            { "title": "JLPT N3 2013 December old question", "link": "https://t.me/japanese_books_storage/50" },
+            { "title": "JLPT N3 2014 July old question", "link": "https://t.me/japanese_books_storage/52" },
+            { "title": "JLPT N3 2014 December old question", "link": "https://t.me/japanese_books_storage/53" },
+            { "title": "JLPT N3 2015 July old question", "link": "https://t.me/japanese_books_storage/54" },
+            { "title": "JLPT N3 2015 December old question", "link": "https://t.me/japanese_books_storage/55" },
+            { "title": "JLPT N3 2016 July old question", "link": "https://t.me/japanese_books_storage/56" },
+            { "title": "JLPT N3 2016 December old question", "link": "https://t.me/japanese_books_storage/57" },
+            { "title": "JLPT N3 2017 July old question", "link": "https://t.me/japanese_books_storage/58" },
+            { "title": "JLPT N3 2017 December old question", "link": "https://t.me/japanese_books_storage/59" },
+            { "title": "JLPT N3 2018 July old question", "link": "https://t.me/japanese_books_storage/60" },
+            { "title": "JLPT N3 2018 December old question", "link": "https://t.me/japanese_books_storage/61" },
+            { "title": "JLPT N3 2019 December old question", "link": "https://t.me/japanese_books_storage/62" },
+            { "title": "JLPT N3 2020 December old question", "link": "https://t.me/japanese_books_storage/63" },
+            { "title": "JLPT N3 2021 July old question", "link": "https://t.me/japanese_books_storage/64" },
+            { "title": "JLPT N3 2022 July old question", "link": "https://t.me/japanese_books_storage/65" },
+            { "title": "JLPT N3 2023 July old question", "link": "https://t.me/japanese_books_storage/66" },
+            { "title": "JLPT N3 2023 December old question", "link": "https://t.me/japanese_books_storage/67" },
+            { "title": "JLPT N3 2024 July old question", "link": "https://t.me/japanese_books_storage/68"},
+            { "title": "JLPT N2 2012 July old question", "link": "https://t.me/japanese_books_storage/70"},
+            { "title": "JLPT N2 2012 December old question", "link": "https://t.me/japanese_books_storage/71"},
+            { "title": "JLPT N2 2013 July old question", "link": "https://t.me/japanese_books_storage/72"},
+            { "title": "JLPT N2 2013 December old question", "link": "https://t.me/japanese_books_storage/73"},
+            { "title": "JLPT N2 2014 July old question", "link": "https://t.me/japanese_books_storage/74"},
+            { "title": "JLPT N2 2014 December old question", "link": "https://t.me/japanese_books_storage/75"},
+            { "title": "JLPT N2 2015 JULY old question", "link": "https://t.me/japanese_books_storage/76"},
+            { "title": "JLPT N2 2015 December old question", "link": "https://t.me/japanese_books_storage/77"},
+            { "title": "JLPT N2 2016 July old question", "link": "https://t.me/japanese_books_storage/78"},
+            { "title": "JLPT N2 2016 December old question", "link": "https://t.me/japanese_books_storage/79"},
+            { "title": "JLPT N2 2017 July old question", "link": "https://t.me/japanese_books_storage/80"},
+            { "title": "JLPT N2 2017 December old question", "link": "https://t.me/japanese_books_storage/81"},
+            { "title": "JLPT N2 2018 July old question", "link": "https://t.me/japanese_books_storage/82"},
+            { "title": "JLPT N2 2018 December old question", "link": "https://t.me/japanese_books_storage/83"},
+            { "title": "JLPT N2 2019 July old question", "link": "https://t.me/japanese_books_storage/84"},
+            { "title": "JLPT N2 2019 December old question", "link": "https://t.me/japanese_books_storage/85"},
+            { "title": "JLPT N2 2020 December old question", "link": "https://t.me/japanese_books_storage/86"},
+            { "title": "JLPT N2 2021 July old question", "link": "https://t.me/japanese_books_storage/87"},
+            { "title": "JLPT N2 2021 December old question", "link": "https://t.me/japanese_books_storage/88"},
+            { "title": "JLPT N2 2022 July old question", "link": "https://t.me/japanese_books_storage/89"},
+            { "title": "JLPT N2 2022 December old question", "link": "https://t.me/japanese_books_storage/90"},
+            { "title": "JLPT N2 2023 July old question", "link": "https://t.me/japanese_books_storage/91"},
+            { "title": "JLPT N2 2023 December old question", "link": "https://t.me/japanese_books_storage/92"},
+            { "title": "JLPT N2 2024 July old question", "link": "https://t.me/japanese_books_storage/93"},
+            { "title": "JLPT N2 2024 December old question", "link": "https://t.me/japanese_books_storage/94"},
+            { "title": "JLPT N1 2011 July old question", "link": "https://t.me/japanese_books_storage/96"},
+            { "title": "JLPT N1 2011 December old question", "link": "https://t.me/japanese_books_storage/97"},
+            { "title": "JLPT N1 2012 July old question", "link": "https://t.me/japanese_books_storage/98"},
+            { "title": "JLPT N1 2012 December old question", "link": "https://t.me/japanese_books_storage/99"},
+            { "title": "JLPT N1 2013 July old question", "link": "https://t.me/japanese_books_storage/100"},
+            { "title": "JLPT N1 2013 December old question", "link": "https://t.me/japanese_books_storage/101"},
+            { "title": "JLPT N1 2014 July old question", "link": "https://t.me/japanese_books_storage/102"},
+            { "title": "JLPT N1 2014 December old question", "link": "https://t.me/japanese_books_storage/103"},
+            { "title": "JLPT N1 2015 JULY old question", "link": "https://t.me/japanese_books_storage/104"},
+            { "title": "JLPT N1 2015 December old question", "link": "https://t.me/japanese_books_storage/105"},
+            { "title": "JLPT N1 2016 July old question", "link": "https://t.me/japanese_books_storage/106"},
+            { "title": "JLPT N1 2016 December old question", "link": "https://t.me/japanese_books_storage/107"},
+            { "title": "JLPT N1 2017 July old question", "link": "https://t.me/japanese_books_storage/108"},
+            { "title": "JLPT N1 2017 December old question", "link": "https://t.me/japanese_books_storage/109"},
+            { "title": "JLPT N1 2018 July old question", "link": "https://t.me/japanese_books_storage/110"},
+            { "title": "JLPT N1 2018 December old question", "link": "https://t.me/japanese_books_storage/111"},
+            { "title": "JLPT N1 2019 July old question", "link": "https://t.me/japanese_books_storage/112"},
+            { "title": "JLPT N1 2019 December old question", "link": "https://t.me/japanese_books_storage/113"},
+            { "title": "JLPT N1 2020 December old question", "link": "https://t.me/japanese_books_storage/114"},
+            { "title": "JLPT N1 2021 July old question", "link": "https://t.me/japanese_books_storage/115"},
+            { "title": "JLPT N1 2021 December old question", "link": "https://t.me/japanese_books_storage/116"},
+            { "title": "JLPT N1 2022 July old question", "link": "https://t.me/japanese_books_storage/117"},
+            { "title": "JLPT N1 2022 December old question", "link": "https://t.me/japanese_books_storage/118"},
+            { "title": "JLPT N1 2023 July old question", "link": "https://t.me/japanese_books_storage/119"},
+            { "title": "JLPT N1 2023 December old question", "link": "https://t.me/japanese_books_storage/120"},
+            { "title": "JLPT N1 2024 July old question", "link": "https://t.me/japanese_books_storage/121"},
+            { "title": "JLPT N1 2024 December old question", "link": "https://t.me/japanese_books_storage/122"}
         ];
 
-        function getLevel(title) {
-            if (title.includes('N1')) return 'N1';
-            if (title.includes('N2')) return 'N2';
-            if (title.includes('N3')) return 'N3';
-            if (title.includes('N4')) return 'N4';
-            if (title.includes('N5')) return 'N5';
-            return 'General';
-        }
+    const tbody = document.querySelector("#book-table tbody");
+    const searchInput = document.getElementById("search-input");
 
-        let currentFilter = 'all';
-        let currentSearch = '';
+    let currentFilter = "all";
+    let currentSearch = "";
 
-        function renderBooks(booksToRender = books) {
-            const container = document.getElementById('booksContainer');
-            
-            if (booksToRender.length === 0) {
-                container.innerHTML = '<div class="no-results">No books found matching your search.</div>';
-                return;
-            }
-            
-            container.innerHTML = booksToRender.map(book => {
-                const level = getLevel(book.title);
-                
-                return `
-                    <div class="book-card">
-                        <div class="book-level">${level}</div>
-                        <div class="book-title">${book.title}</div>
-                        <a href="${book.link}" target="_blank" class="download-btn">Download</a>
-                    </div>
-                `;
-            }).join('');
-        }
+  function getLevel(title) {
+  const T = title.toUpperCase();
+  if (T.includes("N1")) return "N1";
+  if (T.includes("N2")) return "N2";
+  if (T.includes("N3")) return "N3";
+  if (T.includes("N4")) return "N4";
+  if (T.includes("N5")) return "N5";
+  return "General";
+}
 
-        function applyFilters() {
-            let filtered = books;
-            
-            // Apply level filter
-            if (currentFilter !== 'all') {
-                filtered = filtered.filter(book => book.title.includes(currentFilter));
-            }
-            
-            // Apply search filter
-            if (currentSearch) {
-                filtered = filtered.filter(book => 
-                    book.title.toLowerCase().includes(currentSearch.toLowerCase())
-                );
-            }
-            
-            renderBooks(filtered);
-        }
+// Detect "Old Question" independently of the N-level
+function isOldQuestion(title) {
+  const t = title.toLowerCase();
 
-        function filterBooks(level) {
-            currentFilter = level;
-            
-            // Update active button
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            event.target.classList.add('active');
+  return t.includes("old question")
+}
 
-            applyFilters();
-        }
 
-        function searchBooks() {
-            currentSearch = document.getElementById('searchInput').value;
-            applyFilters();
-        }
+    function createRow(book) {
+      const tr = document.createElement("tr");
 
-        // Initialize
-        renderBooks();
-    </script>
+      const tdTitle = document.createElement("td");
+      tdTitle.textContent = book.title;
+
+      const tdDownload = document.createElement("td");
+      const btn = document.createElement("a");
+      btn.href = book.link;
+      btn.target = "_blank";
+      btn.rel = "noopener noreferrer";
+      btn.className = "download-btn";
+      btn.textContent = "Download";
+
+      tdDownload.appendChild(btn);
+      tr.appendChild(tdTitle);
+      tr.appendChild(tdDownload);
+
+      return tr;
+    }
+
+    function renderBooks(bookList) {
+      tbody.innerHTML = "";
+      if (bookList.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="2">No books found</td></tr>`;
+        return;
+      }
+      bookList.forEach(book => {
+        tbody.appendChild(createRow(book));
+      });
+    }
+    
+    function applyFilters() {
+  let filtered = books;
+
+  // search filter
+  if (currentSearch.trim() !== "") {
+    const q = currentSearch.toLowerCase();
+    filtered = filtered.filter(b => b.title.toLowerCase().includes(q));
+  }
+
+  // level / category filter
+  if (currentFilter !== "all") {
+    if (currentFilter === "Old Question") {
+      filtered = filtered.filter(b => isOldQuestion(b.title));
+    } else if (currentFilter === "General") {
+      filtered = filtered.filter(b => !isOldQuestion(b.title) && getLevel(b.title) === "General");
+    } else {
+      // N1..N5
+      filtered = filtered.filter(b => getLevel(b.title) === currentFilter);
+    }
+  }
+
+  renderBooks(filtered);
+}
+
+
+    // search input listener
+    searchInput.addEventListener("input", () => {
+      currentSearch = searchInput.value;
+      applyFilters();
+    });
+
+    // button filter helper
+    function setFilter(level) {
+      currentFilter = level;
+      applyFilters();
+    }
+
+    // initial render
+    renderBooks(books);
+  </script>
 </body>
 </html>
