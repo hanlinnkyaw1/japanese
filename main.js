@@ -177,3 +177,25 @@ document.addEventListener("DOMContentLoaded", function () {
     ensureFullData(data => renderCards(data));
   });
 });
+
+let deferredPrompt;
+const installButton = document.getElementById("install-button");
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  installButton.classList.remove("hidden");
+
+  installButton.addEventListener("click", () => {
+    installButton.classList.add("hidden");
+    deferredPrompt.prompt();
+    deferredPrompt.userChoice.then((choiceResult) => {
+      if (choiceResult.outcome === "accepted") {
+        console.log("User accepted the install prompt");
+      } else {
+        console.log("User dismissed the install prompt");
+      }
+      deferredPrompt = null;
+    });
+  });
+});
