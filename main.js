@@ -161,9 +161,7 @@ document.addEventListener("DOMContentLoaded", function () {
     isSearching = true;
     ensureFullData(data => {
       const filtered = data.filter(item =>
-        item.title.toLowerCase().includes(keyword) ||
-        item.short.toLowerCase().includes(keyword) ||
-        (item.description && item.description.toLowerCase().includes(keyword))
+        item.title.toLowerCase().includes(keyword) // Search only in the title field
       );
       renderCards(filtered);
     });

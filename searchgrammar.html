@@ -454,17 +454,8 @@ function showLoading(text){
 }
 function hideLoading(){loadingEl.style.display='none';}
 function itemMatches(item,qLower){
-  if(!qLower)return true;
-  if(safeLower(item.title).includes(qLower))return true;
-  if(safeLower(item.short).includes(qLower))return true;
-  if(safeLower(item.description).includes(qLower))return true;
-  if(Array.isArray(item.examples)){
-    for(const ex of item.examples){
-      if(safeLower(ex.jp).includes(qLower))return true;
-      if(safeLower(ex.mm).includes(qLower))return true;
-    }
-  }
-  return false;
+  if(!qLower) return true;
+  return safeLower(item.title).includes(qLower); // Restrict search to title field only
 }
 function renderGrammar(items,{append=true}={}){
   if(!append)grammarListEl.innerHTML='';
