@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLPT N1 Reading Practice</title>
+    <script src="navbar.js"></script>   
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&family=Noto+Serif+JP:wght@400;700&display=swap');
+
+        /* --- CORE STYLES (MATCHING MOJIGOI) --- */
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background: #f2f6ff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px; /* Wider for Reading */
+            margin: 0px auto;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            min-height: 80vh;
+        }
+
+        .header {
+            background: #f9fafb; 
+            padding: 15px 20px;
+            text-align: center;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .badge {
+            background: #2563eb; 
+            color: #fff;
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 9999px;
+            font-size: 12px;
+            margin-bottom: 4px;
+            font-weight: bold;
+        }
+
+        .title {
+            font-size: 18px;
+            font-weight: 700;
+            margin: 5px 0;
+            color: #1f2937;
+        }
+
+        .date {
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+        .nav-btn {
+            background-color: #fff;
+            color: #374151;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-top: 10px;
+        }
+
+        .nav-btn:hover { background-color: #f3f4f6; }
+
+        /* --- SELECTION SCREEN STYLES --- */
+        .selection-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 15px;
+            padding: 20px;
+        }
+        
+        .year-select-card {
+            background: #fff;
+            border: 2px solid #e5e7eb;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .year-select-card:hover {
+            border-color: #3b82f6;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.1);
+        }
+
+        .year-label-lg {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #1f2937;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .month-btn {
+            display: block;
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 5px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .month-july { background: #eff6ff; color: #2563eb; }
+        .month-july:hover { background: #dbeafe; }
+        .month-dec { background: #fff7ed; color: #ea580c; }
+        .month-dec:hover { background: #ffedd5; }
+
+        /* --- READING QUIZ SPECIFIC STYLES --- */
+        .section {
+            padding: 20px;
+            border-bottom: 1px solid #f3f4f6;
+        }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #2563eb;
+        }
+
+        .passage-card {
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            background: #fff;
+            overflow: hidden;
+            margin-bottom: 40px;
+        }
+
+        .passage-text {
+            font-family: 'Noto Serif JP', serif;
+            padding: 25px;
+            line-height: 2.2;
+            font-size: 1.05rem;
+            background-color: #f9fafb;
+            white-space: pre-wrap;
+            color: #374151;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        /* Section 4 Table Styles */
+        .info-search-container {
+            padding: 20px;
+            background: #fff;
+            overflow-x: auto;
+        }
+        
+        /* Basic table styling to ensure JSON HTML tables look okay */
+        .info-search-container table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+        .info-search-container th, .info-search-container td {
+            border: 1px solid #374151;
+            padding: 8px;
+            text-align: center;
+        }
+
+        .question-area {
+            padding: 25px;
+        }
+
+        .question-block {
+            margin-bottom: 30px;
+        }
+
+        .question-text {
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #1f2937;
+        }
+
+        .option-button {
+            display: block;
+            width: 100%;
+            padding: 14px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            border: 2px solid #e5e7eb;
+            background: #fff;
+            cursor: pointer;
+            text-align: left;
+            font-family: 'Noto Sans JP', sans-serif;
+            color: #4b5563;
+            transition: all 0.2s;
+        }
+
+        .option-button:hover { border-color: #3b82f6; background: #eff6ff; }
+        .option-button.selected { border-color: #3b82f6; background: #eff6ff; color: #1d4ed8; font-weight: 600; }
+        .option-button.correct { background: #dcfce7 !important; border-color: #22c55e !important; color: #166534 !important; }
+        .option-button.incorrect { background: #fee2e2 !important; border-color: #ef4444 !important; color: #991b1b !important; }
+        .option-button:disabled { cursor: default; }
+
+        /* --- FOOTER & RESULTS --- */
+        .footer {
+            padding: 30px 20px;
+            text-align: center;
+            background: #f9fafb;
+            border-top: 1px solid #e5e7eb;
+        }
+
+        #submitBtn {
+            background: #2563eb;
+            color: white;
+            padding: 14px 40px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2);
+        }
+        #submitBtn:active { transform: scale(0.98); }
+
+        .results {
+            margin-top: 20px;
+            background: #f0fdf4;
+            padding: 20px;
+            border-radius: 12px;
+            border: 1px solid #bbf7d0;
+        }
+        .score { font-size: 32px; font-weight: 800; color: #16a34a; display: block; }
+        
+        .hidden { display: none !important; }
+
+        @media (min-width: 768px) {
+            .container { margin: 40px auto; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <span class="badge">JLPT N1</span>
+        <div class="title" id="page-title">Reading Challenge</div>
+        <div class="date" id="page-subtitle">Select an exam to begin</div>
+        <button id="backBtn" class="nav-btn hidden" onclick="location.reload()">← Back to Selection</button>
+    </div>
+
+    <div id="selection-screen">
+        <div style="padding: 20px; text-align: center; color: #6b7280;">Choose an exam year:</div>
+        <div class="selection-grid" id="card-container"></div>
+    </div>
+
+    <div id="quiz-screen" class="hidden">
+        <div id="sections-container"></div>
+
+        <div class="footer">
+            <button id="submitBtn">Submit Answers</button>
+
+            <div id="results" class="results hidden">
+                <div>You Scored:</div>
+                <span id="score" class="score">0 / 0</span>
+                <div id="percentage" style="color:#166534; font-weight:600;">0%</div>
+                <button class="nav-btn" onclick="location.reload()" style="margin-top:15px; border-color:#bbf7d0; background:white;">Try Another</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // --- DATA CONFIG ---
+    // Make sure your JSON files are named like: quizTest/N1_2015_7Reading.json
+    const examData = [
+        { year: 2015, months: ["July", "Dec"] },
+        { year: 2016, months: ["July", "Dec"] },
+        { year: 2017, months: ["July", "Dec"] },
+        { year: 2018, months: ["July", "Dec"] },
+        { year: 2019, months: ["July"] },
+        { year: 2020, months: ["Dec"] },
+        { year: 2021, months: ["July", "Dec"] },
+        { year: 2022, months: ["Dec"] },
+        { year: 2023, months: ["Dec"] },
+        { year: 2024, months: ["July"] }
+    ];
+
+    // --- STATE ---
+    let selectedAnswers = {};
+    let correctAnswers = {};
+    let totalQuestions = 0;
+
+    // --- DOM ---
+    const selectionScreen = document.getElementById('selection-screen');
+    const quizScreen = document.getElementById('quiz-screen');
+    const cardContainer = document.getElementById('card-container');
+    const sectionsContainer = document.getElementById('sections-container');
+    const submitBtn = document.getElementById('submitBtn');
+    const resultSection = document.getElementById('results');
+    const backBtn = document.getElementById('backBtn');
+    const pageTitle = document.getElementById('page-title');
+    const pageSubtitle = document.getElementById('page-subtitle');
+
+    // --- INITIALIZATION ---
+    function init() {
+        cardContainer.innerHTML = '';
+        examData.forEach(item => {
+            const card = document.createElement('div');
+            card.className = 'year-select-card';
+            
+            let btns = '';
+            item.months.forEach(m => {
+                const mCode = m === "July" ? "7" : "12";
+                const cls = m === "July" ? "month-july" : "month-dec";
+                btns += `<button class="month-btn ${cls}" onclick="loadQuiz(${item.year}, '${mCode}', '${m}')">${m}</button>`;
+            });
+
+            card.innerHTML = `<span class="year-label-lg">${item.year}</span>${btns}`;
+            cardContainer.appendChild(card);
+        });
+    }
+
+    // --- LOAD QUIZ ---
+    async function loadQuiz(year, monthNum, monthName) {
+        // UI Transition
+        selectionScreen.classList.add('hidden');
+        quizScreen.classList.remove('hidden');
+        backBtn.classList.remove('hidden');
+        
+        pageTitle.textContent = "Reading Comprehension";
+        pageSubtitle.textContent = `${year} / ${monthName} Exam`;
+
+        // Reset State
+        selectedAnswers = {};
+        correctAnswers = {};
+        totalQuestions = 0;
+        sectionsContainer.innerHTML = '<div style="padding:40px; text-align:center; color:#6b7280;">Loading Reading Data...</div>';
+        resultSection.classList.add('hidden');
+        submitBtn.style.display = 'inline-block';
+
+        // Fetch Data
+        // Filename format assumption based on user request: N1_2015_7Reading.json
+        const fileName = `N1_${year}_${monthNum}Reading`; 
+        
+        try {
+            const res = await fetch(`quizTest/${fileName}.json`);
+            if (!res.ok) throw new Error("File not found");
+            const data = await res.json();
+            renderReadingQuiz(data);
+        } catch (e) {
+            sectionsContainer.innerHTML = `<div style="padding:20px; color:red; text-align:center;">
+                <h3>Error Loading Exam</h3>
+                <p>Could not find file: <b>${fileName}.json</b></p>
+                <p>Please check if the file exists in the <i>quizTest</i> folder.</p>
+            </div>`;
+            console.error(e);
+        }
+    }
+
+    // --- RENDER LOGIC ---
+    function renderReadingQuiz(data) {
+        sectionsContainer.innerHTML = '';
+
+        // Render Section 3 (Standard Paragraphs)
+        if (data.section3) {
+            data.section3.forEach(item => createSectionUI(item, "passage-text"));
+        }
+
+        // Render Section 4 (Information Retrieval / Tables)
+        if (data.section4) {
+            data.section4.forEach(item => createSectionUI(item, "info-search-container"));
+        }
+        
+        if (!data.section3 && !data.section4) {
+            sectionsContainer.innerHTML = '<div style="padding:20px; text-align:center;">No questions found in this file.</div>';
+        }
+    }
+
+    function createSectionUI(item, passageClass) {
+        const sectionDiv = document.createElement('div');
+        sectionDiv.className = 'section';
+        
+        // Section Title
+        const title = document.createElement('div');
+        title.className = 'section-title';
+        title.textContent = item.title || item.type || "Reading Passage";
+        sectionDiv.appendChild(title);
+
+        // Card Container
+        const card = document.createElement('div');
+        card.className = 'passage-card';
+
+        // 1. Passage Content
+        const passage = document.createElement('div');
+        passage.className = passageClass;
+        // Allows HTML for Section 4 tables, or just text for Section 3
+        passage.innerHTML = item.passage || ""; 
+        card.appendChild(passage);
+
+        // 2. Questions Area
+        const qArea = document.createElement('div');
+        qArea.className = 'question-area';
+
+        item.questions.forEach(q => {
+            const qKey = `q-${q.id}`;
+            correctAnswers[qKey] = q.answer;
+            totalQuestions++;
+            
+            const qBlock = document.createElement('div');
+            qBlock.className = 'question-block';
+            qBlock.dataset.key = qKey; // Important for finding it later
+
+            // Question Text
+            qBlock.innerHTML = `<div class="question-text">(${q.id}) ${q.question}</div>`;
+
+            // Options
+            const optsDiv = document.createElement('div');
+            q.options.forEach((opt, idx) => {
+                const btn = document.createElement('button');
+                btn.className = 'option-button';
+                btn.innerHTML = `<span style="color:#9ca3af; font-weight:bold; margin-right:10px;">${idx+1}</span> ${opt}`;
+                
+                btn.onclick = () => {
+                    // Visual Selection
+                    selectedAnswers[qKey] = idx + 1; // 1-based index for reading usually
+                    optsDiv.querySelectorAll('.option-button').forEach(b => b.classList.remove('selected'));
+                    btn.classList.add('selected');
+                };
+                optsDiv.appendChild(btn);
+            });
+
+            qBlock.appendChild(optsDiv);
+            qArea.appendChild(qBlock);
+        });
+
+        card.appendChild(qArea);
+        sectionDiv.appendChild(card);
+        sectionsContainer.appendChild(sectionDiv);
+    }
+
+    // --- SUBMIT & SCORING ---
+    submitBtn.addEventListener('click', () => {
+        let score = 0;
+
+        Object.keys(correctAnswers).forEach(qKey => {
+            const correct = correctAnswers[qKey]; // e.g. 2
+            const selected = selectedAnswers[qKey]; // e.g. 2
+            
+            // Find the visual block for this question
+            const qBlock = document.querySelector(`[data-key="${qKey}"]`);
+            if (qBlock) {
+                const buttons = qBlock.querySelectorAll('.option-button');
+                buttons.forEach((btn, idx) => {
+                    const btnVal = idx + 1; // 1-based index
+                    btn.disabled = true; // Lock buttons
+                    btn.classList.remove('selected');
+
+                    if (btnVal === correct) {
+                        btn.classList.add('correct');
+                    } else if (btnVal === selected) {
+                        btn.classList.add('incorrect');
+                    } else {
+                        btn.style.opacity = '0.6';
+                    }
+                });
+            }
+
+            if (selected === correct) score++;
+        });
+
+        // Show Results
+        const pct = totalQuestions > 0 ? Math.round((score/totalQuestions)*100) : 0;
+        document.getElementById('score').textContent = `${score} / ${totalQuestions}`;
+        document.getElementById('percentage').textContent = `${pct}%`;
+        
+        submitBtn.style.display = 'none';
+        resultSection.classList.remove('hidden');
+        resultSection.scrollIntoView({ behavior: 'smooth' });
+    });
+
+    // Start App
+    init();
+
+</script>
+</body>
+</html>

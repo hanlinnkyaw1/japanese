@@ -83,13 +83,6 @@ body {
   margin-bottom: 2px;
 }
 
-.target-word {
-    background: ghostwhite;
-    padding: 2px 6px;
-    border-radius: 4px;
-    border: 1px solid darkgreen;
-}
-
 .options {
     display: flex;
     flex-direction: column;
@@ -100,7 +93,6 @@ body {
     padding: 12px;
     border-radius: 8px;
     border: 2px solid #e5e7eb;
-    background: white;
     font-size: 16px;
     cursor: pointer;
     text-align: left;
@@ -113,7 +105,7 @@ body {
 
 .option-button.selected {
     border-color: #3b82f6;
-    background: #dbeafe;
+    background: #e9ebec;
     color: #1d4ed8;
 }
 
@@ -241,7 +233,7 @@ body {
 }
 
 .level-button {
-    background: linear-gradient(to right, #f0f0f0, #e0e0e0);
+    background: linear-linear(to right, #f0f0f0, #e0e0e0);
     color: #444;
     padding: 1rem;
     font-size: 1.1rem;
@@ -254,7 +246,7 @@ body {
 }
 
 .level-button:hover {
-    background: linear-gradient(to right, #dcdcdc, #cfcfcf);
+    background: linear-linear(to right, #dcdcdc, #cfcfcf);
     transform: translateY(-2px);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
 }

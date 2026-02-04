@@ -1,8 +1,10 @@
-
     const container = document.getElementById('flashcard-container');
     const prevBtn = document.getElementById('prev-card-btn');
     const nextBtn = document.getElementById('next-card-btn');
     const chapterSelect = document.getElementById('chapterSelect');
+
+    const scriptTagF = document.getElementById('flash-script');
+    const jsonUrlF = scriptTagF.getAttribute('data-source');
 
     let allKanji = [];
     let filteredKanji = [];
@@ -79,7 +81,7 @@
 
     async function loadKanji() {
       try {
-        const res = await fetch('n1kanjiMaster.json');
+        const res = await fetch(jsonUrlF);
         allKanji = await res.json();
       } catch (e) {
         console.error('Failed to load kanji JSON:', e);

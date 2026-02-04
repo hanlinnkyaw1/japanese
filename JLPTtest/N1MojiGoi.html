@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>N1 MojiGoi Practice</title>
+    <script src="navbar.js"></script>   
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap');
+
+        /* --- YOUR PROVIDED CSS STARTS HERE --- */
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background: #f2f6ff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0px auto;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            min-height: 80vh; /* Added to give it height */
+        }
+
+        .header {
+            background: #f9fafb; 
+            color: #111827;
+            padding: 15px 20px;
+            text-align: center;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .header p {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #ef4444; /* Standardized Red */
+            margin: 0;
+        }
+
+        .badge {
+            background: #2563eb; 
+            color: #fff; /* Changed to white text for readability */
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 9999px;
+            font-size: 12px;
+            margin-bottom: 4px;
+            font-weight: bold;
+        }
+
+        .title {
+            font-size: 18px;
+            font-weight: 700;
+            margin: 5px 0;
+            color: #1f2937;
+        }
+
+        .date {
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+        .section {
+            padding: 20px;
+            border-bottom: 1px solid #f3f4f6;
+        }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #2563eb; /* Blue underline */
+            text-align: left; /* Aligned left for better read */
+        }
+
+        .question-card {
+            margin-bottom: 30px;
+            padding: 5px;
+        }
+
+        .question-text {
+            font-size: 16px;
+            font-weight: 500;
+            margin-bottom: 15px;
+            line-height: 1.8;
+            color: #374151;
+        }
+
+        .question-number {
+            display: inline-block;
+            background: #e5e7eb;
+            color: #374151;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .option-button {
+            padding: 14px;
+            border-radius: 8px;
+            border: 2px solid #e5e7eb;
+            background: #fff;
+            font-size: 15px;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.2s ease;
+            color: #4b5563;
+            font-family: 'Noto Sans JP', sans-serif;
+        }
+
+        .option-button:hover {
+            border-color: #3b82f6;
+            background: #eff6ff;
+        }
+
+        .option-button.selected {
+            border-color: #3b82f6;
+            background: #eff6ff;
+            color: #1d4ed8;
+            font-weight: 600;
+        }
+
+        .option-button.correct {
+            background: #dcfce7 !important;
+            border-color: #22c55e !important;
+            color: #166534 !important;
+        }
+
+        .option-button.incorrect {
+            background: #fee2e2 !important;
+            border-color: #ef4444 !important;
+            color: #991b1b !important;
+        }
+
+        .option-num-prefix {
+            font-weight: bold;
+            color: #9ca3af;
+            margin-right: 10px;
+        }
+
+        .reading-card {
+            border: 1px solid #e5e7eb;
+            padding: 0;
+            border-radius: 10px;
+            margin-bottom: 2rem;
+            background-color: #fff;
+            overflow: hidden;
+        }
+
+        .passage {
+            background-color: #f9fafb;
+            padding: 1.5rem;
+            border-bottom: 1px solid #e5e7eb;
+            color: #374151;
+            font-size: 1rem;
+            line-height: 2;
+            white-space: pre-wrap;
+        }
+
+        .cloze-questions-area {
+            padding: 1.5rem;
+        }
+
+        .nav-btn {
+            background-color: #fff;
+            color: #374151;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-top: 10px;
+        }
+
+        .nav-btn:hover {
+            background-color: #f3f4f6;
+            border-color: #9ca3af;
+        }
+
+        .footer {
+            padding: 30px 20px;
+            text-align: center;
+            background: #f9fafb;
+            border-top: 1px solid #e5e7eb;
+        }
+
+        #submitBtn {
+            background: #2563eb; /* Matches Badge Blue */
+            color: white;
+            padding: 14px 40px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2);
+            transition: transform 0.1s;
+        }
+        
+        #submitBtn:active { transform: scale(0.98); }
+
+        #submitBtn:disabled {
+            background: #cbd5e1;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+
+        .results {
+            margin-top: 20px;
+            background: #f0fdf4;
+            padding: 20px;
+            border-radius: 12px;
+            border: 1px solid #bbf7d0;
+        }
+
+        .score {
+            font-size: 32px;
+            font-weight: 800;
+            color: #16a34a;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        /* --- EXTRA STYLES FOR SELECTION SCREEN TO MATCH --- */
+        .selection-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 15px;
+            padding: 20px;
+        }
+        
+        .year-select-card {
+            background: #fff;
+            border: 2px solid #e5e7eb;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .year-select-card:hover {
+            border-color: #3b82f6;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.1);
+        }
+
+        .year-label-lg {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #1f2937;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .month-btn {
+            display: block;
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 5px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .month-july { background: #eff6ff; color: #2563eb; }
+        .month-july:hover { background: #dbeafe; }
+        
+        .month-dec { background: #fff7ed; color: #ea580c; }
+        .month-dec:hover { background: #ffedd5; }
+
+        @media (min-width: 768px) {
+            .container { margin: 40px auto; }
+            .title { font-size: 24px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <span class="badge">JLPT N1</span>
+            <div class="title" id="page-title">MojiGoi Challenge</div>
+            <div class="date" id="page-subtitle">Select a old question paper to begin</div>
+            <button id="backBtn" class="nav-btn hidden" onclick="location.reload()">← Back to Selection</button>
+        </div>
+
+        <div id="selection-screen">
+            <div class="section" style="border:none; text-align:center;">
+                <p style="color:#6b7280;">Choose an exam year:</p>
+            </div>
+            <div class="selection-grid" id="card-container">
+                </div>
+        </div>
+
+        <div id="quiz-screen" class="hidden">
+            <div id="sections-container">
+                </div>
+
+            <div class="footer">
+                <button id="submitBtn">Submit Answers</button>
+
+                <div id="results" class="results hidden">
+                    <div>You Scored:</div>
+                    <span id="score" class="score">0 / 0</span>
+                    <div id="percentage" style="color:#166534; font-weight:600;">0%</div>
+                    <button class="nav-btn" onclick="location.reload()" style="margin-top:15px; border-color:#bbf7d0; background:white;">Try Another</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- DATA ---
+        const examData = [
+            { year: 2015, months: ["July", "Dec"] },
+            { year: 2016, months: ["July", "Dec"] },
+            { year: 2017, months: ["July", "Dec"] },
+            { year: 2018, months: ["July", "Dec"] },
+            { year: 2019, months: ["July"] },
+            { year: 2020, months: ["Dec"] },
+            { year: 2021, months: ["July", "Dec"] },
+            { year: 2022, months: ["Dec"] },
+            { year: 2023, months: ["Dec"] },
+            { year: 2024, months: ["July"] }
+        ];
+
+        // --- STATE ---
+        let selectedAnswers = {};
+        let correctAnswers = {};
+        let totalQuestions = 0;
+
+        // --- DOM ---
+        const selectionScreen = document.getElementById('selection-screen');
+        const quizScreen = document.getElementById('quiz-screen');
+        const cardContainer = document.getElementById('card-container');
+        const sectionsContainer = document.getElementById('sections-container');
+        const submitBtn = document.getElementById('submitBtn');
+        const resultSection = document.getElementById('results');
+        const backBtn = document.getElementById('backBtn');
+        const pageTitle = document.getElementById('page-title');
+        const pageSubtitle = document.getElementById('page-subtitle');
+
+        // --- INITIALIZATION ---
+        function init() {
+            cardContainer.innerHTML = '';
+            examData.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'year-select-card';
+                
+                let btns = '';
+                item.months.forEach(m => {
+                    const mCode = m === "July" ? "7" : "12";
+                    const cls = m === "July" ? "month-july" : "month-dec";
+                    btns += `<button class="month-btn ${cls}" onclick="loadQuiz(${item.year}, '${mCode}', '${m}')">${m}</button>`;
+                });
+
+                card.innerHTML = `<span class="year-label-lg">${item.year}</span>${btns}`;
+                cardContainer.appendChild(card);
+            });
+        }
+
+        // --- LOAD QUIZ ---
+        async function loadQuiz(year, monthNum, monthName) {
+            // UI Transition
+            selectionScreen.classList.add('hidden');
+            quizScreen.classList.remove('hidden');
+            backBtn.classList.remove('hidden');
+            
+            pageTitle.textContent = "Vocabulary & Grammar";
+            pageSubtitle.textContent = `${year} / ${monthName} Exam`;
+
+            // Reset
+            selectedAnswers = {};
+            correctAnswers = {};
+            totalQuestions = 0;
+            sectionsContainer.innerHTML = '<div style="padding:40px; text-align:center; color:#6b7280;">Loading Test...</div>';
+            resultSection.classList.add('hidden');
+            submitBtn.style.display = 'inline-block';
+            submitBtn.disabled = false;
+
+            // Fetch
+            const fileName = `N1_${year}_${monthNum}MojiGo`;
+            try {
+                // 
+                const res = await fetch(`quizTest/${fileName}.json`);
+                if (!res.ok) throw new Error("File not found");
+                const data = await res.json();
+                renderQuiz(data);
+            } catch (e) {
+                sectionsContainer.innerHTML = `<div style="padding:20px; color:red; text-align:center;">Error: Could not load ${fileName}.json</div>`;
+                console.error(e);
+            }
+        }
+
+        // --- RENDER LOGIC ---
+        function renderQuiz(data) {
+            sectionsContainer.innerHTML = '';
+            
+            let allSections = [];
+            if(data.section1) allSections = [...allSections, ...data.section1];
+            if(data.section2) allSections = [...allSections, ...data.section2];
+            if(data.sections) allSections = [...allSections, ...data.sections];
+
+            allSections.forEach(section => {
+                const isCloze = section.type === "clozeTest" || section.title.includes("穴埋め");
+                const isReading = section.type === "Reading" || section.title.includes("読解");
+
+                if (isCloze) {
+                    renderCloze(section);
+                } else if (!isReading) {
+                    renderVocab(section);
+                }
+            });
+        }
+
+        function renderVocab(section) {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'section';
+
+            const title = document.createElement('div');
+            title.className = 'section-title';
+            title.textContent = section.title;
+            wrapper.appendChild(title);
+
+            section.questions.forEach(q => {
+                const qKey = `q-${q.id}`;
+                correctAnswers[qKey] = q.answer;
+                totalQuestions++;
+
+                const card = document.createElement('div');
+                card.className = 'question-card';
+                card.dataset.key = qKey;
+
+                // Question Text
+                let qHtml = q.question;
+                if(q.target) {
+                    qHtml = qHtml.replace(q.target, `<span style="text-decoration:underline; text-decoration-color:#2563eb; text-decoration-thickness: 2px;">${q.target}</span>`);
+                }
+
+                const qText = document.createElement('div');
+                qText.className = 'question-text';
+                qText.innerHTML = `<span class="question-number">${q.id}</span> ${qHtml}`;
+                card.appendChild(qText);
+
+                // Options
+                const optsDiv = document.createElement('div');
+                optsDiv.className = 'options';
+                
+                q.options.forEach((opt, idx) => {
+                    const btn = document.createElement('button');
+                    btn.className = 'option-button';
+                    btn.innerHTML = `<span class="option-num-prefix">${idx+1}</span> ${opt}`;
+                    btn.onclick = () => handleSelect(qKey, idx);
+                    optsDiv.appendChild(btn);
+                });
+
+                card.appendChild(optsDiv);
+                wrapper.appendChild(card);
+            });
+            sectionsContainer.appendChild(wrapper);
+        }
+
+        function renderCloze(section) {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'section';
+
+            const title = document.createElement('div');
+            title.className = 'section-title';
+            title.textContent = section.title;
+            wrapper.appendChild(title);
+
+            section.questions.forEach(q => {
+                const card = document.createElement('div');
+                card.className = 'reading-card';
+
+                // Passage
+                const textDiv = document.createElement('div');
+                textDiv.className = 'passage';
+                textDiv.innerHTML = q.passage;
+                card.appendChild(textDiv);
+
+                // Questions Area
+                const qArea = document.createElement('div');
+                qArea.className = 'cloze-questions-area';
+
+                if(q.blanks) {
+                    q.blanks.forEach(blank => {
+                        const bKey = `cloze-${q.id}-${blank.number}`;
+                        // Handle null answers safely
+                        correctAnswers[bKey] = (blank.answer !== undefined && blank.answer !== null) ? blank.answer : -1;
+                        totalQuestions++;
+
+                        const qContainer = document.createElement('div');
+                        qContainer.className = 'question-card';
+                        qContainer.dataset.key = bKey;
+                        qContainer.style.marginBottom = "30px";
+
+                        const label = document.createElement('div');
+                        label.style.fontWeight = "bold";
+                        label.style.color = "#2563eb";
+                        label.style.marginBottom = "10px";
+                        label.textContent = `(${blank.number})`;
+                        qContainer.appendChild(label);
+
+                        const optsDiv = document.createElement('div');
+                        optsDiv.className = 'options';
+
+                        blank.options.forEach((opt, idx) => {
+                            const btn = document.createElement('button');
+                            btn.className = 'option-button';
+                            btn.innerHTML = `<span class="option-num-prefix">${idx+1}</span> ${opt}`;
+                            btn.onclick = () => handleSelect(bKey, idx);
+                            optsDiv.appendChild(btn);
+                        });
+
+                        qContainer.appendChild(optsDiv);
+                        qArea.appendChild(qContainer);
+                    });
+                }
+                card.appendChild(qArea);
+                wrapper.appendChild(card);
+            });
+            sectionsContainer.appendChild(wrapper);
+        }
+
+        // --- INTERACTION ---
+        function handleSelect(key, idx) {
+            // Save state
+            selectedAnswers[key] = idx;
+
+            // Update UI
+            const container = document.querySelector(`[data-key="${key}"]`);
+            if(!container) return;
+            const buttons = container.querySelectorAll('.option-button');
+            
+            buttons.forEach((b, i) => {
+                if (i === idx) {
+                    b.classList.add('selected');
+                } else {
+                    b.classList.remove('selected');
+                }
+            });
+        }
+
+        // --- SUBMIT ---
+        submitBtn.addEventListener('click', () => {
+            let score = 0;
+
+            Object.keys(correctAnswers).forEach(key => {
+                const correctIdx = correctAnswers[key];
+                const selectedIdx = selectedAnswers[key];
+                
+                const container = document.querySelector(`[data-key="${key}"]`);
+                if(!container) return;
+
+                const buttons = container.querySelectorAll('.option-button');
+
+                buttons.forEach((btn, idx) => {
+                    btn.disabled = true;
+                    btn.classList.remove('selected'); // remove blue selection
+
+                    if (idx === correctIdx) {
+                        btn.classList.add('correct'); // Green
+                    } else if (idx === selectedIdx) {
+                        btn.classList.add('incorrect'); // Red
+                    } else {
+                        btn.style.opacity = "0.6"; // Dim others
+                    }
+                });
+
+                if(selectedIdx === correctIdx) score++;
+            });
+
+            // Show results
+            const pct = totalQuestions > 0 ? Math.round((score/totalQuestions)*100) : 0;
+            document.getElementById('score').textContent = `${score} / ${totalQuestions}`;
+            document.getElementById('percentage').textContent = `${pct}%`;
+
+            submitBtn.style.display = 'none';
+            resultSection.classList.remove('hidden');
+            
+            // Scroll to bottom
+            resultSection.scrollIntoView({ behavior: 'smooth' });
+        });
+
+        // Start App
+        init();
+
+    </script>
+</body>
+</html>

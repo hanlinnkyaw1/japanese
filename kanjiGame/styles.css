@@ -8,7 +8,7 @@
 
 body {
   font-family: "Noto Sans JP", sans-serif;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-linear(135deg, #667eea 0%, #764ba2 100%);
   height: 100vh;
   overflow: hidden;
   user-select: none;
@@ -95,7 +95,7 @@ label[for="languages"] {
   font-size: 2rem;
   font-weight: 700;
   color: white;
-  background: radial-gradient(circle at 30% 30%, #a5dfff, #3b82f6); /* soft water tone */
+  background: radial-linear(circle at 30% 30%, #a5dfff, #3b82f6); /* soft water tone */
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -130,7 +130,7 @@ label[for="languages"] {
 
 .kanji.wrong {
   animation: shake 0.5s ease-out forwards;
-  background: linear-gradient(45deg, #ff4757, #c44569);
+  background: linear-linear(45deg, #ff4757, #c44569);
 }
 
 
@@ -245,7 +245,7 @@ label[for="languages"] {
 }
 
 .restart-btn {
-  background: linear-gradient(45deg, #667eea, #764ba2);
+  background: linear-linear(45deg, #667eea, #764ba2);
   color: white;
   border: none;
   padding: 15px 30px;
@@ -278,7 +278,7 @@ label[for="languages"] {
   font-size: 4rem;
   font-weight: 700;
   margin-bottom: 20px;
-  background: linear-gradient(45deg, #ff6b6b, blue);
+  background: linear-linear(45deg, #ff6b6b, blue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -293,7 +293,7 @@ label[for="languages"] {
 }
 
 .start-btn {
-  background: linear-gradient(45deg, #667eea, #764ba2);
+  background: linear-linear(45deg, #667eea, #764ba2);
   color: white;
   border: none;
   padding: 20px 40px;

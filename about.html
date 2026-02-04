@@ -4,114 +4,205 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>About Us | JLPT Burmese</title>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+  
   <style>
+    :root {
+      --primary: #ef4444;
+      --text-main: #1f2937;
+      --text-muted: #6b7280;
+      --bg-subtle: #f9fafb;
+      --glass: rgba(255, 255, 255, 0.8);
+    }
+
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Plus Jakarta Sans', sans-serif;
       background-color: #ffffff;
-      color: #333333;
+      color: var(--text-main);
       margin: 0;
-      padding: 20px;
-      line-height: 1.6;
-      max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
+      padding: 40px 20px;
+      line-height: 1.7;
+      display: flex;
+      justify-content: center;
+    }
+
+    .about-card {
+      max-width: 650px;
+      width: 100%;
+      margin-top: 60px; /* Space for your floating nav */
+    }
+
+    /* Header Section */
+    .hero-section {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .badge {
+      display: inline-block;
+      background: #fef2f2;
+      color: var(--primary);
+      padding: 6px 16px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 16px;
     }
 
     h1 {
-      color: #444;
-      font-size: 28px;
-      margin-bottom: 20px;
+      font-size: 42px;
+      font-weight: 800;
+      letter-spacing: -1px;
+      margin: 0 0 20px 0;
+      color: #111827;
+    }
+
+    .profile-intro {
+      font-size: 20px;
+      color: var(--text-main);
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+
+    /* Content Styling */
+    .content-box {
+      background: var(--bg-subtle);
+      padding: 30px;
+      border-radius: 24px;
+      border: 1px solid #f3f4f6;
+      margin-bottom: 40px;
     }
 
     p {
       font-size: 16px;
-      margin-bottom: 16px;
+      color: var(--text-muted);
+      margin-bottom: 20px;
     }
 
-    .social-section {
-      margin-top: 40px;
+    strong {
+      color: var(--text-main);
     }
 
+    /* Social Section */
     .social-section h2 {
-      font-size: 20px;
-      margin-bottom: 10px;
-      color: #333333;
+      font-size: 22px;
+      font-weight: 800;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
     }
 
-    .social-links {
-      display: flex;
-      gap: 15px;
-      flex-wrap: wrap;
+    .social-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 20px;
     }
 
     .social-link {
       display: flex;
       align-items: center;
-      gap: 8px;
+      justify-content: center;
+      gap: 10px;
       text-decoration: none;
-      color: #fffeef;
+      font-weight: 600;
+      padding: 14px;
+      border-radius: 16px;
+      transition: all 0.3s ease;
       font-size: 15px;
-      background: dodgerblue;
-      padding: 8px 12px;
-      border-radius: 6px;
-      transition: background-color 0.3s, color 0.3s;
     }
+
+    /* Brand Colors */
+    .fb { background: #1877F2; color: white; }
+    .tg { background: #229ED9; color: white; }
+    .community { background: #111827; color: white; grid-column: span 2; }
 
     .social-link:hover {
-      background-color: #1d4ed8;
-      color: white;
+      transform: translateY(-3px);
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+      filter: brightness(1.1);
     }
 
-    .social-link svg {
+    .email-link {
+      display: block;
+      text-align: center;
+      text-decoration: none;
+      color: var(--text-muted);
+      font-weight: 500;
+      margin-top: 20px;
+      padding: 10px;
+      border-radius: 12px;
+      border: 1px dashed #d1d5db;
+      transition: all 0.2s;
+    }
+
+    .email-link:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    svg {
       width: 20px;
       height: 20px;
-      stroke: currentColor;
-      fill: none;
+      fill: currentColor;
+    }
+
+    @media (max-width: 500px) {
+      .social-grid { grid-template-columns: 1fr; }
+      .community { grid-column: span 1; }
+      h1 { font-size: 32px; }
     }
   </style>
 </head>
 <body>
-  <h1>🏯 About This Site</h1>
-  
-  <h3>
-    Hi.. I'm developer of this website 
-  </h3>
-  <p>This website was created to help burmese people who is learning japanese.</p>
 
-  <p>
-    Tools like ChatGPT, Canva, and Gemini
-    supported me a lot in designing, writing. 
-  </p>
+  <div class="about-card">
+    <div class="hero-section">
+      <span class="badge">Creator Story</span>
+      <h1>🏯 About This Site</h1>
+      <div class="profile-intro">Mingalaba! I'm the developer.</div>
+    </div>
 
-  <p>
-    My goal is to make learning Japanese easier for Burmese learners, especially those
-    preparing for the <strong>JLPT</strong>.
-  </p>
+    <div class="content-box">
+      <p>
+        I created this platform to bridge the gap for <strong>Burmese learners</strong> venturing into the Japanese language. 
+      </p>
+      <p>
+        Design and clarity are important to me. That's why I leverage modern tools like <strong>ChatGPT, Canva, and Gemini</strong> to ensure the content and user experience are top-notch.
+      </p>
+      <p>
+        Whether you are just starting or preparing for the <strong>JLPT</strong>, my goal is to make your study journey smoother and more effective.
+      </p>
+      <p style="margin-bottom:0; font-weight: 700; color: var(--primary);">Happy studying! 📘🇯🇵</p>
+    </div>
 
-  <p>Thanks for visiting and happy studying! 📘🇯🇵</p>
+    <div class="social-section">
+      <h2>🔗 Connect</h2>
+      <div class="social-grid">
+        <a class="social-link fb" href="https://www.facebook.com/profile.php?id=61579104866547" target="_blank">
+          <svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          Facebook
+        </a>
 
+        <a class="social-link tg" href="https://t.me/jlptburmese_books_storage" target="_blank">
+          <svg viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5.891 7.021l-2.047 9.652c-.151.677-.556.844-1.12.527l-3.117-2.292-1.503 1.448c-.167.167-.307.307-.63.307l.224-3.175 5.778-5.22c.251-.223-.055-.347-.389-.125l-7.141 4.498-3.078-.962c-.669-.209-.682-.669.139-.99l12.039-4.639c.557-.209 1.043.125.869.962z"/></svg>
+          Telegram
+        </a>
 
-  <div class="social-section">
-    <h2>🔗 Connect With Us</h2>
-    <div class="social-links">
-      <a class="social-link" href="https://www.facebook.com/profile.php?id=61579104866547&mibextid=ZbWKwL" target="_blank">
-        <svg viewBox="0 0 24 24" stroke-width="2">
-          <path d="M18 2h-3a4 4 0 0 0-4 4v3H8v4h3v9h4v-9h3l1-4h-4V6a1 1 0 0 1 1-1h3z"/>
-        </svg>
-        Facebook
-      </a>
+        <a class="social-link community" href="https://t.me/jlptburmeseTelegram" target="_blank">
+          Join Community
+        </a>
+      </div>
 
-      <a class="social-link" href="https://t.me/jlptburmese" target="_blank">
-        <svg viewBox="0 0 24 24" stroke-width="2">
-          <path d="M22 2 11 13" />
-          <path d="M22 2 15 22 11 13 2 9l20-7z"/>
-        </svg>
-        Telegram
+      <a href="mailto:jlptburmese@gmail.com" class="email-link">
+        📧 Email: jlptburmese@gmail.com
       </a>
     </div>
-    <a href="mailto:jlptburmese@gmail.com">
-      <h4 style="color:black">Email: jlptburmese@gmail.com</h4>
-    </a>
   </div>
+
+  <script src="header.js"></script>
 </body>
 </html>

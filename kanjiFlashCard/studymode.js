@@ -3,6 +3,9 @@ let chapters = {};
 let currentChapterIndex = 0; 
 let chapterKeys = [];
 
+const scriptTagS = document.getElementById('study-script');
+const jsonUrlS = scriptTagS.getAttribute('data-source');
+
 // Toggle mode button logic
 const toggleBtn = document.getElementById('mode-toggle-btn');
 const toggleCircle = document.getElementById('toggle-circle');
@@ -153,7 +156,7 @@ window.addEventListener('scroll', () => {
 
 // Load kanji data
 function loadKanjiData() {
-  fetch('n1kanjiMaster.json')
+  fetch(jsonUrlS)
     .then(response => response.json())
     .then(data => {
       kanjiData = data;
