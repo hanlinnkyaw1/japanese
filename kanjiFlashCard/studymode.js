@@ -58,8 +58,8 @@ function createKanjiCard(kanjiItem) {
       <div class="flex items-start justify-between mb-3">
         <div class="text-4xl kanji-font text-gray-800 font-medium">${kanjiItem.kanji}</div>
         <div class="flex flex-wrap gap-1">
-          <span class="reading-badge text-green-600 px-2 py-1 rounded-full text-xs font-medium">音: ${kanjiItem.onyomi}</span>
-          <span class="meaning-badge text-blue-600 px-2 py-1 rounded-full text-xs font-medium">訓: ${kanjiItem.kunyomi}</span>
+          <span class="reading-badge text-white px-2 py-1 rounded-full text-xs font-medium">音: ${kanjiItem.onyomi}</span>
+          <span class="meaning-badge text-white px-2 py-1 rounded-full text-xs font-medium">訓: ${kanjiItem.kunyomi}</span>
         </div>
       </div>
 
