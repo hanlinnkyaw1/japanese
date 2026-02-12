@@ -233,7 +233,7 @@ body {
 }
 
 .level-button {
-    background: linear-linear(to right, #f0f0f0, #e0e0e0);
+    background: linear-gradient(to right, #f0f0f0, #e0e0e0);
     color: #444;
     padding: 1rem;
     font-size: 1.1rem;
@@ -246,7 +246,7 @@ body {
 }
 
 .level-button:hover {
-    background: linear-linear(to right, #dcdcdc, #cfcfcf);
+    background: linear-gradient(to right, #dcdcdc, #cfcfcf);
     transform: translateY(-2px);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
 }

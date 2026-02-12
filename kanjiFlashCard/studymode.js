@@ -58,19 +58,19 @@ function createKanjiCard(kanjiItem) {
       <div class="flex items-start justify-between mb-3">
         <div class="text-4xl kanji-font text-gray-800 font-medium">${kanjiItem.kanji}</div>
         <div class="flex flex-wrap gap-1">
-          <span class="reading-badge text-white px-2 py-1 rounded-full text-xs font-medium">音: ${kanjiItem.onyomi}</span>
-          <span class="meaning-badge text-white px-2 py-1 rounded-full text-xs font-medium">訓: ${kanjiItem.kunyomi}</span>
+          <span class="reading-badge text-green-600 px-2 py-1 rounded-full text-xs font-medium">音: ${kanjiItem.onyomi}</span>
+          <span class="meaning-badge text-blue-600 px-2 py-1 rounded-full text-xs font-medium">訓: ${kanjiItem.kunyomi}</span>
         </div>
       </div>
 
       <div class="grid md:grid-cols-2 gap-3 mb-3">
         <div>
           <h4 class="font-medium text-gray-700 mb-1 text-sm">English</h4>
-          <p class="text-gray-600 bg-gray-50 p-2 rounded text-sm">${kanjiItem.meaning}</p>
+          <p class="text-gray-600 bg-gray-100 p-2 rounded text-sm">${kanjiItem.meaning}</p>
         </div>
         <div>
           <h4 class="font-medium text-gray-700 mb-1 text-sm">Myanmar</h4>
-          <p class="text-gray-600 bg-gray-50 p-2 rounded text-sm kanji-font">${kanjiItem.meaningMM}</p>
+          <p class="text-gray-600 bg-gray-100 p-2 rounded text-sm kanji-font">${kanjiItem.meaningMM}</p>
         </div>
       </div>
 
