@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanji Learning App</title>
+      <link rel="stylesheet" href="../output.css">
+
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        .kanji-font {
+            font-family: 'Noto Sans JP', sans-serif;
+        }
+        
+        .app-font {
+            font-family: 'Inter', sans-serif;
+        }
+        
+        .kanji-card {
+            transition: all 0.3s ease;
+            border-left: 4px solid #e5e7eb;
+        }
+        
+        .kanji-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            border-left-color: #3b82f6;
+        }
+        
+        .chapter-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .reading-badge {
+            background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+        }
+        
+        .meaning-badge {
+            background: linear-gradient(45deg, #4ecdc4, #44a08d);
+        }
+        
+        .example-item {
+            transition: background-color 0.2s ease;
+        }
+        
+        .example-item:hover {
+            background-color: #f8fafc;
+        }
+        
+        .loading {
+            animation: pulse 2s infinite;
+        }
+            .card-container { perspective: 1000px; }
+    .flashcard {
+      width: 100%; height: 22rem; position: relative;
+      transform-style: preserve-3d; transition: transform 0.6s;
+      cursor: pointer;
+    }
+    .flipped { transform: rotateY(180deg); }
+    .card-face {
+      position: absolute; width: 100%; height: 100%;
+      backface-visibility: hidden; display: flex;
+      flex-direction: column; justify-content: center;
+      align-items: center; padding: 1.5rem;
+      border-radius: 1rem; background: white;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    }
+    .back { transform: rotateY(180deg); }
+    .furigana-group {
+      display: flex; flex-direction: column;
+      align-items: center; margin: 0 0.25rem;
+    }
+    .furigana-group span { font-size: 0.75rem; color: #555; }
+    .furigana-group strong { font-size: 1.25rem; color: #111; }
+    </style>
+
+   <script src="../header.js"></script>
+</head>
+<body class="bg-gray-50 app-font">
+    
+<div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-center space-x-4 bg-gray-300">
+  <label id="mode-label" for="mode-toggle-btn" class="text-gray-700 font-medium cursor-pointer select-none">
+    Study Mode
+  </label>
+  <button id="mode-toggle-btn" aria-pressed="false" aria-label="Toggle study mode"
+    class="relative inline-flex items-center h-6 w-12 rounded-full bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors">
+    
+    <span class="sr-only">Flash Card mode</span>
+
+    <span
+      id="toggle-circle"
+      class="w-5 h-5 bg-white rounded-full shadow transform transition-transform duration-300 translate-x-0">
+    </span>
+  </button>
+</div>
+
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-4 py-6 hidden" id="study-mode">
+        <div id="loading" class="loading text-center py-12">
+            <div class="text-gray-500">Loading kanji data...</div>
+        </div>
+        <div id="content" class="hidden"></div>
+        
+        <!-- Progress Indicator -->
+        <div id="progress" class="bg-white rounded-lg p-6 shadow-sm mt-8 hidden">
+            <h3 class="font-semibold text-gray-700 mb-4">Learning Progress</h3>
+            <div class="flex items-center space-x-4">
+                <div class="flex-1 bg-gray-200 rounded-full h-3">
+                    <div id="progress-bar" class=" bg-linear-to-r from-blue-500 to-purple-600 h-3 rounded-full" style="width: 0%"></div>
+                </div>
+                <span id="progress-text" class="text-sm text-gray-600 font-medium">0 of 0 kanji learned</span>
+            </div>
+        </div>
+    </main>
+
+
+    <!-- flash card mode -->
+    <div class="bg-linear-to-br from-gray-100 to-gray-200 min-h-screen flex flex-col items-center  py-2 px-4" id="flash-mode">
+  
+    <h2 class="text-2xl font-bold text-gray-800 mt-5">🀄 N3 Kanji Master Flashcard</h2>
+  
+  <!-- Chapter Select -->
+  <div class="mb-6 w-full max-w-md">
+    <label for="chapterSelect" class="block mb-1 text-gray-700 text-lg font-semibold">Choose a Lesson</label>
+    <select id="chapterSelect" class="w-full px-4 py-2 rounded-lg shadow border border-gray-300">
+      <option value="">-- Select Chapter --</option>
+      <option value="1">1章</option>
+      <option value="2">2章</option>
+      <option value="3">3章</option>
+      <option value="4">4章</option>
+      <option value="5">5章</option>
+      <option value="6">6章</option>
+      <option value="7">7章</option>
+      <option value="8">8章</option>
+      <option value="9">9章</option>
+      <option value="10">10章</option>
+      <option value="11">11章</option>
+      <option value="12">12章</option>
+      <option value="13">13章</option>
+      <option value="14">14章</option>
+      <option value="15">15章</option>
+      <option value="16">16章</option>
+      <option value="17">17章</option>
+      <option value="18">18章</option>
+      <option value="19">19章</option>
+      <option value="20">20章</option>
+    </select>
+  </div>
+  
+  <!-- Flashcard container -->
+  <div id="flashcard-container" class="card-container w-full max-w-md"></div>
+  
+  <!-- Navigation buttons -->
+  <div class="flex justify-between gap-4 mt-6 w-full max-w-md">
+    <button id="prev-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">← Prev</button>
+    <button id="next-card-btn" class="flex-1 bg-gray-800 text-white py-3 rounded-lg shadow hover:bg-gray-700">Next →</button>
+  </div>
+  
+  
+</div>
+    
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-16">
+        <div class="max-w-6xl mx-auto px-4 py-8">
+            <div class="text-center text-gray-600">
+                <p class="kanji-font text-lg mb-2">頑張って！</p>
+                <p class="text-sm">Keep up the great work with your kanji studies!</p>
+            </div>
+        </div>
+    </footer>
+    <script id="study-script" src="studymode.js" data-source="n3kanjiMaster.json"></script>
+    <script id="flash-script" src="kanjiMasterflashcardmode.js" data-source="n3kanjiMaster.json"></script>
+</body>
+</html>

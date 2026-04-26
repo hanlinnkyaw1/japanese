@@ -1,0 +1,684 @@
+[
+  {
+    "word": "等しい",
+    "reading": "ひとしい",
+    "meaningEN": "equal / identical",
+    "meaningMM": "တူညီသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "軽傷",
+    "reading": "けいしょう",
+    "meaningEN": "minor injury",
+    "meaningMM": "ဒဏ်ရာအနည်းငယ်ရခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "負担",
+    "reading": "ふたん",
+    "meaningEN": "burden / responsibility / bearing (costs)",
+    "meaningMM": "ဝန်ထုပ်ဝန်ပိုး / တာဝန်ယူခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "映る",
+    "reading": "うつる",
+    "meaningEN": "to be reflected",
+    "meaningMM": "အရိပ်ထင်ဟပ်သည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "削る",
+    "reading": "けずる",
+    "meaningEN": "to shave / to cut down / to reduce",
+    "meaningMM": "လျှော့ချသည် / ခြစ်ထုတ်သည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "鮮やか",
+    "reading": "あざやか",
+    "meaningEN": "vivid / bright / brilliant",
+    "meaningMM": "တောက်ပစိုပြည်သော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "蓄える",
+    "reading": "たくわえる",
+    "meaningEN": "to save up / to store / to accumulate",
+    "meaningMM": "စုဆောင်းသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "解消",
+    "reading": "かいしょう",
+    "meaningEN": "cancellation / resolution / reduction (of stress)",
+    "meaningMM": "ဖြေဖျောက်ခြင်း / ပယ်ဖျက်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "恵まれる",
+    "reading": "めぐまれる",
+    "meaningEN": "to be blessed with",
+    "meaningMM": "ကောင်းချီးခံစားရသည် / ပြည့်စုံကြွယ်ဝသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "鈍い",
+    "reading": "にぶい",
+    "meaningEN": "dull / slow / thickheaded",
+    "meaningMM": "ထိုင်းမှိုင်းသော / တုံးသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "欠陥",
+    "reading": "けっかん",
+    "meaningEN": "defect / fault / flaw",
+    "meaningMM": "ချို့ယွင်းချက်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "及ぼす",
+    "reading": "およぼす",
+    "meaningEN": "to exert / to cause / to influence",
+    "meaningMM": "သက်ရောက်စေသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "慎重",
+    "reading": "しんちょう",
+    "meaningEN": "discreet / careful / cautious",
+    "meaningMM": "သတိကြီးစွာထားသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "きっかけ",
+    "reading": "きっかけ",
+    "meaningEN": "trigger / motive / opportunity",
+    "meaningMM": "အကြောင်းအရင်း / အစပြုခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaningEN": "compromise",
+    "meaningMM": "အလျှော့ပေးညှိနှိုင်းခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "あらすじ",
+    "reading": "あらすじ",
+    "meaningEN": "outline / summary / plot",
+    "meaningMM": "ဇာတ်လမ်းအကျဉ်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaningEN": "analysis",
+    "meaningMM": "ခွဲခြမ်းစိတ်ဖြာခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "継続",
+    "reading": "けいぞく",
+    "meaningEN": "continuation",
+    "meaningMM": "ဆက်တိုက်လုပ်ဆောင်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "冷静",
+    "reading": "れいせい",
+    "meaningEN": "calm / composed / cool",
+    "meaningMM": "တည်ငြိမ်အေးဆေးသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "活気",
+    "reading": "かっき",
+    "meaningEN": "energy / liveliness / vigor",
+    "meaningMM": "တက်ကြွလန်းဆန်းမှု",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "抱える",
+    "reading": "かかえる",
+    "meaningEN": "to hold / to carry (problems/luggage)",
+    "meaningMM": "ပိုက်ထားသည် / (ပြဿနာများကို) ရင်ဆိုင်နေရသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "依然として",
+    "reading": "いぜんとして",
+    "meaningEN": "still / as yet",
+    "meaningMM": "ယခင်အတိုင်းပင် / ဆဲပင်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "皮肉",
+    "reading": "ひにく",
+    "meaningEN": "irony / sarcasm",
+    "meaningMM": "သရော်လှောင်ပြောင်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "及ぶ",
+    "reading": "およぶ",
+    "meaningEN": "to reach / to extend to",
+    "meaningMM": "ရောက်ရှိသည် / အထိရောက်သည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "順調",
+    "reading": "じゅんちょう",
+    "meaningEN": "smooth / favorable / doing well",
+    "meaningMM": "ချောချောမွေ့မွေ့ဖြစ်သော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "耐える",
+    "reading": "たえる",
+    "meaningEN": "to endure / to bear",
+    "meaningMM": "သည်းခံသည် / အောင့်အည်းသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "幕を閉じる",
+    "reading": "まくをとじる",
+    "meaningEN": "to come to an end / to close the curtain",
+    "meaningMM": "ဇာတ်သိမ်းသည် / အဆုံးသတ်သည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "信頼",
+    "reading": "しんらい",
+    "meaningEN": "reliance / trust / confidence",
+    "meaningMM": "ယုံကြည်ကိုးစားမှု",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "誕生",
+    "reading": "たんじょう",
+    "meaningEN": "birth / creation",
+    "meaningMM": "မွေးဖွားခြင်း / ပေါ်ထွက်လာခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "許可",
+    "reading": "きょか",
+    "meaningEN": "permission / approval",
+    "meaningMM": "ခွင့်ပြုချက်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "修正",
+    "reading": "しゅうせい",
+    "meaningEN": "amendment / correction / revision",
+    "meaningMM": "ပြင်ဆင်သတ်မှတ်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "支える",
+    "reading": "ささえる",
+    "meaningEN": "to support / to prop up",
+    "meaningMM": "ထောက်ပံ့ပေးသည် / ဖေးမသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "理解者",
+    "reading": "りかいしゃ",
+    "meaningEN": "sympathizer / one who understands",
+    "meaningMM": "နားလည်ပေးသူ",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "観察",
+    "reading": "かんさつ",
+    "meaningEN": "observation / survey",
+    "meaningMM": "လေ့လာစောင့်ကြည့်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "担当",
+    "reading": "たんとう",
+    "meaningEN": "being in charge",
+    "meaningMM": "တာဝန်ယူရသူ",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "削る",
+    "reading": "けずる",
+    "meaningEN": "to shave / to sharpen / to reduce",
+    "meaningMM": "လျှော့ချသည် / ခြစ်ထုတ်သည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "鮮やか",
+    "reading": "あざやか",
+    "meaningEN": "vivid / bright / brilliant",
+    "meaningMM": "တောက်ပစိုပြည်သော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "蓄える",
+    "reading": "たくわえる",
+    "meaningEN": "to save up / to store / to accumulate",
+    "meaningMM": "စုဆောင်းသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "解消",
+    "reading": "かいしょう",
+    "meaningEN": "cancellation / resolution / reduction (of stress)",
+    "meaningMM": "ဖြေဖျောက်ခြင်း / ပယ်ဖျက်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "恵まれる",
+    "reading": "めぐまれる",
+    "meaningEN": "to be blessed with",
+    "meaningMM": "ကောင်းချီးခံစားရသည် / ပြည့်စုံကြွယ်ဝသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "鈍い",
+    "reading": "にぶい",
+    "meaningEN": "dull / slow / thickheaded",
+    "meaningMM": "ထိုင်းမှိုင်းသော / တုံးသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "欠陥",
+    "reading": "けっかん",
+    "meaningEN": "defect / fault / flaw",
+    "meaningMM": "ချို့ယွင်းချက်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "及ぼす",
+    "reading": "およぼす",
+    "meaningEN": "to exert / to cause / to influence",
+    "meaningMM": "သက်ရောက်စေသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "慎重",
+    "reading": "しんちょう",
+    "meaningEN": "discreet / careful / cautious",
+    "meaningMM": "သတိကြီးစွာထားသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "きっかけ",
+    "reading": "きっかけ",
+    "meaningEN": "trigger / motive / opportunity",
+    "meaningMM": "အကြောင်းအရင်း / အစပြုခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaningEN": "compromise",
+    "meaningMM": "အလျှော့ပေးညှိနှိုင်းခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "あらすじ",
+    "reading": "あらすじ",
+    "meaningEN": "outline / summary / plot",
+    "meaningMM": "ဇာတ်လမ်းအကျဉ်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaningEN": "analysis",
+    "meaningMM": "ခွဲခြမ်းစိတ်ဖြာခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "継続",
+    "reading": "けいぞく",
+    "meaningEN": "continuation",
+    "meaningMM": "ဆက်တိုက်လုပ်ဆောင်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "冷静",
+    "reading": "れいせい",
+    "meaningEN": "calm / composed / cool",
+    "meaningMM": "တည်ငြိမ်အေးဆေးသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "活気",
+    "reading": "かっき",
+    "meaningEN": "energy / liveliness / vigor",
+    "meaningMM": "တက်ကြွလန်းဆန်းမှု",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "貴重",
+    "reading": "きちょう",
+    "meaningEN": "precious / valuable",
+    "meaningMM": "တန်ဖိုးရှိသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaningEN": "duty / obligation",
+    "meaningMM": "တာဝန်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "組織",
+    "reading": "そしき",
+    "meaningEN": "organization / structure",
+    "meaningMM": "အဖွဲ့အစည်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaningEN": "improvement",
+    "meaningMM": "ပိုမိုကောင်းမွန်အောင်ပြုပြင်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "納得",
+    "reading": "なっとく",
+    "meaningEN": "consent / understanding / agreement",
+    "meaningMM": "နားလည်သဘောပေါက်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "採用",
+    "reading": "さいよう",
+    "meaningEN": "adoption / employment / recruitment",
+    "meaningMM": "အလုပ်ခန့်အပ်ခြင်း / လက်ခံကျင့်သုံးခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "深刻",
+    "reading": "しんこく",
+    "meaningEN": "serious / grave",
+    "meaningMM": "ပြင်းထန်ဆိုးရွားသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "逆らう",
+    "reading": "さからう",
+    "meaningEN": "to go against / to disobey",
+    "meaningMM": "ဆန့်ကျင်သည် / အာခံသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "謙虚",
+    "reading": "けんきょ",
+    "meaningEN": "humble / modest",
+    "meaningMM": "နှိမ့်ချသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "補足",
+    "reading": "ほそく",
+    "meaningEN": "supplement / complement",
+    "meaningMM": "ဖြည့်စွက်ချက်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "視野",
+    "reading": "しや",
+    "meaningEN": "field of vision / outlook / perspective",
+    "meaningMM": "အမြင်အာရုံ / အမြင်ကျယ်မှု",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "克服",
+    "reading": "こくふく",
+    "meaningEN": "overcoming / conquest",
+    "meaningMM": "ကျော်လွှားခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "工夫",
+    "reading": "くふう",
+    "meaningEN": "device / scheme / ingenuity",
+    "meaningMM": "နည်းလမ်းရှာကြံခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "省略",
+    "reading": "しょうりゃく",
+    "meaningEN": "omission / abbreviation",
+    "meaningMM": "ချန်လှပ်ထားခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "具体的",
+    "reading": "ぐたいてき",
+    "meaningEN": "concrete / specific",
+    "meaningMM": "တိကျရေရာသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "焦る",
+    "reading": "あせる",
+    "meaningEN": "to be in a hurry / to panic",
+    "meaningMM": "လောသည် / စိုးရိမ်တကြီးဖြစ်သည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "豊富",
+    "reading": "ほうふ",
+    "meaningEN": "abundance / plenty",
+    "meaningMM": "ပေါများကြွယ်ဝသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "混乱",
+    "reading": "こんらん",
+    "meaningEN": "disorder / chaos / confusion",
+    "meaningMM": "ရှုပ်ထွေးပွေလီမှု",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "貢献",
+    "reading": "こうけん",
+    "meaningEN": "contribution / services",
+    "meaningMM": "အကျိုးပြုခြင်း / ပါဝင်ကူညီခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "把握",
+    "reading": "はあく",
+    "meaningEN": "grasp / catch / understanding",
+    "meaningMM": "နားလည်သဘောပေါက်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "絶好",
+    "reading": "ぜっこう",
+    "meaningEN": "best / ideal / perfect",
+    "meaningMM": "အကောင်းဆုံး / အသင့်တော်ဆုံး",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meaningEN": "contradiction / inconsistency",
+    "meaningMM": "ရှေ့နောက်မညီညွတ်မှု",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "象徴",
+    "reading": "しょうちょう",
+    "meaningEN": "symbol / emblem",
+    "meaningMM": "သင်္ကေတ",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "優秀",
+    "reading": "ゆうしゅう",
+    "meaningEN": "excellent / superiority",
+    "meaningMM": "ထူးချွန်သော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "柔軟",
+    "reading": "じゅうなん",
+    "meaningEN": "flexible / soft",
+    "meaningMM": "ပျော့ပြောင်းသော / လိုက်လျောညီထွေရှိသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "克服",
+    "reading": "こくふく",
+    "meaningEN": "conquest / overcoming",
+    "meaningMM": "ကျော်လွှားအောင်မြင်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "及ぼす",
+    "reading": "およぼす",
+    "meaningEN": "to exert / to influence",
+    "meaningMM": "သက်ရောက်မှုရှိစေသည်",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "収穫",
+    "reading": "しゅうかく",
+    "meaningEN": "harvest / crop",
+    "meaningMM": "ရိတ်သိမ်းခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "徹底的",
+    "reading": "てッテいてき",
+    "meaningEN": "thorough / complete",
+    "meaningMM": "အစအဆုံး / စေ့စပ်သေချာသော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "迅速",
+    "reading": "じんそく",
+    "meaningEN": "quick / fast / rapid",
+    "meaningMM": "လျင်မြန်သွက်လက်သော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "誠実",
+    "reading": "せいじつ",
+    "meaningEN": "sincere / honest",
+    "meaningMM": "ရိုးသားဖြောင့်မတ်သော",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "反映",
+    "reading": "はんえい",
+    "meaningEN": "reflection / influence",
+    "meaningMM": "ရောင်ပြန်ဟပ်ခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "普及",
+    "reading": "ふきゅう",
+    "meaningEN": "diffusion / spread / popularization",
+    "meaningMM": "ပျံ့နှံ့ခြင်း / ခေတ်စားလာခြင်း",
+    "level": "N2",
+    "date": "2019/12"
+  },
+  {
+    "word": "妥当",
+    "reading": "だとう",
+    "meaningEN": "valid / proper / appropriate",
+    "meaningMM": "လျော်ကန်သင့်မြတ်သော",
+    "level": "N2",
+    "date": "2019/12"
+  }
+]
+
+

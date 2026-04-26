@@ -1,0 +1,802 @@
+[
+  {
+    "word": "幼い",
+    "reading": "おさない",
+    "meaningEN": "childish / immature",
+    "meaningMM": "ကလေးဆန်သော / နုနယ်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "握る",
+    "reading": "にぎる",
+    "meaningEN": "to grasp / to hold",
+    "meaningMM": "ဆုပ်ကိုင်သည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "密閉",
+    "reading": "みっぺい",
+    "meaningEN": "airtight / sealed",
+    "meaningMM": "လေလုံအောင်ပိတ်ဆို့ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "絞る",
+    "reading": "しぼる",
+    "meaningEN": "to wring / to narrow down",
+    "meaningMM": "ညှစ်ထုတ်သည် / ကန့်သတ်ချုံ့ချသည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "垂直",
+    "reading": "すいちょく",
+    "meaningEN": "vertical / perpendicular",
+    "meaningMM": "ဒေါင်လိုက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "凍る",
+    "reading": "こおる",
+    "meaningEN": "to freeze",
+    "meaningMM": "ခဲသည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "討論",
+    "reading": "とうろん",
+    "meaningEN": "debate / discussion",
+    "meaningMM": "ဆွေးနွေးငြင်းခုံခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "雇う",
+    "reading": "やとう",
+    "meaningEN": "to employ / to hire",
+    "meaningMM": "အလုပ်ငှားသည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "鋭い",
+    "reading": "するどい",
+    "meaningEN": "sharp / keen",
+    "meaningMM": "ထက်မြက်သော / စူးရှသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "鈍い",
+    "reading": "にぶい",
+    "meaningEN": "dull / blunt / slow",
+    "meaningMM": "တုံးသော / ထိုင်းမှိုင်းသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "収穫",
+    "reading": "しゅうかく",
+    "meaningEN": "harvest / crop",
+    "meaningMM": "ရိတ်သိမ်းခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "蓄える",
+    "reading": "たくわえる",
+    "meaningEN": "to store / to save up",
+    "meaningMM": "စုဆောင်းသည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "鮮やか",
+    "reading": "あざやか",
+    "meaningEN": "vivid / clear / brilliant",
+    "meaningMM": "တောက်ပစိုပြည်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "豊富",
+    "reading": "ほうふ",
+    "meaningEN": "abundance / plenty",
+    "meaningMM": "ပေါများကြွယ်ဝသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "依然として",
+    "reading": "いぜんとして",
+    "meaningEN": "still / as before",
+    "meaningMM": "ယခင်အတိုင်းပင်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "皮肉",
+    "reading": "ひにく",
+    "meaningEN": "irony / sarcasm",
+    "meaningMM": "သရော်လှောင်ပြောင်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "納得",
+    "reading": "なっとく",
+    "meaningEN": "understanding / agreement",
+    "meaningMM": "နားလည်လက်ခံခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "解消",
+    "reading": "かいしょう",
+    "meaningEN": "cancellation / reduction (stress)",
+    "meaningMM": "ဖြေဖျောက်ခြင်း / ပယ်ဖျက်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "謙虚",
+    "reading": "けんきょ",
+    "meaningEN": "humble / modest",
+    "meaningMM": "နှိမ့်ချသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "補足",
+    "reading": "ほそく",
+    "meaningEN": "supplement / complement",
+    "meaningMM": "ဖြည့်စွက်ချက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "及ぼす",
+    "reading": "およぼす",
+    "meaningEN": "to exert / to cause",
+    "meaningMM": "သက်ရောက်စေသည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "冷静",
+    "reading": "れいせい",
+    "meaningEN": "calm / composure",
+    "meaningMM": "တည်ငြိမ်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "活気",
+    "reading": "かっき",
+    "meaningEN": "energy / liveliness",
+    "meaningMM": "တက်ကြွလန်းဆန်းမှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "視野",
+    "reading": "しや",
+    "meaningEN": "field of vision / perspective",
+    "meaningMM": "အမြင်အာရုံ / အမြင်ကျယ်မှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "克服",
+    "reading": "こくふく",
+    "meaningEN": "overcoming / conquest",
+    "meaningMM": "ကျော်လွှားခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "工夫",
+    "reading": "くふう",
+    "meaningEN": "ingenuity / devising a way",
+    "meaningMM": "နည်းလမ်းရှာကြံခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "省略",
+    "reading": "しょうりゃく",
+    "meaningEN": "omission / abbreviation",
+    "meaningMM": "ချန်လှပ်ထားခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "具体的",
+    "reading": "ぐたいてき",
+    "meaningEN": "concrete / specific",
+    "meaningMM": "တိကျရေရာသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "焦る",
+    "reading": "あせる",
+    "meaningEN": "to be in a hurry / to panic",
+    "meaningMM": "လောသည် / စိုးရိမ်တကြီးဖြစ်သည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "混乱",
+    "reading": "こんらん",
+    "meaningEN": "chaos / confusion",
+    "meaningMM": "ရှုပ်ထွေးပွေလီမှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "貢献",
+    "reading": "こうけん",
+    "meaningEN": "contribution",
+    "meaningMM": "အကျိုးပြုခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "把握",
+    "reading": "はあく",
+    "meaningEN": "grasp / understanding",
+    "meaningMM": "နားလည်သဘောပေါက်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "絶好",
+    "reading": "ぜっこう",
+    "meaningEN": "best / ideal",
+    "meaningMM": "အကောင်းဆုံး",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meaningEN": "contradiction / inconsistency",
+    "meaningMM": "ရှေ့နောက်မညီညွတ်မှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "象徴",
+    "reading": "しょうちょう",
+    "meaningEN": "symbol / emblem",
+    "meaningMM": "သင်္ကေတ",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "優秀",
+    "reading": "ゆうしゅう",
+    "meaningEN": "excellent / talented",
+    "meaningMM": "ထူးချွန်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "柔軟",
+    "reading": "じゅうなん",
+    "meaningEN": "flexible / soft",
+    "meaningMM": "ပျော့ပြောင်းသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "迅速",
+    "reading": "じんそく",
+    "meaningEN": "quick / rapid",
+    "meaningMM": "လျင်မြန်သွက်လက်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "誠実",
+    "reading": "せいじつ",
+    "meaningEN": "sincere / honest",
+    "meaningMM": "ရိုးသားဖြောင့်မတ်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "反映",
+    "reading": "はんえい",
+    "meaningEN": "reflection / influence",
+    "meaningMM": "ဟပ်ခြင်း / သက်ရောက်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "普及",
+    "reading": "ふきゅう",
+    "meaningEN": "diffusion / spread",
+    "meaningMM": "ပျံ့နှံ့ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "妥当",
+    "reading": "だとう",
+    "meaningEN": "valid / appropriate",
+    "meaningMM": "လျော်ကန်သင့်မြတ်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "慎重",
+    "reading": "しんちょう",
+    "meaningEN": "careful / cautious",
+    "meaningMM": "သတိကြီးသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaningEN": "compromise",
+    "meaningMM": "အလျှော့ပေးညှိနှိုင်းခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "あらすじ",
+    "reading": "あらすじ",
+    "meaningEN": "plot / summary",
+    "meaningMM": "ဇာတ်လမ်းအကျဉ်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaningEN": "analysis",
+    "meaningMM": "ခွဲခြမ်းစိတ်ဖြာခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "継続",
+    "reading": "けいぞく",
+    "meaningEN": "continuation",
+    "meaningMM": "ဆက်တိုက်လုပ်ဆောင်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "欠陥",
+    "reading": "けっかん",
+    "meaningEN": "defect / flaw",
+    "meaningMM": "ချို့ယွင်းချက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "恵まれる",
+    "reading": "めぐまれる",
+    "meaningEN": "to be blessed with",
+    "meaningMM": "ပြည့်စုံကြွယ်ဝသည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "負担",
+    "reading": "ふたん",
+    "meaningEN": "burden / load",
+    "meaningMM": "ဝန်ထုပ်ဝန်ပိုး",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "深刻",
+    "reading": "しんこく",
+    "meaningEN": "serious / grave",
+    "meaningMM": "ပြင်းထန်ဆိုးရွားသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "逆らう",
+    "reading": "さからう",
+    "meaningEN": "to defy / to resist",
+    "meaningMM": "ဆန့်ကျင်သည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "貴重",
+    "reading": "きちょう",
+    "meaningEN": "precious / valuable",
+    "meaningMM": "တန်ဖိုးရှိသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaningEN": "duty / obligation",
+    "meaningMM": "တာဝန်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "組織",
+    "reading": "そしき",
+    "meaningEN": "organization",
+    "meaningMM": "အဖွဲ့အစည်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaningEN": "improvement",
+    "meaningMM": "ပိုမိုကောင်းမွန်အောင်ပြုပြင်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "採用",
+    "reading": "さいよう",
+    "meaningEN": "recruitment / adoption",
+    "meaningMM": "အလုပ်ခန့်အပ်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "解消",
+    "reading": "かいしょう",
+    "meaningEN": "resolution / reduction",
+    "meaningMM": "ဖြေရှင်းခြင်း / ပယ်ဖျက်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "徹底的",
+    "reading": "てッテいてき",
+    "meaningEN": "thorough / exhaustive",
+    "meaningMM": "စေ့စပ်သေချာသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "背景",
+    "reading": "はいけい",
+    "meaningEN": "background",
+    "meaningMM": "နောက်ခံအကြောင်းအရင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "維持",
+    "reading": "いじ",
+    "meaningEN": "maintenance / preservation",
+    "meaningMM": "ထိန်းသိမ်းခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaningEN": "influence / effect",
+    "meaningMM": "ဩဇာသက်ရောက်မှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "機能",
+    "reading": "きのう",
+    "meaningEN": "function",
+    "meaningMM": "လုပ်ဆောင်ချက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "確保",
+    "reading": "かくほ",
+    "meaningEN": "guarantee / secure",
+    "meaningMM": "ရရှိအောင်လုပ်ဆောင်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "供給",
+    "reading": "きょうきゅう",
+    "meaningEN": "supply / provision",
+    "meaningMM": "ထောက်ပံ့မှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "検討",
+    "reading": "けんとう",
+    "meaningEN": "consideration / study",
+    "meaningMM": "သုံးသပ်ဆွေးနွေးခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "困難",
+    "reading": "こんなん",
+    "meaningEN": "difficulty / hardship",
+    "meaningMM": "အခက်အခဲ",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "指示",
+    "reading": "しじ",
+    "meaningEN": "instruction / indication",
+    "meaningMM": "ညွှန်ကြားချက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "手段",
+    "reading": "しゅだん",
+    "meaningEN": "means / measure",
+    "meaningMM": "နည်းလမ်း / အစီအမံ",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaningEN": "condition / term",
+    "meaningMM": "စည်းကမ်းသတ်မှတ်ချက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaningEN": "countermeasure",
+    "meaningMM": "တုံ့ပြန်ဆောင်ရွက်ချက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "評価",
+    "reading": "ひょうか",
+    "meaningEN": "evaluation",
+    "meaningMM": "အကဲဖြတ်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "利益",
+    "reading": "りえき",
+    "meaningEN": "profit / benefit",
+    "meaningMM": "အကျိုးအမြတ်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "領収",
+    "reading": "りょうしゅう",
+    "meaningEN": "receipt",
+    "meaningMM": "လက်ခံရရှိခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "例外",
+    "reading": "れいがい",
+    "meaningEN": "exception",
+    "meaningMM": "ခြွင်းချက်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "冷静",
+    "reading": "れいせい",
+    "meaningEN": "composed / cool",
+    "meaningMM": "တည်ငြိမ်အေးဆေးသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "論理",
+    "reading": "ろんり",
+    "meaningEN": "logic",
+    "meaningMM": "ယုတ္တိဗေဒ",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "役割",
+    "reading": "やくわり",
+    "meaningEN": "role / part",
+    "meaningMM": "အခန်းကဏ္ဍ / တာဝန်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "有能",
+    "reading": "ゆうのう",
+    "meaningEN": "capable / competent",
+    "meaningMM": "စွမ်းဆောင်ရည်ရှိသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "予期",
+    "reading": "よき",
+    "meaningEN": "expectation / forecast",
+    "meaningMM": "မျှော်မှန်းခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "余計",
+    "reading": "よけい",
+    "meaningEN": "unnecessary / excessive",
+    "meaningMM": "ပိုလျှံသော / မလိုလားအပ်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "良識",
+    "reading": "りょうしき",
+    "meaningEN": "good sense",
+    "meaningMM": "ကောင်းမွန်သောဆင်ခြင်တုံတရား",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "冷静",
+    "reading": "れいせい",
+    "meaningEN": "serenity",
+    "meaningMM": "အေးငြိမ်မှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "連想",
+    "reading": "れんそう",
+    "meaningEN": "association of ideas",
+    "meaningMM": "ဆက်စပ်တွေးတောခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "漏らす",
+    "reading": "もらす",
+    "meaningEN": "to leak / to reveal",
+    "meaningMM": "ယိုစိမ့်စေသည် / ဖွင့်ဟသည်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "わずか",
+    "reading": "わずか",
+    "meaningEN": "only / merely / a little",
+    "meaningMM": "အနည်းငယ်မျှသာ",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "背景",
+    "reading": "はいけい",
+    "meaningEN": "scenery / context",
+    "meaningMM": "နောက်ခံမြင်ကွင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "破片",
+    "reading": "はへん",
+    "meaningEN": "fragment / splinter",
+    "meaningMM": "အစအန",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "場面",
+    "reading": "ばめん",
+    "meaningEN": "scene / setting",
+    "meaningMM": "အခင်းအကျင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "批判",
+    "reading": "ひはん",
+    "meaningEN": "criticism",
+    "meaningMM": "ဝေဖန်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "微妙",
+    "reading": "びみょう",
+    "meaningEN": "subtle / delicate",
+    "meaningMM": "သိမ်မွေ့သော / ခွဲခြားရခက်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "標語",
+    "reading": "ひょうご",
+    "meaningEN": "slogan / motto",
+    "meaningMM": "ဆောင်ပုဒ်",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "不運",
+    "reading": "ふうん",
+    "meaningEN": "misfortune / bad luck",
+    "meaningMM": "ကံမကောင်းခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "服従",
+    "reading": "ふくじゅう",
+    "meaningEN": "obedience",
+    "meaningMM": "နာခံခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "複製",
+    "reading": "ふくせい",
+    "meaningEN": "reproduction / duplication",
+    "meaningMM": "မိတ္တူပွားခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "付属",
+    "reading": "ふぞく",
+    "meaningEN": "attached / affiliated",
+    "meaningMM": "တွဲဖက်ထားသော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "不備",
+    "reading": "ふび",
+    "meaningEN": "deficiency / defect",
+    "meaningMM": "မပြည့်စုံမှု",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "不要",
+    "reading": "ふよう",
+    "meaningEN": "unnecessary",
+    "meaningMM": "မလိုအပ်သော",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "平均",
+    "reading": "へいきん",
+    "meaningEN": "average",
+    "meaningMM": "ပျမ်းမျှ",
+    "level": "N2",
+    "date": "2017/7"
+  },
+  {
+    "word": "閉鎖",
+    "reading": "へいさ",
+    "meaningEN": "closing / shutdown",
+    "meaningMM": "ပိတ်ပစ်ခြင်း",
+    "level": "N2",
+    "date": "2017/7"
+  }
+]
