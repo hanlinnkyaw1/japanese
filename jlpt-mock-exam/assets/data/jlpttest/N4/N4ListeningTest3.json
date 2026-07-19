@@ -1,0 +1,195 @@
+{
+  "exam": "N4101407",
+  "audio_src": "https://archive.org/download/n-4-test-1_202607/N4-Test-3.mp3",
+  "audio_src_fallback": "https://audio.jlptburmese.com/N4Audio/N4-Test-3.mp3",
+  "starting_time": "0",
+  "sections": [
+    {
+      "mondai": 1,
+      "title": "問題1",
+      "instruction": "もんだい1では、まず しつもんを 聞いて ください。それから 話を 聞いて、もんだいようしの1から4の中から、いちばんいいものを ひとつ えらんで ください。",
+      "questions": [
+        {
+          "id": 1,
+          "label": "1ばん",
+          "type": "text",
+          "options": ["バスてい", "えいがかん", "きっさてん", "ほんや"],
+          "answer": 3
+        },
+        {
+          "id": 2,
+          "label": "2ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_160205.jpg",
+          "options": ["1", "2", "3", "4"],
+          "answer": 3,
+          "note": "Matched to panel 3 (タオル / towel)"
+        },
+        {
+          "id": 3,
+          "label": "3ばん",
+          "type": "text",
+          "options": ["コンビニ", "スーパー", "やおや", "デパート"],
+          "answer": 1
+        },
+        {
+          "id": 4,
+          "label": "4ばん",
+          "type": "text",
+          "options": ["12時55分", "1時", "1時5分", "1時10分"],
+          "answer": 1
+        },
+        {
+          "id": 5,
+          "label": "5ばん",
+          "type": "text",
+          "options": ["5本", "10本", "15本", "20本"],
+          "answer": 4
+        },
+        {
+          "id": 6,
+          "label": "6ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_160224.jpg",
+          "options": ["1", "2", "3", "4"],
+          "answer": 3,
+          "note": "Matched to panel 3 (椅子を運ぶ / arranging chairs)"
+        },
+        {
+          "id": 7,
+          "label": "7ばん",
+          "type": "text",
+          "options": ["今日の ひるやすみ", "今日の 6時", "あしたの ひるやすみ", "あしたの 6時"],
+          "answer": 3
+        },
+        {
+          "id": 8,
+          "label": "8ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_160248.jpg",
+          "options": ["1", "2", "3", "4"],
+          "answer": 2,
+          "note": "Matched to panel 2 (果物を一つのお皿に入れる / putting fruit on one plate)"
+        }
+      ]
+    },
+    {
+      "mondai": 2,
+      "title": "問題2",
+      "instruction": "もんだい2では、まず しつもんを 聞いて ください。そのあと、もんだいようしを 見て ください。読む 時間が あります。それから 話を 聞いて、もんだいようしの1から4の中から、いちばんいいものを ひとつ えらんで ください。",
+      "questions": [
+        {
+          "id": 9,
+          "label": "1ばん",
+          "type": "text",
+          "options": ["いしゃ", "大学の 先生", "エンジニア", "ぎんこういん"],
+          "answer": 2
+        },
+        {
+          "id": 10,
+          "label": "2ばん",
+          "type": "text",
+          "options": ["えいがを 見る", "そうじを して えを かざる", "友だちの へやに あそびに 行く", "花を 買いに 行く"],
+          "answer": 2
+        },
+        {
+          "id": 11,
+          "label": "3ばん",
+          "type": "text",
+          "options": ["はれて あたたかい", "はれるが かぜが つめたい", "午後から くもりに なる", "一日中 つよい 雨が ふる"],
+          "answer": 2
+        },
+        {
+          "id": 12,
+          "label": "4ばん",
+          "type": "text",
+          "options": ["いっしょに しょくじを する人", "花や ようふくを プレゼントする人", "てがみや カードを おくる人", "ケーキを つくる人"],
+          "answer": 1
+        },
+        {
+          "id": 13,
+          "label": "5ばん",
+          "type": "text",
+          "options": ["かいぎに 出ること", "かいぎしりょうを つくること", "パソコンを なおすこと", "いすと つくえを ならべること"],
+          "answer": 3
+        },
+        {
+          "id": 14,
+          "label": "6ばん",
+          "type": "text",
+          "options": ["ゆうべ アルバイトを したから", "あさはやく おきたから", "あさまで ねむれなかったから", "ゆうべ おそくまで べんきょうしたから"],
+          "answer": 3
+        },
+        {
+          "id": 15,
+          "label": "7ばん",
+          "type": "text",
+          "options": ["3ページから 6ページまで", "4ページから 6ページまで", "4ページから 9ページまで", "7ページから 9ページまで"],
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "mondai": 3,
+      "title": "問題3",
+      "instruction": "もんだい3では、えを 見ながら しつもんを 聞いて ください。➡（やじるし）の 人は 何と 言いますか。1から3の中から、いちばんいいものを ひとつ えらんで ください。",
+      "questions": [
+        {
+          "id": 16,
+          "label": "1ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_155945.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 17,
+          "label": "2ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_160018.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 18,
+          "label": "3ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_160046.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 19,
+          "label": "4ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_160112.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 20,
+          "label": "5ばん",
+          "type": "image",
+          "image": "https://ia600509.us.archive.org/17/items/img-20260718-160046/IMG_20260718_160134.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "mondai": 4,
+      "title": "問題4",
+      "instruction": "もんだい4では、えなどが ありません。まず ぶんを 聞いて ください。それから、そのへんじを 聞いて、1から3の中から、いちばんいいものを ひとつ えらんで ください。",
+      "questions": [
+        {"id": 21, "label": "1ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3},
+        {"id": 22, "label": "2ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3},
+        {"id": 23, "label": "3ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 2},
+        {"id": 24, "label": "4ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3},
+        {"id": 25, "label": "5ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 1},
+        {"id": 26, "label": "6ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 1},
+        {"id": 27, "label": "7ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 2},
+        {"id": 28, "label": "8ばん", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 1}
+      ]
+    }
+  ]
+}

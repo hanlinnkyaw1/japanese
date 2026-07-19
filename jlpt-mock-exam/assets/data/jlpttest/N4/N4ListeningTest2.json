@@ -1,0 +1,242 @@
+{
+  "exam": "N4102407",
+  "audio_src": "https://archive.org/download/n-4-test-1_202607/N4-Test-2.mp3",
+  "audio_src_fallback": "https://audio.jlptburmese.com/N4Audio/N4-Test-2.mp3",
+  "starting_time": "0",
+  "sections": [
+    {
+      "mondai": 1,
+      "title": "問題1",
+      "instruction": "もんだい1では、まず しつもんを きいて ください。それから はなしを きいて、もんだいようしの1から4のなかから、いちばんいいものを ひとつ えらんで ください。",
+      "questions": [
+        {
+          "id": 1,
+          "label": "1ばん",
+          "type": "text",
+          "options": ["今日のひる休み", "今日のゆうがた", "あしたのひる休み", "あしたのゆうがた"],
+          "answer": 2
+        },
+        {
+          "id": 2,
+          "label": "2ばん",
+          "type": "image",
+          "image": "https://ia61505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163310.jpg",
+          "options": ["1", "2", "3", "4"],
+          "answer": 4
+        },
+        {
+          "id": 3,
+          "label": "3ばん",
+          "type": "text",
+          "options": ["うけつけ", "プール", "エレベーターの中", "ダンスのきょうしつ"],
+          "answer": 3
+        },
+        {
+          "id": 4,
+          "label": "4ばん",
+          "type": "text",
+          "options": ["くろのえんぴつ", "くろのペン", "あかのペン", "あおのペン"],
+          "answer": 3
+        },
+        {
+          "id": 5,
+          "label": "5ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163333.jpg",
+          "options": ["ア", "イ", "アウ", "イウ"],
+          "answer": 4
+        },
+        {
+          "id": 6,
+          "label": "6ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163413.jpg",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1
+        },
+        {
+          "id": 7,
+          "label": "7ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163446.jpg",
+          "options": ["1", "2", "3", "4"],
+          "answer": 4
+        },
+        {
+          "id": 8,
+          "label": "8ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163513.jpg",
+          "options": ["アウ", "アエ", "イウ", "イエ"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "mondai": 2,
+      "title": "問題2",
+      "instruction": "もんだい2では、まず しつもんを きいてください。そのあと、もんだいようしを見てください。読む時間があります。それから話を聞いて、もんだいようしの1から4の中から、いちばんいいものを一つえらんでください。",
+      "questions": [
+        {
+          "id": 9,
+          "label": "1ばん",
+          "type": "text",
+          "options": ["5日の午後2時から", "5日の午後5時から", "12日の午後2時から", "12日の午後5時から"],
+          "answer": 4
+        },
+        {
+          "id": 10,
+          "label": "2ばん",
+          "type": "text",
+          "options": ["よやくした本がとどいたから", "マフラーをさがしたいから", "かりるのをわすれた本があるから", "しりょうをおいてきたから"],
+          "answer": 2
+        },
+        {
+          "id": 11,
+          "label": "3ばん",
+          "type": "text",
+          "options": ["日本のだいがくいんで勉強する", "じぶんの国で勉強をつづける", "じぶんの国で会社をつくる", "日本の会社ではたらく"],
+          "answer": 1
+        },
+        {
+          "id": 12,
+          "label": "4ばん",
+          "type": "text",
+          "options": ["ほかのにも行ってみたいから", "店のばしょがとおくなったから", "こんでいてよやくがとれないから", "りょうきんが高くなったから"],
+          "answer": 3
+        },
+        {
+          "id": 13,
+          "label": "5ばん",
+          "type": "text",
+          "options": ["びじゅつかん前", "しみんびょういん", "さくら小学校前", "あさひやデパート"],
+          "answer": 3
+        },
+        {
+          "id": 14,
+          "label": "6ばん",
+          "type": "text",
+          "options": ["一日中雨", "一日中はれ", "午前ははれ、午後は雨", "午前は雨、午後ははれ"],
+          "answer": 2
+        },
+        {
+          "id": 15,
+          "label": "7ばん",
+          "type": "text",
+          "options": ["読みたい本だけ読むこと", "やさしい本をえらんで読むこと", "とちゅうでべつの本を読むこと", "ことばのいみをしらべながら読むこと"],
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "mondai": 3,
+      "title": "問題3",
+      "instruction": "もんだい3では、えを みながら しつもんを きいて ください。やじるし（→）の ひとは なんと いいますか。1から3の なかから、いちばん いいものを ひとつ えらんで ください。",
+      "questions": [
+        {
+          "id": 16,
+          "label": "1ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163602.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 17,
+          "label": "2ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163629.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 18,
+          "label": "3ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163659.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 19,
+          "label": "4ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163742.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 20,
+          "label": "5ばん",
+          "type": "image",
+          "image": "https://ia601505.us.archive.org/1/items/img-20260718-163446/IMG_20260718_163835.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "mondai": 4,
+      "title": "問題4",
+      "instruction": "もんだい4では、えなどが ありません。まず ぶんを きいて ください。それから、その へんじを きいて、1から3の なかから、いちばん いいものを ひとつ えらんで ください。",
+      "questions": [
+        {
+          "id": 21,
+          "label": "1ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 22,
+          "label": "2ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 23,
+          "label": "3ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 24,
+          "label": "4ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 25,
+          "label": "5ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 26,
+          "label": "6ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 27,
+          "label": "7ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 28,
+          "label": "8ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
