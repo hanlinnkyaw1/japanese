@@ -1,6 +1,3 @@
-/* Unified Combined Loader: fetch moji + reading + listening for same test */
-/* Optional scoring: load n3-score.js (or n2/n1) BEFORE this file to enable official-style points + pass/fail. */
-
 const SCORE_API = {
     ready: typeof window.calculateScores === 'function'
         && typeof window.buildMojiScoreMeta === 'function'
@@ -663,15 +660,19 @@ async function loadCombinedTest(testNumber) {
         renderListening(listeningRaw);
         
         activateTab('moji');
-        const hasSaved = restoreProgress(testNumber);
         
-        if (hasSaved) {
-            startTimer(true);
-            alert("Welcome back! Your previous progress and timer have been restored.");
+        // Check if there is saved data for this test
+        const hasSavedData = localStorage.getItem(getStorageKey(testNumber));
+        
+        if (hasSavedData) {
+            // If save exists, show the HTML choice modal and WAIT for user input
+            showResumeModal(testNumber);
         } else {
+            // No save data? Just start a fresh test immediately
             startTimer(false);
+            scheduleAudioPreload();
         }
-        scheduleAudioPreload();
+
     } catch (err) {
         console.error('🚨 Combined load error:', err);
         const errHtml = `<div style="padding:18px; color:#b91c1c; background:#fff1f2; border-radius:8px; border:1px solid #fecaca;">Error: ${err.message}</div>`;
@@ -1202,6 +1203,70 @@ submitAllBtn.addEventListener('click', () => {
 
     if (globalResult) globalResult.classList.remove('hidden');
 });
+
+/* ===== Resume / Retake Choice Modal ===== */
+function showResumeModal(testNumber) {
+    // Prevent duplicate modals
+    if (document.getElementById('resumeModalOverlay')) return;
+    
+    const modalHtml = `
+        <div id="resumeModalOverlay" style="
+            position: fixed; 
+            top: 0; left: 0; width: 100%; height: 100%; 
+            background: rgba(0,0,0,0.6); 
+            z-index: 2000; 
+            display: flex; align-items: center; justify-content: center;
+            animation: fadeIn 0.2s ease;
+        ">
+            <div style="
+                background: #ffffff; 
+                padding: 30px; 
+                border-radius: 12px; 
+                max-width: 420px; 
+                width: 90%; 
+                text-align: center; 
+                box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+                font-family: sans-serif;
+            ">
+                <div style="font-size: 40px; margin-bottom: 10px;">⏳</div>
+                <h3 style="margin: 0 0 15px 0; color: #1e293b; font-size: 22px;">Test ${testNumber} In Progress</h3>
+                <p style="margin: 0 0 25px 0; color: #64748b; font-size: 15px; line-height: 1.5;">
+                    You have a previous attempt saved for this test. Do you want to continue where you left off, or start a new attempt?
+                </p>
+                <div style="display: flex; flex-direction: column; gap: 10px;">
+                    <button id="resumeTestBtn" style="
+                        background: #2563eb; color: white; border: none; 
+                        padding: 12px; border-radius: 8px; font-weight: 700; 
+                        font-size: 15px; cursor: pointer; transition: background 0.2s;
+                    ">Continue Previous Test</button>
+                    <button id="newTestBtn" style="
+                        background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; 
+                        padding: 12px; border-radius: 8px; font-weight: 700; 
+                        font-size: 15px; cursor: pointer; transition: background 0.2s;
+                    ">Start New Test</button>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    document.body.insertAdjacentHTML('beforeend', modalHtml);
+    
+    // Handle "Continue" button click
+    document.getElementById('resumeTestBtn').addEventListener('click', () => {
+        document.getElementById('resumeModalOverlay').remove();
+        restoreProgress(testNumber);
+        startTimer(true); // true = resume countdown
+        scheduleAudioPreload();
+    });
+    
+    // Handle "New Test" button click
+    document.getElementById('newTestBtn').addEventListener('click', () => {
+        document.getElementById('resumeModalOverlay').remove();
+        clearSavedProgress(testNumber); // Delete old save
+        startTimer(false); // false = fresh countdown
+        scheduleAudioPreload();
+    });
+}
 
 /* ===== Local Storage Save/Resume System ===== */
 
