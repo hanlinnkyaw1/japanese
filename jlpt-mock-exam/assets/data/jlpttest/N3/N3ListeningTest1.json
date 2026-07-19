@@ -1,0 +1,245 @@
+{
+  "exam": "N3",
+  "date": "101612",
+  "audio_src": "https://archive.org/download/n-3-test-1/N3%20Test%201.mp3",
+    "audio_src_fallback": "https://audio.jlptburmese.com/N3Audio/N3%20Test%201.mp3",
+  "starting_time": "6",
+  "sections": [
+    {
+      "mondai": 1,
+      "title": "問題1",
+      "instruction": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つえらんでください。",
+      "questions": [
+        {
+          "id": 1,
+          "label": "1ばん",
+          "type": "image",
+          "image": "https://ia903201.us.archive.org/7/items/img-20260714-221818/IMG_20260714_221818.jpg",
+          "options": ["アウ", "アエ", "イウ", "イエ"],
+          "answer": 2
+        },
+        {
+          "id": 2,
+          "label": "2ばん",
+          "type": "text",
+          "options": ["水曜日", "木曜日", "金曜日", "土曜日"],
+          "answer": 3
+        },
+        {
+          "id": 3,
+          "label": "3ばん",
+          "type": "text",
+          "options": ["さんかしゃをかくにんする", "店に電話する", "メールをかくにんする", "ないようを決める"],
+          "answer": 1
+        },
+        {
+          "id": 4,
+          "label": "4ばん",
+          "type": "text",
+          "options": ["セミナーにもうしこむ", "テストをうける", "けいじばんを見る", "さんかひをふりこむ"],
+          "answer": 2
+        },
+        {
+          "id": 5,
+          "label": "5ばん",
+          "type": "text",
+          "options": ["ちょうさけっかを入力する", "サンプルをしてんに送る", "かいぎのじゅんびをする", "大野さんに仕事をたのむ"],
+          "answer": 1
+        },
+        {
+          "id": 6,
+          "label": "6ばん",
+          "type": "text",
+          "options": ["たいそう教室にもうしこむ", "DVDを買う", "びょういんに行く", "スポーツクラブに行く"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "mondai": 2,
+      "title": "問題2",
+      "instruction": "問題2では、まず質問を聞いてください。そのあと、問題用紙を見てください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つえらんでください。",
+      "questions": [
+        {
+          "id": 7,
+          "label": "1ばん",
+          "type": "text",
+          "options": ["気に入ったのがなかったから", "今すぐ買うひつようがなくなったから", "ねだんが高かったから", "おっとといっしょにえらびたかったから"],
+          "answer": 2
+        },
+        {
+          "id": 8,
+          "label": "2ばん",
+          "type": "text",
+          "options": ["年をとってからの生活のため", "家を買うため", "海外旅行をするため", "りゅうがくするため"],
+          "answer": 4
+        },
+        {
+          "id": 9,
+          "label": "3ばん",
+          "type": "text",
+          "options": ["ペットをびょういんにつれて行くから", "母がけがをしたから", "アルバイトに行くから", "クラブの話し合いがあるから"],
+          "answer": 1
+        },
+        {
+          "id": 10,
+          "label": "4ばん",
+          "type": "text",
+          "options": ["サラさんの友人に教えてもらう", "テレビを見て自分で勉強する", "インターネットでレッスンをうける", "外国語の学校に通う"],
+          "answer": 1
+        },
+        {
+          "id": 11,
+          "label": "5ばん",
+          "type": "text",
+          "options": ["朝食のメニューが売れていない", "近所の人があまり来てくれない", "こんでいてもせきを空けないきゃくがいる", "ことばづかいがよくない店員がいる"],
+          "answer": 3
+        },
+        {
+          "id": 12,
+          "label": "6ばん",
+          "type": "text",
+          "options": ["せんぱいにしりょうを見せる", "ちょうさをしなおす", "しりょうにグラフをくわえる", "はっぴょうのながれをかえる"],
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "mondai": 3,
+      "title": "問題3",
+      "instruction": "問題3では、問題用紙に何もいんさつされていません。この問題は、ぜんたいとしてどんなないようかを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つえらんでください。",
+      "questions": [
+        {
+          "id": 13,
+          "label": "1ばん",
+          "type": "audio_only_4",
+          "options": ["1", "2", "3", "4"],
+          "answer": 3
+        },
+        {
+          "id": 14,
+          "label": "2ばん",
+          "type": "audio_only_4",
+          "options": ["1", "2", "3", "4"],
+          "answer": 4
+        },
+        {
+          "id": 15,
+          "label": "3ばん",
+          "type": "audio_only_4",
+          "options": ["1", "2", "3", "4"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "mondai": 4,
+      "title": "問題4",
+      "instruction": "問題4では、えを見ながら質問を聞いてください。やじるし（➡）の人は何と言いますか。1から3の中から、最もよいものを一つえらんでください。",
+      "questions": [
+        {
+          "id": 16,
+          "label": "1ばん",
+          "type": "image",
+          "image": "https://ia600601.us.archive.org/18/items/img-20260714-222114/IMG_20260714_221845.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 17,
+          "label": "2ばん",
+          "type": "image",
+          "image": "https://ia800601.us.archive.org/18/items/img-20260714-222114/IMG_20260714_222010.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 18,
+          "label": "3ばん",
+          "type": "image",
+          "image": "https://ia800601.us.archive.org/18/items/img-20260714-222114/IMG_20260714_222049.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 19,
+          "label": "4ばん",
+          "type": "image",
+          "image": "https://ia800601.us.archive.org/18/items/img-20260714-222114/IMG_20260714_222114.jpg",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "mondai": 5,
+      "title": "問題5",
+      "instruction": "問題5では、問題用紙に何もいんさつされていません。まず文を聞いてください。それから、そのへんじを聞いて、1から3の中から、最もよいものを一つえらんでください。",
+      "questions": [
+        {
+          "id": 20,
+          "label": "1ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 21,
+          "label": "2ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 22,
+          "label": "3ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 23,
+          "label": "4ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 24,
+          "label": "5ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 25,
+          "label": "6ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 3
+        },
+        {
+          "id": 26,
+          "label": "7ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        },
+        {
+          "id": 27,
+          "label": "8ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 1
+        },
+        {
+          "id": 28,
+          "label": "9ばん",
+          "type": "audio_only_3",
+          "options": ["1", "2", "3"],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
