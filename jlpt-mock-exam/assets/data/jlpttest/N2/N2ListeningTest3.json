@@ -1,0 +1,91 @@
+{
+  "exam": "N2102207",
+  "audio_src": "https://archive.org/download/n-2-test-2/N2%20test%203.mp3",
+  "audio_src_fallback": "https://audio.jlptburmese.com/n2Audio/N2%20test%203.mp3",
+  "starting_time": "60",
+  "sections": [
+    {
+      "mondai": 1,
+      "title": "問題1",
+      "instruction": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 1, "label": "1番", "type": "text", "options": ["テーマを決める", "商店街の人に話を聞く", "クラスで話し合う", "町について調べる"], "answer": 4  },
+        { "id": 2, "label": "2番", "type": "text", "options": ["前回のアンケートをまとめる", "次会の申し込みの対応をする", "次回の資料を発行する", "前回の参加者のおれいのメールを送る"], "answer":  1 },
+        { "id": 3, "label": "3番", "type": "text", "options": ["商品名の文字の色を変える", "商品の厚さの数字を大きく書く", "以前の商品と比べた図を入れる", "性能のへんこう点を加える"], "answer": 3  },
+        { "id": 4, "label": "4番", "type": "text", "options": ["かんきょう間題のアートを制作する", "活動をまとめたぶんけんを読む", "かんきょう問題のイベントに参加する", "別の人に相談する"], "answer":  2 },
+        { "id": 5, "label": "5番", "type": "text", "options": ["食品をふくろにつめる", "机の下に段ボール箱を置く", "食品を机の上にならべる", "学生が取った食品の数をかくにんする"], "answer":  3 }
+      ]
+    },
+    {
+      "mondai": 2,
+      "title": "問題2",
+      "instruction": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 6, "label": "1番", "type": "text", "options": ["面接中は明るい顔をするようにする", "面接の前にメモを作る", "面接の最初にあいさつする", "日本人の友達と練習をする"], "answer": 1  },
+        { "id": 7, "label": "2番", "type": "text", "options": ["音楽の専門学校の先生にすいせんされた", "駅前で音楽関係の人に声をかけられた", "音楽のじむしょに歌の録音を送った", "音楽のコンテストでゆうしょうした"], "answer": 4  },
+        { "id": 8, "label": "3番", "type": "text", "options": ["注文が遅れたこと", "数を間違って工場にいらいしたこと", "問題が起こったときに課長に報告しなかったこと", "京都支店の小林部長に相談したこと"], "answer": 3  },
+        { "id": 9, "label": "4番", "type": "text", "options": ["おなかがすいたときに食べる", "決まった時間に3回食べる", "手軽で冷たい物を食べる", "のどの通りがよい物を食べる"], "answer": 2  },
+        { "id": 10, "label": "5番", "type": "text", "options": ["さくら駅に取りに行く", "森川駅に電話をかける", "けいさつしょに問い合わせる", "西山駅で宅配便の手続きをする"], "answer":  1 },
+        { "id": 11, "label": "6番", "type": "text", "options": ["ぼうさいグッズに関心を持つこと", "ぼうさいグッズを買いそろえること", "ぼうさいグッズを使ってみること", "ぼうさいグッズを定期的に見直すこと"], "answer":  3 }
+      ]
+    },
+    {
+      "mondai": 3,
+      "title": "問題3",
+      "instruction": "問題3では、問題用紙に何もいんさつされていません。この問題は、全体としてどんな内容かを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 12, "label": "1番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 4  },
+        { "id": 13, "label": "2番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer":  1 },
+        { "id": 14, "label": "3番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer":  2 },
+        { "id": 15, "label": "4番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 4  },
+        { "id": 16, "label": "5番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 1  }
+      ]
+    },
+    {
+      "mondai": 4,
+      "title": "問題4",
+      "instruction": "問題4では、問題用紙に何もいんさつされていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 17, "label": "1番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  3 },
+        { "id": 18, "label": "2番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  2 },
+        { "id": 19, "label": "3番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  2 },
+        { "id": 20, "label": "4番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  3 },
+        { "id": 21, "label": "5番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  1 },
+        { "id": 22, "label": "6番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  3 },
+        { "id": 23, "label": "7番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  2 },
+        { "id": 24, "label": "8番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  2 },
+        { "id": 25, "label": "9番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  2 },
+        { "id": 26, "label": "10番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  1 },
+        { "id": 27, "label": "11番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  3 }
+      ]
+    },
+    {
+      "mondai": 5,
+      "title": "問題5",
+      "instruction": "問題5では、長めの話を聞きます。この問題には練習はありません。問題用紙にメモをとってもかまいません。",
+      "questions": [
+        {
+          "id": 28,
+          "label": "1番",
+          "type": "audio_only_4",
+          "options": ["1", "2", "3", "4"],
+          "answer":  2
+        },
+        {
+          "id": 29,
+          "label": "2番 (質問1)",
+          "type": "text",
+          "options": ["1番のコース", "2番のコース", "3番のコース", "4番のコース"],
+          "answer":  2
+        },
+        {
+          "id": 30,
+          "label": "2番 (質問2)",
+          "type": "text",
+          "options": ["1番のコース", "2番のコース", "3番のコース", "4番のコース"],
+          "answer":  4
+        }
+      ]
+    }
+  ]
+}

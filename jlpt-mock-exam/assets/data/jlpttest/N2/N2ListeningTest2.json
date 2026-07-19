@@ -1,0 +1,91 @@
+{
+  "exam": "N2102307",
+  "audio_src": "https://archive.org/download/n-2-test-2/N2%20Test%202.mp3",
+  "audio_src_fallback": "https://audio.jlptburmese.com/n2Audio/N2%20Test%202.mp3",
+  "starting_time": "0",
+  "sections": [
+    {
+      "mondai": 1,
+      "title": "問題1",
+      "instruction": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 1, "label": "1番", "type": "text", "options": ["サークル活動", "アルバイトの選び方", "勉強の工夫", "就職のための準備"], "answer":  3 },
+        { "id": 2, "label": "2番", "type": "text", "options": ["ねぎを収穫する", "雑草をとる", "ほうれんそうの種をまく", "土をたがやす"], "answer": 2  },
+        { "id": 3, "label": "3番", "type": "text", "options": ["ホームページから申し込む", "ふりこみ先を確認する", "銀行で受講料を支払う", "クレジットカードを作る"], "answer":  2 },
+        { "id": 4, "label": "4番", "type": "text", "options": ["しょうめい器具の位置", "しょうめい器具のそざい", "しょうめいの光の強さ", "しょうめいの明かりの色"], "answer":  2 },
+        { "id": 5, "label": "5番", "type": "text", "options": ["机といすをならべる", "パソコンを設置する", "机に封筒を置く", "来場者の案内をする"], "answer":   3}
+      ]
+    },
+    {
+      "mondai": 2,
+      "title": "問題2",
+      "instruction": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 6, "label": "1番", "type": "text", "options": ["地域の林業についての講義", "山での基本作業の体験", "人工呼吸の練習", "木材を使った工作"], "answer": 2   },
+        { "id": 7, "label": "2番", "type": "text", "options": ["パンの値段を下げる", "閉店時間を早める", "ホームページを作る", "ちらしに割引券をつける"], "answer":  3 },
+        { "id": 8, "label": "3番", "type": "text", "options": ["ほかの保護者と知り合うことができる", "ちいきの役に立つことができる", "先生たちのことを知ることができる", "学校での子供の様子を見ることができる"], "answer": 1  },
+        { "id": 9, "label": "4番", "type": "text", "options": ["様々な値段から選ぶから", "古い物でも古さを感じさせないから", "帯や小物との組み合わせが楽しめるから", "注目を集めることができる"], "answer":  3 },
+        { "id": 10, "label": "5番", "type": "text", "options": ["ウオーキングコンテストの実施", "体操動画の公開", "運動用品の支給", "食事のアドバイス"], "answer": 1   },
+        { "id": 11, "label": "6番", "type": "text", "options": ["海の深いところの温度を測ること", "海の表面の温度を測る計測器を開発すること", "世界各国の協力を得ること", "非常に多くのデータを分析すること"], "answer":   3 }
+      ]
+    },
+    {
+      "mondai": 3,
+      "title": "問題3",
+      "instruction": "問題3では、問題用紙に何もいんさつされていません。この問題は、全体としてどんな内容かを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 12, "label": "1番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer":  1 },
+        { "id": 13, "label": "2番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer":  2 },
+        { "id": 14, "label": "3番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer":  4 },
+        { "id": 15, "label": "4番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer":  4 },
+        { "id": 16, "label": "5番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer":  4 }
+      ]
+    },
+    {
+      "mondai": 4,
+      "title": "問題4",
+      "instruction": "問題4では、問題用紙に何もいんさつされていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 17, "label": "1番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  1 },
+        { "id": 18, "label": "2番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 2  },
+        { "id": 19, "label": "3番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  3 },
+        { "id": 20, "label": "4番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  3 },
+        { "id": 21, "label": "5番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  1 },
+        { "id": 22, "label": "6番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  1 },
+        { "id": 23, "label": "7番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  2 },
+        { "id": 24, "label": "8番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  1 },
+        { "id": 25, "label": "9番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  2 },
+        { "id": 26, "label": "10番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3  },
+        { "id": 27, "label": "11番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer":  1 }
+      ]
+    },
+    {
+      "mondai": 5,
+      "title": "問題5",
+      "instruction": "問題5では、長めの話を聞きます。この問題には練習はありません。問題用紙にメモをとってもかまいません。",
+      "questions": [
+        {
+          "id": 28,
+          "label": "1番",
+          "type": "audio_only_4",
+          "options": ["1", "2", "3", "4"],
+          "answer":  3
+        },
+        {
+          "id": 29,
+          "label": "2番 (質問1)",
+          "type": "text",
+          "options": ["白い雲", "緑の列車", "美しい一日", "旅の空"],
+          "answer":  1
+        },
+        {
+          "id": 30,
+          "label": "2番 (質問2)",
+          "type": "text",
+          "options": ["白い雲", "緑の列車", "美しい一日", "旅の空"],
+          "answer":  3
+        }
+      ]
+    }
+  ]
+}
