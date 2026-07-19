@@ -1,0 +1,91 @@
+{
+  "exam": "N1102407",
+  "audio_src": "https://archive.org/download/n-1-test-1/N1%20Test%201.mp3",
+  "aduio_src_fallback": "https://audio.jlptburmese.com/N1AUDIO/N1Test1.mp3",
+  "starting_time": "0",
+  "sections": [
+    {
+      "mondai": 1,
+      "title": "問題1",
+      "instruction": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 1, "label": "1番", "type": "text", "options": ["夏用の商品を棚に並べる", "倉庫に日焼け止めクリームを運ぶ", "パンに値引きシールをはる", "棚の商品を片付ける"], "answer": 3 },
+        { "id": 2, "label": "2番", "type": "text", "options": ["すべてのデザイン案を削除する", "すべてのデザイン案のサイズをそろえる", "年代別の回答のグラフの色を変える", "年代別の回答のデータの位置を変える"], "answer": 2 },
+        { "id": 3, "label": "3番", "type": "text", "options": ["井上さんに納品日をかくにんする", "職人のリストを社長に見せる", "職人にサンプルの作成を頼む", "バッグの予約受付を中止する"], "answer": 1 },
+        { "id": 4, "label": "4番", "type": "text", "options": ["責任者の名前を書く", "費用を詳しく書く", "調理方法の説明を書く", "第二希望の場所を書く"], "answer": 2 },
+        { "id": 5, "label": "5番", "type": "text", "options": ["海辺の生き物についてのセミナー", "漁業体験", "海辺の生き物の観察会", "ヨットのそうじゅう体験"], "answer": 3 }
+      ]
+    },
+    {
+      "mondai": 2,
+      "title": "問題2",
+      "instruction": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 6, "label": "1番", "type": "text", "options": ["子供の年齢や好みに合う絵本", "教育効果が高い絵本", "長い間読まれている名作の絵本", "自分自身が面白いと感じる絵本"], "answer": 4 },
+        { "id": 7, "label": "2番", "type": "text", "options": ["固形タイプの商品にする", "容量を少なくする", "ふた付きの容器にする", "味をもう少し甘くする"], "answer": 3 },
+        { "id": 8, "label": "3番", "type": "text", "options": ["パソコンでイラストをえがく講座", "油絵で風景をえがく講座", "色えんぴつで動物をえがく講座", "はがきに季節の花をえがく講座"], "answer": 1 },
+        { "id": 9, "label": "4番", "type": "text", "options": ["設計変更の依頼に応じたこと", "試作の部品がよくできたこと", "予定より早く納品できたこと", "納品したばねが高品質だったこと"], "answer": 1 },
+        { "id": 10, "label": "5番", "type": "text", "options": ["ターゲットにした人が動画を見たか", "動画の再生回数", "さまざまな国の人に見られたか", "動画が最後まで見られたか"], "answer": 1 },
+        { "id": 11, "label": "6番", "type": "text", "options": ["サイズが規格外の魚", "売れ残るほど多く捕れてしまった魚", "一般にあまり知られていない魚", "調理するのが面倒な魚"], "answer": 3 }
+      ]
+    },
+    {
+      "mondai": 3,
+      "title": "問題3",
+      "instruction": "問題3では、問題用紙に何もいんさつされていません。この問題は、全体としてどんな内容かを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 12, "label": "1番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 2 },
+        { "id": 13, "label": "2番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 1 },
+        { "id": 14, "label": "3番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 4 },
+        { "id": 15, "label": "4番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 1 },
+        { "id": 16, "label": "5番", "type": "audio_only_4", "options": ["1", "2", "3", "4"], "answer": 4 }
+      ]
+    },
+    {
+      "mondai": 4,
+      "title": "問題4",
+      "instruction": "問題4では、問題用紙に何もいんさつされていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+      "questions": [
+        { "id": 17, "label": "1番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 1 },
+        { "id": 18, "label": "2番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3 },
+        { "id": 19, "label": "3番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3 },
+        { "id": 20, "label": "4番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3 },
+        { "id": 21, "label": "5番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 3 },
+        { "id": 22, "label": "6番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 2 },
+        { "id": 23, "label": "7番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 1 },
+        { "id": 24, "label": "8番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 1 },
+        { "id": 25, "label": "9番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 2 },
+        { "id": 26, "label": "10番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 1 },
+        { "id": 27, "label": "11番", "type": "audio_only_3", "options": ["1", "2", "3"], "answer": 2 }
+      ]
+    },
+    {
+      "mondai": 5,
+      "title": "問題5",
+      "instruction": "問題5では、長めの話を聞きます。この問題には練習はありません。問題用紙にメモをとってもかまいません。",
+      "questions": [
+        {
+          "id": 28,
+          "label": "1番",
+          "type": "audio_only_4",
+          "options": ["1", "2", "3", "4"],
+          "answer": 3
+        },
+        {
+          "id": 29,
+          "label": "2番 (質問1)",
+          "type": "text",
+          "options": ["講座1番", "講座2番", "講座3番", "講座4番"],
+          "answer": 4
+        },
+        {
+          "id": 30,
+          "label": "2番 (質問2)",
+          "type": "text",
+          "options": ["講座1番", "講座2番", "講座3番", "講座4番"],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
