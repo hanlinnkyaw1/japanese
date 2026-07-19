@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="jp">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+        content="Free Japanese grammar, kanji flashcards, JLPT vocabulary and practice questions with Burmese explanations, old question vocabulary. Perfect for Myanmar learners preparing for JLPT." />
+    <meta name="keywords"
+        content="JLPT, Japanese Grammar, Kanji Flashcard, JLPT Reading Practice, Old Question Vocabularys, Japanese for Myanmar, JLPT Vocabulary, JLPT Practice, Japanese Study, JLPT-Burmese, ဂျပန်စာ" />
+    <meta name="author" content="Han Linn Kyaw" />
+    <meta name="language" content="my" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="JLPT Vocabulary & Grammar for Myanmar Learners" />
+    <meta property="og:description"
+        content="Practice JLPT old questions, grammar and vocabulary with Burmese translations and examples." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.jlptburmese.com/" />
+    <meta property="og:image" content="https://www.jlptburmese.com/favicon.ico" />
+    <meta property="og:locale" content="my_MM" />
+    <meta property="og:site_name" content="JLPT Burmese" />
+
+    <link rel="canonical" href="https://www.jlptburmese.com/" />
+
+    <!-- Google tag -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BEK28NJE6Z"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-BEK28NJE6Z');
+    </script>
+
+    <title>JLPT Grammar & Vocabulary for Myanmar | Japanese Study Guide</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./output.css">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#222">
+    <script>
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register("/service-worker.js");
+        }
+    </script>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        html { scroll-behavior: smooth; }
+    </style>
+
+</head>
+
+<body>
+
+    <!-- ===== HEADER ===== -->
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                </svg>
+                <div class="logo-text">
+                    日本語
+                    <span>JLPT Burmese</span>
+                </div>
+            </a>
+
+            <nav class="desktop-nav">
+                <a href="index.html">Home</a>
+                <a href="#learnExplore">Study Tools</a>
+                <a href="searchgrammar.html">Grammar Search</a>
+                <a href="about.html">Contact</a>
+            </nav>
+
+            <div style="display:flex;align-items:center;gap:0.5rem;">
+                <button id="install-btn">Install App</button>
+                <button class="hamburger" id="hamburger" aria-label="Menu">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+
+        <nav class="mobile-nav" id="mobile-nav">
+            <a href="index.html">🏠 Home</a>
+            <a href="#learnExplore">📚 Study Tools</a>
+            <a href="searchgrammar.html">🔍 Grammar Search</a>
+            <a href="about.html">📧 Contact</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- ===== HERO ===== -->
+        <section class="hero">
+            <div class="hero-content">
+                <h2>Master Japanese <span class="jp">日本語</span></h2>
+                <p>Learn Japanese grammar systematically with clear Burmese (မြန်မာဘာသာ) explanations, example sentences, and JLPT practice exercises for N5, N4, N3, N2, and N1 levels.</p>
+                <div class="hero-btns">
+                    <a href="bookStroage/bookstorage.html" class="btn-red">📚 Books Storage</a>
+                    <a href="/searchgrammar.html" class="btn-blue">🔍 Grammar Dictionary</a>
+                
+            </div>
+        </section>
+
+    <!-- ===== JLPT MOCK EXAM ===== -->
+    <section class="test-page" id="test-section" style="padding:0;">
+<div class="jlpt-container">
+    <!-- Header -->
+    <div class="jlpt-header">
+      <h1>JLPT Mock Exam</h1>
+      <p class="subtitle">Choose your level and earn your certificate</p>
+      <p class="jp-text">日本語能力試験 模擬テスト</p>
+    </div>
+
+    <!-- Level Selector -->
+    <div class="level-selector">
+      <div class="level-selector-label">SELECT YOUR LEVEL</div>
+      <div class="levels-grid">
+
+        <!-- N1 -->
+        <a href="jlpt-mock-exam/N1Test.html" class="level-card level-n1">
+          <div class="level-badge">N1</div>
+          <div class="level-name">Advanced</div>
+          <div class="level-desc">Understand Japanese in virtually any situation</div>
+          <div class="difficulty-bar">
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+          </div>
+          <div class="level-stats">
+            <div class="level-stat">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              ~165 min
+            </div>
+          </div>
+        </a>
+
+        <!-- N2 -->
+        <a href="jlpt-mock-exam/N2Test.html" class="level-card level-n2">
+          <div class="level-badge">N2</div>
+          <div class="level-name">Upper-Int</div>
+          <div class="level-desc">Understand everyday and abstract topics</div>
+          <div class="difficulty-bar">
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot"></div>
+          </div>
+          <div class="level-stats">
+            <div class="level-stat">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              ~155 min
+            </div>
+          </div>
+        </a>
+
+        <!-- N3 -->
+        <a href="jlpt-mock-exam/N3Test.html" class="level-card level-n3">
+          <div class="level-badge">N3</div>
+          <div class="level-name">Intermediate</div>
+          <div class="level-desc">Understand everyday Japanese at natural speed</div>
+          <div class="difficulty-bar">
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot"></div>
+            <div class="difficulty-dot"></div>
+          </div>
+          <div class="level-stats">
+            <div class="level-stat">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              ~140 min
+            </div>
+          </div>
+        </a>
+
+        <!-- N4 -->
+        <a href="jlpt-mock-exam/N4Test.html" class="level-card level-n4">
+          <div class="level-badge">N4</div>
+          <div class="level-name">Elementary</div>
+          <div class="level-desc">Understand basic Japanese in daily life</div>
+          <div class="difficulty-bar">
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot"></div>
+            <div class="difficulty-dot"></div>
+            <div class="difficulty-dot"></div>
+          </div>
+          <div class="level-stats">
+            <div class="level-stat">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              ~115 min
+            </div>
+          </div>
+        </a>
+
+        <!-- N5 -->
+        <a href="jlpt-mock-exam/N5Test.html" class="level-card level-n5">
+          <div class="level-badge">N5</div>
+          <div class="level-name">Beginner</div>
+          <div class="level-desc">Understand basic Japanese expressions</div>
+          <div class="difficulty-bar">
+            <div class="difficulty-dot filled"></div>
+            <div class="difficulty-dot"></div>
+            <div class="difficulty-dot"></div>
+            <div class="difficulty-dot"></div>
+            <div class="difficulty-dot"></div>
+          </div>
+          <div class="level-stats">
+            <div class="level-stat">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              ~90 min
+            </div>
+          </div>
+        </a>
+
+      </div>
+    </div>
+
+    <!-- Certificate Preview -->
+    <div class="cert-preview-section">
+      <div class="cert-preview-label">Your Future Certificate</div>
+      <div class="cert-card-preview">
+        <div class="cert-watermark">合格</div>
+
+        <div class="cert-header-mini">
+          <div class="cert-exam-title-mini">日本語能力試験 模擬テスト</div>
+          <h1 class="cert-title-mini">合格証書</h1>
+        </div>
+
+        <div class="cert-recipient-row-mini">
+          <div class="cert-recipient-mini">Your Name <span class="honorific-mini">様</span></div>
+        </div>
+
+        <div class="cert-body-mini">
+          <div class="cert-level-badge-mini">JLPT N3</div>
+          あなたは当プラットフォーム主催の模擬試験において<br>
+          頭書の成績を収め見事合格されました
+        </div>
+
+        <div class="cert-score-grid-mini">
+          <div class="cert-score-item-mini"><span>言語知識</span> <span>45 / 60</span></div>
+          <div class="cert-score-item-mini"><span>読解</span> <span>38 / 60</span></div>
+          <div class="cert-score-item-mini"><span>聴解</span> <span>42 / 60</span></div>
+          <div class="cert-score-item-mini total"><span>総合得点 (69.4%)</span> <span>125 / 180 — 合格</span></div>
+        </div>
+
+        <div class="cert-footer-mini">
+          <div class="cert-date-mini">2026年7月17日</div>
+          <div class="cert-issuer-mini">JLPT Burmese</div>
+          <div class="cert-seal-mini">JLPT<br>Burmese<br>之印</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA Banner -->
+    <div class="cta-banner">
+      <p>Pass the mock exam and receive a <span class="highlight">personalized certificate</span> with your name, scores, and a traditional Japanese seal — ready to download and share!</p>
+    </div>
+  </div>
+    </section>
+
+        <!-- ===== STUDY TOOLS ===== -->
+        <section class="section" style="background:linear-gradient(135deg,#fff1f2,#fff,#fdf4ff);" id="learnExplore">
+            <div class="container">
+                <h2 class="section-title">Explore Learning Features</h2>
+                <div class="tools-grid">
+
+                    <div class="card">
+                        <div class="card-icon" style="background:#fee2e2;">
+                            <svg xmlns="http://www.w3.org/2000/svg" style="color:#ef4444;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" /></svg>
+                        </div>
+                        <h3>Kanji Flashcards</h3>
+                        <p>JLPT Level အလိုက် Kanji များကို Interactive Flashcard များဖြင့် အလွတ်ကျက်မှတ်ပါ။ N5 မှ N1 အထိ Kanji 2,000+ ပါဝင်သည်။</p>
+                        <a href="kanjiFlashcard/index.html" class="card-link" style="color:#ef4444;">Start Practicing →</a>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon" style="background:#dbeafe;">
+                            <svg xmlns="http://www.w3.org/2000/svg" style="color:#3b82f6;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" /></svg>
+                        </div>
+                        <h3>JLPT Reading Practice</h3>
+                        <p>JLPT စာဖတ်နားလည်မှုပိုင်းကို တိုးတက်စေမည့် Passage များဖြင့် လေ့ကျင့်ပါ။ Context၊ Detail နှင့် Main Idea တို့ကို နားလည်ရန် အထောက်အကူပြုသည်။</p>
+                        <a href="reading/readingTest.html" class="card-link" style="color:#3b82f6;">Start Reading →</a>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon" style="background:#fef9c3;">
+                            <svg xmlns="http://www.w3.org/2000/svg" style="color:#ca8a04;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" /></svg>
+                        </div>
+                        <h3>JLPT Old Questions Vocabulary</h3>
+                        <p>အရင် JLPT စစ်ဆေးပွဲများမှ Vocabulary များကို လေ့ကျင့်ပါ။ စစ်မှန်သော Test Word များဖြင့် Score မြှင့်တင်ပါ။</p>
+                        <a href="oldQVoca/index.html" class="card-link" style="color:#ca8a04;">Start Reviewing →</a>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon" style="background:#fce7f3;">
+                            <svg xmlns="http://www.w3.org/2000/svg" style="color:#ec4899;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+                        </div>
+                        <h3>Kanji Game</h3>
+                        <p>Kanji Pop — Kanji များ အပေါ်မှ ကျလာသည်။ မကျမီ မှန်သော Kanji ကို နှိပ်ပါ။ ဖျော်ဖြေနည်းဖြင့် Recognition Speed တိုးတက်ပါ။</p>
+                        <a href="kanjiGame/index.html" class="card-link" style="color:#ec4899;">Start Playing →</a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- ===== GRAMMAR CONTENT (crawlable) ===== -->
+        <section class="section" style="background:#fff;">
+            <div class="container">
+                <h2 class="section-title" style="color:#1f2937;">JLPT အကြောင်း သိကောင်းစရာများ</h2>
+                <div class="grammar-intro">
+                    <strong>JLPT (Japanese Language Proficiency Test / 日本語能力試験)</strong> သည် ဂျပန်နိုင်ငံ၏ အဓိက ဂျပန်ဘာသာ စစ်ဆေးမှုဖြစ်ပြီး N5 (အခြေခံ) မှ N1 (အဆင့်မြင့်) အထိ အဆင့် ၅ ဆင့်ရှိသည်။ မြန်မာနိုင်ငံတွင်လည်း နှစ်စဉ် စစ်ဆေးနေပြီး ဂျပန်တွင် အလုပ်လုပ်ကိုင်ရန် သို့မဟုတ် ပညာသင်ရန် အလွန်အရေးကြီးသော လက်မှတ်တစ်ခုဖြစ်သည်။
+                </div>
+                
+                <h3 style="font-size:1.05rem;font-weight:700;color:#dc2626;margin:0 0 0.75rem;">N5 Grammar အခြေခံများ (Sample)</h3>
+                <div class="table-wrap">
+                    <table class="grammar-table">
+                        <thead>
+                            <tr>
+                                <th>Grammar</th>
+                                <th>Meaning</th>
+                                <th>မြန်မာဘာသာ</th>
+                                <th>Example</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>〜は〜です</strong></td>
+                                <td>A is B</td>
+                                <td>A သည် B ဖြစ်သည် ဟု ဖော်ပြသော အခြေခံပုံစံ</td>
+                                <td>わたしは学生です。</td>
+                            </tr>
+                            <tr>
+                                <td><strong>〜が好きです</strong></td>
+                                <td>I like ~</td>
+                                <td>တစ်ခုခုကို ကြိုက်သည် ဟု ဖော်ပြသောအခါ</td>
+                                <td>音楽が好きです。</td>
+                            </tr>
+                            <tr>
+                                <td><strong>〜たいです</strong></td>
+                                <td>Want to ~</td>
+                                <td>တစ်ခုခုလုပ်ချင်သည် ဟု ဖော်ပြသောအခါ</td>
+                                <td>日本へ行きたいです。</td>
+                            </tr>
+                            <tr>
+                                <td><strong>〜ている</strong></td>
+                                <td>Currently doing</td>
+                                <td>လောလောဆယ် ပြုလုပ်နေသည် ဟု ဖော်ပြသောအခါ</td>
+                                <td>本を読んでいます。</td>
+                            </tr>
+                            <tr>
+                                <td><strong>〜から〜まで</strong></td>
+                                <td>From ~ to ~</td>
+                                <td>အစနှင့် အဆုံးကို ဖော်ပြသောအခါ</td>
+                                <td>９時から５時まで働きます。</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <p class="table-hint">← Scroll to see more →</p>
+                
+                <div style="text-align:center;margin-top:1.25rem;">
+                    <a href="searchgrammar.html" class="btn-red" style="display:inline-block;padding:0.75rem 1.5rem;">Grammar အားလုံးကို ကြည့်ရန် →</a>
+                </div>
+            </div>
+        </section>
+        <!-- ===== LEVEL SELECTION ===== -->
+        <section class="section" style="background:#fff;" id="levels">
+            <div class="container">
+                <h2 class="section-title" style="color:#1f2937;">Choose Your Level</h2>
+                <p style="text-align:center;color:#6b7280;font-size:0.9rem;margin:0 auto 1.5rem;max-width:560px;line-height:1.7;">
+                    သင့်လျော်သော JLPT Level ကို ရွေးချယ်ပြီး Grammar လေ့လာပါ။ N5 အခြေခံမှ N1 အဆင့်မြင့်အထိ မြန်မာဘာသာ ရှင်းလင်းချက်များနှင့်အတူ လေ့လာနိုင်သည်။
+                </p>
+                <div class="level-grid">
+
+                    <div class="level-card level-n5">
+                        <span class="level-badge" style="background:#22c55e;">N5–N4</span>
+                        <h3 style="color:#166534;">Beginner</h3>
+                        <p style="color:#15803d;">Basic grammar patterns for everyday conversations.</p>
+                        <ul style="color:#166534;">
+                            <li>Particles (は、が、を、に、で、へ)</li>
+                            <li>Verb conjugation (る-verbs, う-verbs)</li>
+                            <li>て-form, た-form, ない-form</li>
+                            <li>Adjective types (い・な)</li>
+                        </ul>
+                        <a href="beginner/beginner.html" class="level-btn" style="background:#22c55e;">Start Learning →</a>
+                    </div>
+
+                    <div class="level-card level-n3">
+                        <span class="level-badge" style="background:#3b82f6;">N3–N2</span>
+                        <h3 style="color:#1e40af;">Intermediate</h3>
+                        <p style="color:#1d4ed8;">Complex grammar for natural communication.</p>
+                        <ul style="color:#1e40af;">
+                            <li>〜ても、〜ために、〜ように</li>
+                            <li>Causative & Passive forms</li>
+                            <li>〜らしい、〜そう、〜ようだ</li>
+                            <li>Conditional (〜たら、〜ば、〜なら)</li>
+                        </ul>
+                        <a href="intermediate/intermediate.html" class="level-btn" style="background:#3b82f6;">Start Learning →</a>
+                    </div>
+
+                    <div class="level-card level-n1">
+                        <span class="level-badge" style="background:#a855f7;">N1</span>
+                        <h3 style="color:#6b21a8;">Advanced</h3>
+                        <p style="color:#7e22ce;">Advanced patterns for business and literature.</p>
+                        <ul style="color:#6b21a8;">
+                            <li>〜をもって、〜に際して</li>
+                            <li>Formal written expressions</li>
+                            <li>Literary & classical patterns</li>
+                            <li>Business Japanese nuances</li>
+                        </ul>
+                        <a href="advanced/advanced.html" class="level-btn" style="background:#a855f7;">Start Learning →</a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== FAQ ===== -->
+        <section class="section" style="background:#f9fafb;">
+            <div class="container" style="max-width:800px;">
+                <h2 class="section-title">မကြာခဏ မေးလေ့ရှိသော မေးခွန်းများ (FAQ)</h2>
+
+                <div class="faq-item">
+                    <p class="faq-q">Mock Exam Certificate ရအောင်ဘယ်လိုလုပ်ရလဲ？</p>
+                    <p class="faq-a">Certificate ရဖို့ဆိုရင် Mock Exam ဖြေတယ့် ‌‌‌နေရာမှာ မိမိရဲ့ JLPT Level ကိုအရင်ဆုံးရွေးပေးပါ။ Level ရွေးချယ်ပြီးနောက် Test တစ်ခု ဖြေဆိုပြီး Submit All Answer ကိုနိုပ်လိုက်ရင် သင်ရတယ့် ရမှတ်နဲ့ တကွ Certificate ပေါ်လာပါလိမ့်မယ်။ </p>
+                </div>
+                <div class="faq-item">
+                    <p class="faq-q">📚 ဒီ Website တွင် Grammar ဘယ်နှစ်ချက် လေ့လာနိုင်သနည်း？</p>
+                    <p class="faq-a">N5 မှ N1 အထိ Grammar Point 500+ ကျော်ကို မြန်မာဘာသာ ရှင်းလင်းချက်၊ ဥပမာဝါကျများနှင့်အတူ လေ့လာနိုင်သည်။ ဆက်လက်ထပ်မံဖြည့်စွက်နေပါသည်။</p>
+                </div>
+                <div class="faq-item">
+                    <p class="faq-q">💻 App Download လုပ်ရမည်လား？</p>
+                    <p class="faq-a">မလိုပါ။Google Chrome မှာ JLPT Burmese လို့ရိုက်ရှာပြီး Website ကို တိုက်ရိုက်ဝင်ကြည့်နိုင်ပြီး Mobile Browser တွင်လည်း ကောင်းမွန်စွာ အသုံးပြုနိုင်သည်။ Install App ခလုတ်ကို နှိပ်ပါက PWA အနေဖြင့် Offline အသုံးပြုနိုင်မည်ဖြစ်သည်။</p>
+                </div>
+                <div class="faq-item">
+                    <p class="faq-q">🆓 အကုန်လုံး အခမဲ့လား？</p>
+                    <p class="faq-a">ဟုတ်ပါသည်။ jlptburmese.com ရှိ Mock Exam၊ Grammar၊ Vocabulary၊ Practice Test အားလုံးကို အခမဲ့ အသုံးပြုနိုင်သည်။</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== COMMUNITY ===== -->
+        <section class="section" style="background:linear-gradient(135deg,#fee2e2,#fff7ed);text-align:center;">
+            <div class="container">
+                <h2 style="font-size:1.4rem;font-weight:800;color:#1f2937;margin:0 0 0.75rem;">Community တွင် ပါဝင်ပါ</h2>
+                <p style="color:#6b7280;max-width:480px;margin:0 auto 1.5rem;font-size:0.9rem;line-height:1.7;">
+                    Myanmar ရှိ ဂျပန်ဘာသာ သင်ယူသူများနှင့် အတူ လေ့လာပါ။ မေးခွန်းများမေးရန်၊ Tips မျှဝေရန် Community ထဲသို့ ဝင်ရောက်ပါ။
+                </p>
+                <div class="community-btns">
+                    <a href="https://www.facebook.com/profile.php?id=61579104866547" target="_blank" rel="noopener" style="background:#1877f2;">📘 Facebook Page</a>
+                    <a href="https://t.me/jlptburmeseTelegram" target="_blank" rel="noopener" style="background:#0088cc;">✈️ Telegram Community</a>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p style="font-size:1rem;font-weight:700;color:#f9fafb;">JLPT Burmese</p>
+        <p style="color:#9ca3af;font-size:0.82rem;">ဂျပန်ဘာသာ သင်ယူ‌နေသော မြန်မာနိုင်ငံသားများအတွက် အကောင်းဆုံး Platform တည်ဆောက်နေသည်</p>
+        <div class="footer-links">
+            <a href="about.html">About</a>
+            <a href="privacy.html">Privacy Policy</a>
+            <a href="terms.html">Terms of Use</a>
+            <a href="mailto:jlptburmese@gmail.com">Contact</a>
+        </div>
+        <p style="color:#6b7280;font-size:0.8rem;margin-top:0.5rem;">© 2025 JLPT Burmese · Created by JLPT Burmese Organisation</p>
+    </footer>
+
+    <script>
+        // Mobile hamburger
+        const hamburger = document.getElementById('hamburger');
+        const mobileNav = document.getElementById('mobile-nav');
+        hamburger.addEventListener('click', () => {
+            mobileNav.classList.toggle('open');
+        });
+        // Close nav when a link is tapped
+        mobileNav.querySelectorAll('a').forEach(a => {
+            a.addEventListener('click', () => mobileNav.classList.remove('open'));
+        });
+
+        // PWA Install
+        let deferredPrompt;
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            document.getElementById('install-btn').style.display = 'block';
+        });
+        document.getElementById('install-btn').addEventListener('click', () => {
+            if (deferredPrompt) {
+                deferredPrompt.prompt();
+                deferredPrompt.userChoice.then(() => { deferredPrompt = null; });
+            }
+        });
+    </script>
+</body>
+</html>
