@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>JLPT Practice — MojiGoi + Reading + Listening</title>
+    <script src="score.js"></script>
+    <script src="certificate.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    
+    <style>
+        /* === Sticky Header Configuration === */
+        .sticky-top-bar {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            background: #ffffff;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        .nav-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            height: 65px;
+            background: #ffffff;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: #1e293b;
+            text-decoration: none;
+        }
+        .logo span {
+            color: #2563eb;
+        }
+
+        .desktop-menu {
+            display: flex;
+            gap: 25px;
+        }
+        .nav-link {
+            color: #475569;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+        .nav-link:hover {
+            color: #2563eb;
+        }
+
+        .menu-btn {
+            display: none; /* Hidden on desktop, shown on mobile */
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: #334155;
+            width: 40px;
+            height: 40px;
+        }
+
+        /* Timer position inside the nav */
+        #timerDisplay {
+            margin-left: auto;
+            margin-right: 20px;
+        }
+
+        /* Mobile menu hidden by default */
+        #mobile-menu {
+            display: none;
+            flex-direction: column;
+            background: #f8fafc;
+            padding: 15px 20px;
+            border-top: 1px solid #e2e8f0;
+        }
+        #mobile-menu a {
+            text-decoration: none;
+            color: #334155;
+            padding: 10px 0;
+            font-weight: 600;
+        }
+
+        /* Mobile responsiveness for nav */
+        @media (max-width: 768px) {
+            .desktop-menu {
+                display: none;
+            }
+            .menu-btn {
+                display: block;
+            }
+            #mobile-menu.active {
+                display: flex;
+            }
+            #timerDisplay {
+                margin-right: 15px;
+                font-size: 1rem;
+                padding: 6px 12px;
+            }
+        }
+
+        /* Keep original header content below the sticky nav */
+        .header {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Sticky Wrapper for Nav and Timer -->
+    <div class="sticky-top-bar">
+        <div class="nav-container">
+            <a href="https://www.jlptburmese.com" class="logo">
+                JLPT <span>Burmese</span>
+            </a>
+
+            <nav class="desktop-menu">
+                <a href="../index.html" class="nav-link">Home</a>
+                <a href="../#learnExplore" class="nav-link">Study Tools</a>
+                <a href="../searchgrammar.html" class="nav-link">Grammar Search</a>
+                <a href="../about.html" class="nav-link">Contact</a>
+            </nav>
+
+            <!-- Timer moved here to stick to the top -->
+            <div id="timerDisplay" class="timer-display">⏳ 00:00</div>
+
+            <button id="menu-toggle" class="menu-btn" aria-label="Toggle menu">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" style="width: 28px; height: 28px;">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+            </button>
+        </div>
+
+        <!-- Mobile Menu (Toggled via JS) -->
+        <div id="mobile-menu">
+            <a href="../index.html">Home</a>
+            <a href="../#learnExplore">Study Tools</a>
+            <a href="../searchgrammar.html">Grammar Search</a>
+            <a href="../about.html">Contact</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Original Header (Badges and Title) -->
+        <div class="header">
+            <div class="header-left">
+                <span class="badge">JLPT N2</span>
+                 <i id="LevelConFig" data-user-level="N2"></i>
+                <!-- section navigator (hidden until test selected) -->
+                <div id="sectionNavContainer" class="section-nav hidden">
+                    <button id="mojiTabBtn" class="section-tab active">MojiGoi</button>
+                    <button id="readingTabBtn" class="section-tab">Reading</button>
+                    <button id="listeningTabBtn" class="section-tab">Listening</button>
+                </div>
+            </div>
+
+            <div class="title-wrap">
+                <div id="page-title" class="title">
+                JLPT Mock Exam</div>
+                <div id="page-subtitle" class="date"></div>
+            </div>
+        </div>
+
+        <div id="selection-screen" class="content">
+            <div style="padding:14px; text-align:center; color:#6b7280;">Select a combined Test (MojiGoi + Reading + Listening)</div>
+            <div class="selection-grid" id="card-container">
+                <div class="year-select-card">
+                    <span class="year-label-lg">N2</span>
+                    <button class="month-btn month-july" onclick="loadCombinedTest(1)">Test 1</button>
+                </div>
+                <div class="year-select-card">
+                    <span class="year-label-lg">N2</span>
+                    <button class="month-btn month-dec" onclick="loadCombinedTest(2)">Test 2</button>
+                </div>
+                <div class="year-select-card">
+                    <span class="year-label-lg">N2</span>
+                    <button class="month-btn month-july" onclick="loadCombinedTest(3)">Test 3</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="quiz-screen" class="content hidden">
+            <div class="split-wrapper" style="padding:0 20px;">
+                <!-- MojiGoi pane -->
+                <div id="mojiPane" class="pane" style="display:block;">
+                    <div id="mojiSections"></div>
+                    <div class="controls">
+                        <button id="nextReadingBtn">Next: Reading →</button>
+                    </div>
+                </div>
+
+                <!-- Reading pane -->
+                <div id="readingPane" class="pane" style="display:none;">
+                    <div id="readingSections"></div>
+                    <div class="controls">
+                        <button id="nextListeningBtn">Next: Listening →</button>
+                    </div>
+                </div>
+
+                <!-- Listening pane -->
+                <div id="listeningPane" class="pane listening-pane" style="display:none;">
+                    <div class="listening-audio-panel">
+                        <button class="audio-btn" id="playPauseBtn" type="button">▶</button>
+                        <button class="audio-btn secondary" id="skipBackBtn" type="button">-5</button>
+                        <button class="audio-btn secondary" id="skipFwdBtn" type="button">+5</button>
+                        <div class="audio-time" id="audioTimeDisplay">0:00</div>
+                        <div class="audio-track" id="audioTrack">
+                            <div class="audio-fill" id="audioFill" style="width:0%"></div>
+                        </div>
+                        <div class="audio-duration" id="audioDuration">--:--</div>
+                        <div class="volume-wrap">
+                            <span>🔊</span>
+                            <input type="range" id="volumeSlider" min="0" max="1" step="0.05" value="1">
+                        </div>
+                    </div>
+                    <div class="listening-prog-bar"><div class="listening-prog-fill" id="listeningProgFill" style="width:0%"></div></div>
+                    <div id="listeningSections" class="listening-scroll-container"></div>
+                    <div class="jump-nav" id="listeningJumpNav"></div>
+                    <audio id="mainAudio" crossorigin="anonymous"></audio>
+                </div>
+            </div>
+            
+            <!-- Centralized Action Controls & Score Display Panel -->
+            <div class="controls" style="flex-direction: column; align-items: center; padding: 20px; background: #f9fafb; border-top: 1px solid #e5e7eb; border-bottom: 1px solid #e5e7eb; margin-top: 20px;">
+                <button id="submitAllBtn" class="nav-btn" style="background:#2563eb; color:white; border:none; padding:12px 32px; font-size:16px; font-weight:700; border-radius:8px; box-shadow: 0 4px 6px -1px rgba(37,99,235,0.2);">Submit Answers</button>
+                
+                <div id="globalResult" class="result-card hidden N2-score-card">
+                    <div id="passFailBadge" class="pass-fail-badge">—</div>
+                    <div class="N2-score-row">
+                        <div class="N2-score-block">
+                            <span class="N2-score-label">Vocab / Grammar</span>
+                            <span id="globalMojiScore" class="score">0 / 60</span>
+                            <span id="mojiSectionStatus" class="N2-section-status"></span>
+                        </div>
+                        <div class="N2-score-divider"></div>
+                        <div class="N2-score-block">
+                            <span class="N2-score-label">Reading</span>
+                            <span id="globalReadingScore" class="score">0 / 60</span>
+                            <span id="readingSectionStatus" class="N2-section-status"></span>
+                        </div>
+                        <div class="N2-score-divider"></div>
+                        <div class="N2-score-block">
+                            <span class="N2-score-label">Listening</span>
+                            <span id="globalListeningScore" class="score">0 / 60</span>
+                            <span id="listeningSectionStatus" class="N2-section-status"></span>
+                        </div>
+                        <div class="N2-score-divider"></div>
+                        <div class="N2-score-block">
+                            <span class="N2-score-label">Total</span>
+                            <span id="globalTotalScore" class="score N2-total-score">0 / 180</span>
+                            <span id="globalTotalPct" class="N2-accuracy"></span>
+                        </div>
+                    </div>
+                    <p id="passFailDetail" class="N2-pass-detail"></p>
+                    <button id="viewCertificateBtn" onclick="window.renderCertificate()" class="nav-btn" style="margin-top:10px; background:#2c3e50; color:white; border:none;">View Certificate</button>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Add this small script to make the mobile menu button work -->
+    <script>
+        document.getElementById('menu-toggle').addEventListener('click', () => {
+            document.getElementById('mobile-menu').classList.toggle('active');
+        });
+    </script>
+
+<script src="script.js"></script>
+</body>
+</html>
