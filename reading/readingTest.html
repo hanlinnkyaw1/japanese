@@ -1,9 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="my">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Reading Test</title>
+    
+    <!-- Primary SEO Meta Tags -->
+    <title>JLPT Reading Test (N5-N1) with Burmese Translation & AI Analysis</title>
+    <meta name="title" content="JLPT Reading Test (N5-N1) with Burmese Translation & AI Analysis">
+    <meta name="description" content="Free online JLPT Reading (Dokkai) practice test for Burmese learners. Practice N5, N4, N3, N2, N1 Japanese reading comprehension with Myanmar translations and AI-powered explanations.">
+    <meta name="keywords" content="JLPT Reading Test, JLPT Dokkai, JLPT N5 N4 N3 N2 N1, JLPT Reading Burmese, Japanese Reading Practice Myanmar, JLPT Online Test Myanmar, ဂျပန်စာ, JLPT ဖတ်စာ">
+    <meta name="author" content="JLPT Reading Practice">
+    <link rel="canonical" href="https://yourdomain.com/"> <!-- Replace with your actual URL -->
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yourdomain.com/">
+    <meta property="og:title" content="JLPT Reading Test (N5-N1) with Burmese Translation & AI Analysis">
+    <meta property="og:description" content="Practice Japanese JLPT Reading comprehension (Dokkai) from N5 to N1 levels with Burmese translations and detailed AI feedback.">
+    <meta property="og:image" content="https://yourdomain.com/og-image.jpg"> <!-- Replace with actual social preview image URL -->
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://yourdomain.com/">
+    <meta property="twitter:title" content="JLPT Reading Test (N5-N1) with Burmese Translation & AI Analysis">
+    <meta property="twitter:description" content="Practice Japanese JLPT Reading comprehension (Dokkai) from N5 to N1 levels with Burmese translations and detailed AI feedback.">
+    <meta property="twitter:image" content="https://yourdomain.com/og-image.jpg"> <!-- Replace with actual social preview image URL -->
+
+    <!-- Structured Data (JSON-LD) for Search Engines -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "JLPT Reading Test Myanmar",
+      "url": "https://yourdomain.com/",
+      "description": "Free JLPT Reading (Dokkai) practice platform with Burmese translations and AI analysis for levels N5 through N1.",
+      "inLanguage": ["en", "my"]
+    }
+    </script>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         .fade-in { animation: fadeIn 0.5s ease-in; }
@@ -17,7 +51,7 @@
     <div id="selection-page" class="flex flex-col h-screen p-6 max-w-md mx-auto justify-center gap-3">
         <div class="text-center mb-4">
             <h1 class="text-2xl font-bold text-slate-800">JLPT Reading Test</h1>
-            <p class="text-slate-500">Choose your level to begin</p>
+            <p class="text-slate-500">Choose your level to begin (N5 - N1)</p>
         </div>
 
         <!-- Saved Progress Banner -->
@@ -34,31 +68,31 @@
 
         <button onclick="startTest('N5')" class="flex items-center bg-white border border-slate-200 rounded-2xl p-4 shadow-sm active:scale-95 transition-all">
             <div class="w-12 h-12 rounded-xl bg-emerald-500 flex items-center justify-center text-white font-bold">N5</div>
-            <span class="ml-4 font-bold text-slate-700">Level N5</span>
+            <span class="ml-4 font-bold text-slate-700">Level N5 (Beginner)</span>
             <span id="badge-N5" class="ml-auto hidden text-[10px] font-bold bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full"></span>
         </button>
 
         <button onclick="startTest('N4')" class="flex items-center bg-white border border-slate-200 rounded-2xl p-4 shadow-sm active:scale-95 transition-all">
             <div class="w-12 h-12 rounded-xl bg-sky-500 flex items-center justify-center text-white font-bold">N4</div>
-            <span class="ml-4 font-bold text-slate-700">Level N4</span>
+            <span class="ml-4 font-bold text-slate-700">Level N4 (Elementary)</span>
             <span id="badge-N4" class="ml-auto hidden text-[10px] font-bold bg-sky-100 text-sky-700 px-2 py-0.5 rounded-full"></span>
         </button>
 
         <button onclick="startTest('N3')" class="flex items-center bg-white border border-slate-200 rounded-2xl p-4 shadow-sm active:scale-95 transition-all">
             <div class="w-12 h-12 rounded-xl bg-amber-500 flex items-center justify-center text-white font-bold">N3</div>
-            <span class="ml-4 font-bold text-slate-700">Level N3</span>
+            <span class="ml-4 font-bold text-slate-700">Level N3 (Intermediate)</span>
             <span id="badge-N3" class="ml-auto hidden text-[10px] font-bold bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full"></span>
         </button>
 
         <button onclick="startTest('N2')" class="flex items-center bg-white border border-slate-200 rounded-2xl p-4 shadow-sm active:scale-95 transition-all">
             <div class="w-12 h-12 rounded-xl bg-orange-500 flex items-center justify-center text-white font-bold">N2</div>
-            <span class="ml-4 font-bold text-slate-700">Level N2</span>
+            <span class="ml-4 font-bold text-slate-700">Level N2 (Advanced)</span>
             <span id="badge-N2" class="ml-auto hidden text-[10px] font-bold bg-orange-100 text-orange-700 px-2 py-0.5 rounded-full"></span>
         </button>
 
         <button onclick="startTest('N1')" class="flex items-center bg-white border border-slate-200 rounded-2xl p-4 shadow-sm active:scale-95 transition-all">
             <div class="w-12 h-12 rounded-xl bg-red-600 flex items-center justify-center text-white font-bold">N1</div>
-            <span class="ml-4 font-bold text-slate-700">Level N1</span>
+            <span class="ml-4 font-bold text-slate-700">Level N1 (Expert)</span>
             <span id="badge-N1" class="ml-auto hidden text-[10px] font-bold bg-red-100 text-red-700 px-2 py-0.5 rounded-full"></span>
         </button>
     </div>
@@ -129,7 +163,6 @@
         }
 
         function resumeProgress() {
-            // Find the most recently saved level
             const all = loadAllProgress();
             let latest = null;
             for (const lvl of Object.keys(all)) {
@@ -142,7 +175,6 @@
             const all = loadAllProgress();
             const levels = Object.keys(all);
 
-            // Show per-level badges
             levels.forEach(lvl => {
                 const badge = document.getElementById(`badge-${lvl}`);
                 if (badge) {
@@ -151,7 +183,6 @@
                 }
             });
 
-            // Show resume banner for most recent save
             if (levels.length > 0) {
                 let latest = levels[0];
                 levels.forEach(lvl => { if (all[lvl].savedAt > all[latest].savedAt) latest = lvl; });
@@ -163,12 +194,9 @@
             }
         }
 
-        // ─── ORIGINAL FUNCTIONS (unchanged) ────────────────────────────────────────
-
         async function startTest(level, resumeIndex = 0) {
             currentLevel = level;
 
-            // UI Transition
             document.getElementById('selection-page').classList.add('hidden');
             document.getElementById('test-container').classList.remove('hidden');
             document.getElementById('display-level').innerText = level + " Reading";
@@ -203,13 +231,10 @@
             selectedOptionId = null;
             hasSubmitted = false;
 
-            // Save progress whenever a question is rendered
             saveProgress();
 
             app.innerHTML = `
 <header class="space-y-4 border-b border-slate-200 pb-6 fade-in">
-    
-    <!-- Top Bar -->
     <div class="flex items-center justify-between">
         <h1 class="text-2xl font-bold text-slate-800 tracking-tight">
             読解 <span class="text-indigo-600">Analysis</span>
@@ -220,10 +245,7 @@
         </span>
     </div>
 
-    <!-- Scrollable Pagination -->
-    <div id="pagination-container"
-         class="flex gap-2 overflow-x-auto pb-1">
-
+    <div id="pagination-container" class="flex gap-2 overflow-x-auto pb-1">
         ${quizArray.map((_, index) => `
             <button 
                 onclick="goToQuestion(${index})"
@@ -235,7 +257,6 @@
                 ${index + 1}
             </button>
         `).join('')}
-
     </div>
 </header>
 
@@ -247,7 +268,7 @@
                     
                     <div class="border border-slate-200 rounded-xl overflow-hidden">
                         <button onclick="toggleTranslation()" class="w-full bg-slate-50 hover:bg-slate-100 text-slate-600 font-semibold py-3 px-5 flex justify-between items-center transition-colors">
-                            <span class="text-sm flex items-center gap-2">Show Burmese:  Translation</span>
+                            <span class="text-sm flex items-center gap-2">Show Burmese Translation (မြန်မာဘာသာပြန်)</span>
                             <svg id="trans-icon" class="w-4 h-4 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                         </button>
                         <div id="translation-content" class="hidden border-t border-slate-200 bg-white p-5 text-slate-700 leading-relaxed text-sm">
@@ -343,34 +364,5 @@
                     <h2 class="text-2xl font-bold mb-8 border-b border-slate-800 pb-4 flex items-center gap-3">
                         <span class="text-blue-400">AI</span> Analysis
                     </h2>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
-                            <h3 class="text-blue-400 font-bold mb-3">🔍 ${ai.attention.title}</h3>
-                            <ul class="text-xs text-slate-300 space-y-2 leading-relaxed">${ai.attention.points.map(p => `<li>• ${p}</li>`).join('')}</ul>
-                        </div>
-                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
-                            <h3 class="text-purple-400 font-bold mb-3">🎯 ${ai.intent.title}</h3>
-                            <p class="text-xs text-slate-300 leading-relaxed">${ai.intent.description}</p>
-                        </div>
-                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
-                            <h3 class="text-amber-400 font-bold mb-3">💡 ${ai.concept.title}</h3>
-                            <div class="inline-block px-2 py-0.5 rounded bg-amber-500/10 text-amber-300 text-[10px] font-bold uppercase mb-2">${ai.concept.key_term}</div>
-                            <p class="text-xs text-slate-300 leading-relaxed">${ai.concept.explanation}</p>
-                        </div>
-                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
-                            <h3 class="text-emerald-400 font-bold mb-3">🌉 ${ai.analogy.title}</h3>
-                            <p class="text-xs text-white font-semibold mb-2">${ai.analogy.scenario}</p>
-                            <p class="text-[11px] italic text-slate-400 border-l-2 border-emerald-500/50 pl-3">${ai.analogy.comparison}</p>
-                        </div>
-                    </div>
-                </div>
-            `;
-            feedbackContainer.classList.remove('hidden');
-            setTimeout(() => feedbackContainer.scrollIntoView({ behavior: 'smooth' }), 300);
-        }
-
-        // ─── INIT ───────────────────────────────────────────────────────────────────
-        initSelectionPage();
-    </script>
 </body>
 </html>
