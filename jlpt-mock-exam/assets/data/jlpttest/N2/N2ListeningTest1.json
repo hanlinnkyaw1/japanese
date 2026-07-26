@@ -1,7 +1,7 @@
 {
   "exam": "N2102407",
   "audio_src": "https://archive.org/download/n-2-test-1/N2%20Test%201.mp3",
-  "audio_src_fallback": "https://audio.jlptburmese.com/n2Audio/N2%20Test%201.mp3",
+  "audio_src_fallback": "https://pub-32edeec10b8c47e2a6a1a90bd968dc50.r2.dev/n2Audio/N2%20Test%201.mp3",
   "starting_time": "0",
   "sections": [
     {

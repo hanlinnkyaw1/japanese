@@ -2,7 +2,7 @@
   "exam": "N3",
   "date": "101612",
   "audio_src": "https://archive.org/download/n-3-test-1/N3%20Test%201.mp3",
-    "audio_src_fallback": "https://audio.jlptburmese.com/N3Audio/N3%20Test%201.mp3",
+    "audio_src_fallback": "https://pub-32edeec10b8c47e2a6a1a90bd968dc50.r2.dev/N3Audio/N3%20Test%201.mp3",
   "starting_time": "6",
   "sections": [
     {

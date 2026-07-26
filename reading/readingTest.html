@@ -38,13 +38,13 @@
     }
     </script>
 
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         .fade-in { animation: fadeIn 0.5s ease-in; }
         @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
         .font-jp { font-family: "Noto Sans JP", sans-serif; }
     </style>
     <script src="../header.js"></script>
+    <link rel="stylesheet" href="../output.css">
 </head>
 <body class="bg-slate-50 min-h-screen">
 
@@ -55,7 +55,7 @@
         </div>
 
         <!-- Saved Progress Banner -->
-        <div id="resume-banner" class="hidden bg-indigo-50 border border-indigo-200 rounded-2xl p-4 flex items-center justify-between gap-3">
+        <div id="resume-banner" class="bg-indigo-50 border border-indigo-200 rounded-2xl p-4 flex items-center justify-between gap-3">
             <div>
                 <p class="text-xs font-bold text-indigo-700 uppercase tracking-wide">Saved Progress</p>
                 <p id="resume-info" class="text-sm text-indigo-600 mt-0.5"></p>
@@ -97,7 +97,7 @@
         </button>
     </div>
 
-    <div id="test-container" class="hidden min-h-screen flex flex-col">
+    <div id="test-container" class="min-h-screen flex flex-col">
         <header class="p-4 bg-white border-b sticky top-0 z-20 flex justify-between items-center shadow-sm">
             <span id="display-level" class="font-bold text-indigo-600 text-lg uppercase tracking-tight"></span>
             <button onclick="location.reload()" class="text-xs font-bold bg-slate-100 text-slate-500 px-3 py-1 rounded-full uppercase hover:bg-slate-200">Exit Test</button>
@@ -111,7 +111,7 @@
         </div>
     </div>
 
-    <script>
+<script>
         // GLOBAL STATE
         let quizArray = [];
         let currentIndex = 0;
@@ -364,5 +364,34 @@
                     <h2 class="text-2xl font-bold mb-8 border-b border-slate-800 pb-4 flex items-center gap-3">
                         <span class="text-blue-400">AI</span> Analysis
                     </h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
+                            <h3 class="text-blue-400 font-bold mb-3">🔍 ${ai.attention.title}</h3>
+                            <ul class="text-xs text-slate-300 space-y-2 leading-relaxed">${ai.attention.points.map(p => `<li>• ${p}</li>`).join('')}</ul>
+                        </div>
+                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
+                            <h3 class="text-purple-400 font-bold mb-3">🎯 ${ai.intent.title}</h3>
+                            <p class="text-xs text-slate-300 leading-relaxed">${ai.intent.description}</p>
+                        </div>
+                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
+                            <h3 class="text-amber-400 font-bold mb-3">💡 ${ai.concept.title}</h3>
+                            <div class="inline-block px-2 py-0.5 rounded bg-amber-500/10 text-amber-300 text-[10px] font-bold uppercase mb-2">${ai.concept.key_term}</div>
+                            <p class="text-xs text-slate-300 leading-relaxed">${ai.concept.explanation}</p>
+                        </div>
+                        <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700">
+                            <h3 class="text-emerald-400 font-bold mb-3">🌉 ${ai.analogy.title}</h3>
+                            <p class="text-xs text-white font-semibold mb-2">${ai.analogy.scenario}</p>
+                            <p class="text-[11px] italic text-slate-400 border-l-2 border-emerald-500/50 pl-3">${ai.analogy.comparison}</p>
+                        </div>
+                    </div>
+                </div>`
+            ;
+            feedbackContainer.classList.remove('hidden');
+            setTimeout(() => feedbackContainer.scrollIntoView({ behavior: 'smooth' }), 300);
+        }
+
+        // Initialize progress banner on page load
+        window.addEventListener('DOMContentLoaded', initSelectionPage);
+    </script>
 </body>
 </html>

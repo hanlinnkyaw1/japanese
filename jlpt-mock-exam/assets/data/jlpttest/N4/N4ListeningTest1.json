@@ -1,7 +1,7 @@
 {
   "exam": "N4101707",
   "audio_src": "https://archive.org/download/n-4-test-1_202607/N4-Test-1.mp3",
-  "audio_src_fallback": "https://audio.jlptburmese.com/N4Audio/N4-Test-1.mp3",
+  "audio_src_fallback": "https://pub-32edeec10b8c47e2a6a1a90bd968dc50.r2.dev/N4Audio/N4-Test-1.mp3",
   "starting_time": "0",
   "sections": [
     {
