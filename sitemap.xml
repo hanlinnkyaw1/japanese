@@ -1,68 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
-                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://www.jlptburmese.com/</loc>
+    <loc>https://jlptburmese.com/</loc>
     <lastmod>2025-07-19</lastmod>
     <priority>1.00</priority>
   </url>
-
-   <url>
-    <loc>https://www.jlptburmese.com/jlpt-mock-exam/jlptmocktest.html</loc>
+  <url>
+    <loc>https://jlptburmese.com/jlpt-mock-exam/jlptmocktest.html</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>1.00</priority>
   </url>
-
   <url>
-    <loc>https://www.jlptburmese.com/reading/readingTest.html</loc>
-    <lastmod>2026-05-1</lastmod>
+    <loc>https://jlptburmese.com/reading/readingTest.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <priority>1.00</priority>
   </url>
-
   <url>
-    <loc>https://www.jlptburmese.com/searchgrammar.html</loc>
-    <lastmod>2025-07-19</lastmod>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://www.jlptburmese.com/oldQVoca/index.html</loc>
+    <loc>https://jlptburmese.com/searchgrammar.html</loc>
     <lastmod>2025-07-19T13:37:22+00:00</lastmod>
     <priority>1.00</priority>
   </url>
-
   <url>
-    <loc>https://www.jlptburmese.com/kanjiFlashCard/kanjiFlashcards.html</loc>
+    <loc>https://jlptburmese.com/oldQVoca/index.html</loc>
     <lastmod>2025-07-19T13:37:22+00:00</lastmod>
     <priority>1.00</priority>
   </url>
-
   <url>
-    <loc>https://www.jlptburmese.com/bookStorage/bookstorage.html</loc>
-    <lastmod>2025-07-19T13:37:22+00:00</lastmod>
-    <priority>1.00</priority>
-  </url> 
-
-   <url>
-    <loc>https://www.jlptburmese.com/searchgrammar.html</loc>
+    <loc>https://jlptburmese.com/kanjiFlashCard/kanjiFlashcards.html</loc>
     <lastmod>2025-07-19T13:37:22+00:00</lastmod>
     <priority>1.00</priority>
   </url>
-
   <url>
-    <loc>https://www.jlptburmese.com/JLPTtest/test.html</loc>
+    <loc>https://jlptburmese.com/bookStorage/bookstorage.html</loc>
+    <lastmod>2025-07-19T13:37:22+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://jlptburmese.com/JLPTtest/test.html</loc>
     <lastmod>2025-07-19T13:37:23+00:00</lastmod>
     <priority>0.65</priority>
   </url>
-
   <url>
-    <loc>https://www.jlptburmese.com/kanjiFlashCard/n1kanjiMaster.html</loc>
+    <loc>https://jlptburmese.com/kanjiFlashCard/n1kanjiMaster.html</loc>
     <lastmod>2025-07-19T13:37:23+00:00</lastmod>
     <priority>0.80</priority>
   </url>
-
 </urlset>
