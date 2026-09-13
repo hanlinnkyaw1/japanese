@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/ads.txt",
-      "destination": "https://adstxt.journeymv.com/sites/b7cc17af-4749-4df4-b3ab-a5a91b430855/ads.txt",
-      "permanent": true
-    }
-  ]
-}
