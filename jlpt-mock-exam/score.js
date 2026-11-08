@@ -185,7 +185,16 @@ function getPointsPerQuestion(scoreMeta) {
   const { kind, mondai } = scoreMeta;
   const table = points[kind];
   if (!table || mondai == null) return 0;
-  return table[mondai] ?? 0;
+  if (table[mondai] !== undefined) return table[mondai];
+
+  // Some JSON files have section titles without a 問題N number, so the page
+  // numbers their grammar sections 1, 2, ... in order. N1/N2 grammar tables
+  // start at 5 / 7, so map the Nth grammar section onto the Nth table key.
+  if (kind === 'grammar') {
+    const keys = Object.keys(table).map(Number).sort((a, b) => a - b);
+    if (mondai >= 1 && mondai <= keys.length) return table[keys[mondai - 1]] ?? 0;
+  }
+  return 0;
 }
 
 /**
@@ -200,7 +209,7 @@ function buildMojiScoreMeta(sectionType, title) {
   if (type === 'clozetest' && !mondai) {
     const { points } = getActiveConfig(); // Read live config
     const grammarKeys = Object.keys(points.grammar || {}).map(Number);
-    mondai = grammarKeys.length ? Math.min(...grammarKeys) : null;
+    mondai = grammarKeys.length ? Math.max(...grammarKeys) : null;
   }
 
   return { kind, mondai, bucket: 'vocabGrammar' };
@@ -338,3 +347,18 @@ window.buildReadingScoreMeta = buildReadingScoreMeta;
 window.buildListeningScoreMeta = buildListeningScoreMeta;
 window.getPointsPerQuestion = getPointsPerQuestion;
 window.calculateScores = calculateScores;
+
+// Live getter: script.js reads this after the page DOM exists, so the active
+// level (N1-N5) is detected correctly and the pass/fail text uses its rules.
+Object.defineProperty(window, 'PASS_RULES', {
+  configurable: true,
+  get() {
+    const { passRules, sectionGroups } = getActiveConfig();
+    return {
+      totalMin: passRules.totalMin,
+      totalMax: passRules.totalMax,
+      sectionMin: Math.min(...sectionGroups.map(g => g.min)),
+      sectionMax: 60
+    };
+  }
+});
